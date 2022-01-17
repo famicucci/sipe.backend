@@ -2,6 +2,10 @@
 	"name": "servidor",
 	"version": "1.0.0",
 	"description": "",
+	"engines": {
+		"node": "15.11.0",
+		"npm": "7.6.3"
+	},
 	"main": "index.js",
 	"scripts": {
 		"start": "node app/server.js",
