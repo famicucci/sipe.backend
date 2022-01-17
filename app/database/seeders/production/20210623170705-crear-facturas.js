@@ -20,6 +20,8 @@ module.exports = {
 				Importe_Final: '8132.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '37',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '635',
@@ -34,6 +36,8 @@ module.exports = {
 				Importe_Final: '4990.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '38',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '636',
@@ -48,6 +52,8 @@ module.exports = {
 				Importe_Final: '12555.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '34',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '637',
@@ -62,6 +68,8 @@ module.exports = {
 				Importe_Final: '22815.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '39',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '638',
@@ -76,6 +84,8 @@ module.exports = {
 				Importe_Final: '4990.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '36',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '640',
@@ -90,6 +100,8 @@ module.exports = {
 				Importe_Final: '6886.78',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '41',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '641',
@@ -104,6 +116,8 @@ module.exports = {
 				Importe_Final: '5158.49',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '42',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '642',
@@ -118,6 +132,8 @@ module.exports = {
 				Importe_Final: '2943.50',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '40',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '643',
@@ -132,6 +148,8 @@ module.exports = {
 				Importe_Final: '1920.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '43',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '644',
@@ -146,6 +164,8 @@ module.exports = {
 				Importe_Final: '4372.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '44',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '646',
@@ -160,6 +180,8 @@ module.exports = {
 				Importe_Final: '5120.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '46',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '647',
@@ -174,6 +196,8 @@ module.exports = {
 				Importe_Final: '10473.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '45',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '649',
@@ -188,6 +212,8 @@ module.exports = {
 				Importe_Final: '11380.50',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '47',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '650',
@@ -202,6 +228,8 @@ module.exports = {
 				Importe_Final: '6344.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '50',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '652',
@@ -216,6 +244,8 @@ module.exports = {
 				Importe_Final: '3750.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '48',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '653',
@@ -230,6 +260,8 @@ module.exports = {
 				Importe_Final: '4060.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '51',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '654',
@@ -244,6 +276,8 @@ module.exports = {
 				Importe_Final: '3080.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '52',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '655',
@@ -258,6 +292,8 @@ module.exports = {
 				Importe_Final: '2895.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '53',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '657',
@@ -272,6 +308,8 @@ module.exports = {
 				Importe_Final: '5900.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '55',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '659',
@@ -286,6 +324,8 @@ module.exports = {
 				Importe_Final: '3466.80',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '56',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '660',
@@ -300,6 +340,8 @@ module.exports = {
 				Importe_Final: '5436.49',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '57',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '661',
@@ -314,6 +356,8 @@ module.exports = {
 				Importe_Final: '1920.97',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '58',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '662',
@@ -328,6 +372,8 @@ module.exports = {
 				Importe_Final: '5478.84',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '59',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '663',
@@ -342,6 +388,8 @@ module.exports = {
 				Importe_Final: '4990.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '62',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '665',
@@ -356,6 +404,8 @@ module.exports = {
 				Importe_Final: '4215.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '69',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '666',
@@ -370,6 +420,8 @@ module.exports = {
 				Importe_Final: '0.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '70',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '667',
@@ -384,6 +436,8 @@ module.exports = {
 				Importe_Final: '3466.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '35',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '668',
@@ -398,6 +452,8 @@ module.exports = {
 				Importe_Final: '20250.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '39',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '670',
@@ -412,6 +468,8 @@ module.exports = {
 				Importe_Final: '590.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '60',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '671',
@@ -426,6 +484,8 @@ module.exports = {
 				Importe_Final: '4758.49',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '68',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '672',
@@ -440,6 +500,8 @@ module.exports = {
 				Importe_Final: '3500.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '54',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '673',
@@ -454,6 +516,8 @@ module.exports = {
 				Importe_Final: '4990.00',
 				Tipo: '',
 				Estado: 'v',
+				ID_Cliente: '72',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '674',
@@ -468,6 +532,8 @@ module.exports = {
 				Importe_Final: '4491.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '75',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '675',
@@ -482,6 +548,8 @@ module.exports = {
 				Importe_Final: '6532.14',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '74',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '676',
@@ -496,6 +564,8 @@ module.exports = {
 				Importe_Final: '7564.14',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '76',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '677',
@@ -510,6 +580,8 @@ module.exports = {
 				Importe_Final: '5229.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '77',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '678',
@@ -524,6 +596,8 @@ module.exports = {
 				Importe_Final: '3852.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '79',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '679',
@@ -538,6 +612,8 @@ module.exports = {
 				Importe_Final: '656.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '81',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '680',
@@ -552,6 +628,8 @@ module.exports = {
 				Importe_Final: '18585.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '39',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '681',
@@ -566,6 +644,8 @@ module.exports = {
 				Importe_Final: '2438.71',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '84',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '682',
@@ -580,6 +660,8 @@ module.exports = {
 				Importe_Final: '4491.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '80',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '683',
@@ -594,6 +676,8 @@ module.exports = {
 				Importe_Final: '1260.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '89',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '684',
@@ -608,6 +692,8 @@ module.exports = {
 				Importe_Final: '2842.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '91',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '685',
@@ -622,6 +708,8 @@ module.exports = {
 				Importe_Final: '4980.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '86',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '686',
@@ -636,6 +724,8 @@ module.exports = {
 				Importe_Final: '2376.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '92',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '687',
@@ -650,6 +740,8 @@ module.exports = {
 				Importe_Final: '7198.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '93',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '688',
@@ -664,6 +756,8 @@ module.exports = {
 				Importe_Final: '5140.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '94',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '689',
@@ -678,6 +772,8 @@ module.exports = {
 				Importe_Final: '4427.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '95',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '690',
@@ -692,6 +788,8 @@ module.exports = {
 				Importe_Final: '2483.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '96',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '691',
@@ -706,6 +804,8 @@ module.exports = {
 				Importe_Final: '1260.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '90',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '692',
@@ -720,6 +820,8 @@ module.exports = {
 				Importe_Final: '860.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '87',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '693',
@@ -734,6 +836,8 @@ module.exports = {
 				Importe_Final: '2842.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '97',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '694',
@@ -748,6 +852,8 @@ module.exports = {
 				Importe_Final: '4990.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '98',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '695',
@@ -762,6 +868,8 @@ module.exports = {
 				Importe_Final: '1890.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '85',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '696',
@@ -776,6 +884,8 @@ module.exports = {
 				Importe_Final: '3500.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '101',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '697',
@@ -790,6 +900,8 @@ module.exports = {
 				Importe_Final: '2340.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '39',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '698',
@@ -804,6 +916,8 @@ module.exports = {
 				Importe_Final: '1500.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '102',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '699',
@@ -818,6 +932,8 @@ module.exports = {
 				Importe_Final: '130310.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '71',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '700',
@@ -832,6 +948,8 @@ module.exports = {
 				Importe_Final: '750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '90',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '701',
@@ -846,6 +964,8 @@ module.exports = {
 				Importe_Final: '4990.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '93',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '702',
@@ -860,6 +980,8 @@ module.exports = {
 				Importe_Final: '6773.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '103',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '703',
@@ -874,20 +996,8 @@ module.exports = {
 				Importe_Final: '4491.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '704',
-				ID_Pedido: null,
-				Fecha: '2021-03-10 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Error al cargar producto',
-				Estado_Pago: 'Pago',
-				Importe: '4990.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '4990.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '93',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '705',
@@ -902,6 +1012,8 @@ module.exports = {
 				Importe_Final: '8541.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '104',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '706',
@@ -916,6 +1028,8 @@ module.exports = {
 				Importe_Final: '4491.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '100',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '707',
@@ -930,6 +1044,8 @@ module.exports = {
 				Importe_Final: '19660.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '105',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '708',
@@ -944,6 +1060,8 @@ module.exports = {
 				Importe_Final: '4990.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '107',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '709',
@@ -958,6 +1076,8 @@ module.exports = {
 				Importe_Final: '4650.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '108',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '710',
@@ -972,6 +1092,8 @@ module.exports = {
 				Importe_Final: '5140.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '109',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '711',
@@ -986,6 +1108,8 @@ module.exports = {
 				Importe_Final: '2164.46',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '110',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '712',
@@ -1000,6 +1124,8 @@ module.exports = {
 				Importe_Final: '4280.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '113',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '713',
@@ -1014,6 +1140,8 @@ module.exports = {
 				Importe_Final: '860.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '120',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '714',
@@ -1028,6 +1156,8 @@ module.exports = {
 				Importe_Final: '3630.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '99',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '715',
@@ -1042,6 +1172,8 @@ module.exports = {
 				Importe_Final: '1654.46',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '121',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '716',
@@ -1056,6 +1188,8 @@ module.exports = {
 				Importe_Final: '7080.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '111',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '717',
@@ -1070,6 +1204,8 @@ module.exports = {
 				Importe_Final: '5353.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '124',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '718',
@@ -1084,6 +1220,8 @@ module.exports = {
 				Importe_Final: '4500.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '127',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '719',
@@ -1098,6 +1236,8 @@ module.exports = {
 				Importe_Final: '8310.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '128',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '720',
@@ -1112,6 +1252,8 @@ module.exports = {
 				Importe_Final: '2079.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '129',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '721',
@@ -1126,6 +1268,8 @@ module.exports = {
 				Importe_Final: '6705.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '130',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '722',
@@ -1140,6 +1284,8 @@ module.exports = {
 				Importe_Final: '2520.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '130',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '723',
@@ -1154,6 +1300,8 @@ module.exports = {
 				Importe_Final: '6630.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '131',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '724',
@@ -1168,6 +1316,8 @@ module.exports = {
 				Importe_Final: '4620.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '135',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '725',
@@ -1182,6 +1332,8 @@ module.exports = {
 				Importe_Final: '3568.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '137',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '726',
@@ -1196,6 +1348,8 @@ module.exports = {
 				Importe_Final: '5629.34',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '138',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '727',
@@ -1210,6 +1364,8 @@ module.exports = {
 				Importe_Final: '4990.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '139',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '728',
@@ -1224,6 +1380,8 @@ module.exports = {
 				Importe_Final: '4491.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '123',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '729',
@@ -1238,6 +1396,8 @@ module.exports = {
 				Importe_Final: '4620.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '136',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '730',
@@ -1252,6 +1412,8 @@ module.exports = {
 				Importe_Final: '2079.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '134',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '731',
@@ -1266,6 +1428,8 @@ module.exports = {
 				Importe_Final: '1410.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '140',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '732',
@@ -1280,6 +1444,8 @@ module.exports = {
 				Importe_Final: '11994.04',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '141',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '733',
@@ -1294,6 +1460,8 @@ module.exports = {
 				Importe_Final: '5718.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '142',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '734',
@@ -1308,6 +1476,8 @@ module.exports = {
 				Importe_Final: '1180.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '143',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '735',
@@ -1322,6 +1492,8 @@ module.exports = {
 				Importe_Final: '882.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '146',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '736',
@@ -1336,6 +1508,8 @@ module.exports = {
 				Importe_Final: '3668.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '148',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '737',
@@ -1351,6 +1525,8 @@ module.exports = {
 				Importe_Final: '7390.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '126',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '738',
@@ -1365,6 +1541,8 @@ module.exports = {
 				Importe_Final: '675.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '47',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '739',
@@ -1379,6 +1557,8 @@ module.exports = {
 				Importe_Final: '3852.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '150',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '740',
@@ -1393,6 +1573,8 @@ module.exports = {
 				Importe_Final: '8057.21',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '151',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '741',
@@ -1407,6 +1589,8 @@ module.exports = {
 				Importe_Final: '6158.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '152',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '742',
@@ -1421,6 +1605,8 @@ module.exports = {
 				Importe_Final: '3507.10',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '149',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '743',
@@ -1435,6 +1621,8 @@ module.exports = {
 				Importe_Final: '2079.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '153',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '744',
@@ -1449,6 +1637,8 @@ module.exports = {
 				Importe_Final: '4990.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '120',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '745',
@@ -1463,6 +1653,8 @@ module.exports = {
 				Importe_Final: '5225.99',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '133',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '746',
@@ -1477,6 +1669,8 @@ module.exports = {
 				Importe_Final: '3654.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '125',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '747',
@@ -1491,6 +1685,8 @@ module.exports = {
 				Importe_Final: '6995.75',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '154',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '748',
@@ -1505,6 +1701,8 @@ module.exports = {
 				Importe_Final: '3500.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '43',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '749',
@@ -1519,20 +1717,8 @@ module.exports = {
 				Importe_Final: '5280.00',
 				Tipo: 'fac',
 				Estado: 'c',
-			},
-			{
-				ID: '750',
-				ID_Pedido: null,
-				Fecha: '2021-03-24 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'por error en la anotación de la venta. falto el regalo',
-				Estado_Pago: 'Pago',
-				Importe: '5280.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '5280.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '157',
+				ID_Usuario: '107',
 			},
 			{
 				ID: '751',
@@ -1547,6 +1733,8 @@ module.exports = {
 				Importe_Final: '5280.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '157',
+				ID_Usuario: '107',
 			},
 			{
 				ID: '752',
@@ -1561,6 +1749,8 @@ module.exports = {
 				Importe_Final: '4990.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '159',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '753',
@@ -1575,6 +1765,8 @@ module.exports = {
 				Importe_Final: '3866.49',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '155',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '754',
@@ -1589,6 +1781,8 @@ module.exports = {
 				Importe_Final: '5478.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '160',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '755',
@@ -1603,6 +1797,8 @@ module.exports = {
 				Importe_Final: '1260.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '122',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '756',
@@ -1617,6 +1813,8 @@ module.exports = {
 				Importe_Final: '2079.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '127',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '757',
@@ -1631,6 +1829,8 @@ module.exports = {
 				Importe_Final: '4194.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2242',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '758',
@@ -1645,6 +1845,8 @@ module.exports = {
 				Importe_Final: '3402.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2243',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '759',
@@ -1659,6 +1861,8 @@ module.exports = {
 				Importe_Final: '1886.81',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2244',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '760',
@@ -1673,6 +1877,8 @@ module.exports = {
 				Importe_Final: '860.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2245',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '761',
@@ -1687,6 +1893,8 @@ module.exports = {
 				Importe_Final: '1840.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2246',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '762',
@@ -1701,6 +1909,8 @@ module.exports = {
 				Importe_Final: '1500.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2247',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '763',
@@ -1715,6 +1925,8 @@ module.exports = {
 				Importe_Final: '4491.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '158',
+				ID_Usuario: '107',
 			},
 			{
 				ID: '764',
@@ -1729,6 +1941,8 @@ module.exports = {
 				Importe_Final: '5190.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '161',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '765',
@@ -1743,6 +1957,8 @@ module.exports = {
 				Importe_Final: '8560.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2248',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '766',
@@ -1757,6 +1973,8 @@ module.exports = {
 				Importe_Final: '2079.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2256',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '767',
@@ -1771,6 +1989,8 @@ module.exports = {
 				Importe_Final: '1816.81',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2258',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '768',
@@ -1785,6 +2005,8 @@ module.exports = {
 				Importe_Final: '3023.56',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2259',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '769',
@@ -1799,6 +2021,8 @@ module.exports = {
 				Importe_Final: '1570.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2262',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '770',
@@ -1813,6 +2037,8 @@ module.exports = {
 				Importe_Final: '750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2263',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '771',
@@ -1827,6 +2053,8 @@ module.exports = {
 				Importe_Final: '2624.36',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2264',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '772',
@@ -1841,6 +2069,8 @@ module.exports = {
 				Importe_Final: '3788.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2265',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '773',
@@ -1855,6 +2085,8 @@ module.exports = {
 				Importe_Final: '5728.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '156',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '774',
@@ -1869,6 +2101,8 @@ module.exports = {
 				Importe_Final: '6260.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2266',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '775',
@@ -1883,6 +2117,8 @@ module.exports = {
 				Importe_Final: '101764.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1252',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '776',
@@ -1897,6 +2133,8 @@ module.exports = {
 				Importe_Final: '4650.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2269',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '777',
@@ -1911,6 +2149,8 @@ module.exports = {
 				Importe_Final: '4660.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2270',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '778',
@@ -1925,6 +2165,8 @@ module.exports = {
 				Importe_Final: '828.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2257',
+				ID_Usuario: '109',
 			},
 			{
 				ID: '779',
@@ -1939,6 +2181,8 @@ module.exports = {
 				Importe_Final: '414.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2283',
+				ID_Usuario: '107',
 			},
 			{
 				ID: '780',
@@ -1953,6 +2197,8 @@ module.exports = {
 				Importe_Final: '4280.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2284',
+				ID_Usuario: '107',
 			},
 			{
 				ID: '781',
@@ -1967,20 +2213,8 @@ module.exports = {
 				Importe_Final: '4990.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '782',
-				ID_Pedido: null,
-				Fecha: '2021-03-31 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Cambio de Producto',
-				Estado_Pago: 'Pago',
-				Importe: '4660.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '4660.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2286',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '783',
@@ -1995,6 +2229,8 @@ module.exports = {
 				Importe_Final: '6190.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2270',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '784',
@@ -2009,6 +2245,8 @@ module.exports = {
 				Importe_Final: '3330.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2297',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '785',
@@ -2023,6 +2261,8 @@ module.exports = {
 				Importe_Final: '3330.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '122',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '786',
@@ -2037,6 +2277,8 @@ module.exports = {
 				Importe_Final: '3380.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2299',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '787',
@@ -2051,6 +2293,8 @@ module.exports = {
 				Importe_Final: '2400.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2298',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '788',
@@ -2065,6 +2309,8 @@ module.exports = {
 				Importe_Final: '5350.87',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2221',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '789',
@@ -2079,6 +2325,8 @@ module.exports = {
 				Importe_Final: '5478.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2301',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '790',
@@ -2093,6 +2341,8 @@ module.exports = {
 				Importe_Final: '3767.31',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2302',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '791',
@@ -2107,6 +2357,8 @@ module.exports = {
 				Importe_Final: '1680.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2300',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '792',
@@ -2121,6 +2373,8 @@ module.exports = {
 				Importe_Final: '1242.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2268',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '793',
@@ -2135,20 +2389,8 @@ module.exports = {
 				Importe_Final: '2907.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '794',
-				ID_Pedido: null,
-				Fecha: '2021-04-01 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Error en la carga de un producto',
-				Estado_Pago: 'Pago',
-				Importe: '2400.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '2400.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2260',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '795',
@@ -2163,6 +2405,8 @@ module.exports = {
 				Importe_Final: '16038.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '39',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '796',
@@ -2177,6 +2421,8 @@ module.exports = {
 				Importe_Final: '8778.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2255',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '797',
@@ -2191,6 +2437,8 @@ module.exports = {
 				Importe_Final: '3330.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2303',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '798',
@@ -2205,6 +2453,8 @@ module.exports = {
 				Importe_Final: '1596.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2255',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '799',
@@ -2219,6 +2469,8 @@ module.exports = {
 				Importe_Final: '5640.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2304',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '800',
@@ -2233,6 +2485,8 @@ module.exports = {
 				Importe_Final: '3330.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1383',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '801',
@@ -2247,6 +2501,8 @@ module.exports = {
 				Importe_Final: '5540.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1564',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '802',
@@ -2261,6 +2517,8 @@ module.exports = {
 				Importe_Final: '2310.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2306',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '803',
@@ -2275,6 +2533,8 @@ module.exports = {
 				Importe_Final: '6330.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2305',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '804',
@@ -2289,6 +2549,8 @@ module.exports = {
 				Importe_Final: '2800.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2307',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '805',
@@ -2303,6 +2565,8 @@ module.exports = {
 				Importe_Final: '226.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2255',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '806',
@@ -2317,6 +2581,8 @@ module.exports = {
 				Importe_Final: '3610.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2309',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '807',
@@ -2331,6 +2597,8 @@ module.exports = {
 				Importe_Final: '6190.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2310',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '808',
@@ -2345,6 +2613,8 @@ module.exports = {
 				Importe_Final: '1908.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2308',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '809',
@@ -2359,6 +2629,8 @@ module.exports = {
 				Importe_Final: '2750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2311',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '810',
@@ -2373,6 +2645,8 @@ module.exports = {
 				Importe_Final: '2310.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2315',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '811',
@@ -2387,6 +2661,8 @@ module.exports = {
 				Importe_Final: '4990.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2317',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '812',
@@ -2401,6 +2677,8 @@ module.exports = {
 				Importe_Final: '4190.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '64',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '813',
@@ -2415,6 +2693,8 @@ module.exports = {
 				Importe_Final: '3330.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2303',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '814',
@@ -2429,6 +2709,8 @@ module.exports = {
 				Importe_Final: '6500.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2319',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '815',
@@ -2443,6 +2725,8 @@ module.exports = {
 				Importe_Final: '9700.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '37',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '816',
@@ -2457,6 +2741,8 @@ module.exports = {
 				Importe_Final: '2180.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2321',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '817',
@@ -2471,6 +2757,8 @@ module.exports = {
 				Importe_Final: '4280.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2323',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '818',
@@ -2485,6 +2773,8 @@ module.exports = {
 				Importe_Final: '1560.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2324',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '819',
@@ -2499,6 +2789,8 @@ module.exports = {
 				Importe_Final: '4060.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2328',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '820',
@@ -2513,6 +2805,8 @@ module.exports = {
 				Importe_Final: '5280.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2329',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '821',
@@ -2527,6 +2821,8 @@ module.exports = {
 				Importe_Final: '5660.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2320',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '822',
@@ -2541,6 +2837,8 @@ module.exports = {
 				Importe_Final: '4280.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2325',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '823',
@@ -2555,6 +2853,8 @@ module.exports = {
 				Importe_Final: '3500.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2327',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '824',
@@ -2569,6 +2869,8 @@ module.exports = {
 				Importe_Final: '3030.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '951',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '825',
@@ -2583,6 +2885,8 @@ module.exports = {
 				Importe_Final: '4280.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2326',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '826',
@@ -2597,6 +2901,8 @@ module.exports = {
 				Importe_Final: '920.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1974',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '827',
@@ -2611,6 +2917,8 @@ module.exports = {
 				Importe_Final: '3163.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2330',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '828',
@@ -2625,6 +2933,8 @@ module.exports = {
 				Importe_Final: '3330.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1958',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '829',
@@ -2639,6 +2949,8 @@ module.exports = {
 				Importe_Final: '3852.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2123',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '830',
@@ -2653,6 +2965,8 @@ module.exports = {
 				Importe_Final: '1120.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1774',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '831',
@@ -2667,6 +2981,8 @@ module.exports = {
 				Importe_Final: '790.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '702',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '832',
@@ -2681,6 +2997,8 @@ module.exports = {
 				Importe_Final: '4990.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2331',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '833',
@@ -2695,6 +3013,8 @@ module.exports = {
 				Importe_Final: '4280.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2235',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '834',
@@ -2709,6 +3029,8 @@ module.exports = {
 				Importe_Final: '1560.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2332',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '835',
@@ -2723,6 +3045,8 @@ module.exports = {
 				Importe_Final: '1134.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2333',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '836',
@@ -2737,6 +3061,8 @@ module.exports = {
 				Importe_Final: '2400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2298',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '837',
@@ -2751,6 +3077,8 @@ module.exports = {
 				Importe_Final: '4890.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '955',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '838',
@@ -2765,6 +3093,8 @@ module.exports = {
 				Importe_Final: '980.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2335',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '839',
@@ -2779,6 +3109,8 @@ module.exports = {
 				Importe_Final: '2943.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2336',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '840',
@@ -2793,6 +3125,8 @@ module.exports = {
 				Importe_Final: '3493.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2337',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '841',
@@ -2807,6 +3141,8 @@ module.exports = {
 				Importe_Final: '4590.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2334',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '842',
@@ -2821,6 +3157,8 @@ module.exports = {
 				Importe_Final: '3234.79',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '138',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '843',
@@ -2835,6 +3173,8 @@ module.exports = {
 				Importe_Final: '6637.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2255',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '844',
@@ -2849,6 +3189,8 @@ module.exports = {
 				Importe_Final: '1110.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2351',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '845',
@@ -2863,6 +3205,8 @@ module.exports = {
 				Importe_Final: '828.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1608',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '846',
@@ -2877,6 +3221,8 @@ module.exports = {
 				Importe_Final: '4909.34',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2364',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '847',
@@ -2891,6 +3237,8 @@ module.exports = {
 				Importe_Final: '21609.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2261',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '848',
@@ -2905,6 +3253,8 @@ module.exports = {
 				Importe_Final: '8892.34',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2049',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '849',
@@ -2919,6 +3269,8 @@ module.exports = {
 				Importe_Final: '3192.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '81',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '850',
@@ -2933,6 +3285,8 @@ module.exports = {
 				Importe_Final: '3090.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2366',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '851',
@@ -2947,6 +3301,8 @@ module.exports = {
 				Importe_Final: '6570.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2106',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '852',
@@ -2961,6 +3317,8 @@ module.exports = {
 				Importe_Final: '2997.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2242',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '853',
@@ -2975,6 +3333,8 @@ module.exports = {
 				Importe_Final: '5571.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1656',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '854',
@@ -2989,20 +3349,8 @@ module.exports = {
 				Importe_Final: '1640.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '855',
-				ID_Pedido: null,
-				Fecha: '2021-04-10 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Se modifico la venta',
-				Estado_Pago: 'Pago',
-				Importe: '6330.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '6330.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2368',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '856',
@@ -3017,6 +3365,8 @@ module.exports = {
 				Importe_Final: '12783.15',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2305',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '857',
@@ -3031,6 +3381,8 @@ module.exports = {
 				Importe_Final: '19294.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '144',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '858',
@@ -3045,6 +3397,8 @@ module.exports = {
 				Importe_Final: '2800.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1499',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '859',
@@ -3059,6 +3413,8 @@ module.exports = {
 				Importe_Final: '5353.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2371',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '860',
@@ -3073,6 +3429,8 @@ module.exports = {
 				Importe_Final: '4620.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2369',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '861',
@@ -3087,6 +3445,8 @@ module.exports = {
 				Importe_Final: '3654.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2365',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '862',
@@ -3101,6 +3461,8 @@ module.exports = {
 				Importe_Final: '3080.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2374',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '863',
@@ -3115,20 +3477,8 @@ module.exports = {
 				Importe_Final: '6147.00',
 				Tipo: 'fac',
 				Estado: 'c',
-			},
-			{
-				ID: '864',
-				ID_Pedido: null,
-				Fecha: '2021-04-13 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'No esta el costo de envio',
-				Estado_Pago: 'Pago',
-				Importe: '6147.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '6147.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2370',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '865',
@@ -3143,6 +3493,8 @@ module.exports = {
 				Importe_Final: '6977.06',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2370',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '866',
@@ -3157,6 +3509,8 @@ module.exports = {
 				Importe_Final: '3487.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2375',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '867',
@@ -3171,6 +3525,8 @@ module.exports = {
 				Importe_Final: '3654.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2376',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '868',
@@ -3185,6 +3541,8 @@ module.exports = {
 				Importe_Final: '4325.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2377',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '869',
@@ -3199,6 +3557,8 @@ module.exports = {
 				Importe_Final: '4059.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2378',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '870',
@@ -3213,6 +3573,8 @@ module.exports = {
 				Importe_Final: '3316.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '130',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '871',
@@ -3227,6 +3589,8 @@ module.exports = {
 				Importe_Final: '5549.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2367',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '872',
@@ -3241,6 +3605,8 @@ module.exports = {
 				Importe_Final: '6479.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2379',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '873',
@@ -3255,6 +3621,8 @@ module.exports = {
 				Importe_Final: '3487.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2380',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '874',
@@ -3269,6 +3637,8 @@ module.exports = {
 				Importe_Final: '4796.55',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2381',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '875',
@@ -3283,6 +3653,8 @@ module.exports = {
 				Importe_Final: '3150.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2372',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '876',
@@ -3297,6 +3669,8 @@ module.exports = {
 				Importe_Final: '4148.10',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2382',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '877',
@@ -3311,6 +3685,8 @@ module.exports = {
 				Importe_Final: '3685.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2382',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '878',
@@ -3325,6 +3701,8 @@ module.exports = {
 				Importe_Final: '3534.30',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2378',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '879',
@@ -3339,6 +3717,8 @@ module.exports = {
 				Importe_Final: '880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2375',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '880',
@@ -3353,6 +3733,8 @@ module.exports = {
 				Importe_Final: '4987.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1510',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '881',
@@ -3367,6 +3749,8 @@ module.exports = {
 				Importe_Final: '4400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2087',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '882',
@@ -3381,6 +3765,8 @@ module.exports = {
 				Importe_Final: '653.40',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2087',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '883',
@@ -3395,6 +3781,8 @@ module.exports = {
 				Importe_Final: '1760.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1161',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '884',
@@ -3409,6 +3797,8 @@ module.exports = {
 				Importe_Final: '4279.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1921',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '885',
@@ -3423,6 +3813,8 @@ module.exports = {
 				Importe_Final: '4070.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2383',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '886',
@@ -3437,6 +3829,8 @@ module.exports = {
 				Importe_Final: '4606.40',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2384',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '887',
@@ -3451,6 +3845,8 @@ module.exports = {
 				Importe_Final: '1892.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2266',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '888',
@@ -3465,6 +3861,8 @@ module.exports = {
 				Importe_Final: '2211.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2385',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '889',
@@ -3479,6 +3877,8 @@ module.exports = {
 				Importe_Final: '4217.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2386',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '890',
@@ -3493,6 +3893,8 @@ module.exports = {
 				Importe_Final: '5610.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1855',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '891',
@@ -3507,6 +3909,8 @@ module.exports = {
 				Importe_Final: '1406.46',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1552',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '892',
@@ -3521,6 +3925,8 @@ module.exports = {
 				Importe_Final: '8189.30',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2387',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '893',
@@ -3535,6 +3941,8 @@ module.exports = {
 				Importe_Final: '8690.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1612',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '894',
@@ -3549,6 +3957,8 @@ module.exports = {
 				Importe_Final: '1676.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2389',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '895',
@@ -3563,6 +3973,8 @@ module.exports = {
 				Importe_Final: '6777.21',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2391',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '896',
@@ -3577,6 +3989,8 @@ module.exports = {
 				Importe_Final: '1386.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2392',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '897',
@@ -3591,6 +4005,8 @@ module.exports = {
 				Importe_Final: '16170.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '256',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '898',
@@ -3605,6 +4021,8 @@ module.exports = {
 				Importe_Final: '7442.49',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2394',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '899',
@@ -3619,6 +4037,8 @@ module.exports = {
 				Importe_Final: '6492.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '34',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '900',
@@ -3633,20 +4053,8 @@ module.exports = {
 				Importe_Final: '506.00',
 				Tipo: 'fac',
 				Estado: 'c',
-			},
-			{
-				ID: '901',
-				ID_Pedido: null,
-				Fecha: '2021-04-20 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Se facturo sin el descuento por pago en EFECTIVO',
-				Estado_Pago: 'Pago',
-				Importe: '506.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '506.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2388',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '902',
@@ -3661,6 +4069,8 @@ module.exports = {
 				Importe_Final: '455.40',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2388',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '903',
@@ -3675,6 +4085,8 @@ module.exports = {
 				Importe_Final: '5704.40',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2395',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '904',
@@ -3689,6 +4101,8 @@ module.exports = {
 				Importe_Final: '5610.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2396',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '905',
@@ -3703,6 +4117,8 @@ module.exports = {
 				Importe_Final: '10265.31',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2397',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '906',
@@ -3717,6 +4133,8 @@ module.exports = {
 				Importe_Final: '4325.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2398',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '907',
@@ -3731,6 +4149,8 @@ module.exports = {
 				Importe_Final: '5610.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2399',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '908',
@@ -3745,6 +4165,8 @@ module.exports = {
 				Importe_Final: '4398.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '222',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '909',
@@ -3759,6 +4181,8 @@ module.exports = {
 				Importe_Final: '32026.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2390',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '910',
@@ -3773,6 +4197,8 @@ module.exports = {
 				Importe_Final: '6008.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2400',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '911',
@@ -3787,6 +4213,8 @@ module.exports = {
 				Importe_Final: '6029.10',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2401',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '912',
@@ -3801,6 +4229,8 @@ module.exports = {
 				Importe_Final: '1298.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '224',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '913',
@@ -3815,6 +4245,8 @@ module.exports = {
 				Importe_Final: '3960.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2402',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '914',
@@ -3829,6 +4261,8 @@ module.exports = {
 				Importe_Final: '3124.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2403',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '915',
@@ -3843,6 +4277,8 @@ module.exports = {
 				Importe_Final: '5810.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2404',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '916',
@@ -3857,6 +4293,8 @@ module.exports = {
 				Importe_Final: '6188.49',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2267',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '917',
@@ -3871,6 +4309,8 @@ module.exports = {
 				Importe_Final: '946.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2405',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '918',
@@ -3885,6 +4325,8 @@ module.exports = {
 				Importe_Final: '9013.73',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2406',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '919',
@@ -3899,6 +4341,8 @@ module.exports = {
 				Importe_Final: '5775.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2407',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '920',
@@ -3913,6 +4357,8 @@ module.exports = {
 				Importe_Final: '946.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2408',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '921',
@@ -3927,6 +4373,8 @@ module.exports = {
 				Importe_Final: '9726.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2409',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '922',
@@ -3941,6 +4389,8 @@ module.exports = {
 				Importe_Final: '3487.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1268',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '923',
@@ -3955,6 +4405,8 @@ module.exports = {
 				Importe_Final: '5610.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2410',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '924',
@@ -3969,6 +4421,8 @@ module.exports = {
 				Importe_Final: '5610.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1690',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '925',
@@ -3983,6 +4437,8 @@ module.exports = {
 				Importe_Final: '9935.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2411',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '926',
@@ -3997,6 +4453,8 @@ module.exports = {
 				Importe_Final: '792.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2324',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '927',
@@ -4011,6 +4469,8 @@ module.exports = {
 				Importe_Final: '2211.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2385',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '928',
@@ -4025,6 +4485,8 @@ module.exports = {
 				Importe_Final: '1323.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '203',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '929',
@@ -4039,6 +4501,8 @@ module.exports = {
 				Importe_Final: '1220.16',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '178',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '930',
@@ -4053,6 +4517,8 @@ module.exports = {
 				Importe_Final: '0.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '102',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '931',
@@ -4067,6 +4533,8 @@ module.exports = {
 				Importe_Final: '2376.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2412',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '932',
@@ -4081,6 +4549,8 @@ module.exports = {
 				Importe_Final: '6098.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2413',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '933',
@@ -4095,6 +4565,8 @@ module.exports = {
 				Importe_Final: '6644.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2414',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '934',
@@ -4109,6 +4581,8 @@ module.exports = {
 				Importe_Final: '3685.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2415',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '935',
@@ -4123,6 +4597,8 @@ module.exports = {
 				Importe_Final: '3685.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2416',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '936',
@@ -4137,6 +4613,8 @@ module.exports = {
 				Importe_Final: '3863.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2417',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '937',
@@ -4151,6 +4629,8 @@ module.exports = {
 				Importe_Final: '3663.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2418',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '938',
@@ -4165,6 +4645,8 @@ module.exports = {
 				Importe_Final: '4762.89',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2115',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '939',
@@ -4179,6 +4661,8 @@ module.exports = {
 				Importe_Final: '3410.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2419',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '940',
@@ -4193,6 +4677,8 @@ module.exports = {
 				Importe_Final: '13068.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2346',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '941',
@@ -4207,6 +4693,8 @@ module.exports = {
 				Importe_Final: '7425.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2421',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '942',
@@ -4221,6 +4709,8 @@ module.exports = {
 				Importe_Final: '5742.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2422',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '943',
@@ -4235,6 +4725,8 @@ module.exports = {
 				Importe_Final: '5469.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2423',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '944',
@@ -4249,6 +4741,8 @@ module.exports = {
 				Importe_Final: '3694.70',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1854',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '945',
@@ -4263,6 +4757,8 @@ module.exports = {
 				Importe_Final: '6809.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2424',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '946',
@@ -4277,6 +4773,8 @@ module.exports = {
 				Importe_Final: '4083.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2425',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '947',
@@ -4291,6 +4789,8 @@ module.exports = {
 				Importe_Final: '6098.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2426',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '948',
@@ -4305,6 +4805,8 @@ module.exports = {
 				Importe_Final: '4785.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2427',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '949',
@@ -4320,6 +4822,8 @@ module.exports = {
 				Importe_Final: '2297.28',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '1014',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '950',
@@ -4334,6 +4838,8 @@ module.exports = {
 				Importe_Final: '4631.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2428',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '951',
@@ -4348,6 +4854,8 @@ module.exports = {
 				Importe_Final: '1100.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '91',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '952',
@@ -4362,6 +4870,8 @@ module.exports = {
 				Importe_Final: '990.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2429',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '953',
@@ -4376,6 +4886,8 @@ module.exports = {
 				Importe_Final: '5200.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2420',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '954',
@@ -4390,6 +4902,8 @@ module.exports = {
 				Importe_Final: '5681.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2255',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '955',
@@ -4404,6 +4918,8 @@ module.exports = {
 				Importe_Final: '1070.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2255',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '956',
@@ -4418,6 +4934,8 @@ module.exports = {
 				Importe_Final: '4609.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2430',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '957',
@@ -4432,6 +4950,8 @@ module.exports = {
 				Importe_Final: '1821.60',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2431',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '958',
@@ -4446,6 +4966,8 @@ module.exports = {
 				Importe_Final: '15102.02',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2431',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '959',
@@ -4460,6 +4982,8 @@ module.exports = {
 				Importe_Final: '455.40',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2414',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '960',
@@ -4474,6 +4998,8 @@ module.exports = {
 				Importe_Final: '7449.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2432',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '961',
@@ -4488,6 +5014,8 @@ module.exports = {
 				Importe_Final: '7350.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1140',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '962',
@@ -4502,6 +5030,8 @@ module.exports = {
 				Importe_Final: '9537.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2434',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '963',
@@ -4516,6 +5046,8 @@ module.exports = {
 				Importe_Final: '4796.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2435',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '964',
@@ -4530,6 +5062,8 @@ module.exports = {
 				Importe_Final: '6169.36',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2438',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '965',
@@ -4544,6 +5078,8 @@ module.exports = {
 				Importe_Final: '5821.31',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2440',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '966',
@@ -4558,6 +5094,8 @@ module.exports = {
 				Importe_Final: '2233.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2436',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '967',
@@ -4572,6 +5110,8 @@ module.exports = {
 				Importe_Final: '924.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '773',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '968',
@@ -4586,6 +5126,8 @@ module.exports = {
 				Importe_Final: '13800.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2280',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '969',
@@ -4600,6 +5142,8 @@ module.exports = {
 				Importe_Final: '1100.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '91',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '970',
@@ -4614,6 +5158,8 @@ module.exports = {
 				Importe_Final: '9000.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2280',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '971',
@@ -4628,6 +5174,8 @@ module.exports = {
 				Importe_Final: '15181.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2280',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '972',
@@ -4642,6 +5190,8 @@ module.exports = {
 				Importe_Final: '2529.34',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2066',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '973',
@@ -4656,6 +5206,8 @@ module.exports = {
 				Importe_Final: '5810.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2441',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '974',
@@ -4670,6 +5222,8 @@ module.exports = {
 				Importe_Final: '15300.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '39',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '975',
@@ -4684,6 +5238,8 @@ module.exports = {
 				Importe_Final: '5412.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2437',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '976',
@@ -4698,6 +5254,8 @@ module.exports = {
 				Importe_Final: '4702.50',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2439',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '977',
@@ -4712,6 +5270,8 @@ module.exports = {
 				Importe_Final: '1239.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2442',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '978',
@@ -4726,6 +5286,8 @@ module.exports = {
 				Importe_Final: '2217.60',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '130',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '979',
@@ -4740,6 +5302,8 @@ module.exports = {
 				Importe_Final: '7847.95',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2444',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '980',
@@ -4754,6 +5318,8 @@ module.exports = {
 				Importe_Final: '6256.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2445',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '981',
@@ -4768,6 +5334,8 @@ module.exports = {
 				Importe_Final: '4796.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2446',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '982',
@@ -4782,6 +5350,8 @@ module.exports = {
 				Importe_Final: '7431.78',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '41',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '983',
@@ -4796,6 +5366,8 @@ module.exports = {
 				Importe_Final: '2332.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '139',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '984',
@@ -4810,6 +5382,8 @@ module.exports = {
 				Importe_Final: '3927.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2447',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '985',
@@ -4824,6 +5398,8 @@ module.exports = {
 				Importe_Final: '5610.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2448',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '986',
@@ -4838,6 +5414,8 @@ module.exports = {
 				Importe_Final: '1676.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2449',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '987',
@@ -4852,6 +5430,8 @@ module.exports = {
 				Importe_Final: '4940.76',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2450',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '988',
@@ -4866,6 +5446,8 @@ module.exports = {
 				Importe_Final: '4234.34',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '996',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '989',
@@ -4880,6 +5462,8 @@ module.exports = {
 				Importe_Final: '29380.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '39',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '990',
@@ -4894,6 +5478,8 @@ module.exports = {
 				Importe_Final: '5246.34',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2451',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '991',
@@ -4908,6 +5494,8 @@ module.exports = {
 				Importe_Final: '5823.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2452',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '992',
@@ -4922,6 +5510,8 @@ module.exports = {
 				Importe_Final: '103420.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2443',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '993',
@@ -4936,6 +5526,8 @@ module.exports = {
 				Importe_Final: '1742.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '380',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '994',
@@ -4950,6 +5542,8 @@ module.exports = {
 				Importe_Final: '5242.49',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2453',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '995',
@@ -4964,6 +5558,8 @@ module.exports = {
 				Importe_Final: '3927.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '139',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '996',
@@ -4978,6 +5574,8 @@ module.exports = {
 				Importe_Final: '2376.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1774',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '997',
@@ -4992,6 +5590,8 @@ module.exports = {
 				Importe_Final: '2330.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2374',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '998',
@@ -5006,6 +5606,8 @@ module.exports = {
 				Importe_Final: '5304.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2281',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '999',
@@ -5020,6 +5622,8 @@ module.exports = {
 				Importe_Final: '16380.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2281',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1000',
@@ -5034,6 +5638,8 @@ module.exports = {
 				Importe_Final: '2948.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '102',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1001',
@@ -5048,6 +5654,8 @@ module.exports = {
 				Importe_Final: '6613.20',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2454',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1002',
@@ -5062,6 +5670,8 @@ module.exports = {
 				Importe_Final: '4565.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2455',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1003',
@@ -5076,6 +5686,8 @@ module.exports = {
 				Importe_Final: '9836.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2135',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1004',
@@ -5090,6 +5702,8 @@ module.exports = {
 				Importe_Final: '11715.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2457',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1005',
@@ -5104,6 +5718,8 @@ module.exports = {
 				Importe_Final: '0.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2457',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1006',
@@ -5118,6 +5734,8 @@ module.exports = {
 				Importe_Final: '5049.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1774',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1007',
@@ -5132,6 +5750,8 @@ module.exports = {
 				Importe_Final: '6056.49',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2458',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1008',
@@ -5146,6 +5766,8 @@ module.exports = {
 				Importe_Final: '3714.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2459',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1009',
@@ -5160,6 +5782,8 @@ module.exports = {
 				Importe_Final: '4054.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2066',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1010',
@@ -5174,6 +5798,8 @@ module.exports = {
 				Importe_Final: '5195.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2461',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1011',
@@ -5188,6 +5814,8 @@ module.exports = {
 				Importe_Final: '4000.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2462',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1012',
@@ -5202,6 +5830,8 @@ module.exports = {
 				Importe_Final: '1500.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '139',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1013',
@@ -5216,6 +5846,8 @@ module.exports = {
 				Importe_Final: '2468.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '895',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1014',
@@ -5230,6 +5862,8 @@ module.exports = {
 				Importe_Final: '1350.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2102',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1015',
@@ -5244,6 +5878,8 @@ module.exports = {
 				Importe_Final: '3658.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2463',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1016',
@@ -5258,6 +5894,8 @@ module.exports = {
 				Importe_Final: '4600.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '175',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1017',
@@ -5272,6 +5910,8 @@ module.exports = {
 				Importe_Final: '1500.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '634',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1018',
@@ -5286,20 +5926,8 @@ module.exports = {
 				Importe_Final: '5690.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1019',
-				ID_Pedido: null,
-				Fecha: '2021-05-10 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'No aplique el 10% de deceunto',
-				Estado_Pago: 'Pago',
-				Importe: '2297.28',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '2297.28',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2323',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1020',
@@ -5314,6 +5942,8 @@ module.exports = {
 				Importe_Final: '2067.08',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1014',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1021',
@@ -5328,6 +5958,8 @@ module.exports = {
 				Importe_Final: '3800.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1560',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1022',
@@ -5342,6 +5974,8 @@ module.exports = {
 				Importe_Final: '5890.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2465',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1023',
@@ -5356,6 +5990,8 @@ module.exports = {
 				Importe_Final: '1810.97',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2464',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1024',
@@ -5370,6 +6006,8 @@ module.exports = {
 				Importe_Final: '683.10',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '175',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1025',
@@ -5384,6 +6022,8 @@ module.exports = {
 				Importe_Final: '4817.22',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2460',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1026',
@@ -5398,6 +6038,8 @@ module.exports = {
 				Importe_Final: '1894.46',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2467',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1027',
@@ -5412,6 +6054,8 @@ module.exports = {
 				Importe_Final: '2300.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2468',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1028',
@@ -5426,6 +6070,8 @@ module.exports = {
 				Importe_Final: '1500.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2469',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1029',
@@ -5440,6 +6086,8 @@ module.exports = {
 				Importe_Final: '1200.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2470',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1030',
@@ -5454,6 +6102,8 @@ module.exports = {
 				Importe_Final: '6952.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2471',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1031',
@@ -5468,6 +6118,8 @@ module.exports = {
 				Importe_Final: '2736.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1672',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1032',
@@ -5482,6 +6134,8 @@ module.exports = {
 				Importe_Final: '5908.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2257',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1033',
@@ -5496,20 +6150,8 @@ module.exports = {
 				Importe_Final: '2300.00',
 				Tipo: 'fac',
 				Estado: 'c',
-			},
-			{
-				ID: '1034',
-				ID_Pedido: null,
-				Fecha: '2021-05-11 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Error de carga',
-				Estado_Pago: 'Pago',
-				Importe: '2300.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '2300.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2473',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1035',
@@ -5524,6 +6166,8 @@ module.exports = {
 				Importe_Final: '2070.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2473',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1036',
@@ -5538,6 +6182,8 @@ module.exports = {
 				Importe_Final: '3559.36',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2474',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1037',
@@ -5552,6 +6198,8 @@ module.exports = {
 				Importe_Final: '1998.59',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2475',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1038',
@@ -5566,6 +6214,8 @@ module.exports = {
 				Importe_Final: '5872.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2476',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1039',
@@ -5580,6 +6230,8 @@ module.exports = {
 				Importe_Final: '4666.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2477',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1040',
@@ -5594,6 +6246,8 @@ module.exports = {
 				Importe_Final: '6402.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2366',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1041',
@@ -5608,6 +6262,8 @@ module.exports = {
 				Importe_Final: '9007.98',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2255',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1042',
@@ -5622,6 +6278,8 @@ module.exports = {
 				Importe_Final: '1786.81',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2131',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1043',
@@ -5636,6 +6294,8 @@ module.exports = {
 				Importe_Final: '4148.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2478',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1044',
@@ -5650,6 +6310,8 @@ module.exports = {
 				Importe_Final: '946.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2467',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1045',
@@ -5664,6 +6326,8 @@ module.exports = {
 				Importe_Final: '950.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2282',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1046',
@@ -5678,6 +6342,8 @@ module.exports = {
 				Importe_Final: '5506.20',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2303',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1047',
@@ -5692,6 +6358,8 @@ module.exports = {
 				Importe_Final: '4527.21',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '106',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1048',
@@ -5706,6 +6374,8 @@ module.exports = {
 				Importe_Final: '2300.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2479',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1049',
@@ -5720,6 +6390,8 @@ module.exports = {
 				Importe_Final: '4600.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2480',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1050',
@@ -5734,6 +6406,8 @@ module.exports = {
 				Importe_Final: '1936.81',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2481',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1051',
@@ -5748,6 +6422,8 @@ module.exports = {
 				Importe_Final: '2700.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2482',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1052',
@@ -5762,6 +6438,8 @@ module.exports = {
 				Importe_Final: '2698.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2483',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1053',
@@ -5776,6 +6454,8 @@ module.exports = {
 				Importe_Final: '2840.87',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2484',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1054',
@@ -5790,6 +6470,8 @@ module.exports = {
 				Importe_Final: '3953.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2485',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1055',
@@ -5804,20 +6486,8 @@ module.exports = {
 				Importe_Final: '3660.00',
 				Tipo: 'fac',
 				Estado: 'c',
-			},
-			{
-				ID: '1056',
-				ID_Pedido: null,
-				Fecha: '2021-05-12 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Me falto aplicar el descuento por pago en efectivo ',
-				Estado_Pago: 'Pago',
-				Importe: '3660.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '3660.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2280',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1057',
@@ -5832,6 +6502,8 @@ module.exports = {
 				Importe_Final: '3477.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2280',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1058',
@@ -5846,6 +6518,8 @@ module.exports = {
 				Importe_Final: '1440.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2429',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1059',
@@ -5860,6 +6534,8 @@ module.exports = {
 				Importe_Final: '1550.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2486',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1060',
@@ -5874,6 +6550,8 @@ module.exports = {
 				Importe_Final: '1236.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2487',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1061',
@@ -5888,6 +6566,8 @@ module.exports = {
 				Importe_Final: '2300.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2489',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1062',
@@ -5902,6 +6582,8 @@ module.exports = {
 				Importe_Final: '3606.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1187',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1063',
@@ -5916,6 +6598,8 @@ module.exports = {
 				Importe_Final: '6008.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2490',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1064',
@@ -5930,6 +6614,8 @@ module.exports = {
 				Importe_Final: '5049.34',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2167',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1065',
@@ -5944,6 +6630,8 @@ module.exports = {
 				Importe_Final: '2070.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2123',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1066',
@@ -5958,6 +6646,8 @@ module.exports = {
 				Importe_Final: '3900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2420',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1067',
@@ -5972,6 +6662,8 @@ module.exports = {
 				Importe_Final: '17910.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '39',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1068',
@@ -5986,6 +6678,8 @@ module.exports = {
 				Importe_Final: '1900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2280',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1069',
@@ -6000,6 +6694,8 @@ module.exports = {
 				Importe_Final: '10835.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2491',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1070',
@@ -6014,6 +6710,8 @@ module.exports = {
 				Importe_Final: '2300.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2472',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1071',
@@ -6028,6 +6726,8 @@ module.exports = {
 				Importe_Final: '1080.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2466',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1072',
@@ -6042,6 +6742,8 @@ module.exports = {
 				Importe_Final: '1415.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '847',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1073',
@@ -6056,6 +6758,8 @@ module.exports = {
 				Importe_Final: '8009.10',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2492',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1074',
@@ -6070,6 +6774,8 @@ module.exports = {
 				Importe_Final: '11237.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2493',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1075',
@@ -6084,6 +6790,8 @@ module.exports = {
 				Importe_Final: '1247.40',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '947',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1076',
@@ -6098,20 +6806,8 @@ module.exports = {
 				Importe_Final: '2696.49',
 				Tipo: 'fac',
 				Estado: 'c',
-			},
-			{
-				ID: '1077',
-				ID_Pedido: null,
-				Fecha: '2021-05-15 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Error de carga',
-				Estado_Pago: 'Pago',
-				Importe: '2696.49',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '2696.49',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2494',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1078',
@@ -6126,6 +6822,8 @@ module.exports = {
 				Importe_Final: '2696.49',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1621',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1079',
@@ -6140,6 +6838,8 @@ module.exports = {
 				Importe_Final: '10210.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2495',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1080',
@@ -6154,6 +6854,8 @@ module.exports = {
 				Importe_Final: '12325.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2496',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1081',
@@ -6168,6 +6870,8 @@ module.exports = {
 				Importe_Final: '2698.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2497',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1082',
@@ -6182,6 +6886,8 @@ module.exports = {
 				Importe_Final: '10593.28',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2413',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1083',
@@ -6196,6 +6902,8 @@ module.exports = {
 				Importe_Final: '3846.04',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2498',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1084',
@@ -6210,6 +6918,8 @@ module.exports = {
 				Importe_Final: '6098.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2499',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1085',
@@ -6224,6 +6934,8 @@ module.exports = {
 				Importe_Final: '868.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2501',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1086',
@@ -6238,6 +6950,8 @@ module.exports = {
 				Importe_Final: '4039.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2500',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1087',
@@ -6252,6 +6966,8 @@ module.exports = {
 				Importe_Final: '2898.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2502',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1088',
@@ -6266,6 +6982,8 @@ module.exports = {
 				Importe_Final: '3374.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2503',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1089',
@@ -6280,6 +6998,8 @@ module.exports = {
 				Importe_Final: '3953.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '907',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1090',
@@ -6294,6 +7014,8 @@ module.exports = {
 				Importe_Final: '8424.90',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2465',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1091',
@@ -6308,6 +7030,8 @@ module.exports = {
 				Importe_Final: '5148.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2472',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1092',
@@ -6322,6 +7046,8 @@ module.exports = {
 				Importe_Final: '3685.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1555',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1093',
@@ -6336,6 +7062,8 @@ module.exports = {
 				Importe_Final: '3300.44',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2504',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1094',
@@ -6350,6 +7078,8 @@ module.exports = {
 				Importe_Final: '9295.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2505',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1095',
@@ -6364,6 +7094,8 @@ module.exports = {
 				Importe_Final: '6263.40',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1126',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1096',
@@ -6378,6 +7110,8 @@ module.exports = {
 				Importe_Final: '2838.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1611',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1097',
@@ -6392,6 +7126,8 @@ module.exports = {
 				Importe_Final: '5610.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '38',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1098',
@@ -6406,6 +7142,8 @@ module.exports = {
 				Importe_Final: '700.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2507',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1099',
@@ -6420,6 +7158,8 @@ module.exports = {
 				Importe_Final: '4565.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1555',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1100',
@@ -6434,6 +7174,8 @@ module.exports = {
 				Importe_Final: '500.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2508',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1101',
@@ -6448,6 +7190,8 @@ module.exports = {
 				Importe_Final: '2024.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2506',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1102',
@@ -6462,6 +7206,8 @@ module.exports = {
 				Importe_Final: '1595.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2464',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1103',
@@ -6476,6 +7222,8 @@ module.exports = {
 				Importe_Final: '18515.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '144',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1104',
@@ -6490,6 +7238,8 @@ module.exports = {
 				Importe_Final: '1425.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '144',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1105',
@@ -6504,6 +7254,8 @@ module.exports = {
 				Importe_Final: '3696.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2509',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1106',
@@ -6518,6 +7270,8 @@ module.exports = {
 				Importe_Final: '3024.34',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2131',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1107',
@@ -6532,6 +7286,8 @@ module.exports = {
 				Importe_Final: '500.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2297',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1108',
@@ -6546,6 +7302,8 @@ module.exports = {
 				Importe_Final: '8753.14',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2510',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1109',
@@ -6560,6 +7318,8 @@ module.exports = {
 				Importe_Final: '1060.97',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2382',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1110',
@@ -6574,6 +7334,8 @@ module.exports = {
 				Importe_Final: '3645.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '37',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1111',
@@ -6588,6 +7350,8 @@ module.exports = {
 				Importe_Final: '3208.87',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2511',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1112',
@@ -6602,6 +7366,8 @@ module.exports = {
 				Importe_Final: '0.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2511',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1113',
@@ -6616,6 +7382,8 @@ module.exports = {
 				Importe_Final: '5610.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2256',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1114',
@@ -6630,6 +7398,8 @@ module.exports = {
 				Importe_Final: '5495.49',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2512',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1115',
@@ -6644,6 +7414,8 @@ module.exports = {
 				Importe_Final: '72612.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2513',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1116',
@@ -6658,6 +7430,8 @@ module.exports = {
 				Importe_Final: '8735.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2514',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1117',
@@ -6672,6 +7446,8 @@ module.exports = {
 				Importe_Final: '700.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2468',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1118',
@@ -6686,6 +7462,8 @@ module.exports = {
 				Importe_Final: '4360.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2515',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1119',
@@ -6700,6 +7478,8 @@ module.exports = {
 				Importe_Final: '3316.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2200',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1120',
@@ -6714,6 +7494,8 @@ module.exports = {
 				Importe_Final: '4400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '175',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1121',
@@ -6728,6 +7510,8 @@ module.exports = {
 				Importe_Final: '2178.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2517',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1122',
@@ -6742,6 +7526,8 @@ module.exports = {
 				Importe_Final: '4796.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2516',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1123',
@@ -6756,6 +7542,8 @@ module.exports = {
 				Importe_Final: '2021.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2489',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1124',
@@ -6770,6 +7558,8 @@ module.exports = {
 				Importe_Final: '3487.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2519',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1125',
@@ -6784,6 +7574,8 @@ module.exports = {
 				Importe_Final: '12060.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2518',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1126',
@@ -6798,6 +7590,8 @@ module.exports = {
 				Importe_Final: '2960.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2513',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1127',
@@ -6813,6 +7607,8 @@ module.exports = {
 				Importe_Final: '1727.57',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2491',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1128',
@@ -6827,6 +7623,8 @@ module.exports = {
 				Importe_Final: '5736.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2521',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1129',
@@ -6841,6 +7639,8 @@ module.exports = {
 				Importe_Final: '4160.31',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2522',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1130',
@@ -6855,6 +7655,8 @@ module.exports = {
 				Importe_Final: '6112.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '34',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1131',
@@ -6869,6 +7671,8 @@ module.exports = {
 				Importe_Final: '2850.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2523',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1132',
@@ -6883,6 +7687,8 @@ module.exports = {
 				Importe_Final: '1012.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1554',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1133',
@@ -6897,6 +7703,8 @@ module.exports = {
 				Importe_Final: '1260.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1973',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1134',
@@ -6911,6 +7719,8 @@ module.exports = {
 				Importe_Final: '621.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '634',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1135',
@@ -6925,6 +7735,8 @@ module.exports = {
 				Importe_Final: '1467.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2256',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1136',
@@ -6939,6 +7751,8 @@ module.exports = {
 				Importe_Final: '6550.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1740',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1137',
@@ -6953,6 +7767,8 @@ module.exports = {
 				Importe_Final: '3231.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '122',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1138',
@@ -6967,6 +7783,8 @@ module.exports = {
 				Importe_Final: '7045.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2444',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1139',
@@ -6981,6 +7799,8 @@ module.exports = {
 				Importe_Final: '25650.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2524',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1140',
@@ -6995,6 +7815,8 @@ module.exports = {
 				Importe_Final: '946.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2525',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1141',
@@ -7009,6 +7831,8 @@ module.exports = {
 				Importe_Final: '940.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2462',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1142',
@@ -7023,6 +7847,8 @@ module.exports = {
 				Importe_Final: '13623.30',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2420',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1143',
@@ -7037,6 +7863,8 @@ module.exports = {
 				Importe_Final: '3685.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1321',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1144',
@@ -7051,6 +7879,8 @@ module.exports = {
 				Importe_Final: '1413.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2457',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1145',
@@ -7065,6 +7895,8 @@ module.exports = {
 				Importe_Final: '7440.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2527',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1146',
@@ -7079,6 +7911,8 @@ module.exports = {
 				Importe_Final: '4100.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2528',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1147',
@@ -7093,6 +7927,8 @@ module.exports = {
 				Importe_Final: '3685.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1921',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1148',
@@ -7107,34 +7943,8 @@ module.exports = {
 				Importe_Final: '4560.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1149',
-				ID_Pedido: null,
-				Fecha: '2021-06-02 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Error - se vuelve a crear la venta',
-				Estado_Pago: 'Pago',
-				Importe: '4100.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '4100.00',
-				Tipo: 'nc',
-				Estado: 'v',
-			},
-			{
-				ID: '1150',
-				ID_Pedido: null,
-				Fecha: '2021-06-02 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Cambio la colchoneta por la XXL',
-				Estado_Pago: 'Pago',
-				Importe: '4702.50',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '4702.50',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2528',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1151',
@@ -7149,6 +7959,8 @@ module.exports = {
 				Importe_Final: '6256.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2439',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1152',
@@ -7163,6 +7975,8 @@ module.exports = {
 				Importe_Final: '10788.40',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2191',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1153',
@@ -7177,6 +7991,8 @@ module.exports = {
 				Importe_Final: '62910.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '39',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1154',
@@ -7191,6 +8007,8 @@ module.exports = {
 				Importe_Final: '5860.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2529',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1155',
@@ -7205,6 +8023,8 @@ module.exports = {
 				Importe_Final: '6256.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1637',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1156',
@@ -7219,6 +8039,8 @@ module.exports = {
 				Importe_Final: '6056.49',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2530',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1157',
@@ -7233,6 +8055,8 @@ module.exports = {
 				Importe_Final: '6745.31',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '800',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1158',
@@ -7247,6 +8071,8 @@ module.exports = {
 				Importe_Final: '10549.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2531',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1159',
@@ -7261,6 +8087,8 @@ module.exports = {
 				Importe_Final: '3500.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2532',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1160',
@@ -7275,6 +8103,8 @@ module.exports = {
 				Importe_Final: '650.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '81',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1161',
@@ -7289,6 +8119,8 @@ module.exports = {
 				Importe_Final: '945.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '81',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1162',
@@ -7303,6 +8135,8 @@ module.exports = {
 				Importe_Final: '4002.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2526',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1163',
@@ -7317,6 +8151,8 @@ module.exports = {
 				Importe_Final: '24216.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2533',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1164',
@@ -7331,6 +8167,8 @@ module.exports = {
 				Importe_Final: '1708.46',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2534',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1165',
@@ -7345,6 +8183,8 @@ module.exports = {
 				Importe_Final: '4108.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2535',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1166',
@@ -7359,6 +8199,8 @@ module.exports = {
 				Importe_Final: '4512.31',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2536',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1167',
@@ -7373,6 +8215,8 @@ module.exports = {
 				Importe_Final: '7803.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2537',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1168',
@@ -7387,6 +8231,8 @@ module.exports = {
 				Importe_Final: '3685.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2539',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1169',
@@ -7401,6 +8247,8 @@ module.exports = {
 				Importe_Final: '1680.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2538',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1170',
@@ -7415,6 +8263,8 @@ module.exports = {
 				Importe_Final: '756.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '81',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1171',
@@ -7429,6 +8279,8 @@ module.exports = {
 				Importe_Final: '5260.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2540',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1172',
@@ -7443,6 +8295,8 @@ module.exports = {
 				Importe_Final: '1050.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2532',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1173',
@@ -7457,6 +8311,8 @@ module.exports = {
 				Importe_Final: '3685.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2489',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1174',
@@ -7471,6 +8327,8 @@ module.exports = {
 				Importe_Final: '3685.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2542',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1175',
@@ -7485,6 +8343,8 @@ module.exports = {
 				Importe_Final: '1334.70',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1979',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1176',
@@ -7499,6 +8359,8 @@ module.exports = {
 				Importe_Final: '4565.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2544',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1177',
@@ -7513,6 +8375,8 @@ module.exports = {
 				Importe_Final: '2455.97',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '809',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1178',
@@ -7527,6 +8391,8 @@ module.exports = {
 				Importe_Final: '25437.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2541',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1179',
@@ -7541,6 +8407,8 @@ module.exports = {
 				Importe_Final: '5299.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2545',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1180',
@@ -7555,6 +8423,8 @@ module.exports = {
 				Importe_Final: '1386.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2546',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1181',
@@ -7569,6 +8439,8 @@ module.exports = {
 				Importe_Final: '630.90',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2056',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1182',
@@ -7583,20 +8455,8 @@ module.exports = {
 				Importe_Final: '423.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1183',
-				ID_Pedido: null,
-				Fecha: '2021-06-08 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Esta mal ingresado el pago',
-				Estado_Pago: 'Pago',
-				Importe: '1413.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '1413.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '889',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1184',
@@ -7611,6 +8471,8 @@ module.exports = {
 				Importe_Final: '1570.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2457',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1185',
@@ -7625,6 +8487,8 @@ module.exports = {
 				Importe_Final: '3305.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2547',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1186',
@@ -7639,6 +8503,8 @@ module.exports = {
 				Importe_Final: '5521.34',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2548',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1187',
@@ -7653,6 +8519,8 @@ module.exports = {
 				Importe_Final: '111112.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2292',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1188',
@@ -7667,6 +8535,8 @@ module.exports = {
 				Importe_Final: '2832.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2549',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1189',
@@ -7681,6 +8551,8 @@ module.exports = {
 				Importe_Final: '1595.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2550',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1190',
@@ -7696,6 +8568,8 @@ module.exports = {
 				Importe_Final: '5400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2551',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1191',
@@ -7710,6 +8584,8 @@ module.exports = {
 				Importe_Final: '2640.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2388',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1192',
@@ -7724,6 +8600,8 @@ module.exports = {
 				Importe_Final: '455.40',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2552',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1193',
@@ -7738,6 +8616,8 @@ module.exports = {
 				Importe_Final: '7879.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2553',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1194',
@@ -7752,6 +8632,8 @@ module.exports = {
 				Importe_Final: '5035.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2554',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1195',
@@ -7766,6 +8648,8 @@ module.exports = {
 				Importe_Final: '2098.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2555',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1196',
@@ -7780,6 +8664,8 @@ module.exports = {
 				Importe_Final: '5049.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2555',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1197',
@@ -7794,6 +8680,8 @@ module.exports = {
 				Importe_Final: '910.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2478',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1198',
@@ -7808,6 +8696,8 @@ module.exports = {
 				Importe_Final: '3316.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2478',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1199',
@@ -7822,6 +8712,8 @@ module.exports = {
 				Importe_Final: '2811.60',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2556',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1200',
@@ -7836,6 +8728,8 @@ module.exports = {
 				Importe_Final: '35469.43',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2557',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1201',
@@ -7850,6 +8744,8 @@ module.exports = {
 				Importe_Final: '15897.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2558',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1202',
@@ -7864,6 +8760,8 @@ module.exports = {
 				Importe_Final: '6098.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2559',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1203',
@@ -7878,6 +8776,8 @@ module.exports = {
 				Importe_Final: '6234.36',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2561',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1204',
@@ -7892,6 +8792,8 @@ module.exports = {
 				Importe_Final: '6300.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2560',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1205',
@@ -7906,6 +8808,8 @@ module.exports = {
 				Importe_Final: '13335.30',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2562',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1206',
@@ -7920,6 +8824,8 @@ module.exports = {
 				Importe_Final: '1.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2562',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1207',
@@ -7934,6 +8840,8 @@ module.exports = {
 				Importe_Final: '1356.30',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2563',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1208',
@@ -7948,6 +8856,8 @@ module.exports = {
 				Importe_Final: '3124.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2565',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1209',
@@ -7962,6 +8872,8 @@ module.exports = {
 				Importe_Final: '2479.10',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2566',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1210',
@@ -7976,6 +8888,8 @@ module.exports = {
 				Importe_Final: '4160.31',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2567',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1211',
@@ -7990,6 +8904,8 @@ module.exports = {
 				Importe_Final: '4070.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2568',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1212',
@@ -8004,6 +8920,8 @@ module.exports = {
 				Importe_Final: '1752.30',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '222',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1213',
@@ -8018,6 +8936,8 @@ module.exports = {
 				Importe_Final: '25506.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2564',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1214',
@@ -8032,6 +8952,8 @@ module.exports = {
 				Importe_Final: '7421.06',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2569',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1215',
@@ -8046,6 +8968,8 @@ module.exports = {
 				Importe_Final: '5489.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2570',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1216',
@@ -8060,6 +8984,8 @@ module.exports = {
 				Importe_Final: '5610.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1218',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1217',
@@ -8074,6 +9000,8 @@ module.exports = {
 				Importe_Final: '1671.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2571',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1218',
@@ -8088,6 +9016,8 @@ module.exports = {
 				Importe_Final: '1036.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2495',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1219',
@@ -8102,6 +9032,8 @@ module.exports = {
 				Importe_Final: '2098.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2572',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1220',
@@ -8116,6 +9048,8 @@ module.exports = {
 				Importe_Final: '40706.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2287',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1221',
@@ -8130,6 +9064,8 @@ module.exports = {
 				Importe_Final: '5670.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2542',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1222',
@@ -8144,6 +9080,8 @@ module.exports = {
 				Importe_Final: '4796.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2573',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1223',
@@ -8158,6 +9096,8 @@ module.exports = {
 				Importe_Final: '0.09',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2542',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1224',
@@ -8172,6 +9112,8 @@ module.exports = {
 				Importe_Final: '14361.87',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2574',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1225',
@@ -8186,6 +9128,8 @@ module.exports = {
 				Importe_Final: '1812.97',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '357',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1226',
@@ -8200,6 +9144,8 @@ module.exports = {
 				Importe_Final: '1192.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2575',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1227',
@@ -8214,6 +9160,8 @@ module.exports = {
 				Importe_Final: '19914.85',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2280',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1228',
@@ -8228,6 +9176,8 @@ module.exports = {
 				Importe_Final: '1084.46',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2577',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1229',
@@ -8242,6 +9192,8 @@ module.exports = {
 				Importe_Final: '17508.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2255',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1230',
@@ -8256,6 +9208,8 @@ module.exports = {
 				Importe_Final: '5199.04',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2578',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1231',
@@ -8270,6 +9224,8 @@ module.exports = {
 				Importe_Final: '2479.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2255',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1232',
@@ -8284,6 +9240,8 @@ module.exports = {
 				Importe_Final: '1435.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '47',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1233',
@@ -8298,6 +9256,8 @@ module.exports = {
 				Importe_Final: '18240.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '144',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1234',
@@ -8312,6 +9272,8 @@ module.exports = {
 				Importe_Final: '3861.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2579',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1235',
@@ -8326,6 +9288,8 @@ module.exports = {
 				Importe_Final: '3159.34',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2580',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1236',
@@ -8340,6 +9304,8 @@ module.exports = {
 				Importe_Final: '3870.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2581',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1237',
@@ -8354,6 +9320,8 @@ module.exports = {
 				Importe_Final: '157914.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2252',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1238',
@@ -8368,6 +9336,8 @@ module.exports = {
 				Importe_Final: '1890.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2420',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1239',
@@ -8382,6 +9352,8 @@ module.exports = {
 				Importe_Final: '1848.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2517',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1240',
@@ -8396,6 +9368,8 @@ module.exports = {
 				Importe_Final: '5533.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1951',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1241',
@@ -8410,6 +9384,8 @@ module.exports = {
 				Importe_Final: '5610.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2582',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1242',
@@ -8424,6 +9400,8 @@ module.exports = {
 				Importe_Final: '16406.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2302',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1243',
@@ -8438,6 +9416,8 @@ module.exports = {
 				Importe_Final: '2136.97',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2583',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1244',
@@ -8452,6 +9432,8 @@ module.exports = {
 				Importe_Final: '4412.21',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1012',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1245',
@@ -8466,6 +9448,8 @@ module.exports = {
 				Importe_Final: '5071.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2584',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1246',
@@ -8480,6 +9464,8 @@ module.exports = {
 				Importe_Final: '946.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2585',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1247',
@@ -8494,6 +9480,8 @@ module.exports = {
 				Importe_Final: '6864.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2586',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1248',
@@ -8508,6 +9496,8 @@ module.exports = {
 				Importe_Final: '8345.70',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2587',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1249',
@@ -8522,6 +9512,8 @@ module.exports = {
 				Importe_Final: '6098.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2588',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1250',
@@ -8536,6 +9528,8 @@ module.exports = {
 				Importe_Final: '2239.47',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2589',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1251',
@@ -8550,6 +9544,8 @@ module.exports = {
 				Importe_Final: '4320.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2590',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1252',
@@ -8564,6 +9560,8 @@ module.exports = {
 				Importe_Final: '3685.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2403',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1253',
@@ -8578,6 +9576,8 @@ module.exports = {
 				Importe_Final: '4230.05',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2551',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1254',
@@ -8592,6 +9592,8 @@ module.exports = {
 				Importe_Final: '1247.40',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2590',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1255',
@@ -8606,6 +9608,8 @@ module.exports = {
 				Importe_Final: '4566.40',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1094',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1256',
@@ -8620,6 +9624,8 @@ module.exports = {
 				Importe_Final: '11452.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2592',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1257',
@@ -8634,6 +9640,8 @@ module.exports = {
 				Importe_Final: '2900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2591',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1258',
@@ -8648,6 +9656,8 @@ module.exports = {
 				Importe_Final: '5710.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2044',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1259',
@@ -8662,34 +9672,8 @@ module.exports = {
 				Importe_Final: '6833.50',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1260',
-				ID_Pedido: null,
-				Fecha: '2021-06-29 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'NO RECIBIMOS EL PAGO',
-				Estado_Pago: 'Pago',
-				Importe: '35469.43',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '35469.43',
-				Tipo: 'nc',
-				Estado: 'v',
-			},
-			{
-				ID: '1261',
-				ID_Pedido: null,
-				Fecha: '2021-06-29 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'NO RECIBIMOS EL PAGO',
-				Estado_Pago: 'Pago',
-				Importe: '7421.06',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '7421.06',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2593',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1262',
@@ -8704,6 +9688,8 @@ module.exports = {
 				Importe_Final: '3006.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2586',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1263',
@@ -8718,6 +9704,8 @@ module.exports = {
 				Importe_Final: '3558.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2594',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1264',
@@ -8732,6 +9720,8 @@ module.exports = {
 				Importe_Final: '5194.04',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2578',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1265',
@@ -8746,6 +9736,8 @@ module.exports = {
 				Importe_Final: '4560.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '932',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1266',
@@ -8760,20 +9752,8 @@ module.exports = {
 				Importe_Final: '3326.49',
 				Tipo: 'fac',
 				Estado: 'c',
-			},
-			{
-				ID: '1267',
-				ID_Pedido: null,
-				Fecha: '2021-06-30 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Compro mal',
-				Estado_Pago: 'Pago',
-				Importe: '3326.49',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '3326.49',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2595',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1268',
@@ -8788,6 +9768,8 @@ module.exports = {
 				Importe_Final: '11927.31',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2595',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1269',
@@ -8802,6 +9784,8 @@ module.exports = {
 				Importe_Final: '4113.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2596',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1270',
@@ -8816,6 +9800,8 @@ module.exports = {
 				Importe_Final: '6588.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2597',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1271',
@@ -8830,6 +9816,8 @@ module.exports = {
 				Importe_Final: '2950.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '763',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1272',
@@ -8844,6 +9832,8 @@ module.exports = {
 				Importe_Final: '2900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2598',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1273',
@@ -8858,6 +9848,8 @@ module.exports = {
 				Importe_Final: '50221.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2541',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1274',
@@ -8872,6 +9864,8 @@ module.exports = {
 				Importe_Final: '1300.97',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2599',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1275',
@@ -8886,6 +9880,8 @@ module.exports = {
 				Importe_Final: '3348.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2600',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1276',
@@ -8900,6 +9896,8 @@ module.exports = {
 				Importe_Final: '4104.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2601',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1277',
@@ -8914,6 +9912,8 @@ module.exports = {
 				Importe_Final: '3060.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1987',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1278',
@@ -8928,6 +9928,8 @@ module.exports = {
 				Importe_Final: '5555.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2602',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1279',
@@ -8942,6 +9944,8 @@ module.exports = {
 				Importe_Final: '4360.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2280',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1280',
@@ -8956,6 +9960,8 @@ module.exports = {
 				Importe_Final: '4600.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2604',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1281',
@@ -8970,6 +9976,8 @@ module.exports = {
 				Importe_Final: '6680.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2605',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1282',
@@ -8984,6 +9992,8 @@ module.exports = {
 				Importe_Final: '4665.17',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2606',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1283',
@@ -8998,6 +10008,8 @@ module.exports = {
 				Importe_Final: '13725.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2607',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1284',
@@ -9012,6 +10024,8 @@ module.exports = {
 				Importe_Final: '5020.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '148',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1285',
@@ -9026,6 +10040,8 @@ module.exports = {
 				Importe_Final: '5100.87',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2608',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1286',
@@ -9040,6 +10056,8 @@ module.exports = {
 				Importe_Final: '5460.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2609',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1287',
@@ -9054,6 +10072,8 @@ module.exports = {
 				Importe_Final: '5067.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2610',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1288',
@@ -9068,6 +10088,8 @@ module.exports = {
 				Importe_Final: '5000.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2613',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1289',
@@ -9082,6 +10104,8 @@ module.exports = {
 				Importe_Final: '6610.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2612',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1290',
@@ -9096,6 +10120,8 @@ module.exports = {
 				Importe_Final: '5555.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2614',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1291',
@@ -9110,6 +10136,8 @@ module.exports = {
 				Importe_Final: '3880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2615',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1292',
@@ -9124,6 +10152,8 @@ module.exports = {
 				Importe_Final: '9988.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2616',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1293',
@@ -9138,6 +10168,8 @@ module.exports = {
 				Importe_Final: '1220.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2617',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1294',
@@ -9152,6 +10184,8 @@ module.exports = {
 				Importe_Final: '6083.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1290',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1295',
@@ -9166,6 +10200,8 @@ module.exports = {
 				Importe_Final: '5300.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2403',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1296',
@@ -9180,6 +10216,8 @@ module.exports = {
 				Importe_Final: '15978.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2620',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1297',
@@ -9194,6 +10232,8 @@ module.exports = {
 				Importe_Final: '5880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2618',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1298',
@@ -9208,6 +10248,8 @@ module.exports = {
 				Importe_Final: '4750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2619',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1299',
@@ -9222,6 +10264,8 @@ module.exports = {
 				Importe_Final: '4580.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '259',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1300',
@@ -9236,6 +10280,8 @@ module.exports = {
 				Importe_Final: '8659.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2621',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1301',
@@ -9250,6 +10296,8 @@ module.exports = {
 				Importe_Final: '10329.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2611',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1302',
@@ -9264,6 +10312,8 @@ module.exports = {
 				Importe_Final: '4752.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2622',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1303',
@@ -9278,6 +10328,8 @@ module.exports = {
 				Importe_Final: '910.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2403',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1304',
@@ -9292,6 +10344,8 @@ module.exports = {
 				Importe_Final: '1570.97',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2623',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1305',
@@ -9306,6 +10360,8 @@ module.exports = {
 				Importe_Final: '5400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2624',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1306',
@@ -9320,6 +10376,8 @@ module.exports = {
 				Importe_Final: '2340.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2558',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1307',
@@ -9334,6 +10392,8 @@ module.exports = {
 				Importe_Final: '6462.67',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2625',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1308',
@@ -9348,6 +10408,8 @@ module.exports = {
 				Importe_Final: '4750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2626',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1309',
@@ -9362,6 +10424,8 @@ module.exports = {
 				Importe_Final: '11791.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '65',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1310',
@@ -9376,6 +10440,8 @@ module.exports = {
 				Importe_Final: '2097.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2627',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1311',
@@ -9390,21 +10456,8 @@ module.exports = {
 				Importe_Final: '2466.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1312',
-				ID_Pedido: null,
-				Fecha: '2021-07-13 00:00:00',
-				Nro_Factura: null,
-				Observaciones:
-					'Eligio los de outlet y ahora los quiere cambiar por los buenos.',
-				Estado_Pago: 'Pago',
-				Importe: '2097.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '2097.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2627',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1313',
@@ -9419,6 +10472,8 @@ module.exports = {
 				Importe_Final: '23810.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '118',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1314',
@@ -9433,6 +10488,8 @@ module.exports = {
 				Importe_Final: '15910.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2628',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1315',
@@ -9447,6 +10504,8 @@ module.exports = {
 				Importe_Final: '5374.36',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2629',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1316',
@@ -9461,6 +10520,8 @@ module.exports = {
 				Importe_Final: '9495.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2630',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1317',
@@ -9475,6 +10536,8 @@ module.exports = {
 				Importe_Final: '3387.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2631',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1318',
@@ -9489,6 +10552,8 @@ module.exports = {
 				Importe_Final: '29400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2252',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1319',
@@ -9503,6 +10568,8 @@ module.exports = {
 				Importe_Final: '2088.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2632',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1320',
@@ -9517,6 +10584,8 @@ module.exports = {
 				Importe_Final: '8174.14',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2051',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1321',
@@ -9531,6 +10600,8 @@ module.exports = {
 				Importe_Final: '3006.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2634',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1322',
@@ -9545,6 +10616,8 @@ module.exports = {
 				Importe_Final: '3006.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2635',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1323',
@@ -9559,6 +10632,8 @@ module.exports = {
 				Importe_Final: '6012.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2630',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1324',
@@ -9573,6 +10648,8 @@ module.exports = {
 				Importe_Final: '2076.76',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2391',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1325',
@@ -9587,6 +10664,8 @@ module.exports = {
 				Importe_Final: '10220.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2636',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1326',
@@ -9601,6 +10680,8 @@ module.exports = {
 				Importe_Final: '2194.46',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2637',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1327',
@@ -9615,6 +10696,8 @@ module.exports = {
 				Importe_Final: '1860.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2638',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1328',
@@ -9629,6 +10712,8 @@ module.exports = {
 				Importe_Final: '6590.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2642',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1329',
@@ -9643,6 +10728,8 @@ module.exports = {
 				Importe_Final: '11250.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2352',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1330',
@@ -9657,6 +10744,8 @@ module.exports = {
 				Importe_Final: '1098.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2643',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1331',
@@ -9671,6 +10760,8 @@ module.exports = {
 				Importe_Final: '5602.79',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2644',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1332',
@@ -9685,6 +10776,8 @@ module.exports = {
 				Importe_Final: '5209.04',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2645',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1333',
@@ -9699,6 +10792,8 @@ module.exports = {
 				Importe_Final: '3627.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2646',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1334',
@@ -9713,6 +10808,8 @@ module.exports = {
 				Importe_Final: '5400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2639',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1335',
@@ -9727,6 +10824,8 @@ module.exports = {
 				Importe_Final: '2647.60',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '1980',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1336',
@@ -9742,6 +10841,8 @@ module.exports = {
 				Importe_Final: '4674.89',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2302',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1337',
@@ -9756,6 +10857,8 @@ module.exports = {
 				Importe_Final: '3340.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2647',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1338',
@@ -9770,6 +10873,8 @@ module.exports = {
 				Importe_Final: '2705.40',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '1365',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1339',
@@ -9784,6 +10889,8 @@ module.exports = {
 				Importe_Final: '39016.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2641',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1340',
@@ -9798,6 +10905,8 @@ module.exports = {
 				Importe_Final: '702.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2643',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1341',
@@ -9812,6 +10921,8 @@ module.exports = {
 				Importe_Final: '3070.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2649',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1342',
@@ -9826,6 +10937,8 @@ module.exports = {
 				Importe_Final: '1900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2648',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1343',
@@ -9840,6 +10953,8 @@ module.exports = {
 				Importe_Final: '9785.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2277',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1344',
@@ -9854,6 +10969,8 @@ module.exports = {
 				Importe_Final: '10990.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2280',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1345',
@@ -9868,6 +10985,8 @@ module.exports = {
 				Importe_Final: '4969.21',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2650',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1346',
@@ -9882,6 +11001,8 @@ module.exports = {
 				Importe_Final: '4690.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2651',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1347',
@@ -9896,6 +11017,8 @@ module.exports = {
 				Importe_Final: '5630.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2652',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1348',
@@ -9910,6 +11033,8 @@ module.exports = {
 				Importe_Final: '4365.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2653',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1349',
@@ -9924,6 +11049,8 @@ module.exports = {
 				Importe_Final: '5067.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2654',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1350',
@@ -9938,6 +11065,8 @@ module.exports = {
 				Importe_Final: '6768.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2191',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1351',
@@ -9952,6 +11081,8 @@ module.exports = {
 				Importe_Final: '1737.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2622',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1352',
@@ -9966,6 +11097,8 @@ module.exports = {
 				Importe_Final: '1535.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2655',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1353',
@@ -9980,6 +11113,8 @@ module.exports = {
 				Importe_Final: '6760.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2657',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1354',
@@ -9994,6 +11129,8 @@ module.exports = {
 				Importe_Final: '9054.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2658',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1355',
@@ -10008,6 +11145,8 @@ module.exports = {
 				Importe_Final: '4410.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2659',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1356',
@@ -10022,6 +11161,8 @@ module.exports = {
 				Importe_Final: '7170.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2660',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1357',
@@ -10036,6 +11177,8 @@ module.exports = {
 				Importe_Final: '5130.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2661',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1358',
@@ -10050,6 +11193,8 @@ module.exports = {
 				Importe_Final: '6185.60',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2662',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1359',
@@ -10064,6 +11209,8 @@ module.exports = {
 				Importe_Final: '15684.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2663',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1360',
@@ -10078,6 +11225,8 @@ module.exports = {
 				Importe_Final: '3350.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2658',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1361',
@@ -10092,6 +11241,8 @@ module.exports = {
 				Importe_Final: '2456.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2507',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1362',
@@ -10106,6 +11257,8 @@ module.exports = {
 				Importe_Final: '5210.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2665',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1363',
@@ -10120,6 +11273,8 @@ module.exports = {
 				Importe_Final: '5466.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2666',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1364',
@@ -10134,6 +11289,8 @@ module.exports = {
 				Importe_Final: '5750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2667',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1365',
@@ -10148,6 +11305,8 @@ module.exports = {
 				Importe_Final: '5750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2668',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1366',
@@ -10162,6 +11321,8 @@ module.exports = {
 				Importe_Final: '7120.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2669',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1367',
@@ -10176,20 +11337,8 @@ module.exports = {
 				Importe_Final: '6700.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1368',
-				ID_Pedido: null,
-				Fecha: '2021-07-28 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'No quiso la colchoneta ',
-				Estado_Pago: 'Pago',
-				Importe: '2456.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '2456.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '1647',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1369',
@@ -10204,6 +11353,8 @@ module.exports = {
 				Importe_Final: '3200.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2008',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1370',
@@ -10218,6 +11369,8 @@ module.exports = {
 				Importe_Final: '5750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2670',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1371',
@@ -10232,6 +11385,8 @@ module.exports = {
 				Importe_Final: '9760.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2671',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1372',
@@ -10246,6 +11401,8 @@ module.exports = {
 				Importe_Final: '7930.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2672',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1373',
@@ -10260,6 +11417,8 @@ module.exports = {
 				Importe_Final: '5516.76',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2673',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1374',
@@ -10274,6 +11433,8 @@ module.exports = {
 				Importe_Final: '13556.77',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2674',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1375',
@@ -10288,6 +11449,8 @@ module.exports = {
 				Importe_Final: '7610.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2675',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1376',
@@ -10302,6 +11465,8 @@ module.exports = {
 				Importe_Final: '5750.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2676',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1377',
@@ -10316,6 +11481,8 @@ module.exports = {
 				Importe_Final: '4880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2677',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1378',
@@ -10330,6 +11497,8 @@ module.exports = {
 				Importe_Final: '4880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2678',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1379',
@@ -10344,6 +11513,8 @@ module.exports = {
 				Importe_Final: '500.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2507',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1380',
@@ -10358,6 +11529,8 @@ module.exports = {
 				Importe_Final: '4887.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2191',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1381',
@@ -10372,6 +11545,8 @@ module.exports = {
 				Importe_Final: '495.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2191',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1382',
@@ -10386,6 +11561,8 @@ module.exports = {
 				Importe_Final: '1674.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2679',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1383',
@@ -10400,6 +11577,8 @@ module.exports = {
 				Importe_Final: '0.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2679',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1384',
@@ -10414,6 +11593,8 @@ module.exports = {
 				Importe_Final: '3350.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2680',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1385',
@@ -10428,6 +11609,8 @@ module.exports = {
 				Importe_Final: '7570.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2681',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1386',
@@ -10442,6 +11625,8 @@ module.exports = {
 				Importe_Final: '990.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2682',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1387',
@@ -10456,6 +11641,8 @@ module.exports = {
 				Importe_Final: '13357.91',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2684',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1388',
@@ -10470,6 +11657,8 @@ module.exports = {
 				Importe_Final: '5629.23',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '861',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1389',
@@ -10484,6 +11673,8 @@ module.exports = {
 				Importe_Final: '5315.60',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2685',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1390',
@@ -10498,6 +11689,8 @@ module.exports = {
 				Importe_Final: '5415.79',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2686',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1391',
@@ -10512,6 +11705,8 @@ module.exports = {
 				Importe_Final: '5466.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2683',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1392',
@@ -10526,6 +11721,8 @@ module.exports = {
 				Importe_Final: '6336.61',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2687',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1393',
@@ -10540,6 +11737,8 @@ module.exports = {
 				Importe_Final: '8343.10',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '783',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1394',
@@ -10554,6 +11753,8 @@ module.exports = {
 				Importe_Final: '8784.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2688',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1395',
@@ -10568,6 +11769,8 @@ module.exports = {
 				Importe_Final: '5340.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2689',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1396',
@@ -10582,6 +11785,8 @@ module.exports = {
 				Importe_Final: '4330.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2690',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1397',
@@ -10596,6 +11801,8 @@ module.exports = {
 				Importe_Final: '3505.60',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2691',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1398',
@@ -10610,6 +11817,8 @@ module.exports = {
 				Importe_Final: '8230.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2692',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1399',
@@ -10624,6 +11833,8 @@ module.exports = {
 				Importe_Final: '3699.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2693',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1400',
@@ -10638,6 +11849,8 @@ module.exports = {
 				Importe_Final: '1300.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2695',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1401',
@@ -10652,6 +11865,8 @@ module.exports = {
 				Importe_Final: '7596.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2696',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1402',
@@ -10666,20 +11881,8 @@ module.exports = {
 				Importe_Final: '4392.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1403',
-				ID_Pedido: null,
-				Fecha: '2021-08-03 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Nunca respondio',
-				Estado_Pago: 'Pago',
-				Importe: '2647.60',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '2647.60',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2694',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1404',
@@ -10694,6 +11897,8 @@ module.exports = {
 				Importe_Final: '2110.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2664',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1405',
@@ -10708,6 +11913,8 @@ module.exports = {
 				Importe_Final: '5240.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2698',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1406',
@@ -10722,6 +11929,8 @@ module.exports = {
 				Importe_Final: '9620.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '55',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1407',
@@ -10736,6 +11945,8 @@ module.exports = {
 				Importe_Final: '7220.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2697',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1408',
@@ -10750,6 +11961,8 @@ module.exports = {
 				Importe_Final: '5400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2699',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1409',
@@ -10764,6 +11977,8 @@ module.exports = {
 				Importe_Final: '1.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2699',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1410',
@@ -10778,6 +11993,8 @@ module.exports = {
 				Importe_Final: '8748.37',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '783',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1411',
@@ -10792,6 +12009,8 @@ module.exports = {
 				Importe_Final: '5750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2700',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1412',
@@ -10806,6 +12025,8 @@ module.exports = {
 				Importe_Final: '4392.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2701',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1413',
@@ -10820,6 +12041,8 @@ module.exports = {
 				Importe_Final: '7650.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2702',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1414',
@@ -10834,6 +12057,8 @@ module.exports = {
 				Importe_Final: '5750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2682',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1415',
@@ -10848,6 +12073,8 @@ module.exports = {
 				Importe_Final: '6885.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2703',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1416',
@@ -10862,6 +12089,8 @@ module.exports = {
 				Importe_Final: '4880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2704',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1417',
@@ -10876,6 +12105,8 @@ module.exports = {
 				Importe_Final: '5175.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2652',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1418',
@@ -10890,6 +12121,8 @@ module.exports = {
 				Importe_Final: '5000.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2705',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1419',
@@ -10904,20 +12137,8 @@ module.exports = {
 				Importe_Final: '10750.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1420',
-				ID_Pedido: null,
-				Fecha: '2021-08-06 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'El cliente cambio de idea',
-				Estado_Pago: 'Pago',
-				Importe: '5750.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '5750.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2706',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1421',
@@ -10932,6 +12153,8 @@ module.exports = {
 				Importe_Final: '4880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2708',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1422',
@@ -10946,6 +12169,8 @@ module.exports = {
 				Importe_Final: '3890.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2707',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1423',
@@ -10960,6 +12185,8 @@ module.exports = {
 				Importe_Final: '5400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2709',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1424',
@@ -10974,6 +12201,8 @@ module.exports = {
 				Importe_Final: '16500.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2710',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1425',
@@ -10988,6 +12217,8 @@ module.exports = {
 				Importe_Final: '6480.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2711',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1426',
@@ -11002,6 +12233,8 @@ module.exports = {
 				Importe_Final: '5400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2713',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1427',
@@ -11016,6 +12249,8 @@ module.exports = {
 				Importe_Final: '6350.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2715',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1428',
@@ -11030,6 +12265,8 @@ module.exports = {
 				Importe_Final: '7930.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2716',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1429',
@@ -11044,6 +12281,8 @@ module.exports = {
 				Importe_Final: '5571.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '860',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1430',
@@ -11058,6 +12297,8 @@ module.exports = {
 				Importe_Final: '864.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2712',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1431',
@@ -11072,6 +12313,8 @@ module.exports = {
 				Importe_Final: '4330.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2717',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1432',
@@ -11086,6 +12329,8 @@ module.exports = {
 				Importe_Final: '5315.60',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2718',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1433',
@@ -11100,6 +12345,8 @@ module.exports = {
 				Importe_Final: '6120.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2720',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1435',
@@ -11114,6 +12361,8 @@ module.exports = {
 				Importe_Final: '6800.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2671',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1436',
@@ -11128,6 +12377,8 @@ module.exports = {
 				Importe_Final: '6780.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2722',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1437',
@@ -11142,6 +12393,8 @@ module.exports = {
 				Importe_Final: '5400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2723',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1438',
@@ -11156,6 +12409,8 @@ module.exports = {
 				Importe_Final: '1233.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2725',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1439',
@@ -11170,6 +12425,8 @@ module.exports = {
 				Importe_Final: '3400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2726',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1440',
@@ -11184,6 +12441,8 @@ module.exports = {
 				Importe_Final: '0.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2724',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1441',
@@ -11198,6 +12457,8 @@ module.exports = {
 				Importe_Final: '5586.77',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2727',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1442',
@@ -11212,6 +12473,8 @@ module.exports = {
 				Importe_Final: '675.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2727',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1443',
@@ -11226,6 +12489,8 @@ module.exports = {
 				Importe_Final: '5466.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2719',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1444',
@@ -11240,6 +12505,8 @@ module.exports = {
 				Importe_Final: '5750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1193',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1445',
@@ -11254,6 +12521,8 @@ module.exports = {
 				Importe_Final: '550.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2508',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1446',
@@ -11268,6 +12537,8 @@ module.exports = {
 				Importe_Final: '1737.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1737',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1447',
@@ -11282,6 +12553,8 @@ module.exports = {
 				Importe_Final: '495.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1737',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1448',
@@ -11296,6 +12569,8 @@ module.exports = {
 				Importe_Final: '3004.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2593',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1449',
@@ -11310,6 +12585,8 @@ module.exports = {
 				Importe_Final: '8976.77',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2267',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1450',
@@ -11324,6 +12601,8 @@ module.exports = {
 				Importe_Final: '5175.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2728',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1451',
@@ -11338,6 +12617,8 @@ module.exports = {
 				Importe_Final: '3545.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '733',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1452',
@@ -11352,6 +12633,8 @@ module.exports = {
 				Importe_Final: '1350.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2692',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1453',
@@ -11366,6 +12649,8 @@ module.exports = {
 				Importe_Final: '3070.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2208',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1454',
@@ -11380,6 +12665,8 @@ module.exports = {
 				Importe_Final: '1107.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '720',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1455',
@@ -11394,6 +12681,8 @@ module.exports = {
 				Importe_Final: '1107.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2720',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1456',
@@ -11408,6 +12697,8 @@ module.exports = {
 				Importe_Final: '1830.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2730',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1457',
@@ -11422,6 +12713,8 @@ module.exports = {
 				Importe_Final: '4100.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2731',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1458',
@@ -11436,6 +12729,8 @@ module.exports = {
 				Importe_Final: '2110.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2729',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1459',
@@ -11450,6 +12745,8 @@ module.exports = {
 				Importe_Final: '4392.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2732',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1460',
@@ -11464,6 +12761,8 @@ module.exports = {
 				Importe_Final: '1690.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1921',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1461',
@@ -11478,20 +12777,8 @@ module.exports = {
 				Importe_Final: '1800.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1462',
-				ID_Pedido: null,
-				Fecha: '2021-08-17 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'NO RESPONDIO MAS',
-				Estado_Pago: 'Pago',
-				Importe: '39016.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '39016.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '81',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1463',
@@ -11506,6 +12793,8 @@ module.exports = {
 				Importe_Final: '6285.79',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2733',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1464',
@@ -11520,6 +12809,8 @@ module.exports = {
 				Importe_Final: '1950.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2734',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1465',
@@ -11534,6 +12825,8 @@ module.exports = {
 				Importe_Final: '14255.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2735',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1466',
@@ -11548,6 +12841,8 @@ module.exports = {
 				Importe_Final: '4410.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2736',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1467',
@@ -11562,6 +12857,8 @@ module.exports = {
 				Importe_Final: '6800.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2737',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1468',
@@ -11576,6 +12873,8 @@ module.exports = {
 				Importe_Final: '4392.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2739',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1469',
@@ -11590,20 +12889,8 @@ module.exports = {
 				Importe_Final: '10981.13',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1470',
-				ID_Pedido: null,
-				Fecha: '2021-08-19 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'El cliente abona por mercado pago',
-				Estado_Pago: 'Pago',
-				Importe: '4392.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '4392.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2740',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1471',
@@ -11618,6 +12905,8 @@ module.exports = {
 				Importe_Final: '4880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2739',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1472',
@@ -11632,6 +12921,8 @@ module.exports = {
 				Importe_Final: '25285.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2738',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1473',
@@ -11646,20 +12937,8 @@ module.exports = {
 				Importe_Final: '2713.50',
 				Tipo: 'fac',
 				Estado: 'c',
-			},
-			{
-				ID: '1474',
-				ID_Pedido: null,
-				Fecha: '2021-08-19 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Ya no la quiere.',
-				Estado_Pago: 'Pago',
-				Importe: '2705.40',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '2705.40',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2741',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1475',
@@ -11674,6 +12953,8 @@ module.exports = {
 				Importe_Final: '7430.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2742',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1476',
@@ -11688,6 +12969,8 @@ module.exports = {
 				Importe_Final: '4900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2743',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1477',
@@ -11702,6 +12985,8 @@ module.exports = {
 				Importe_Final: '9755.09',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2559',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1478',
@@ -11716,6 +13001,8 @@ module.exports = {
 				Importe_Final: '2713.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '812',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1479',
@@ -11730,6 +13017,8 @@ module.exports = {
 				Importe_Final: '5750.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2744',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1480',
@@ -11744,6 +13033,8 @@ module.exports = {
 				Importe_Final: '6285.79',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2745',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1481',
@@ -11758,6 +13049,8 @@ module.exports = {
 				Importe_Final: '5466.61',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2746',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1482',
@@ -11772,6 +13065,8 @@ module.exports = {
 				Importe_Final: '6084.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2747',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1483',
@@ -11786,6 +13081,8 @@ module.exports = {
 				Importe_Final: '6839.86',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2748',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1484',
@@ -11800,6 +13097,8 @@ module.exports = {
 				Importe_Final: '4880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2749',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1485',
@@ -11814,6 +13113,8 @@ module.exports = {
 				Importe_Final: '4430.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2485',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1486',
@@ -11828,6 +13129,8 @@ module.exports = {
 				Importe_Final: '5179.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2752',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1487',
@@ -11842,6 +13145,8 @@ module.exports = {
 				Importe_Final: '2713.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2750',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1488',
@@ -11856,6 +13161,8 @@ module.exports = {
 				Importe_Final: '12252.56',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2753',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1489',
@@ -11870,6 +13177,8 @@ module.exports = {
 				Importe_Final: '8194.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2751',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1490',
@@ -11884,6 +13193,8 @@ module.exports = {
 				Importe_Final: '215925.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2252',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1491',
@@ -11898,6 +13209,8 @@ module.exports = {
 				Importe_Final: '1500.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2753',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1492',
@@ -11912,6 +13225,8 @@ module.exports = {
 				Importe_Final: '990.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2754',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1493',
@@ -11926,6 +13241,8 @@ module.exports = {
 				Importe_Final: '4880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2755',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1494',
@@ -11940,6 +13257,8 @@ module.exports = {
 				Importe_Final: '2713.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2350',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1495',
@@ -11954,6 +13273,8 @@ module.exports = {
 				Importe_Final: '43061.76',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2756',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1496',
@@ -11968,6 +13289,8 @@ module.exports = {
 				Importe_Final: '29109.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '112',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1497',
@@ -11982,6 +13305,8 @@ module.exports = {
 				Importe_Final: '1710.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2751',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1498',
@@ -11996,6 +13321,8 @@ module.exports = {
 				Importe_Final: '580.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '112',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1499',
@@ -12010,6 +13337,8 @@ module.exports = {
 				Importe_Final: '2340.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2750',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1500',
@@ -12024,6 +13353,8 @@ module.exports = {
 				Importe_Final: '1690.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2385',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1501',
@@ -12038,6 +13369,8 @@ module.exports = {
 				Importe_Final: '4149.86',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2757',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1502',
@@ -12052,6 +13385,8 @@ module.exports = {
 				Importe_Final: '5175.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2759',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1503',
@@ -12066,6 +13401,8 @@ module.exports = {
 				Importe_Final: '24972.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2758',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1504',
@@ -12080,6 +13417,8 @@ module.exports = {
 				Importe_Final: '6420.54',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2760',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1505',
@@ -12094,6 +13433,8 @@ module.exports = {
 				Importe_Final: '7890.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2761',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1506',
@@ -12108,6 +13449,8 @@ module.exports = {
 				Importe_Final: '5059.21',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2309',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1507',
@@ -12122,6 +13465,8 @@ module.exports = {
 				Importe_Final: '6905.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2255',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1508',
@@ -12136,6 +13481,8 @@ module.exports = {
 				Importe_Final: '4392.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2762',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1509',
@@ -12150,6 +13497,8 @@ module.exports = {
 				Importe_Final: '5175.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2763',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1510',
@@ -12164,6 +13513,8 @@ module.exports = {
 				Importe_Final: '6185.60',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2764',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1511',
@@ -12178,6 +13529,8 @@ module.exports = {
 				Importe_Final: '5750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2678',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1512',
@@ -12192,6 +13545,8 @@ module.exports = {
 				Importe_Final: '5130.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2678',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1513',
@@ -12206,6 +13561,8 @@ module.exports = {
 				Importe_Final: '6429.70',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2765',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1514',
@@ -12220,6 +13577,8 @@ module.exports = {
 				Importe_Final: '5400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2766',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1515',
@@ -12234,6 +13593,8 @@ module.exports = {
 				Importe_Final: '4100.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2767',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1516',
@@ -12248,6 +13609,8 @@ module.exports = {
 				Importe_Final: '5175.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2750',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1517',
@@ -12262,6 +13625,8 @@ module.exports = {
 				Importe_Final: '1920.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2768',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1518',
@@ -12276,6 +13641,8 @@ module.exports = {
 				Importe_Final: '4300.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2769',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1519',
@@ -12290,6 +13657,8 @@ module.exports = {
 				Importe_Final: '5400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2770',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1520',
@@ -12304,6 +13673,8 @@ module.exports = {
 				Importe_Final: '2293.16',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2771',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1521',
@@ -12318,6 +13689,8 @@ module.exports = {
 				Importe_Final: '1460.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '281',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1522',
@@ -12332,6 +13705,8 @@ module.exports = {
 				Importe_Final: '7240.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '38',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1523',
@@ -12346,6 +13721,8 @@ module.exports = {
 				Importe_Final: '810.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2758',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1524',
@@ -12360,6 +13737,8 @@ module.exports = {
 				Importe_Final: '6999.21',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2772',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1525',
@@ -12374,6 +13753,8 @@ module.exports = {
 				Importe_Final: '5750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2773',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1526',
@@ -12388,6 +13769,8 @@ module.exports = {
 				Importe_Final: '8873.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2280',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1527',
@@ -12402,6 +13785,8 @@ module.exports = {
 				Importe_Final: '2830.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2775',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1528',
@@ -12416,6 +13801,8 @@ module.exports = {
 				Importe_Final: '3610.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1985',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1529',
@@ -12430,6 +13817,8 @@ module.exports = {
 				Importe_Final: '1940.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1834',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1530',
@@ -12444,6 +13833,8 @@ module.exports = {
 				Importe_Final: '3249.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2776',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1531',
@@ -12458,6 +13849,8 @@ module.exports = {
 				Importe_Final: '2690.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2777',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1532',
@@ -12472,6 +13865,8 @@ module.exports = {
 				Importe_Final: '4900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2399',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1533',
@@ -12486,6 +13881,8 @@ module.exports = {
 				Importe_Final: '1692.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2751',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1534',
@@ -12500,6 +13897,8 @@ module.exports = {
 				Importe_Final: '7947.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2774',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1535',
@@ -12514,6 +13913,8 @@ module.exports = {
 				Importe_Final: '37206.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2774',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1536',
@@ -12528,6 +13929,8 @@ module.exports = {
 				Importe_Final: '3380.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2779',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1537',
@@ -12542,6 +13945,8 @@ module.exports = {
 				Importe_Final: '5175.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2123',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1538',
@@ -12556,6 +13961,8 @@ module.exports = {
 				Importe_Final: '1370.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2780',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1539',
@@ -12570,6 +13977,8 @@ module.exports = {
 				Importe_Final: '1600.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2778',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1540',
@@ -12584,6 +13993,8 @@ module.exports = {
 				Importe_Final: '6157.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2749',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1541',
@@ -12598,6 +14009,8 @@ module.exports = {
 				Importe_Final: '5400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2781',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1542',
@@ -12612,6 +14025,8 @@ module.exports = {
 				Importe_Final: '10720.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2782',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1543',
@@ -12626,6 +14041,8 @@ module.exports = {
 				Importe_Final: '2880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2102',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1544',
@@ -12640,6 +14057,8 @@ module.exports = {
 				Importe_Final: '3660.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2500',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1545',
@@ -12654,6 +14073,8 @@ module.exports = {
 				Importe_Final: '3200.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2670',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1546',
@@ -12668,6 +14089,8 @@ module.exports = {
 				Importe_Final: '5895.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2783',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1547',
@@ -12682,6 +14105,8 @@ module.exports = {
 				Importe_Final: '3859.21',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2784',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1548',
@@ -12696,6 +14121,8 @@ module.exports = {
 				Importe_Final: '3870.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2785',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1549',
@@ -12710,6 +14137,8 @@ module.exports = {
 				Importe_Final: '8820.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2786',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1550',
@@ -12724,6 +14153,8 @@ module.exports = {
 				Importe_Final: '6400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2749',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1551',
@@ -12738,6 +14169,8 @@ module.exports = {
 				Importe_Final: '1920.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1626',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1552',
@@ -12752,6 +14185,8 @@ module.exports = {
 				Importe_Final: '2880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2102',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1553',
@@ -12766,6 +14201,8 @@ module.exports = {
 				Importe_Final: '4100.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2787',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1554',
@@ -12780,6 +14217,8 @@ module.exports = {
 				Importe_Final: '5400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2788',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1555',
@@ -12794,6 +14233,8 @@ module.exports = {
 				Importe_Final: '15451.98',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2789',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1556',
@@ -12808,6 +14249,8 @@ module.exports = {
 				Importe_Final: '8950.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2324',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1557',
@@ -12822,6 +14265,8 @@ module.exports = {
 				Importe_Final: '1460.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2790',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1558',
@@ -12836,6 +14281,8 @@ module.exports = {
 				Importe_Final: '930.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1608',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1559',
@@ -12850,6 +14297,8 @@ module.exports = {
 				Importe_Final: '5995.79',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2791',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1560',
@@ -12864,6 +14313,8 @@ module.exports = {
 				Importe_Final: '1860.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1737',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1561',
@@ -12878,6 +14329,8 @@ module.exports = {
 				Importe_Final: '3796.77',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2792',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1562',
@@ -12892,6 +14345,8 @@ module.exports = {
 				Importe_Final: '5750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '932',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1563',
@@ -12906,6 +14361,8 @@ module.exports = {
 				Importe_Final: '3495.60',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2793',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1564',
@@ -12920,6 +14377,8 @@ module.exports = {
 				Importe_Final: '3450.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2590',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1565',
@@ -12934,6 +14393,8 @@ module.exports = {
 				Importe_Final: '5486.77',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2794',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1566',
@@ -12948,20 +14409,8 @@ module.exports = {
 				Importe_Final: '6150.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1567',
-				ID_Pedido: null,
-				Fecha: '2021-09-08 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Motivos varios',
-				Estado_Pago: 'Pago',
-				Importe: '5750.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '5750.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2744',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1568',
@@ -12976,6 +14425,8 @@ module.exports = {
 				Importe_Final: '3200.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2795',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1569',
@@ -12990,6 +14441,8 @@ module.exports = {
 				Importe_Final: '11505.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2386',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1570',
@@ -13004,6 +14457,8 @@ module.exports = {
 				Importe_Final: '7496.33',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2796',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1571',
@@ -13018,6 +14473,8 @@ module.exports = {
 				Importe_Final: '6658.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2593',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1572',
@@ -13032,6 +14489,8 @@ module.exports = {
 				Importe_Final: '15510.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2797',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1573',
@@ -13046,6 +14505,8 @@ module.exports = {
 				Importe_Final: '5140.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2277',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1574',
@@ -13060,6 +14521,8 @@ module.exports = {
 				Importe_Final: '4880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2798',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1575',
@@ -13074,6 +14537,8 @@ module.exports = {
 				Importe_Final: '39130.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2799',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1576',
@@ -13088,6 +14553,8 @@ module.exports = {
 				Importe_Final: '5175.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1808',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1577',
@@ -13102,6 +14569,8 @@ module.exports = {
 				Importe_Final: '4026.94',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2801',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1578',
@@ -13116,6 +14585,8 @@ module.exports = {
 				Importe_Final: '3200.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2678',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1580',
@@ -13130,6 +14601,8 @@ module.exports = {
 				Importe_Final: '5750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2803',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1581',
@@ -13144,6 +14617,8 @@ module.exports = {
 				Importe_Final: '747.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1613',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1582',
@@ -13158,6 +14633,8 @@ module.exports = {
 				Importe_Final: '2040.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2568',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1583',
@@ -13172,6 +14649,8 @@ module.exports = {
 				Importe_Final: '1894.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2805',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1584',
@@ -13186,6 +14665,8 @@ module.exports = {
 				Importe_Final: '4392.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2806',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1585',
@@ -13200,6 +14681,8 @@ module.exports = {
 				Importe_Final: '4072.65',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2756',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1586',
@@ -13214,6 +14697,8 @@ module.exports = {
 				Importe_Final: '1860.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2804',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1587',
@@ -13228,6 +14713,8 @@ module.exports = {
 				Importe_Final: '2680.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2807',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1588',
@@ -13242,20 +14729,8 @@ module.exports = {
 				Importe_Final: '4980.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1589',
-				ID_Pedido: null,
-				Fecha: '2021-09-11 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Se suman productos a la venta',
-				Estado_Pago: 'Pago',
-				Importe: '1692.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '1692.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '1440',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1590',
@@ -13270,6 +14745,8 @@ module.exports = {
 				Importe_Final: '2439.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2751',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1591',
@@ -13284,6 +14761,8 @@ module.exports = {
 				Importe_Final: '3070.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2808',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1592',
@@ -13298,6 +14777,8 @@ module.exports = {
 				Importe_Final: '9164.97',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2809',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1593',
@@ -13312,6 +14793,8 @@ module.exports = {
 				Importe_Final: '8350.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2810',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1594',
@@ -13326,6 +14809,8 @@ module.exports = {
 				Importe_Final: '1080.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2811',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1595',
@@ -13340,6 +14825,8 @@ module.exports = {
 				Importe_Final: '4380.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2812',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1596',
@@ -13354,6 +14841,8 @@ module.exports = {
 				Importe_Final: '5630.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2528',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1597',
@@ -13368,6 +14857,8 @@ module.exports = {
 				Importe_Final: '4011.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2813',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1598',
@@ -13382,6 +14873,8 @@ module.exports = {
 				Importe_Final: '2393.35',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2814',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1599',
@@ -13396,6 +14889,8 @@ module.exports = {
 				Importe_Final: '3778.62',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2815',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1600',
@@ -13410,6 +14905,8 @@ module.exports = {
 				Importe_Final: '830.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2528',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1601',
@@ -13424,6 +14921,8 @@ module.exports = {
 				Importe_Final: '747.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '46',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1602',
@@ -13438,6 +14937,8 @@ module.exports = {
 				Importe_Final: '7710.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2817',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1603',
@@ -13452,6 +14953,8 @@ module.exports = {
 				Importe_Final: '1920.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2678',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1604',
@@ -13466,6 +14969,8 @@ module.exports = {
 				Importe_Final: '747.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2818',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1605',
@@ -13480,6 +14985,8 @@ module.exports = {
 				Importe_Final: '1910.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2756',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1606',
@@ -13494,6 +15001,8 @@ module.exports = {
 				Importe_Final: '10632.65',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2696',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1607',
@@ -13508,6 +15017,8 @@ module.exports = {
 				Importe_Final: '6480.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2816',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1608',
@@ -13522,6 +15033,8 @@ module.exports = {
 				Importe_Final: '6282.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2819',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1609',
@@ -13536,6 +15049,8 @@ module.exports = {
 				Importe_Final: '1354.17',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2820',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1610',
@@ -13550,6 +15065,8 @@ module.exports = {
 				Importe_Final: '1660.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2472',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1611',
@@ -13564,6 +15081,8 @@ module.exports = {
 				Importe_Final: '3360.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1510',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1612',
@@ -13578,6 +15097,8 @@ module.exports = {
 				Importe_Final: '5415.79',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2822',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1613',
@@ -13592,6 +15113,8 @@ module.exports = {
 				Importe_Final: '5175.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2823',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1614',
@@ -13606,6 +15129,8 @@ module.exports = {
 				Importe_Final: '17600.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2824',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1615',
@@ -13620,6 +15145,8 @@ module.exports = {
 				Importe_Final: '5750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2344',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1616',
@@ -13634,6 +15161,8 @@ module.exports = {
 				Importe_Final: '5750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2825',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1617',
@@ -13648,6 +15177,8 @@ module.exports = {
 				Importe_Final: '12193.59',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2760',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1618',
@@ -13662,6 +15193,8 @@ module.exports = {
 				Importe_Final: '5315.60',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2826',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1619',
@@ -13676,6 +15209,8 @@ module.exports = {
 				Importe_Final: '2630.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2573',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1620',
@@ -13690,20 +15225,8 @@ module.exports = {
 				Importe_Final: '610.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1621',
-				ID_Pedido: null,
-				Fecha: '2021-09-17 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'La clienta cambio el color del producto',
-				Estado_Pago: 'Pago',
-				Importe: '12193.59',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '12193.59',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '773',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1622',
@@ -13718,6 +15241,8 @@ module.exports = {
 				Importe_Final: '2208.94',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2827',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1623',
@@ -13732,6 +15257,8 @@ module.exports = {
 				Importe_Final: '12193.59',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2760',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1624',
@@ -13746,6 +15273,8 @@ module.exports = {
 				Importe_Final: '4880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2828',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1625',
@@ -13760,6 +15289,8 @@ module.exports = {
 				Importe_Final: '4185.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2568',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1626',
@@ -13774,6 +15305,8 @@ module.exports = {
 				Importe_Final: '8010.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1007',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1627',
@@ -13788,6 +15321,8 @@ module.exports = {
 				Importe_Final: '960.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2472',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1628',
@@ -13802,6 +15337,8 @@ module.exports = {
 				Importe_Final: '11880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2829',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1629',
@@ -13816,6 +15353,8 @@ module.exports = {
 				Importe_Final: '5230.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2831',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1630',
@@ -13830,6 +15369,8 @@ module.exports = {
 				Importe_Final: '5750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2832',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1631',
@@ -13844,6 +15385,8 @@ module.exports = {
 				Importe_Final: '14280.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2833',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1632',
@@ -13858,6 +15401,8 @@ module.exports = {
 				Importe_Final: '6185.60',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2830',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1633',
@@ -13872,20 +15417,8 @@ module.exports = {
 				Importe_Final: '4410.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1634',
-				ID_Pedido: null,
-				Fecha: '2021-09-20 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'se vuelve a gestionar para aplicar descuento',
-				Estado_Pago: 'Pago',
-				Importe: '39130.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '39130.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2675',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1635',
@@ -13900,6 +15433,8 @@ module.exports = {
 				Importe_Final: '39091.76',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2799',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1636',
@@ -13914,6 +15449,8 @@ module.exports = {
 				Importe_Final: '4392.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2834',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1637',
@@ -13928,6 +15465,8 @@ module.exports = {
 				Importe_Final: '5238.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2836',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1638',
@@ -13942,6 +15481,8 @@ module.exports = {
 				Importe_Final: '7065.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1994',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1639',
@@ -13956,6 +15497,8 @@ module.exports = {
 				Importe_Final: '1460.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2835',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1640',
@@ -13970,6 +15513,8 @@ module.exports = {
 				Importe_Final: '6970.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '298',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1641',
@@ -13984,6 +15529,8 @@ module.exports = {
 				Importe_Final: '6185.60',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2837',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1642',
@@ -13998,6 +15545,8 @@ module.exports = {
 				Importe_Final: '3920.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '889',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1643',
@@ -14012,6 +15561,8 @@ module.exports = {
 				Importe_Final: '1450.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2838',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1644',
@@ -14026,6 +15577,8 @@ module.exports = {
 				Importe_Final: '3870.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2171',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1645',
@@ -14040,6 +15593,8 @@ module.exports = {
 				Importe_Final: '4100.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2839',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1646',
@@ -14054,6 +15609,8 @@ module.exports = {
 				Importe_Final: '4536.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2840',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1647',
@@ -14068,6 +15625,8 @@ module.exports = {
 				Importe_Final: '14790.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2252',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1648',
@@ -14082,6 +15641,8 @@ module.exports = {
 				Importe_Final: '40080.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2252',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1649',
@@ -14096,6 +15657,8 @@ module.exports = {
 				Importe_Final: '12699.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2754',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1650',
@@ -14110,6 +15673,8 @@ module.exports = {
 				Importe_Final: '0.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2842',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1651',
@@ -14124,6 +15689,8 @@ module.exports = {
 				Importe_Final: '5820.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2841',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1652',
@@ -14138,6 +15705,8 @@ module.exports = {
 				Importe_Final: '4810.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2821',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1653',
@@ -14152,6 +15721,8 @@ module.exports = {
 				Importe_Final: '6750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2843',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1654',
@@ -14166,6 +15737,8 @@ module.exports = {
 				Importe_Final: '2610.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2844',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1655',
@@ -14180,6 +15753,8 @@ module.exports = {
 				Importe_Final: '1220.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2489',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1656',
@@ -14194,6 +15769,8 @@ module.exports = {
 				Importe_Final: '2203.85',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2846',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1657',
@@ -14208,6 +15785,8 @@ module.exports = {
 				Importe_Final: '4900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1855',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1658',
@@ -14222,20 +15801,8 @@ module.exports = {
 				Importe_Final: '5400.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1659',
-				ID_Pedido: null,
-				Fecha: '2021-09-27 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Ya no lo quiere ',
-				Estado_Pago: 'Pago',
-				Importe: '3249.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '3249.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2847',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1660',
@@ -14250,6 +15817,8 @@ module.exports = {
 				Importe_Final: '4100.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2839',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1661',
@@ -14264,6 +15833,8 @@ module.exports = {
 				Importe_Final: '4880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2849',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1662',
@@ -14278,6 +15849,8 @@ module.exports = {
 				Importe_Final: '10630.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2850',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1663',
@@ -14292,6 +15865,8 @@ module.exports = {
 				Importe_Final: '9550.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2457',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1664',
@@ -14306,6 +15881,8 @@ module.exports = {
 				Importe_Final: '3190.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2374',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1665',
@@ -14320,6 +15897,8 @@ module.exports = {
 				Importe_Final: '14670.85',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2852',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1666',
@@ -14334,6 +15913,8 @@ module.exports = {
 				Importe_Final: '6120.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2324',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1667',
@@ -14348,6 +15929,8 @@ module.exports = {
 				Importe_Final: '6750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2853',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1668',
@@ -14362,6 +15945,8 @@ module.exports = {
 				Importe_Final: '4990.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2854',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1669',
@@ -14376,6 +15961,8 @@ module.exports = {
 				Importe_Final: '5448.77',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2855',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1670',
@@ -14390,6 +15977,8 @@ module.exports = {
 				Importe_Final: '15119.21',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2621',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1671',
@@ -14404,6 +15993,8 @@ module.exports = {
 				Importe_Final: '8495.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2856',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1672',
@@ -14418,6 +16009,8 @@ module.exports = {
 				Importe_Final: '1750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2855',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1673',
@@ -14432,6 +16025,8 @@ module.exports = {
 				Importe_Final: '2083.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2794',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1674',
@@ -14446,6 +16041,8 @@ module.exports = {
 				Importe_Final: '9510.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2858',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1675',
@@ -14460,6 +16057,8 @@ module.exports = {
 				Importe_Final: '5790.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2859',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1676',
@@ -14474,6 +16073,8 @@ module.exports = {
 				Importe_Final: '1368.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2800',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1677',
@@ -14488,6 +16089,8 @@ module.exports = {
 				Importe_Final: '2880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2800',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1678',
@@ -14502,6 +16105,8 @@ module.exports = {
 				Importe_Final: '6720.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2861',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1679',
@@ -14516,6 +16121,8 @@ module.exports = {
 				Importe_Final: '1690.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2862',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1680',
@@ -14530,6 +16137,8 @@ module.exports = {
 				Importe_Final: '7200.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1446',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1681',
@@ -14544,6 +16153,8 @@ module.exports = {
 				Importe_Final: '6243.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2863',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1682',
@@ -14558,6 +16169,8 @@ module.exports = {
 				Importe_Final: '5400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2860',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1683',
@@ -14572,6 +16185,8 @@ module.exports = {
 				Importe_Final: '5750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2864',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1684',
@@ -14586,6 +16201,8 @@ module.exports = {
 				Importe_Final: '6000.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2865',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1685',
@@ -14600,6 +16217,8 @@ module.exports = {
 				Importe_Final: '2920.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2821',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1686',
@@ -14614,6 +16233,8 @@ module.exports = {
 				Importe_Final: '5750.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2866',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1687',
@@ -14628,6 +16249,8 @@ module.exports = {
 				Importe_Final: '2240.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1991',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1688',
@@ -14642,6 +16265,8 @@ module.exports = {
 				Importe_Final: '8410.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2867',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1689',
@@ -14656,6 +16281,8 @@ module.exports = {
 				Importe_Final: '8680.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2868',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1690',
@@ -14670,6 +16297,8 @@ module.exports = {
 				Importe_Final: '1470.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1767',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1691',
@@ -14684,6 +16313,8 @@ module.exports = {
 				Importe_Final: '2773.35',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2221',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1692',
@@ -14698,6 +16329,8 @@ module.exports = {
 				Importe_Final: '10630.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2870',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1693',
@@ -14712,6 +16345,8 @@ module.exports = {
 				Importe_Final: '4880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2871',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1694',
@@ -14726,6 +16361,8 @@ module.exports = {
 				Importe_Final: '2134.17',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2869',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1695',
@@ -14740,6 +16377,8 @@ module.exports = {
 				Importe_Final: '4880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2872',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1696',
@@ -14754,6 +16393,8 @@ module.exports = {
 				Importe_Final: '3850.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2874',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1697',
@@ -14768,6 +16409,8 @@ module.exports = {
 				Importe_Final: '2560.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2873',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1698',
@@ -14782,6 +16425,8 @@ module.exports = {
 				Importe_Final: '5670.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2876',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1699',
@@ -14796,6 +16441,8 @@ module.exports = {
 				Importe_Final: '1920.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2876',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1700',
@@ -14810,6 +16457,8 @@ module.exports = {
 				Importe_Final: '14350.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2875',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1701',
@@ -14824,6 +16473,8 @@ module.exports = {
 				Importe_Final: '4100.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2879',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1702',
@@ -14838,6 +16489,8 @@ module.exports = {
 				Importe_Final: '5778.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2871',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1703',
@@ -14852,6 +16505,8 @@ module.exports = {
 				Importe_Final: '1960.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2871',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1704',
@@ -14866,6 +16521,8 @@ module.exports = {
 				Importe_Final: '3840.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2128',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1705',
@@ -14880,6 +16537,8 @@ module.exports = {
 				Importe_Final: '3230.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2871',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1706',
@@ -14894,6 +16553,8 @@ module.exports = {
 				Importe_Final: '3820.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2880',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1707',
@@ -14908,6 +16569,8 @@ module.exports = {
 				Importe_Final: '2682.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2881',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1708',
@@ -14922,6 +16585,8 @@ module.exports = {
 				Importe_Final: '415.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2857',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1709',
@@ -14936,6 +16601,8 @@ module.exports = {
 				Importe_Final: '4224.17',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2882',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1710',
@@ -14950,6 +16617,8 @@ module.exports = {
 				Importe_Final: '9416.77',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1951',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1711',
@@ -14964,6 +16633,8 @@ module.exports = {
 				Importe_Final: '4100.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2883',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1712',
@@ -14978,6 +16649,8 @@ module.exports = {
 				Importe_Final: '2300.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2884',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1713',
@@ -14992,6 +16665,8 @@ module.exports = {
 				Importe_Final: '1370.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2489',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1714',
@@ -15006,6 +16681,8 @@ module.exports = {
 				Importe_Final: '10519.21',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2696',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1715',
@@ -15020,6 +16697,8 @@ module.exports = {
 				Importe_Final: '2080.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2604',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1716',
@@ -15034,6 +16713,8 @@ module.exports = {
 				Importe_Final: '1768.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2885',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1717',
@@ -15048,6 +16729,8 @@ module.exports = {
 				Importe_Final: '5211.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2886',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1718',
@@ -15062,6 +16745,8 @@ module.exports = {
 				Importe_Final: '3900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '130',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1719',
@@ -15076,6 +16761,8 @@ module.exports = {
 				Importe_Final: '3168.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1446',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1720',
@@ -15090,6 +16777,8 @@ module.exports = {
 				Importe_Final: '1584.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2135',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1721',
@@ -15104,6 +16793,8 @@ module.exports = {
 				Importe_Final: '1134.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2877',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1722',
@@ -15118,6 +16809,8 @@ module.exports = {
 				Importe_Final: '1860.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2887',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1723',
@@ -15132,6 +16825,8 @@ module.exports = {
 				Importe_Final: '4940.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1510',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1724',
@@ -15146,6 +16841,8 @@ module.exports = {
 				Importe_Final: '1760.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1919',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1725',
@@ -15160,6 +16857,8 @@ module.exports = {
 				Importe_Final: '3907.34',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '849',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1726',
@@ -15174,6 +16873,8 @@ module.exports = {
 				Importe_Final: '567.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2877',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1727',
@@ -15188,6 +16889,8 @@ module.exports = {
 				Importe_Final: '5790.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2888',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1728',
@@ -15202,6 +16905,8 @@ module.exports = {
 				Importe_Final: '1760.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '153',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1729',
@@ -15216,6 +16921,8 @@ module.exports = {
 				Importe_Final: '6714.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2630',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1730',
@@ -15230,6 +16937,8 @@ module.exports = {
 				Importe_Final: '2210.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2888',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1731',
@@ -15244,6 +16953,8 @@ module.exports = {
 				Importe_Final: '11340.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2889',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1732',
@@ -15258,6 +16969,8 @@ module.exports = {
 				Importe_Final: '4710.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '76',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1733',
@@ -15272,6 +16985,8 @@ module.exports = {
 				Importe_Final: '2710.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '76',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1734',
@@ -15286,6 +17001,8 @@ module.exports = {
 				Importe_Final: '6498.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1446',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1735',
@@ -15300,6 +17017,8 @@ module.exports = {
 				Importe_Final: '1610.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2890',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1736',
@@ -15314,6 +17033,8 @@ module.exports = {
 				Importe_Final: '1764.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '81',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1737',
@@ -15328,6 +17049,8 @@ module.exports = {
 				Importe_Final: '5400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2891',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1738',
@@ -15342,6 +17065,8 @@ module.exports = {
 				Importe_Final: '6067.25',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2892',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1739',
@@ -15356,6 +17081,8 @@ module.exports = {
 				Importe_Final: '15314.39',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '996',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1740',
@@ -15370,6 +17097,8 @@ module.exports = {
 				Importe_Final: '2605.64',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2893',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1741',
@@ -15384,6 +17113,8 @@ module.exports = {
 				Importe_Final: '3593.16',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2894',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1742',
@@ -15398,6 +17129,8 @@ module.exports = {
 				Importe_Final: '2023.95',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2895',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1743',
@@ -15412,6 +17145,8 @@ module.exports = {
 				Importe_Final: '6289.78',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2896',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1744',
@@ -15426,6 +17161,8 @@ module.exports = {
 				Importe_Final: '5211.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2059',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1745',
@@ -15440,6 +17177,8 @@ module.exports = {
 				Importe_Final: '6148.85',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2897',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1746',
@@ -15454,6 +17193,8 @@ module.exports = {
 				Importe_Final: '5220.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2874',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1747',
@@ -15468,6 +17209,8 @@ module.exports = {
 				Importe_Final: '5790.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2898',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1748',
@@ -15482,6 +17225,8 @@ module.exports = {
 				Importe_Final: '3078.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2892',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1749',
@@ -15496,6 +17241,8 @@ module.exports = {
 				Importe_Final: '2023.95',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2901',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1750',
@@ -15510,6 +17257,8 @@ module.exports = {
 				Importe_Final: '9756.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2420',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1751',
@@ -15524,6 +17273,8 @@ module.exports = {
 				Importe_Final: '4411.68',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2901',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1752',
@@ -15538,6 +17289,8 @@ module.exports = {
 				Importe_Final: '5174.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2907',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1753',
@@ -15552,6 +17305,8 @@ module.exports = {
 				Importe_Final: '2795.83',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2908',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1754',
@@ -15566,6 +17321,8 @@ module.exports = {
 				Importe_Final: '6800.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '37',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1755',
@@ -15580,6 +17337,8 @@ module.exports = {
 				Importe_Final: '2380.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2905',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1756',
@@ -15594,6 +17353,8 @@ module.exports = {
 				Importe_Final: '2661.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2906',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1757',
@@ -15608,6 +17369,8 @@ module.exports = {
 				Importe_Final: '2727.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2910',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1758',
@@ -15622,6 +17385,8 @@ module.exports = {
 				Importe_Final: '5400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2899',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1759',
@@ -15636,6 +17401,8 @@ module.exports = {
 				Importe_Final: '4100.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2900',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1760',
@@ -15650,6 +17417,8 @@ module.exports = {
 				Importe_Final: '4100.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2911',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1761',
@@ -15664,6 +17433,8 @@ module.exports = {
 				Importe_Final: '2661.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2909',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1762',
@@ -15678,6 +17449,8 @@ module.exports = {
 				Importe_Final: '5241.68',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2912',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1763',
@@ -15692,6 +17465,8 @@ module.exports = {
 				Importe_Final: '1980.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2903',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1764',
@@ -15706,6 +17481,8 @@ module.exports = {
 				Importe_Final: '6120.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2913',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1765',
@@ -15720,6 +17497,8 @@ module.exports = {
 				Importe_Final: '5400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2914',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1766',
@@ -15734,6 +17513,8 @@ module.exports = {
 				Importe_Final: '5400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2915',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1767',
@@ -15748,6 +17529,8 @@ module.exports = {
 				Importe_Final: '1028.38',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2192',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1768',
@@ -15762,6 +17545,8 @@ module.exports = {
 				Importe_Final: '5996.25',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2917',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1769',
@@ -15776,34 +17561,8 @@ module.exports = {
 				Importe_Final: '2700.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1770',
-				ID_Pedido: null,
-				Fecha: '2021-10-21 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'se vuelve a gestionar la venta',
-				Estado_Pago: 'Pago',
-				Importe: '567.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '567.00',
-				Tipo: 'nc',
-				Estado: 'v',
-			},
-			{
-				ID: '1771',
-				ID_Pedido: null,
-				Fecha: '2021-10-21 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'se vuelve a gestionar la venta',
-				Estado_Pago: 'Pago',
-				Importe: '1134.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '1134.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2916',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1772',
@@ -15818,6 +17577,8 @@ module.exports = {
 				Importe_Final: '2270.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2877',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1773',
@@ -15832,6 +17593,8 @@ module.exports = {
 				Importe_Final: '6030.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1612',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1774',
@@ -15846,6 +17609,8 @@ module.exports = {
 				Importe_Final: '2380.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2919',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1775',
@@ -15860,6 +17625,8 @@ module.exports = {
 				Importe_Final: '3000.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2920',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1776',
@@ -15874,6 +17641,8 @@ module.exports = {
 				Importe_Final: '2620.64',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2921',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1777',
@@ -15888,6 +17657,8 @@ module.exports = {
 				Importe_Final: '2793.09',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2918',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1778',
@@ -15902,6 +17673,8 @@ module.exports = {
 				Importe_Final: '2340.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2922',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1779',
@@ -15916,6 +17689,8 @@ module.exports = {
 				Importe_Final: '2630.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2798',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1780',
@@ -15930,6 +17705,8 @@ module.exports = {
 				Importe_Final: '3000.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2678',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1781',
@@ -15944,6 +17721,8 @@ module.exports = {
 				Importe_Final: '2600.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1742',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1782',
@@ -15958,6 +17737,8 @@ module.exports = {
 				Importe_Final: '2380.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2256',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1783',
@@ -15972,6 +17753,8 @@ module.exports = {
 				Importe_Final: '6225.60',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1972',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1784',
@@ -15986,6 +17769,8 @@ module.exports = {
 				Importe_Final: '2380.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2923',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1785',
@@ -16000,6 +17785,8 @@ module.exports = {
 				Importe_Final: '6600.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1672',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1786',
@@ -16014,6 +17801,8 @@ module.exports = {
 				Importe_Final: '2099.16',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2140',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1787',
@@ -16028,6 +17817,8 @@ module.exports = {
 				Importe_Final: '3132.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2596',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1788',
@@ -16042,6 +17833,8 @@ module.exports = {
 				Importe_Final: '4940.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1742',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1789',
@@ -16056,6 +17849,8 @@ module.exports = {
 				Importe_Final: '2142.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '47',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1790',
@@ -16070,6 +17865,8 @@ module.exports = {
 				Importe_Final: '4520.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2924',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1791',
@@ -16084,6 +17881,8 @@ module.exports = {
 				Importe_Final: '378.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1275',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1792',
@@ -16098,6 +17897,8 @@ module.exports = {
 				Importe_Final: '1710.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2925',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1793',
@@ -16112,6 +17913,8 @@ module.exports = {
 				Importe_Final: '10810.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2926',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1794',
@@ -16126,6 +17929,8 @@ module.exports = {
 				Importe_Final: '9400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2927',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1795',
@@ -16140,6 +17945,8 @@ module.exports = {
 				Importe_Final: '3900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2920',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1796',
@@ -16154,6 +17961,8 @@ module.exports = {
 				Importe_Final: '5436.25',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2481',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1797',
@@ -16168,6 +17977,8 @@ module.exports = {
 				Importe_Final: '2150.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2929',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1798',
@@ -16182,6 +17993,8 @@ module.exports = {
 				Importe_Final: '3535.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '981',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1799',
@@ -16196,6 +18009,8 @@ module.exports = {
 				Importe_Final: '3344.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2930',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1800',
@@ -16210,6 +18025,8 @@ module.exports = {
 				Importe_Final: '10380.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2931',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1801',
@@ -16224,6 +18041,8 @@ module.exports = {
 				Importe_Final: '1470.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2932',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1802',
@@ -16238,6 +18057,8 @@ module.exports = {
 				Importe_Final: '3582.09',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2933',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1803',
@@ -16252,6 +18073,8 @@ module.exports = {
 				Importe_Final: '0.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '403',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1804',
@@ -16266,6 +18089,8 @@ module.exports = {
 				Importe_Final: '4930.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2825',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1805',
@@ -16280,6 +18105,8 @@ module.exports = {
 				Importe_Final: '2706.30',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2934',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1806',
@@ -16294,20 +18121,8 @@ module.exports = {
 				Importe_Final: '2877.64',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1807',
-				ID_Pedido: null,
-				Fecha: '2021-10-27 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Venta mal ingresada ',
-				Estado_Pago: 'Pago',
-				Importe: '3535.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '3535.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2935',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1808',
@@ -16322,6 +18137,8 @@ module.exports = {
 				Importe_Final: '3535.60',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2936',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1809',
@@ -16336,6 +18153,8 @@ module.exports = {
 				Importe_Final: '5298.85',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '953',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1810',
@@ -16350,6 +18169,8 @@ module.exports = {
 				Importe_Final: '9585.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2782',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1811',
@@ -16364,6 +18185,8 @@ module.exports = {
 				Importe_Final: '846.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2938',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1812',
@@ -16378,6 +18201,8 @@ module.exports = {
 				Importe_Final: '4520.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2938',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1813',
@@ -16392,6 +18217,8 @@ module.exports = {
 				Importe_Final: '1880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2939',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1814',
@@ -16406,6 +18233,8 @@ module.exports = {
 				Importe_Final: '2110.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '1244',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1815',
@@ -16420,6 +18249,8 @@ module.exports = {
 				Importe_Final: '6810.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2940',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1816',
@@ -16434,6 +18265,8 @@ module.exports = {
 				Importe_Final: '7040.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1244',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1817',
@@ -16448,6 +18281,8 @@ module.exports = {
 				Importe_Final: '2003.95',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '733',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1818',
@@ -16462,6 +18297,8 @@ module.exports = {
 				Importe_Final: '3591.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2942',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1819',
@@ -16476,6 +18313,8 @@ module.exports = {
 				Importe_Final: '3000.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2596',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1820',
@@ -16490,6 +18329,8 @@ module.exports = {
 				Importe_Final: '1860.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2944',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1821',
@@ -16504,6 +18345,8 @@ module.exports = {
 				Importe_Final: '11963.39',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2945',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1822',
@@ -16518,6 +18361,8 @@ module.exports = {
 				Importe_Final: '2922.68',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2212',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1823',
@@ -16532,6 +18377,8 @@ module.exports = {
 				Importe_Final: '6410.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2678',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1824',
@@ -16546,6 +18393,8 @@ module.exports = {
 				Importe_Final: '3534.78',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2947',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1825',
@@ -16560,6 +18409,8 @@ module.exports = {
 				Importe_Final: '3874.78',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2948',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1826',
@@ -16574,6 +18425,8 @@ module.exports = {
 				Importe_Final: '1674.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2946',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1827',
@@ -16588,20 +18441,8 @@ module.exports = {
 				Importe_Final: '10700.23',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1828',
-				ID_Pedido: null,
-				Fecha: '2021-11-01 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'se gestiona la venta nuevamente',
-				Estado_Pago: 'Pago',
-				Importe: '2110.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '2110.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2943',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1829',
@@ -16616,6 +18457,8 @@ module.exports = {
 				Importe_Final: '7821.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '64',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1830',
@@ -16630,6 +18473,8 @@ module.exports = {
 				Importe_Final: '7744.75',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2620',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1831',
@@ -16644,6 +18489,8 @@ module.exports = {
 				Importe_Final: '4528.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2950',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1832',
@@ -16658,6 +18505,8 @@ module.exports = {
 				Importe_Final: '3993.30',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2949',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1833',
@@ -16672,6 +18521,8 @@ module.exports = {
 				Importe_Final: '5707.25',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2951',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1834',
@@ -16686,6 +18537,8 @@ module.exports = {
 				Importe_Final: '3628.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1231',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1835',
@@ -16700,6 +18553,8 @@ module.exports = {
 				Importe_Final: '789.64',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2952',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1836',
@@ -16714,6 +18569,8 @@ module.exports = {
 				Importe_Final: '8361.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2657',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1837',
@@ -16728,6 +18585,8 @@ module.exports = {
 				Importe_Final: '4108.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1950',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1838',
@@ -16742,6 +18601,8 @@ module.exports = {
 				Importe_Final: '765.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2489',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1839',
@@ -16756,6 +18617,8 @@ module.exports = {
 				Importe_Final: '2352.60',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2678',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1840',
@@ -16770,6 +18633,8 @@ module.exports = {
 				Importe_Final: '2501.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2792',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1841',
@@ -16784,6 +18649,8 @@ module.exports = {
 				Importe_Final: '1834.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2948',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1842',
@@ -16798,6 +18665,8 @@ module.exports = {
 				Importe_Final: '1615.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '89',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1843',
@@ -16812,6 +18681,8 @@ module.exports = {
 				Importe_Final: '3960.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2464',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1844',
@@ -16826,6 +18697,8 @@ module.exports = {
 				Importe_Final: '2356.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '112',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1845',
@@ -16840,6 +18713,8 @@ module.exports = {
 				Importe_Final: '27968.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '112',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1846',
@@ -16854,6 +18729,8 @@ module.exports = {
 				Importe_Final: '1353.95',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2941',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1847',
@@ -16868,6 +18745,8 @@ module.exports = {
 				Importe_Final: '1880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '514',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1848',
@@ -16882,34 +18761,8 @@ module.exports = {
 				Importe_Final: '2124.80',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1849',
-				ID_Pedido: null,
-				Fecha: '2021-11-02 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Se gestiona la venta nuevamente',
-				Estado_Pago: 'Pago',
-				Importe: '2356.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '2356.00',
-				Tipo: 'nc',
-				Estado: 'v',
-			},
-			{
-				ID: '1850',
-				ID_Pedido: null,
-				Fecha: '2021-11-02 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Se gestiona la venta nuevamente',
-				Estado_Pago: 'Pago',
-				Importe: '27968.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '27968.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2953',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1851',
@@ -16924,6 +18777,8 @@ module.exports = {
 				Importe_Final: '32718.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '112',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1852',
@@ -16938,6 +18793,8 @@ module.exports = {
 				Importe_Final: '3087.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2954',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1853',
@@ -16952,6 +18809,8 @@ module.exports = {
 				Importe_Final: '5427.14',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2955',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1854',
@@ -16966,6 +18825,8 @@ module.exports = {
 				Importe_Final: '2150.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2957',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1855',
@@ -16980,6 +18841,8 @@ module.exports = {
 				Importe_Final: '14207.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2106',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1856',
@@ -16994,6 +18857,8 @@ module.exports = {
 				Importe_Final: '3442.91',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2756',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1857',
@@ -17008,6 +18873,8 @@ module.exports = {
 				Importe_Final: '4681.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2958',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1858',
@@ -17022,6 +18889,8 @@ module.exports = {
 				Importe_Final: '3025.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2959',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1859',
@@ -17036,6 +18905,8 @@ module.exports = {
 				Importe_Final: '1865.64',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2960',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1860',
@@ -17050,6 +18921,8 @@ module.exports = {
 				Importe_Final: '8731.25',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2961',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1861',
@@ -17064,6 +18937,8 @@ module.exports = {
 				Importe_Final: '6864.30',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2082',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1862',
@@ -17078,6 +18953,8 @@ module.exports = {
 				Importe_Final: '2055.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2871',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1863',
@@ -17092,6 +18969,8 @@ module.exports = {
 				Importe_Final: '1953.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2939',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1864',
@@ -17106,6 +18985,8 @@ module.exports = {
 				Importe_Final: '996.30',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2963',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1865',
@@ -17120,6 +19001,8 @@ module.exports = {
 				Importe_Final: '3510.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2959',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1866',
@@ -17134,6 +19017,8 @@ module.exports = {
 				Importe_Final: '8034.43',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2964',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1867',
@@ -17148,6 +19033,8 @@ module.exports = {
 				Importe_Final: '7039.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2965',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1868',
@@ -17162,6 +19049,8 @@ module.exports = {
 				Importe_Final: '5900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2966',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1869',
@@ -17176,6 +19065,8 @@ module.exports = {
 				Importe_Final: '5285.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2967',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1870',
@@ -17190,6 +19081,8 @@ module.exports = {
 				Importe_Final: '7672.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '178',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1871',
@@ -17204,6 +19097,8 @@ module.exports = {
 				Importe_Final: '1639.80',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2969',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1872',
@@ -17218,20 +19113,8 @@ module.exports = {
 				Importe_Final: '5780.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1873',
-				ID_Pedido: null,
-				Fecha: '2021-11-04 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Cambio modelo tapa boca',
-				Estado_Pago: 'Pago',
-				Importe: '1639.80',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '1639.80',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2970',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1874',
@@ -17246,6 +19129,8 @@ module.exports = {
 				Importe_Final: '1639.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2969',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1875',
@@ -17260,6 +19145,8 @@ module.exports = {
 				Importe_Final: '3210.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2374',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1876',
@@ -17274,6 +19161,8 @@ module.exports = {
 				Importe_Final: '2923.20',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2082',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1877',
@@ -17288,6 +19177,8 @@ module.exports = {
 				Importe_Final: '1897.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2972',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1878',
@@ -17302,6 +19193,8 @@ module.exports = {
 				Importe_Final: '3620.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2973',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1879',
@@ -17316,6 +19209,8 @@ module.exports = {
 				Importe_Final: '1980.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2974',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1880',
@@ -17330,6 +19225,8 @@ module.exports = {
 				Importe_Final: '846.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2976',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1881',
@@ -17344,6 +19241,8 @@ module.exports = {
 				Importe_Final: '4700.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2946',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1882',
@@ -17358,6 +19257,8 @@ module.exports = {
 				Importe_Final: '5790.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2975',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1883',
@@ -17372,6 +19273,8 @@ module.exports = {
 				Importe_Final: '5412.09',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2977',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1884',
@@ -17386,6 +19289,8 @@ module.exports = {
 				Importe_Final: '2250.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2978',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1885',
@@ -17400,6 +19305,8 @@ module.exports = {
 				Importe_Final: '4332.09',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2979',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1886',
@@ -17414,6 +19321,8 @@ module.exports = {
 				Importe_Final: '2173.95',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2980',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1887',
@@ -17428,6 +19337,8 @@ module.exports = {
 				Importe_Final: '2758.38',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2981',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1888',
@@ -17442,6 +19353,8 @@ module.exports = {
 				Importe_Final: '5900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2982',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1889',
@@ -17456,6 +19369,8 @@ module.exports = {
 				Importe_Final: '2710.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2983',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1890',
@@ -17470,6 +19385,8 @@ module.exports = {
 				Importe_Final: '9978.25',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2984',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1891',
@@ -17484,6 +19401,8 @@ module.exports = {
 				Importe_Final: '5295.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2403',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1892',
@@ -17498,6 +19417,8 @@ module.exports = {
 				Importe_Final: '1138.16',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2038',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1893',
@@ -17512,6 +19433,8 @@ module.exports = {
 				Importe_Final: '2187.09',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2985',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1894',
@@ -17526,6 +19449,8 @@ module.exports = {
 				Importe_Final: '8030.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2986',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1895',
@@ -17540,6 +19465,8 @@ module.exports = {
 				Importe_Final: '6809.43',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2987',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1896',
@@ -17554,6 +19481,8 @@ module.exports = {
 				Importe_Final: '7642.78',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2988',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1897',
@@ -17568,6 +19497,8 @@ module.exports = {
 				Importe_Final: '2273.16',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2989',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1898',
@@ -17582,6 +19513,8 @@ module.exports = {
 				Importe_Final: '7216.25',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2990',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1899',
@@ -17596,6 +19529,8 @@ module.exports = {
 				Importe_Final: '6286.25',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2991',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1900',
@@ -17610,6 +19545,8 @@ module.exports = {
 				Importe_Final: '1485.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1495',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1901',
@@ -17624,6 +19561,8 @@ module.exports = {
 				Importe_Final: '1450.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2992',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1902',
@@ -17638,6 +19577,8 @@ module.exports = {
 				Importe_Final: '2313.95',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2993',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1903',
@@ -17652,6 +19593,8 @@ module.exports = {
 				Importe_Final: '3060.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1919',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1904',
@@ -17666,20 +19609,8 @@ module.exports = {
 				Importe_Final: '2713.09',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1905',
-				ID_Pedido: null,
-				Fecha: '2021-11-11 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'se vuelve a pasar la venta',
-				Estado_Pago: 'Pago',
-				Importe: '7039.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '7039.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2994',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1906',
@@ -17694,6 +19625,8 @@ module.exports = {
 				Importe_Final: '7039.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2965',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1907',
@@ -17708,6 +19641,8 @@ module.exports = {
 				Importe_Final: '882.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2995',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1908',
@@ -17722,6 +19657,8 @@ module.exports = {
 				Importe_Final: '8749.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2296',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1909',
@@ -17736,6 +19673,8 @@ module.exports = {
 				Importe_Final: '5413.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2996',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1910',
@@ -17750,6 +19689,8 @@ module.exports = {
 				Importe_Final: '4500.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2997',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1911',
@@ -17764,6 +19705,8 @@ module.exports = {
 				Importe_Final: '3344.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2998',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1912',
@@ -17778,6 +19721,8 @@ module.exports = {
 				Importe_Final: '4768.32',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3000',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1913',
@@ -17792,6 +19737,8 @@ module.exports = {
 				Importe_Final: '6810.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2999',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1914',
@@ -17806,6 +19753,8 @@ module.exports = {
 				Importe_Final: '7893.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2135',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1915',
@@ -17820,6 +19769,8 @@ module.exports = {
 				Importe_Final: '14346.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2248',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1916',
@@ -17834,6 +19785,8 @@ module.exports = {
 				Importe_Final: '11980.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2135',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1917',
@@ -17848,6 +19801,8 @@ module.exports = {
 				Importe_Final: '1230.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2992',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1918',
@@ -17862,6 +19817,8 @@ module.exports = {
 				Importe_Final: '2110.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2974',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1919',
@@ -17876,6 +19833,8 @@ module.exports = {
 				Importe_Final: '3583.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3003',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1920',
@@ -17890,6 +19849,8 @@ module.exports = {
 				Importe_Final: '6148.85',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3004',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1921',
@@ -17904,6 +19865,8 @@ module.exports = {
 				Importe_Final: '7020.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3002',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1922',
@@ -17918,6 +19881,8 @@ module.exports = {
 				Importe_Final: '8055.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2255',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1923',
@@ -17932,6 +19897,8 @@ module.exports = {
 				Importe_Final: '36734.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '147',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1924',
@@ -17946,6 +19913,8 @@ module.exports = {
 				Importe_Final: '5925.75',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2646',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1925',
@@ -17960,6 +19929,8 @@ module.exports = {
 				Importe_Final: '5499.78',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3005',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1926',
@@ -17974,6 +19945,8 @@ module.exports = {
 				Importe_Final: '5900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3006',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1927',
@@ -17988,6 +19961,8 @@ module.exports = {
 				Importe_Final: '5200.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3007',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1928',
@@ -18002,20 +19977,8 @@ module.exports = {
 				Importe_Final: '441.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1929',
-				ID_Pedido: null,
-				Fecha: '2021-11-17 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'se vuelve a gestionar la venta',
-				Estado_Pago: 'Pago',
-				Importe: '36734.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '36734.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '3008',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1930',
@@ -18030,6 +19993,8 @@ module.exports = {
 				Importe_Final: '5630.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2978',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1931',
@@ -18044,6 +20009,8 @@ module.exports = {
 				Importe_Final: '2230.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3009',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1932',
@@ -18058,6 +20025,8 @@ module.exports = {
 				Importe_Final: '5770.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1232',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1933',
@@ -18072,6 +20041,8 @@ module.exports = {
 				Importe_Final: '2640.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2875',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1934',
@@ -18086,6 +20057,8 @@ module.exports = {
 				Importe_Final: '5150.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3010',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1935',
@@ -18100,6 +20073,8 @@ module.exports = {
 				Importe_Final: '3473.09',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3011',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1936',
@@ -18114,6 +20089,8 @@ module.exports = {
 				Importe_Final: '3100.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3012',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1937',
@@ -18128,6 +20105,8 @@ module.exports = {
 				Importe_Final: '9036.25',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3013',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1938',
@@ -18142,6 +20121,8 @@ module.exports = {
 				Importe_Final: '3733.95',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1577',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1939',
@@ -18156,6 +20137,8 @@ module.exports = {
 				Importe_Final: '7686.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2825',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1940',
@@ -18170,6 +20153,8 @@ module.exports = {
 				Importe_Final: '2758.38',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3014',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1941',
@@ -18184,6 +20169,8 @@ module.exports = {
 				Importe_Final: '4745.64',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3015',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1942',
@@ -18198,6 +20185,8 @@ module.exports = {
 				Importe_Final: '8279.78',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2696',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1943',
@@ -18212,6 +20201,8 @@ module.exports = {
 				Importe_Final: '6850.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '405',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1944',
@@ -18226,6 +20217,8 @@ module.exports = {
 				Importe_Final: '2023.09',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '243',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1945',
@@ -18240,6 +20233,8 @@ module.exports = {
 				Importe_Final: '5013.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2854',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1946',
@@ -18254,6 +20249,8 @@ module.exports = {
 				Importe_Final: '2142.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3017',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1947',
@@ -18268,6 +20265,8 @@ module.exports = {
 				Importe_Final: '8600.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1440',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1948',
@@ -18282,6 +20281,8 @@ module.exports = {
 				Importe_Final: '7885.75',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3018',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1949',
@@ -18296,6 +20297,8 @@ module.exports = {
 				Importe_Final: '6435.27',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3019',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1950',
@@ -18310,6 +20313,8 @@ module.exports = {
 				Importe_Final: '6060.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '119',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1951',
@@ -18324,6 +20329,8 @@ module.exports = {
 				Importe_Final: '26860.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '3021',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1952',
@@ -18338,6 +20345,8 @@ module.exports = {
 				Importe_Final: '4940.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3020',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1953',
@@ -18352,20 +20361,8 @@ module.exports = {
 				Importe_Final: '5580.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1954',
-				ID_Pedido: null,
-				Fecha: '2021-11-24 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Me falto ingresar regalos',
-				Estado_Pago: 'Pago',
-				Importe: '26860.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '26860.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '3022',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1955',
@@ -18380,6 +20377,8 @@ module.exports = {
 				Importe_Final: '26860.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3021',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1956',
@@ -18394,6 +20393,8 @@ module.exports = {
 				Importe_Final: '3230.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2435',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1957',
@@ -18408,6 +20409,8 @@ module.exports = {
 				Importe_Final: '5790.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2974',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1958',
@@ -18422,6 +20425,8 @@ module.exports = {
 				Importe_Final: '5900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3023',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1959',
@@ -18436,6 +20441,8 @@ module.exports = {
 				Importe_Final: '4133.09',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3024',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1960',
@@ -18450,6 +20457,8 @@ module.exports = {
 				Importe_Final: '3950.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '3025',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1961',
@@ -18464,6 +20473,8 @@ module.exports = {
 				Importe_Final: '3570.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2593',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1962',
@@ -18478,6 +20489,8 @@ module.exports = {
 				Importe_Final: '2790.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3027',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1963',
@@ -18492,6 +20505,8 @@ module.exports = {
 				Importe_Final: '1440.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3017',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1964',
@@ -18506,6 +20521,8 @@ module.exports = {
 				Importe_Final: '11330.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3028',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1965',
@@ -18520,6 +20537,8 @@ module.exports = {
 				Importe_Final: '10494.06',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2758',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1966',
@@ -18534,6 +20553,8 @@ module.exports = {
 				Importe_Final: '2142.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3026',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1967',
@@ -18548,6 +20569,8 @@ module.exports = {
 				Importe_Final: '965.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '889',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1968',
@@ -18562,6 +20585,8 @@ module.exports = {
 				Importe_Final: '12343.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '153',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1969',
@@ -18576,6 +20601,8 @@ module.exports = {
 				Importe_Final: '616.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3029',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1970',
@@ -18590,20 +20617,8 @@ module.exports = {
 				Importe_Final: '6103.39',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1971',
-				ID_Pedido: null,
-				Fecha: '2021-11-27 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Se gestiona nuevamente',
-				Estado_Pago: 'Pago',
-				Importe: '3950.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '3950.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '3030',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1972',
@@ -18618,6 +20633,8 @@ module.exports = {
 				Importe_Final: '3195.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3025',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1973',
@@ -18632,6 +20649,8 @@ module.exports = {
 				Importe_Final: '2879.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3031',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1974',
@@ -18646,6 +20665,8 @@ module.exports = {
 				Importe_Final: '7812.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2630',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1975',
@@ -18660,6 +20681,8 @@ module.exports = {
 				Importe_Final: '18950.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '144',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1976',
@@ -18674,6 +20697,8 @@ module.exports = {
 				Importe_Final: '3117.09',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3032',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1977',
@@ -18688,6 +20713,8 @@ module.exports = {
 				Importe_Final: '7292.09',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3033',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1978',
@@ -18702,6 +20729,8 @@ module.exports = {
 				Importe_Final: '7083.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3034',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1979',
@@ -18716,6 +20745,8 @@ module.exports = {
 				Importe_Final: '3559.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2944',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1980',
@@ -18730,6 +20761,8 @@ module.exports = {
 				Importe_Final: '5913.08',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3035',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1981',
@@ -18744,6 +20777,8 @@ module.exports = {
 				Importe_Final: '3948.22',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3036',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1982',
@@ -18758,6 +20793,8 @@ module.exports = {
 				Importe_Final: '6286.25',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3038',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1983',
@@ -18772,6 +20809,8 @@ module.exports = {
 				Importe_Final: '5375.64',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3039',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1984',
@@ -18786,6 +20825,8 @@ module.exports = {
 				Importe_Final: '4180.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2277',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1985',
@@ -18800,20 +20841,8 @@ module.exports = {
 				Importe_Final: '36734.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '1986',
-				ID_Pedido: null,
-				Fecha: '2021-11-30 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'La clienta no respondio mas',
-				Estado_Pago: 'Pago',
-				Importe: '2713.50',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '2713.50',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '147',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1987',
@@ -18828,6 +20857,8 @@ module.exports = {
 				Importe_Final: '1431.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2943',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1988',
@@ -18842,6 +20873,8 @@ module.exports = {
 				Importe_Final: '990.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3022',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1989',
@@ -18856,6 +20889,8 @@ module.exports = {
 				Importe_Final: '0.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3040',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1990',
@@ -18870,6 +20905,8 @@ module.exports = {
 				Importe_Final: '4930.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3041',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1991',
@@ -18884,6 +20921,8 @@ module.exports = {
 				Importe_Final: '1136.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2604',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '1992',
@@ -18898,6 +20937,8 @@ module.exports = {
 				Importe_Final: '7740.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2840',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1993',
@@ -18912,6 +20953,8 @@ module.exports = {
 				Importe_Final: '2142.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1408',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1994',
@@ -18926,6 +20969,8 @@ module.exports = {
 				Importe_Final: '4114.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3042',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1995',
@@ -18940,6 +20985,8 @@ module.exports = {
 				Importe_Final: '37265.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '118',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1996',
@@ -18954,6 +21001,8 @@ module.exports = {
 				Importe_Final: '6900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '147',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1997',
@@ -18968,6 +21017,8 @@ module.exports = {
 				Importe_Final: '11880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3043',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '1998',
@@ -18982,6 +21033,8 @@ module.exports = {
 				Importe_Final: '9560.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '657',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '1999',
@@ -18996,6 +21049,8 @@ module.exports = {
 				Importe_Final: '5580.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '459',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2000',
@@ -19010,6 +21065,8 @@ module.exports = {
 				Importe_Final: '6880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2579',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2001',
@@ -19024,6 +21081,8 @@ module.exports = {
 				Importe_Final: '3210.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2374',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2002',
@@ -19038,6 +21097,8 @@ module.exports = {
 				Importe_Final: '9882.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2819',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2003',
@@ -19052,6 +21113,8 @@ module.exports = {
 				Importe_Final: '5900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3044',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '2004',
@@ -19066,6 +21129,8 @@ module.exports = {
 				Importe_Final: '3100.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3045',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2005',
@@ -19080,6 +21145,8 @@ module.exports = {
 				Importe_Final: '2300.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3046',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2006',
@@ -19094,6 +21161,8 @@ module.exports = {
 				Importe_Final: '3582.09',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1191',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2007',
@@ -19108,6 +21177,8 @@ module.exports = {
 				Importe_Final: '5412.09',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3047',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2008',
@@ -19122,6 +21193,8 @@ module.exports = {
 				Importe_Final: '630.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2995',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2009',
@@ -19136,6 +21209,8 @@ module.exports = {
 				Importe_Final: '8631.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3049',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2010',
@@ -19150,6 +21225,8 @@ module.exports = {
 				Importe_Final: '0.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3048',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2011',
@@ -19164,6 +21241,8 @@ module.exports = {
 				Importe_Final: '1674.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3043',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2012',
@@ -19178,6 +21257,8 @@ module.exports = {
 				Importe_Final: '890.64',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2215',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2013',
@@ -19192,6 +21273,8 @@ module.exports = {
 				Importe_Final: '2810.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '907',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2014',
@@ -19206,6 +21289,8 @@ module.exports = {
 				Importe_Final: '6129.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3050',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2015',
@@ -19220,6 +21305,8 @@ module.exports = {
 				Importe_Final: '8600.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3050',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2016',
@@ -19234,6 +21321,8 @@ module.exports = {
 				Importe_Final: '6523.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3051',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2017',
@@ -19248,6 +21337,8 @@ module.exports = {
 				Importe_Final: '5118.38',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2491',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2018',
@@ -19262,6 +21353,8 @@ module.exports = {
 				Importe_Final: '918.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2854',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2019',
@@ -19276,6 +21369,8 @@ module.exports = {
 				Importe_Final: '6588.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3012',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2020',
@@ -19290,6 +21385,8 @@ module.exports = {
 				Importe_Final: '3600.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1231',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2021',
@@ -19304,6 +21401,8 @@ module.exports = {
 				Importe_Final: '10638.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3053',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2022',
@@ -19318,6 +21417,8 @@ module.exports = {
 				Importe_Final: '47450.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3016',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2023',
@@ -19332,6 +21433,8 @@ module.exports = {
 				Importe_Final: '4940.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3054',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2024',
@@ -19346,6 +21449,8 @@ module.exports = {
 				Importe_Final: '4930.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3052',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2025',
@@ -19360,6 +21465,8 @@ module.exports = {
 				Importe_Final: '5790.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3055',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2026',
@@ -19374,6 +21481,8 @@ module.exports = {
 				Importe_Final: '1530.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3055',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2027',
@@ -19388,6 +21497,8 @@ module.exports = {
 				Importe_Final: '5780.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3056',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2028',
@@ -19402,6 +21513,8 @@ module.exports = {
 				Importe_Final: '5995.13',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3057',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2029',
@@ -19416,6 +21529,8 @@ module.exports = {
 				Importe_Final: '4644.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2874',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2030',
@@ -19430,6 +21545,8 @@ module.exports = {
 				Importe_Final: '6286.25',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3058',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2031',
@@ -19444,6 +21561,8 @@ module.exports = {
 				Importe_Final: '53817.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1252',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2032',
@@ -19458,6 +21577,8 @@ module.exports = {
 				Importe_Final: '2201.76',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3059',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2033',
@@ -19472,6 +21593,8 @@ module.exports = {
 				Importe_Final: '1900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3060',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2034',
@@ -19486,6 +21609,8 @@ module.exports = {
 				Importe_Final: '5900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3061',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2035',
@@ -19500,6 +21625,8 @@ module.exports = {
 				Importe_Final: '5717.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2867',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2036',
@@ -19514,6 +21641,8 @@ module.exports = {
 				Importe_Final: '3320.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3063',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2037',
@@ -19528,6 +21657,8 @@ module.exports = {
 				Importe_Final: '4673.95',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3064',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2038',
@@ -19542,6 +21673,8 @@ module.exports = {
 				Importe_Final: '1300.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3065',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2039',
@@ -19556,6 +21689,8 @@ module.exports = {
 				Importe_Final: '3344.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1831',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2040',
@@ -19570,6 +21705,8 @@ module.exports = {
 				Importe_Final: '4500.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3062',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2041',
@@ -19584,6 +21721,8 @@ module.exports = {
 				Importe_Final: '5715.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3066',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2042',
@@ -19598,6 +21737,8 @@ module.exports = {
 				Importe_Final: '1701.76',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3067',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2043',
@@ -19612,6 +21753,8 @@ module.exports = {
 				Importe_Final: '7306.25',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3068',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2044',
@@ -19626,6 +21769,8 @@ module.exports = {
 				Importe_Final: '5790.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3069',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2045',
@@ -19640,6 +21785,8 @@ module.exports = {
 				Importe_Final: '4696.59',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3070',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2046',
@@ -19654,6 +21801,8 @@ module.exports = {
 				Importe_Final: '7390.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1950',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2047',
@@ -19668,6 +21817,8 @@ module.exports = {
 				Importe_Final: '41908.45',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3037',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2048',
@@ -19682,6 +21833,8 @@ module.exports = {
 				Importe_Final: '2763.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3050',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2049',
@@ -19696,6 +21849,8 @@ module.exports = {
 				Importe_Final: '5880.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3072',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2050',
@@ -19710,6 +21865,8 @@ module.exports = {
 				Importe_Final: '7550.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2194',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2051',
@@ -19724,6 +21881,8 @@ module.exports = {
 				Importe_Final: '3060.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1855',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2052',
@@ -19738,6 +21897,8 @@ module.exports = {
 				Importe_Final: '11773.08',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3071',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2053',
@@ -19752,6 +21913,8 @@ module.exports = {
 				Importe_Final: '5634.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3073',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2054',
@@ -19766,6 +21929,8 @@ module.exports = {
 				Importe_Final: '1710.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3074',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2055',
@@ -19780,6 +21945,8 @@ module.exports = {
 				Importe_Final: '4930.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3075',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2056',
@@ -19794,6 +21961,8 @@ module.exports = {
 				Importe_Final: '4700.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3076',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2057',
@@ -19808,6 +21977,8 @@ module.exports = {
 				Importe_Final: '5070.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '2277',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2058',
@@ -19822,6 +21993,8 @@ module.exports = {
 				Importe_Final: '1449.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2854',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2059',
@@ -19836,6 +22009,8 @@ module.exports = {
 				Importe_Final: '1900.20',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3077',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2060',
@@ -19850,6 +22025,8 @@ module.exports = {
 				Importe_Final: '1610.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1991',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2061',
@@ -19864,6 +22041,8 @@ module.exports = {
 				Importe_Final: '1494.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3078',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2062',
@@ -19878,6 +22057,8 @@ module.exports = {
 				Importe_Final: '850.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1452',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2063',
@@ -19892,6 +22073,8 @@ module.exports = {
 				Importe_Final: '6286.25',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3079',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2064',
@@ -19906,6 +22089,8 @@ module.exports = {
 				Importe_Final: '3579.16',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2830',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2065',
@@ -19920,6 +22105,8 @@ module.exports = {
 				Importe_Final: '2313.09',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3080',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2066',
@@ -19934,6 +22121,8 @@ module.exports = {
 				Importe_Final: '3879.16',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2515',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2067',
@@ -19948,6 +22137,8 @@ module.exports = {
 				Importe_Final: '11676.45',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3081',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2068',
@@ -19962,6 +22153,8 @@ module.exports = {
 				Importe_Final: '1960.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1717',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2069',
@@ -19976,6 +22169,8 @@ module.exports = {
 				Importe_Final: '1647.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2675',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2070',
@@ -19990,6 +22185,8 @@ module.exports = {
 				Importe_Final: '1610.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1991',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2071',
@@ -20004,6 +22201,8 @@ module.exports = {
 				Importe_Final: '2038.38',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3084',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2072',
@@ -20018,6 +22217,8 @@ module.exports = {
 				Importe_Final: '5174.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3085',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2073',
@@ -20032,6 +22233,8 @@ module.exports = {
 				Importe_Final: '8505.75',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2457',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2074',
@@ -20046,6 +22249,8 @@ module.exports = {
 				Importe_Final: '1880.48',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3083',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2075',
@@ -20060,6 +22265,8 @@ module.exports = {
 				Importe_Final: '903.09',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3087',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2076',
@@ -20074,6 +22281,8 @@ module.exports = {
 				Importe_Final: '1710.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3082',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2077',
@@ -20088,6 +22297,8 @@ module.exports = {
 				Importe_Final: '35631.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '39',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '2078',
@@ -20102,6 +22313,8 @@ module.exports = {
 				Importe_Final: '5486.25',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3089',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2079',
@@ -20116,6 +22329,8 @@ module.exports = {
 				Importe_Final: '5103.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2611',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2080',
@@ -20130,6 +22345,8 @@ module.exports = {
 				Importe_Final: '2450.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3090',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2081',
@@ -20144,6 +22361,8 @@ module.exports = {
 				Importe_Final: '1344.60',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3092',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2082',
@@ -20158,6 +22377,8 @@ module.exports = {
 				Importe_Final: '3100.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3091',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2083',
@@ -20172,6 +22393,8 @@ module.exports = {
 				Importe_Final: '1661.64',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1891',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2084',
@@ -20186,6 +22409,8 @@ module.exports = {
 				Importe_Final: '2583.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1613',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2085',
@@ -20200,6 +22425,8 @@ module.exports = {
 				Importe_Final: '0.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '3093',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2086',
@@ -20214,6 +22441,8 @@ module.exports = {
 				Importe_Final: '3320.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3094',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2087',
@@ -20228,6 +22457,8 @@ module.exports = {
 				Importe_Final: '6639.78',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3095',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2088',
@@ -20242,6 +22473,8 @@ module.exports = {
 				Importe_Final: '990.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3096',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2089',
@@ -20256,6 +22489,8 @@ module.exports = {
 				Importe_Final: '868.38',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3098',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2090',
@@ -20270,6 +22505,8 @@ module.exports = {
 				Importe_Final: '5375.64',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3099',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2091',
@@ -20284,6 +22521,8 @@ module.exports = {
 				Importe_Final: '9180.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3097',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2092',
@@ -20298,20 +22537,8 @@ module.exports = {
 				Importe_Final: '3979.37',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '2093',
-				ID_Pedido: null,
-				Fecha: '2021-12-16 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Ya se paso la venta',
-				Estado_Pago: 'Pago',
-				Importe: '0.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '0.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '3100',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2094',
@@ -20326,6 +22553,8 @@ module.exports = {
 				Importe_Final: '4524.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3101',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2095',
@@ -20340,20 +22569,8 @@ module.exports = {
 				Importe_Final: '7758.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '2096',
-				ID_Pedido: null,
-				Fecha: '2021-12-16 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Cambia un producto',
-				Estado_Pago: 'Pago',
-				Importe: '5070.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '5070.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '3102',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2097',
@@ -20368,6 +22585,8 @@ module.exports = {
 				Importe_Final: '5770.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2277',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2098',
@@ -20382,6 +22601,8 @@ module.exports = {
 				Importe_Final: '918.90',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1875',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2099',
@@ -20396,6 +22617,8 @@ module.exports = {
 				Importe_Final: '6129.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3022',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2100',
@@ -20410,6 +22633,8 @@ module.exports = {
 				Importe_Final: '2080.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3103',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2101',
@@ -20424,6 +22649,8 @@ module.exports = {
 				Importe_Final: '5413.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3105',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2102',
@@ -20438,6 +22665,8 @@ module.exports = {
 				Importe_Final: '882.00',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '3104',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2103',
@@ -20452,6 +22681,8 @@ module.exports = {
 				Importe_Final: '4020.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1209',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2104',
@@ -20466,20 +22697,8 @@ module.exports = {
 				Importe_Final: '23230.00',
 				Tipo: 'fac',
 				Estado: 'c',
-			},
-			{
-				ID: '2105',
-				ID_Pedido: null,
-				Fecha: '2021-12-17 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Cambio de productos',
-				Estado_Pago: 'Pago',
-				Importe: '23230.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '23230.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '144',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2106',
@@ -20494,6 +22713,8 @@ module.exports = {
 				Importe_Final: '18210.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '144',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2107',
@@ -20508,20 +22729,8 @@ module.exports = {
 				Importe_Final: '2510.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '2108',
-				ID_Pedido: null,
-				Fecha: '2021-12-18 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Abono por transferencia',
-				Estado_Pago: 'Pago',
-				Importe: '882.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '882.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '144',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2109',
@@ -20536,6 +22745,8 @@ module.exports = {
 				Importe_Final: '980.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3104',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2110',
@@ -20550,6 +22761,8 @@ module.exports = {
 				Importe_Final: '7501.65',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3107',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2111',
@@ -20564,6 +22777,8 @@ module.exports = {
 				Importe_Final: '8380.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3097',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2112',
@@ -20578,6 +22793,8 @@ module.exports = {
 				Importe_Final: '18810.73',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1353',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2113',
@@ -20592,6 +22809,8 @@ module.exports = {
 				Importe_Final: '3060.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3097',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2114',
@@ -20606,6 +22825,8 @@ module.exports = {
 				Importe_Final: '3665.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3106',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2115',
@@ -20620,6 +22841,8 @@ module.exports = {
 				Importe_Final: '4510.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2135',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2116',
@@ -20634,6 +22857,8 @@ module.exports = {
 				Importe_Final: '5900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3108',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2117',
@@ -20648,6 +22873,8 @@ module.exports = {
 				Importe_Final: '5900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3109',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2118',
@@ -20662,6 +22889,8 @@ module.exports = {
 				Importe_Final: '6289.78',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3112',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2119',
@@ -20676,6 +22905,8 @@ module.exports = {
 				Importe_Final: '5211.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3110',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2120',
@@ -20690,6 +22921,8 @@ module.exports = {
 				Importe_Final: '5211.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3111',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2121',
@@ -20704,6 +22937,8 @@ module.exports = {
 				Importe_Final: '5926.45',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3081',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2122',
@@ -20718,6 +22953,8 @@ module.exports = {
 				Importe_Final: '5900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3114',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2123',
@@ -20732,6 +22969,8 @@ module.exports = {
 				Importe_Final: '6508.43',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3115',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2124',
@@ -20746,6 +22985,8 @@ module.exports = {
 				Importe_Final: '48723.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3113',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2125',
@@ -20760,6 +23001,8 @@ module.exports = {
 				Importe_Final: '2787.30',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3118',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2126',
@@ -20774,6 +23017,8 @@ module.exports = {
 				Importe_Final: '5677.20',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1754',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2127',
@@ -20788,6 +23033,8 @@ module.exports = {
 				Importe_Final: '10720.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3119',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2128',
@@ -20802,6 +23049,8 @@ module.exports = {
 				Importe_Final: '974.70',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2720',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2129',
@@ -20816,6 +23065,8 @@ module.exports = {
 				Importe_Final: '882.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3121',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2130',
@@ -20830,6 +23081,8 @@ module.exports = {
 				Importe_Final: '16012.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2255',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2131',
@@ -20844,20 +23097,8 @@ module.exports = {
 				Importe_Final: '3100.00',
 				Tipo: 'fac',
 				Estado: 'c',
-			},
-			{
-				ID: '2132',
-				ID_Pedido: null,
-				Fecha: '2021-12-21 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Se vuele a pasar la venta',
-				Estado_Pago: 'Pago',
-				Importe: '3100.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '3100.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '2565',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2133',
@@ -20872,6 +23113,8 @@ module.exports = {
 				Importe_Final: '3400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2565',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2134',
@@ -20886,6 +23129,8 @@ module.exports = {
 				Importe_Final: '5413.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3123',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2135',
@@ -20900,6 +23145,8 @@ module.exports = {
 				Importe_Final: '980.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3120',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2136',
@@ -20914,6 +23161,8 @@ module.exports = {
 				Importe_Final: '10140.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3124',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '2137',
@@ -20928,6 +23177,8 @@ module.exports = {
 				Importe_Final: '4700.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3117',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '2138',
@@ -20942,6 +23193,8 @@ module.exports = {
 				Importe_Final: '2334.15',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2762',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '2139',
@@ -20956,6 +23209,8 @@ module.exports = {
 				Importe_Final: '7141.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3125',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '2140',
@@ -20970,6 +23225,8 @@ module.exports = {
 				Importe_Final: '9540.78',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '138',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2141',
@@ -20984,6 +23241,8 @@ module.exports = {
 				Importe_Final: '2758.38',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3116',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2142',
@@ -20998,6 +23257,8 @@ module.exports = {
 				Importe_Final: '5719.95',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2728',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2143',
@@ -21012,6 +23273,8 @@ module.exports = {
 				Importe_Final: '5413.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3127',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2144',
@@ -21026,6 +23289,8 @@ module.exports = {
 				Importe_Final: '882.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3128',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2145',
@@ -21040,6 +23305,8 @@ module.exports = {
 				Importe_Final: '5055.14',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3129',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2146',
@@ -21054,6 +23321,8 @@ module.exports = {
 				Importe_Final: '1710.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3130',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2147',
@@ -21068,6 +23337,8 @@ module.exports = {
 				Importe_Final: '9620.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1574',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2148',
@@ -21082,6 +23353,8 @@ module.exports = {
 				Importe_Final: '4930.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3060',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2149',
@@ -21096,6 +23369,8 @@ module.exports = {
 				Importe_Final: '2150.14',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2593',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2150',
@@ -21110,6 +23385,8 @@ module.exports = {
 				Importe_Final: '8686.45',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3131',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2151',
@@ -21124,6 +23401,8 @@ module.exports = {
 				Importe_Final: '9540.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3106',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2152',
@@ -21138,6 +23417,8 @@ module.exports = {
 				Importe_Final: '2080.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3132',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2153',
@@ -21152,6 +23433,8 @@ module.exports = {
 				Importe_Final: '441.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3122',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2154',
@@ -21166,6 +23449,8 @@ module.exports = {
 				Importe_Final: '3710.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '779',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2155',
@@ -21180,20 +23465,8 @@ module.exports = {
 				Importe_Final: '4930.00',
 				Tipo: 'fac',
 				Estado: 'c',
-			},
-			{
-				ID: '2156',
-				ID_Pedido: null,
-				Fecha: '2021-12-23 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Falta el dto',
-				Estado_Pago: 'Pago',
-				Importe: '4930.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '4930.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '3133',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2157',
@@ -21208,6 +23481,8 @@ module.exports = {
 				Importe_Final: '4683.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3133',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2158',
@@ -21222,6 +23497,8 @@ module.exports = {
 				Importe_Final: '4185.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '153',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2159',
@@ -21236,6 +23513,8 @@ module.exports = {
 				Importe_Final: '4940.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3134',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2160',
@@ -21250,6 +23529,8 @@ module.exports = {
 				Importe_Final: '6050.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3135',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2161',
@@ -21264,6 +23545,8 @@ module.exports = {
 				Importe_Final: '6590.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3136',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2162',
@@ -21278,6 +23561,8 @@ module.exports = {
 				Importe_Final: '3921.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3137',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2163',
@@ -21292,6 +23577,8 @@ module.exports = {
 				Importe_Final: '4156.50',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '81',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '2164',
@@ -21306,6 +23593,8 @@ module.exports = {
 				Importe_Final: '5211.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '130',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2165',
@@ -21320,6 +23609,8 @@ module.exports = {
 				Importe_Final: '960.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3138',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2166',
@@ -21334,6 +23625,8 @@ module.exports = {
 				Importe_Final: '14121.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1436',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2167',
@@ -21348,6 +23641,8 @@ module.exports = {
 				Importe_Final: '8296.25',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3139',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2168',
@@ -21362,6 +23657,8 @@ module.exports = {
 				Importe_Final: '5298.85',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '953',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2169',
@@ -21376,6 +23673,8 @@ module.exports = {
 				Importe_Final: '3519.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1754',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2170',
@@ -21390,6 +23689,8 @@ module.exports = {
 				Importe_Final: '4428.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3141',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2171',
@@ -21404,6 +23705,8 @@ module.exports = {
 				Importe_Final: '3070.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3110',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '2172',
@@ -21418,6 +23721,8 @@ module.exports = {
 				Importe_Final: '783.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3126',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2173',
@@ -21432,6 +23737,8 @@ module.exports = {
 				Importe_Final: '1250.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3126',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2174',
@@ -21446,6 +23753,8 @@ module.exports = {
 				Importe_Final: '1215.90',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3126',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2175',
@@ -21460,6 +23769,8 @@ module.exports = {
 				Importe_Final: '10828.22',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '159',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2176',
@@ -21474,6 +23785,8 @@ module.exports = {
 				Importe_Final: '6318.43',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3143',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2177',
@@ -21488,6 +23801,8 @@ module.exports = {
 				Importe_Final: '5790.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3144',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2178',
@@ -21502,6 +23817,8 @@ module.exports = {
 				Importe_Final: '2191.20',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3140',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '2179',
@@ -21516,6 +23833,8 @@ module.exports = {
 				Importe_Final: '490.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3103',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2180',
@@ -21530,6 +23849,8 @@ module.exports = {
 				Importe_Final: '520.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '159',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2181',
@@ -21544,6 +23865,8 @@ module.exports = {
 				Importe_Final: '2754.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2197',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2182',
@@ -21558,6 +23881,8 @@ module.exports = {
 				Importe_Final: '7618.85',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2394',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2183',
@@ -21572,6 +23897,8 @@ module.exports = {
 				Importe_Final: '5900.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3145',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2184',
@@ -21586,6 +23913,8 @@ module.exports = {
 				Importe_Final: '2754.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2197',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2185',
@@ -21600,6 +23929,8 @@ module.exports = {
 				Importe_Final: '13976.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3146',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2186',
@@ -21614,6 +23945,8 @@ module.exports = {
 				Importe_Final: '3210.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2374',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2187',
@@ -21628,6 +23961,8 @@ module.exports = {
 				Importe_Final: '5810.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3147',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2188',
@@ -21642,6 +23977,8 @@ module.exports = {
 				Importe_Final: '9343.46',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3148',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2189',
@@ -21656,6 +23993,8 @@ module.exports = {
 				Importe_Final: '6286.25',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3149',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2190',
@@ -21670,6 +24009,8 @@ module.exports = {
 				Importe_Final: '6289.78',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3150',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2191',
@@ -21684,6 +24025,8 @@ module.exports = {
 				Importe_Final: '3714.80',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '3151',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2192',
@@ -21698,6 +24041,8 @@ module.exports = {
 				Importe_Final: '9225.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3157',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2193',
@@ -21712,6 +24057,8 @@ module.exports = {
 				Importe_Final: '2560.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1440',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2194',
@@ -21726,6 +24073,8 @@ module.exports = {
 				Importe_Final: '1830.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3104',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2195',
@@ -21740,6 +24089,8 @@ module.exports = {
 				Importe_Final: '8430.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3158',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2196',
@@ -21754,6 +24105,8 @@ module.exports = {
 				Importe_Final: '5751.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3160',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2197',
@@ -21768,6 +24121,8 @@ module.exports = {
 				Importe_Final: '5375.64',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3161',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2198',
@@ -21782,20 +24137,8 @@ module.exports = {
 				Importe_Final: '10671.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '2199',
-				ID_Pedido: null,
-				Fecha: '2021-12-31 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Esta mal facturado',
-				Estado_Pago: 'Pago',
-				Importe: '3714.80',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '3714.80',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '3162',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2200',
@@ -21810,6 +24153,8 @@ module.exports = {
 				Importe_Final: '2884.80',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3151',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2201',
@@ -21824,6 +24169,8 @@ module.exports = {
 				Importe_Final: '8784.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3163',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2202',
@@ -21838,6 +24185,8 @@ module.exports = {
 				Importe_Final: '5780.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3164',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2203',
@@ -21852,6 +24201,8 @@ module.exports = {
 				Importe_Final: '15624.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3165',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2204',
@@ -21866,6 +24217,8 @@ module.exports = {
 				Importe_Final: '5058.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3166',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2205',
@@ -21880,6 +24233,8 @@ module.exports = {
 				Importe_Final: '4930.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3167',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2206',
@@ -21894,6 +24249,8 @@ module.exports = {
 				Importe_Final: '1961.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3168',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2207',
@@ -21908,6 +24265,8 @@ module.exports = {
 				Importe_Final: '4930.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3169',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2208',
@@ -21922,6 +24281,8 @@ module.exports = {
 				Importe_Final: '6379.37',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3170',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2209',
@@ -21936,6 +24297,8 @@ module.exports = {
 				Importe_Final: '2376.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3025',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '2210',
@@ -21950,6 +24313,8 @@ module.exports = {
 				Importe_Final: '2341.76',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '463',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2211',
@@ -21964,6 +24329,8 @@ module.exports = {
 				Importe_Final: '4668.60',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1668',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2212',
@@ -21978,6 +24345,8 @@ module.exports = {
 				Importe_Final: '3600.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3173',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '2213',
@@ -21992,6 +24361,8 @@ module.exports = {
 				Importe_Final: '1420.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3174',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2214',
@@ -22006,6 +24377,8 @@ module.exports = {
 				Importe_Final: '11475.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2139',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2215',
@@ -22020,6 +24393,8 @@ module.exports = {
 				Importe_Final: '3500.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '504',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2216',
@@ -22034,6 +24409,8 @@ module.exports = {
 				Importe_Final: '5211.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3171',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2217',
@@ -22048,6 +24425,8 @@ module.exports = {
 				Importe_Final: '4437.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3176',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2218',
@@ -22062,6 +24441,8 @@ module.exports = {
 				Importe_Final: '11140.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3175',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2219',
@@ -22076,20 +24457,8 @@ module.exports = {
 				Importe_Final: '9860.00',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '2220',
-				ID_Pedido: null,
-				Fecha: '2022-01-06 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'No lo quiere',
-				Estado_Pago: 'Pago',
-				Importe: '2682.00',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '2682.00',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '3177',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2221',
@@ -22104,6 +24473,8 @@ module.exports = {
 				Importe_Final: '5431.68',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3178',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2222',
@@ -22118,6 +24489,8 @@ module.exports = {
 				Importe_Final: '6882.09',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3179',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2223',
@@ -22132,6 +24505,8 @@ module.exports = {
 				Importe_Final: '2994.64',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3181',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2224',
@@ -22146,6 +24521,8 @@ module.exports = {
 				Importe_Final: '5436.25',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3182',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2225',
@@ -22160,6 +24537,8 @@ module.exports = {
 				Importe_Final: '2210.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3060',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2226',
@@ -22174,6 +24553,8 @@ module.exports = {
 				Importe_Final: '4403.84',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2696',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2227',
@@ -22188,6 +24569,8 @@ module.exports = {
 				Importe_Final: '4824.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1898',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2228',
@@ -22202,6 +24585,8 @@ module.exports = {
 				Importe_Final: '5065.64',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3183',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2229',
@@ -22216,6 +24601,8 @@ module.exports = {
 				Importe_Final: '2340.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3184',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2230',
@@ -22230,6 +24617,8 @@ module.exports = {
 				Importe_Final: '9540.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2336',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2231',
@@ -22244,6 +24633,8 @@ module.exports = {
 				Importe_Final: '3780.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2331',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2232',
@@ -22258,6 +24649,8 @@ module.exports = {
 				Importe_Final: '6342.09',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1407',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2233',
@@ -22272,6 +24665,8 @@ module.exports = {
 				Importe_Final: '4437.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3188',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2234',
@@ -22286,6 +24681,8 @@ module.exports = {
 				Importe_Final: '3944.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3187',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2235',
@@ -22300,6 +24697,8 @@ module.exports = {
 				Importe_Final: '4870.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3190',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2236',
@@ -22314,6 +24713,8 @@ module.exports = {
 				Importe_Final: '4968.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3192',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2237',
@@ -22328,6 +24729,8 @@ module.exports = {
 				Importe_Final: '2142.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3189',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2238',
@@ -22342,6 +24745,8 @@ module.exports = {
 				Importe_Final: '1290.48',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '380',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2239',
@@ -22356,6 +24761,8 @@ module.exports = {
 				Importe_Final: '6916.25',
 				Tipo: 'fac',
 				Estado: 'c',
+				ID_Cliente: '3191',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2240',
@@ -22370,6 +24777,8 @@ module.exports = {
 				Importe_Final: '9712.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3194',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2241',
@@ -22384,6 +24793,8 @@ module.exports = {
 				Importe_Final: '984.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '1668',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2242',
@@ -22398,6 +24809,8 @@ module.exports = {
 				Importe_Final: '2380.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3193',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2243',
@@ -22412,6 +24825,8 @@ module.exports = {
 				Importe_Final: '3119.16',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2967',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2244',
@@ -22426,6 +24841,8 @@ module.exports = {
 				Importe_Final: '5320.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3196',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2245',
@@ -22440,6 +24857,8 @@ module.exports = {
 				Importe_Final: '6030.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3198',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2246',
@@ -22454,6 +24873,8 @@ module.exports = {
 				Importe_Final: '4827.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2303',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2247',
@@ -22468,6 +24889,8 @@ module.exports = {
 				Importe_Final: '5230.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3195',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2248',
@@ -22482,6 +24905,8 @@ module.exports = {
 				Importe_Final: '2168.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3200',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2249',
@@ -22496,6 +24921,8 @@ module.exports = {
 				Importe_Final: '4940.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2436',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2250',
@@ -22510,6 +24937,8 @@ module.exports = {
 				Importe_Final: '9070.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3180',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2251',
@@ -22524,6 +24953,8 @@ module.exports = {
 				Importe_Final: '5409.16',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3202',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2252',
@@ -22538,6 +24969,8 @@ module.exports = {
 				Importe_Final: '3993.30',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3201',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2253',
@@ -22552,6 +24985,8 @@ module.exports = {
 				Importe_Final: '4882.64',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3199',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2254',
@@ -22566,6 +25001,8 @@ module.exports = {
 				Importe_Final: '6790.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2700',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2255',
@@ -22580,6 +25017,8 @@ module.exports = {
 				Importe_Final: '68180.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3203',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2256',
@@ -22594,6 +25033,8 @@ module.exports = {
 				Importe_Final: '5575.27',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3204',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2257',
@@ -22608,6 +25049,8 @@ module.exports = {
 				Importe_Final: '6318.43',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3205',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2258',
@@ -22622,6 +25065,8 @@ module.exports = {
 				Importe_Final: '6090.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3206',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2259',
@@ -22636,6 +25081,8 @@ module.exports = {
 				Importe_Final: '4930.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3207',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2260',
@@ -22650,6 +25097,8 @@ module.exports = {
 				Importe_Final: '8255.75',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3208',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2261',
@@ -22664,20 +25113,8 @@ module.exports = {
 				Importe_Final: '4392.09',
 				Tipo: 'fac',
 				Estado: 'v',
-			},
-			{
-				ID: '2262',
-				ID_Pedido: null,
-				Fecha: '2022-01-11 00:00:00',
-				Nro_Factura: null,
-				Observaciones: 'Cambia el producto',
-				Estado_Pago: 'Pago',
-				Importe: '6916.25',
-				Descuento: null,
-				Tarifa_Envio: '0.00',
-				Importe_Final: '6916.25',
-				Tipo: 'nc',
-				Estado: 'v',
+				ID_Cliente: '3209',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2263',
@@ -22692,6 +25129,8 @@ module.exports = {
 				Importe_Final: '12783.29',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3191',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2264',
@@ -22706,6 +25145,8 @@ module.exports = {
 				Importe_Final: '4437.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3211',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2265',
@@ -22720,6 +25161,8 @@ module.exports = {
 				Importe_Final: '1000.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3212',
+				ID_Usuario: '108',
 			},
 			{
 				ID: '2266',
@@ -22734,6 +25177,8 @@ module.exports = {
 				Importe_Final: '7740.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3172',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2267',
@@ -22748,6 +25193,8 @@ module.exports = {
 				Importe_Final: '8030.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3185',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2268',
@@ -22762,6 +25209,8 @@ module.exports = {
 				Importe_Final: '2173.09',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3213',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2269',
@@ -22776,6 +25225,8 @@ module.exports = {
 				Importe_Final: '2300.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3214',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2270',
@@ -22790,6 +25241,8 @@ module.exports = {
 				Importe_Final: '9099.78',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3005',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2271',
@@ -22804,6 +25257,8 @@ module.exports = {
 				Importe_Final: '5136.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3216',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2272',
@@ -22818,6 +25273,8 @@ module.exports = {
 				Importe_Final: '7546.45',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3081',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2273',
@@ -22832,6 +25289,8 @@ module.exports = {
 				Importe_Final: '7546.45',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3081',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2274',
@@ -22846,6 +25305,8 @@ module.exports = {
 				Importe_Final: '4437.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3217',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2275',
@@ -22860,6 +25321,8 @@ module.exports = {
 				Importe_Final: '12735.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3218',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2276',
@@ -22874,6 +25337,8 @@ module.exports = {
 				Importe_Final: '25796.48',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3215',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2277',
@@ -22888,6 +25353,8 @@ module.exports = {
 				Importe_Final: '4285.64',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3219',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2278',
@@ -22902,6 +25369,8 @@ module.exports = {
 				Importe_Final: '2490.48',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3223',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2279',
@@ -22916,6 +25385,8 @@ module.exports = {
 				Importe_Final: '5360.48',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3222',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2280',
@@ -22930,6 +25401,8 @@ module.exports = {
 				Importe_Final: '4437.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3220',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2281',
@@ -22944,6 +25417,8 @@ module.exports = {
 				Importe_Final: '6343.46',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3221',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2282',
@@ -22958,6 +25433,8 @@ module.exports = {
 				Importe_Final: '7990.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3224',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2283',
@@ -22972,6 +25449,8 @@ module.exports = {
 				Importe_Final: '3489.16',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3225',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2284',
@@ -22986,6 +25465,8 @@ module.exports = {
 				Importe_Final: '5090.09',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2892',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2285',
@@ -23000,6 +25481,8 @@ module.exports = {
 				Importe_Final: '6379.37',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3226',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2286',
@@ -23014,6 +25497,8 @@ module.exports = {
 				Importe_Final: '5976.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3227',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2287',
@@ -23028,6 +25513,8 @@ module.exports = {
 				Importe_Final: '5790.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3228',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2288',
@@ -23042,6 +25529,8 @@ module.exports = {
 				Importe_Final: '4700.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3229',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2289',
@@ -23056,6 +25545,8 @@ module.exports = {
 				Importe_Final: '2105.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3230',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2290',
@@ -23070,6 +25561,8 @@ module.exports = {
 				Importe_Final: '3230.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '2925',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2291',
@@ -23084,6 +25577,8 @@ module.exports = {
 				Importe_Final: '2290.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3231',
+				ID_Usuario: '106',
 			},
 			{
 				ID: '2292',
@@ -23098,6 +25593,8 @@ module.exports = {
 				Importe_Final: '7990.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3162',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2293',
@@ -23112,6 +25609,8 @@ module.exports = {
 				Importe_Final: '6130.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3232',
+				ID_Usuario: '105',
 			},
 			{
 				ID: '2294',
@@ -23126,6 +25625,8 @@ module.exports = {
 				Importe_Final: '11400.00',
 				Tipo: 'fac',
 				Estado: 'v',
+				ID_Cliente: '3168',
+				ID_Usuario: '105',
 			},
 		];
 		let facturas = oldData.map((x) => ({
