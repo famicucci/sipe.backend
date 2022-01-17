@@ -21289,7 +21289,7 @@ module.exports = {
 			observaciones: x.Observaciones,
 			direccionEnvio: x.Direccion_Envio,
 			tarifaEnvio: x.Tarifa_Envio,
-			ordenEcommerce: x.Pedido_Ecommerce,
+			ordenEcommerce: x.Pedido_Ecommerce === '' ? null : x.Pedido_Ecommerce,
 			createdAt: x.Fecha,
 			updatedAt: x.Fecha,
 			ClienteId: x.ID_Cliente,
