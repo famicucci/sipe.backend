@@ -2,12 +2,7 @@
 
 module.exports = {
 	up: async (queryInterface, Sequelize) => {
-		const oldEmpresas = [
-			{
-				ID: '1',
-				Descripcion: 'Pepapets',
-			},
-		];
+		const oldEmpresas = [{ ID: '1', Descripcion: 'Pepapets' }];
 
 		let empresas = oldEmpresas.map((x) => ({
 			id: x.ID,

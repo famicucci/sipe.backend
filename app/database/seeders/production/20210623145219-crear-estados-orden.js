@@ -33,12 +33,7 @@ module.exports = {
 				Color: '#61BA3F',
 				ID_Empresa: '1',
 			},
-			{
-				ID: '10',
-				Descripcion: 'Enviar',
-				Color: '#E71D1D',
-				ID_Empresa: '1',
-			},
+			{ ID: '10', Descripcion: 'Enviar', Color: '#E71D1D', ID_Empresa: '1' },
 			{
 				ID: '11',
 				Descripcion: 'Finalizado',
@@ -51,12 +46,7 @@ module.exports = {
 				Color: '#61BA3F',
 				ID_Empresa: '1',
 			},
-			{
-				ID: '15',
-				Descripcion: 'Cancelado',
-				Color: '#D1D1D1',
-				ID_Empresa: '1',
-			},
+			{ ID: '15', Descripcion: 'Cancelado', Color: '#D1D1D1', ID_Empresa: '1' },
 		];
 		let estadosOrden = oldData.map((x) => ({
 			id: x.ID,

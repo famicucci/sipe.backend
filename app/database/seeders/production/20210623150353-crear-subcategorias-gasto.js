@@ -3,12 +3,7 @@
 module.exports = {
 	up: async (queryInterface, Sequelize) => {
 		const oldData = [
-			{
-				ID: '1',
-				Descripcion: 'Sueldos',
-				ID_Categoria: '1',
-				ID_Empresa: '1',
-			},
+			{ ID: '1', Descripcion: 'Sueldos', ID_Categoria: '1', ID_Empresa: '1' },
 			{
 				ID: '2',
 				Descripcion: 'Pago extra',
@@ -27,54 +22,14 @@ module.exports = {
 				ID_Categoria: '2',
 				ID_Empresa: '1',
 			},
-			{
-				ID: '11',
-				Descripcion: 'Costura',
-				ID_Categoria: '2',
-				ID_Empresa: '1',
-			},
-			{
-				ID: '12',
-				Descripcion: 'Otros',
-				ID_Categoria: '2',
-				ID_Empresa: '1',
-			},
-			{
-				ID: '13',
-				Descripcion: 'Telas',
-				ID_Categoria: '3',
-				ID_Empresa: '1',
-			},
-			{
-				ID: '14',
-				Descripcion: 'Otros',
-				ID_Categoria: '3',
-				ID_Empresa: '1',
-			},
-			{
-				ID: '15',
-				Descripcion: 'OCA',
-				ID_Categoria: '4',
-				ID_Empresa: '1',
-			},
-			{
-				ID: '16',
-				Descripcion: 'Pudo',
-				ID_Categoria: '4',
-				ID_Empresa: '1',
-			},
-			{
-				ID: '17',
-				Descripcion: 'Moto',
-				ID_Categoria: '4',
-				ID_Empresa: '1',
-			},
-			{
-				ID: '18',
-				Descripcion: 'Flete',
-				ID_Categoria: '4',
-				ID_Empresa: '1',
-			},
+			{ ID: '11', Descripcion: 'Costura', ID_Categoria: '2', ID_Empresa: '1' },
+			{ ID: '12', Descripcion: 'Otros', ID_Categoria: '2', ID_Empresa: '1' },
+			{ ID: '13', Descripcion: 'Telas', ID_Categoria: '3', ID_Empresa: '1' },
+			{ ID: '14', Descripcion: 'Otros', ID_Categoria: '3', ID_Empresa: '1' },
+			{ ID: '15', Descripcion: 'OCA', ID_Categoria: '4', ID_Empresa: '1' },
+			{ ID: '16', Descripcion: 'Pudo', ID_Categoria: '4', ID_Empresa: '1' },
+			{ ID: '17', Descripcion: 'Moto', ID_Categoria: '4', ID_Empresa: '1' },
+			{ ID: '18', Descripcion: 'Flete', ID_Categoria: '4', ID_Empresa: '1' },
 			{
 				ID: '19',
 				Descripcion: 'C. Argentino',
@@ -93,18 +48,8 @@ module.exports = {
 				ID_Categoria: '5',
 				ID_Empresa: '1',
 			},
-			{
-				ID: '22',
-				Descripcion: 'Otros',
-				ID_Categoria: '5',
-				ID_Empresa: '1',
-			},
-			{
-				ID: '23',
-				Descripcion: 'MD',
-				ID_Categoria: '4',
-				ID_Empresa: '1',
-			},
+			{ ID: '22', Descripcion: 'Otros', ID_Categoria: '5', ID_Empresa: '1' },
+			{ ID: '23', Descripcion: 'MD', ID_Categoria: '4', ID_Empresa: '1' },
 			{
 				ID: '24',
 				Descripcion: 'Proveedor PT',

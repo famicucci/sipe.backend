@@ -17,7 +17,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0211UNN',
 				Descripcion:
 					'ALMOHADONES DECO 40X40 CM - YO TENGO UN HIJO DE 4 PATAS - SIN COLOR - UNICO - VELLON',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -81,7 +81,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0219UNN',
 				Descripcion:
 					'ALMOHADONES DECO 40X40 CM - DOG LOVER - SIN COLOR - UNICO - VELLON',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -97,7 +97,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0221UNN',
 				Descripcion:
 					'ALMOHADONES DECO 40X40 CM - SCHNAUZER LOVER - SIN COLOR - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -105,7 +105,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0222UBE',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - BULLDOG FRANCES - BEIGE - UNICO - VELLON',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -121,7 +121,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0224UBN',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - BULLDOG FRANCES NENA - BYN - UNICO - VELLON',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -129,7 +129,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0225UBN',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - BULLDOG FRANCES NENE - BYN - UNICO - VELLON',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -137,7 +137,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0226UMA',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - BULLDOG INGLES - MARRON - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -145,7 +145,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0227UMA',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - BEAGLE - MARRON - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -169,7 +169,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0230UBL',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - CANICHE NENE - BLANCO - UNICO - VELLON',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -208,7 +208,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0235UNA',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - GATO - NARANJA - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -223,7 +223,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0237UBE',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - GOLDEN - BEIGE - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -231,7 +231,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0238UBL',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - JACK RUSELL - BLANCO - UNICO - VELLON',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -255,7 +255,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0241UMA',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - PEPA - MARRON CLARO - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -263,7 +263,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0242UMA',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - PEPE - MARRON CLARO - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -271,7 +271,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0243UMA',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - PICHICHO - MARRON - UNICO - VELLON',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -295,7 +295,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0246UBE',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - PUG NENE - BEIGE - UNICO - VELLON',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -303,7 +303,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0247UGR',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - SALCHICHA ARLEQUIN - GRIS - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -327,7 +327,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0250UNE',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - SALCHICHA - NEGRO - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -335,7 +335,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0251UGR',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - SCHNAUZER - GRIS - UNICO - VELLON',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -471,7 +471,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0563UNE',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - PINSCHER - NEGRO - UNICO - VELLON',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -677,7 +677,7 @@ module.exports = {
 				Codigo_Producto: 'BA6N0994RV',
 				Descripcion:
 					'BANDERIN - NAVIDAD BULLDOG FRANCES - RYV - U - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -685,14 +685,14 @@ module.exports = {
 				Codigo_Producto: 'BA6N0995RV',
 				Descripcion:
 					'BANDERIN - NAVIDAD BULLDOG INGLES - RYV - U - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'BA6N0996RV',
 				Descripcion: 'BANDERIN - NAVIDAD CANICHE - RYV - U - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -720,13 +720,34 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'BA6N1000RV',
 				Descripcion: 'BANDERIN - NAVIDAD SCHNAUZER - RYV - U - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '7',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'BA6N1001RV',
 				Descripcion: 'BANDERIN - NAVIDAD SHARPEI - RYV - U - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'BA6N1402UAZ',
+				Descripcion: 'BOTELLA DE AGUA - 500 ML - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'BA6N1403URJ',
+				Descripcion: 'BOTELLA DE AGUA - 500 ML - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'BA6N1404UVE',
+				Descripcion: 'BOTELLA DE AGUA - 500 ML - VERDE - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -881,7 +902,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'BM6V0766DFU',
 				Descripcion: 'BASE MOISES MEDIANO - PERROS BEIGE - FUCSIA - M - VELLON',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -1023,7 +1044,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'BO6N1070UFU',
 				Descripcion: 'BOLSA - PATITAS MARRONES - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -1045,7 +1066,94 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'BO6N1073UTU',
 				Descripcion: 'BOLSA - PATITAS NEGRAS - TURQUESA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'BO6N1428GR',
+				Descripcion: 'BOLSA CON CIERRE - PATITAS - GRIS - M - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'BO6N1429FU',
+				Descripcion: 'BOLSA CON CIERRE - PATITAS - FUCSIA - M - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'BO6N1430TU',
+				Descripcion: 'BOLSA CON CIERRE - PATITAS - TURQUESA - M - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'BO6N1431GR',
+				Descripcion: 'BOLSA - PATITAS - GRIS - L - SIN RELLENO',
+				SumaDeCantidad: '14',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'BO6N1432FU',
+				Descripcion: 'BOLSA - PATITAS - FUCSIA - L - SIN RELLENO',
+				SumaDeCantidad: '8',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'BO6N1433TU',
+				Descripcion: 'BOLSA - PATITAS - TURQUESA - L - SIN RELLENO',
+				SumaDeCantidad: '16',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'BO6N1434VE',
+				Descripcion: 'BOLSA SOGA - PLAZA - VERDE - S - SIN RELLENO',
+				SumaDeCantidad: '16',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'BO6N1435TU',
+				Descripcion: 'BOLSA SOGA - JUEGO - TURQUESA - S - SIN RELLENO',
+				SumaDeCantidad: '7',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'BO6N1436RJ',
+				Descripcion: 'BOLSA SOGA - NAVIDAD - ROJO - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'BO6N1437GR',
+				Descripcion:
+					'BOLSA FUNDA PARA AUTO - GENERICO - GRIS - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'BO6N1438FU',
+				Descripcion:
+					'BOLSA FUNDA PARA AUTO - GENERICO - FUCSIA - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'BO6N1439TU',
+				Descripcion:
+					'BOLSA FUNDA PARA AUTO - GENERICO - TURQUESA - S - SIN RELLENO',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -1069,7 +1177,7 @@ module.exports = {
 				Codigo_Producto: 'CA6N1174UNN',
 				Descripcion:
 					'CINTURON PARA AUTO - ROSWELL - SIN COLOR - UNICO - SIN RELLENO',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -1077,7 +1185,7 @@ module.exports = {
 				Codigo_Producto: 'CA6N1283NN',
 				Descripcion:
 					'CINTURON PARA AUTO - SIN TRAICION - SIN COLOR - UNICO - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -1085,7 +1193,7 @@ module.exports = {
 				Codigo_Producto: 'CA6N1284NN',
 				Descripcion:
 					'CINTURON PARA AUTO - PERRIS - SIN COLOR - UNICO - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -1109,7 +1217,7 @@ module.exports = {
 				Codigo_Producto: 'CA6N1356NN',
 				Descripcion:
 					'CINTURON PARA AUTO - LIMAY - SIN COLOR - UNICO - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -1125,7 +1233,7 @@ module.exports = {
 				Codigo_Producto: 'CA6N1358NN',
 				Descripcion:
 					'CINTURON PARA AUTO - HUA HUM - SIN COLOR - UNICO - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -1146,6 +1254,53 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'CA6N1361VE',
 				Descripcion: 'COMEDERO TELA - CAMUFLADO - VERDE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CA6N1381UNE',
+				Descripcion: 'CINTURON PARA AUTO - LISO - NEGRO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CB6N1408UAZ',
+				Descripcion:
+					'COMEDERO BEBEDERO PORTATIL - LISO - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CB6N1409URJ',
+				Descripcion:
+					'COMEDERO BEBEDERO PORTATIL - LISO - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CC6N1390UNN',
+				Descripcion:
+					'CHIFLE GALLETITA - DONA - SIN COLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CC6N1391UNN',
+				Descripcion:
+					'CHIFLE GALLETITA - OREO - SIN COLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '1',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CC6N1392UNN',
+				Descripcion:
+					'CHIFLE GALLETITA - MERENGADA - SIN COLOR - UNICO - SIN RELLENO',
 				SumaDeCantidad: '2',
 			},
 			{
@@ -1162,7 +1317,7 @@ module.exports = {
 				Codigo_Producto: 'CD6N1193URS',
 				Descripcion:
 					'COMEDERO DOBLE PLASTICO Y ACERO - LISO - ROSA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -1171,6 +1326,60 @@ module.exports = {
 				Descripcion:
 					'COMEDERO DOBLE PLASTICO Y ACERO - LISO - VERDE - UNICO - SIN RELLENO',
 				SumaDeCantidad: '5',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CE6N1398UCE',
+				Descripcion:
+					'CORREA RETRACTIL EXTENSIBLE - 5 MTS - CELESTE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CE6N1399URJ',
+				Descripcion:
+					'CORREA RETRACTIL EXTENSIBLE - 5 MTS - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CE6N1400URS',
+				Descripcion:
+					'CORREA RETRACTIL EXTENSIBLE - 5 MTS - ROSA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CE6N1401UVE',
+				Descripcion:
+					'CORREA RETRACTIL EXTENSIBLE - 5 MTS - VERDE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '7',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CG6N1395UAM',
+				Descripcion: 'CAÑITA PARA GATO - COLA - AMARILLO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '3',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CG6N1396UBE',
+				Descripcion: 'CAÑITA PARA GATO - COLA - BEIGE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '4',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CG6N1397UMU',
+				Descripcion:
+					'CAÑITA PARA GATO - COLA - MULTICOLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -1186,7 +1395,7 @@ module.exports = {
 				Codigo_Producto: 'CI6N1187UNN',
 				Descripcion:
 					'COMEDERO ACERO INOXIDABLE - LISO 2 - SIN COLOR - UNICO - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -1202,7 +1411,7 @@ module.exports = {
 				Codigo_Producto: 'CI6N1189UNN',
 				Descripcion:
 					'COMEDERO ACERO INOXIDABLE - LISO 4 - SIN COLOR - UNICO - SIN RELLENO',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -1561,7 +1770,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'CL6N1317NN',
 				Descripcion: 'COLLAR - FONCK - SIN COLOR - S - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -1575,14 +1784,14 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'CL6N1319NN',
 				Descripcion: 'COLLAR - LANIN - SIN COLOR - M - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'CL6N1320NN',
 				Descripcion: 'COLLAR - ZONDA - SIN COLOR - M - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -1596,7 +1805,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'CL6N1322NN',
 				Descripcion: 'COLLAR - FONCK - SIN COLOR - M - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -1617,7 +1826,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'CL6N1325NN',
 				Descripcion: 'COLLAR - ZONDA - SIN COLOR - L - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2529,7 +2738,7 @@ module.exports = {
 				Codigo_Producto: 'CN4V1265CNE',
 				Descripcion:
 					'COLCHON REDONDO LAVABLE - PERRITOS DURMIENDO - NEGRO - L - VELLON',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2537,7 +2746,7 @@ module.exports = {
 				Codigo_Producto: 'CN4V1266CFU',
 				Descripcion:
 					'COLCHON REDONDO LAVABLE - PERRITOS DURMIENDO - FUCSIA - L - VELLON',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2561,7 +2770,7 @@ module.exports = {
 				Codigo_Producto: 'CN4V1269BFU',
 				Descripcion:
 					'COLCHON REDONDO LAVABLE - PERRITOS DURMIENDO - FUCSIA - XL - VELLON',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2577,7 +2786,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0001CFU',
 				Descripcion:
 					'COLCHONETA PERRO GRANDE - PERRITOS MIX - FUCSIA - L - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '13',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2585,7 +2794,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0002CTU',
 				Descripcion:
 					'COLCHONETA PERRO GRANDE - PERRITOS MIX - TURQUESA - L - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '7',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2593,7 +2802,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0003DFU',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - CARITA BULLDOG FRANCES - FUCSIA - M - GUATA',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2601,7 +2810,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0004DTU',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - CARITA BULLDOG FRANCES - TURQUESA - M - GUATA',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2609,7 +2818,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0005DFU',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - CARITA CANICHE - FUCSIA - M - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2617,7 +2826,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0006DTU',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - CARITA CANICHE - TURQUESA - M - GUATA',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '10',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2633,7 +2842,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0008DTU',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - PERRITOS MIX - TURQUESA - M - GUATA',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2641,7 +2850,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0009DFU',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - CARITA SALCHICHA - FUCSIA - M - GUATA',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2649,7 +2858,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0010DTU',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - CARITA SALCHICHA - TURQUESA - M - GUATA',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2657,7 +2866,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0011DFU',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - CARITA SCHNAUZER - FUCSIA - M - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2673,7 +2882,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0013DFU',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - CARITA SHIH TZU - FUCSIA - M - GUATA',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2681,7 +2890,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0014DTU',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - CARITA SHIH TZU - TURQUESA - M - GUATA',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2703,7 +2912,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0076UFU',
 				Descripcion:
 					'COLCHONETA AUTO / PASEO - BULLDOG FRANCES - FUCSIA - UNICO - GUATA',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2719,7 +2928,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0078UTU',
 				Descripcion:
 					'COLCHONETA AUTO / PASEO - BULLDOG FRANCES - TURQUESA - UNICO - GUATA',
-				SumaDeCantidad: '16',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2743,7 +2952,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0081UTU',
 				Descripcion:
 					'COLCHONETA AUTO / PASEO - PERRITOS MIX - TURQUESA - UNICO - GUATA',
-				SumaDeCantidad: '13',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2751,7 +2960,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0082UFU',
 				Descripcion:
 					'COLCHONETA AUTO / PASEO - SALCHICHA - FUCSIA - UNICO - GUATA',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2921,7 +3130,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0438DFU',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - CARITA SHARPEI NEGRO - FUCSIA - M - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2969,7 +3178,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0802CRJ',
 				Descripcion:
 					'COLCHONETA PERRO GRANDE - PERRITOS MIX - ROJO - L - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2977,7 +3186,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0803CNE',
 				Descripcion:
 					'COLCHONETA PERRO GRANDE - PERRITOS MIX - NEGRO - L - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -2985,7 +3194,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0804DRJ',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - PERRITOS MIX - ROJO - M - GUATA',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3001,7 +3210,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G1175UFU',
 				Descripcion:
 					'COLCHONETA AUTO / PASEO - CANICHE - FUCSIA - UNICO - GUATA',
-				SumaDeCantidad: '9',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3016,7 +3225,30 @@ module.exports = {
 				Codigo_Producto: 'CO1G1177UTU',
 				Descripcion:
 					'COLCHONETA AUTO / PASEO - CANICHE - TURQUESA - UNICO - GUATA',
-				SumaDeCantidad: '19',
+				SumaDeCantidad: '14',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CO1G1416GR',
+				Descripcion: 'COLCHONETA AUTO / PASEO - PATITAS - GRIS - UNICO - GUATA',
+				SumaDeCantidad: '12',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CO1G1417FU',
+				Descripcion:
+					'COLCHONETA AUTO / PASEO - PATITAS - FUCSIA - UNICO - GUATA',
+				SumaDeCantidad: '4',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CO1G1418TU',
+				Descripcion:
+					'COLCHONETA AUTO / PASEO - PATITAS - TURQUESA - UNICO - GUATA',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3024,7 +3256,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0017AFU',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GIGANTE - PERRITOS Y HUESITOS - FUCSIA - XXL - GUATA',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3032,7 +3264,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0018ANE',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GIGANTE - PERRITOS Y HUESITOS - NEGRO - XXL - GUATA',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3040,7 +3272,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0019ARJ',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GIGANTE - PERRITOS Y HUESITOS - ROJO - XXL - GUATA',
-				SumaDeCantidad: '7',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3080,7 +3312,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0024BFU',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO EXTRA GRANDE - PERRITOS MIX CUADRADOS - FUCSIA - XL - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3088,7 +3320,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0025BGR',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO EXTRA GRANDE - PERRITOS MIX CUADRADOS - GRIS - XL - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3104,7 +3336,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0027BTU',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO EXTRA GRANDE - PERRITOS MIX CUADRADOS - TURQUESA - XL - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3184,7 +3416,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0037CFU',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GRANDE - FRANJA PERRITOS MIX - FUCSIA - L - GUATA',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3192,7 +3424,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0038CGR',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GRANDE - FRANJA PERRITOS MIX - GRIS - L - GUATA',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3200,7 +3432,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0039CTU',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GRANDE - FRANJA PERRITOS MIX - TURQUESA - L - GUATA',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3336,7 +3568,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0056DGR',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO MEDIANO - FRANJA PERRITOS MIX - GRIS - M - GUATA',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3344,7 +3576,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0057DTU',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO MEDIANO - FRANJA PERRITOS MIX - TURQUESA - M - GUATA',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3504,7 +3736,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0716CFU',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GRANDE - PERROS BEIGE - FUCSIA - L - GUATA',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3512,7 +3744,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0717CNE',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GRANDE - PERROS BEIGE - NEGRO - L - GUATA',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3520,7 +3752,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0718CVE',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GRANDE - PERROS BEIGE - VERDE - L - GUATA',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3528,7 +3760,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0719CFU',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GRANDE - PERROS NEGROS - FUCSIA - L - GUATA',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3568,7 +3800,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0724CNE',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GRANDE - WOOF - NEGRO - L - GUATA',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3680,7 +3912,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0738EVE',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO CHICO - PERROS BEIGE - VERDE - S - GUATA',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3760,7 +3992,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0807UFU',
 				Descripcion:
 					'COLCHONETA LAVABLE GATO - GATITOS MIX - FUCSIA - UNICO - GUATA',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3768,7 +4000,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0808UTU',
 				Descripcion:
 					'COLCHONETA LAVABLE GATO - GATITOS MIX - TURQUESA - UNICO - GUATA',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3808,7 +4040,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0832AVE',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GIGANTE - WOOF - VERDE - XXL - GUATA',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3824,7 +4056,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0834ANE',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GIGANTE - PERROS BEIGE - NEGRO - XXL - GUATA',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3832,7 +4064,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0835AVE',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GIGANTE - PERROS BEIGE - VERDE - XXL - GUATA',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3840,7 +4072,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0836AFU',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GIGANTE - PERROS NEGROS - FUCSIA - XXL - GUATA',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3856,7 +4088,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0838AVE',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GIGANTE - PERROS NEGROS - VERDE - XXL - GUATA',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3864,7 +4096,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G1063CGR',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GRANDE - PERROS CHICOS Y MEDIANOS - GRIS - L - GUATA',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3872,7 +4104,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G1064CFU',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GRANDE - PERROS CHICOS Y MEDIANOS - FUCSIA - L - GUATA',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3880,7 +4112,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G1065CTU',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GRANDE - PERROS CHICOS Y MEDIANOS - TURQUESA - L - GUATA',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3888,7 +4120,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G1066DGR',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO MEDIANO - PERROS CHICOS Y MEDIANOS - GRIS - M - GUATA',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3896,7 +4128,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G1067DFU',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO MEDIANO - PERROS CHICOS Y MEDIANOS - FUCSIA - M - GUATA',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3912,7 +4144,7 @@ module.exports = {
 				Codigo_Producto: 'CO3G0067CFU',
 				Descripcion:
 					'COLCHONETA ECONOMICA PERRO GRANDE - PATCHWORK - FUCSIA - L - GUATA',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3920,7 +4152,7 @@ module.exports = {
 				Codigo_Producto: 'CO3G0068CGR',
 				Descripcion:
 					'COLCHONETA ECONOMICA PERRO GRANDE - PATCHWORK - GRIS - L - GUATA',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3928,7 +4160,7 @@ module.exports = {
 				Codigo_Producto: 'CO3G0069CTU',
 				Descripcion:
 					'COLCHONETA ECONOMICA PERRO GRANDE - PATCHWORK - TURQUESA - L - GUATA',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3936,7 +4168,7 @@ module.exports = {
 				Codigo_Producto: 'CO3G0070DFU',
 				Descripcion:
 					'COLCHONETA ECONOMICA PERRO MEDIANO - PATCHWORK - FUCSIA - M - GUATA',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3944,7 +4176,7 @@ module.exports = {
 				Codigo_Producto: 'CO3G0071DGR',
 				Descripcion:
 					'COLCHONETA ECONOMICA PERRO MEDIANO - PATCHWORK - GRIS - M - GUATA',
-				SumaDeCantidad: '10',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3952,7 +4184,7 @@ module.exports = {
 				Codigo_Producto: 'CO3G0072DTU',
 				Descripcion:
 					'COLCHONETA ECONOMICA PERRO MEDIANO - PATCHWORK - TURQUESA - M - GUATA',
-				SumaDeCantidad: '7',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3960,7 +4192,7 @@ module.exports = {
 				Codigo_Producto: 'CO3G1167EFU',
 				Descripcion:
 					'COLCHONETA ECONOMICA PERRO CHICO - PATCHWORK - FUCSIA - S - GUATA',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3968,7 +4200,7 @@ module.exports = {
 				Codigo_Producto: 'CO3G1168EGR',
 				Descripcion:
 					'COLCHONETA ECONOMICA PERRO CHICO - PATCHWORK - GRIS - S - GUATA',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3976,7 +4208,7 @@ module.exports = {
 				Codigo_Producto: 'CO3G1169ETU',
 				Descripcion:
 					'COLCHONETA ECONOMICA PERRO CHICO - PATCHWORK - TURQUESA - S - GUATA',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3984,7 +4216,7 @@ module.exports = {
 				Codigo_Producto: 'CO4G0073CNN',
 				Descripcion:
 					'COLCHONETA REDONDO LAVABLE GRANDE - DONA - SIN COLOR - L - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -3992,7 +4224,7 @@ module.exports = {
 				Codigo_Producto: 'CO4G0074DNN',
 				Descripcion:
 					'COLCHONETA REDONDO LAVABLE MEDIANO - DONA - SIN COLOR - M - GUATA',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4000,7 +4232,7 @@ module.exports = {
 				Codigo_Producto: 'CO4G0075ENN',
 				Descripcion:
 					'COLCHONETA REDONDO LAVABLE CHICO - DONA - SIN COLOR - S - GUATA',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4008,7 +4240,7 @@ module.exports = {
 				Codigo_Producto: 'CO4G0596NN',
 				Descripcion:
 					'COLCHONETA REDONDO LAVABLE EXTRA GRANDE - DONA - SIN COLOR - XL - GUATA',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4016,7 +4248,7 @@ module.exports = {
 				Codigo_Producto: 'CO6N1123DGR',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO MEDIANO - WOOF BEBE - GRIS - M - SIN RELLENO',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4024,6 +4256,20 @@ module.exports = {
 				Codigo_Producto: 'CO6N1124DRS',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO MEDIANO - WOOF BEBE - ROSA - M - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CP6N1388UAZ',
+				Descripcion: 'CEPILLO QUITA PELUSA - LISO - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CP6N1389URJ',
+				Descripcion: 'CEPILLO QUITA PELUSA - LISO - ROJO - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -4052,7 +4298,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'CR6N1347NN',
 				Descripcion: 'CORREA - FONCK - SIN COLOR - S - SIN RELLENO',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4073,7 +4319,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'CR6N1350NN',
 				Descripcion: 'CORREA - ZONDA - SIN COLOR - L - SIN RELLENO',
-				SumaDeCantidad: '9',
+				SumaDeCantidad: '7',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4094,6 +4340,49 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'CR6N1353NN',
 				Descripcion: 'CORREA - HUA HUM - SIN COLOR - L - SIN RELLENO',
+				SumaDeCantidad: '9',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CS6N1405UAM',
+				Descripcion:
+					'COMEDERO SILICONA - LISO - AMARILLO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CS6N1406UNE',
+				Descripcion: 'COMEDERO SILICONA - LISO - NEGRO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '3',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CS6N1407URJ',
+				Descripcion: 'COMEDERO SILICONA - LISO - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CT6N1425GR',
+				Descripcion: 'CARTUCHERA - PATITAS - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '10',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CT6N1426FU',
+				Descripcion: 'CARTUCHERA - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '8',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'CT6N1427TU',
+				Descripcion: 'CARTUCHERA - PATITAS - TURQUESA - UNICO - SIN RELLENO',
 				SumaDeCantidad: '10',
 			},
 			{
@@ -4110,7 +4399,7 @@ module.exports = {
 				Codigo_Producto: 'DE6N0267UGR',
 				Descripcion:
 					'DELANTAL CUERINA MULTIUSO - BULLDOG FRANCES - GRIS - UNICO - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4142,7 +4431,7 @@ module.exports = {
 				Codigo_Producto: 'DE6N0271UFU',
 				Descripcion:
 					'DELANTAL CUERINA MULTIUSO - PERRITOS Y GATITOS - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4190,7 +4479,7 @@ module.exports = {
 				Codigo_Producto: 'FA6N0276UFU',
 				Descripcion:
 					'FUNDA PARA AUTO - BULLDOG FRANCES MIX - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4206,7 +4495,7 @@ module.exports = {
 				Codigo_Producto: 'FA6N0278UTU',
 				Descripcion:
 					'FUNDA PARA AUTO - BULLDOG FRANCES MIX - TURQUESA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4222,7 +4511,7 @@ module.exports = {
 				Codigo_Producto: 'FA6N0280UGR',
 				Descripcion:
 					'FUNDA PARA AUTO - CANICHE/BICHON MIX - GRIS - UNICO - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4230,7 +4519,7 @@ module.exports = {
 				Codigo_Producto: 'FA6N0281UTU',
 				Descripcion:
 					'FUNDA PARA AUTO - CANICHE/BICHON MIX - TURQUESA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4238,7 +4527,7 @@ module.exports = {
 				Codigo_Producto: 'FA6N0282UFU',
 				Descripcion:
 					'FUNDA PARA AUTO - PERRITOS MIX - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4262,7 +4551,7 @@ module.exports = {
 				Codigo_Producto: 'FA6N0285UFU',
 				Descripcion:
 					'FUNDA PARA AUTO - SALCHICHA MIX - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4270,7 +4559,7 @@ module.exports = {
 				Codigo_Producto: 'FA6N0286UGR',
 				Descripcion:
 					'FUNDA PARA AUTO - SALCHICHA MIX - GRIS - UNICO - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4278,7 +4567,7 @@ module.exports = {
 				Codigo_Producto: 'FA6N0287UTU',
 				Descripcion:
 					'FUNDA PARA AUTO - SALCHICHA MIX - TURQUESA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4286,7 +4575,7 @@ module.exports = {
 				Codigo_Producto: 'FA6N0288UFU',
 				Descripcion:
 					'FUNDA PARA AUTO - SCHNAUZER MIX - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4302,6 +4591,56 @@ module.exports = {
 				Codigo_Producto: 'FA6N0290UTU',
 				Descripcion:
 					'FUNDA PARA AUTO - SCHNAUZER MIX - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'FA6N1419GR',
+				Descripcion: 'FUNDA PARA AUTO - PATITAS - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'FA6N1420FU',
+				Descripcion: 'FUNDA PARA AUTO - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'FA6N1421TU',
+				Descripcion:
+					'FUNDA PARA AUTO - PATITAS - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'FR6N1485AM',
+				Descripcion: 'FRISBEE GOMA - LISO - AMARILLO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'FR6N1486FU',
+				Descripcion: 'FRISBEE GOMA - LISO - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '6',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'FR6N1487NA',
+				Descripcion: 'FRISBEE GOMA - LISO - NARANJA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '6',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'FR6N1488VE',
+				Descripcion: 'FRISBEE GOMA - LISO - VERDE - UNICO - SIN RELLENO',
 				SumaDeCantidad: '3',
 			},
 			{
@@ -4446,7 +4785,7 @@ module.exports = {
 				Codigo_Producto: 'FU4N1200BNN',
 				Descripcion:
 					'FUNDA ANTIDESGARRO REDONDO EXTRA GRANDE - DONA - SIN COLOR - XL - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4454,7 +4793,7 @@ module.exports = {
 				Codigo_Producto: 'FU6N0156AFU',
 				Descripcion:
 					'FUNDA ANTIDESGARRO PERRO GIGANTE - PERRITOS Y HUESITOS - FUCSIA - XXL - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4470,7 +4809,7 @@ module.exports = {
 				Codigo_Producto: 'FU6N0158ARJ',
 				Descripcion:
 					'FUNDA ANTIDESGARRO PERRO GIGANTE - PERRITOS Y HUESITOS - ROJO - XXL - SIN RELLENO',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4630,7 +4969,7 @@ module.exports = {
 				Codigo_Producto: 'FU6N0178CTU',
 				Descripcion:
 					'FUNDA ANTIDESGARRO PERRO GRANDE - FRANJA PERRITOS MIX - TURQUESA - L - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -4766,7 +5105,7 @@ module.exports = {
 				Codigo_Producto: 'FU6N0195DGR',
 				Descripcion:
 					'FUNDA ANTIDESGARRO PERRO MEDIANO - FRANJA PERRITOS MIX - GRIS - M - SIN RELLENO',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5166,7 +5505,7 @@ module.exports = {
 				Codigo_Producto: 'FU6N1104CNE',
 				Descripcion:
 					'FUNDA ANTIDESGARRO PERRO GRANDE - WOOF - NEGRO - L - SIN RELLENO',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5286,7 +5625,7 @@ module.exports = {
 				Codigo_Producto: 'FU6N1119ANE',
 				Descripcion:
 					'FUNDA ANTIDESGARRO PERRO GIGANTE - PERROS NEGROS - NEGRO - XXL - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5302,7 +5641,7 @@ module.exports = {
 				Codigo_Producto: 'FU6N1121DGR',
 				Descripcion:
 					'FUNDA ANTIDESGARRO PERRO MEDIANO - WOOF BEBE - GRIS - M - SIN RELLENO',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5326,7 +5665,7 @@ module.exports = {
 				Codigo_Producto: 'FU6N1158DFU',
 				Descripcion:
 					'FUNDA ANTIDESGARRO PERRO MEDIANO - PERROS CHICOS Y MEDIANOS - FUCSIA - M - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5342,7 +5681,7 @@ module.exports = {
 				Codigo_Producto: 'FU6N1160CGR',
 				Descripcion:
 					'FUNDA ANTIDESGARRO PERRO GRANDE - PERROS CHICOS Y MEDIANOS - GRIS - L - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5459,6 +5798,13 @@ module.exports = {
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'GP6N1382UAZ',
+				Descripcion: 'GUANTE SACA PELOS - LISO - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'HF6N1289AM',
 				Descripcion: 'HUESO FLEX GRANDE - LISO - AMARILLO - L - SIN RELLENO',
 				SumaDeCantidad: '2',
@@ -5475,7 +5821,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'HF6N1291RJ',
 				Descripcion: 'HUESO FLEX GRANDE - LISO - ROJO - L - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5489,14 +5835,14 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'HF6N1293AZ',
 				Descripcion: 'HUESO FLEX GRANDE - LISO - AZUL - M - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'HF6N1294RJ',
 				Descripcion: 'HUESO FLEX GRANDE - LISO - ROJO - M - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '16',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5541,7 +5887,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0291EFU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - BULLDOG FRANCES MIX - FUCSIA - S - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5549,7 +5895,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0292EGR',
 				Descripcion:
 					'INDIVIDUAL CUERINA - BULLDOG FRANCES MIX - GRIS - S - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5557,7 +5903,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0293ETU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - BULLDOG FRANCES MIX - TURQUESA - S - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5565,7 +5911,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0294EFU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - CANICHE/BICHON MIX - FUCSIA - S - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5573,7 +5919,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0295EGR',
 				Descripcion:
 					'INDIVIDUAL CUERINA - CANICHE/BICHON MIX - GRIS - S - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5581,7 +5927,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0296ETU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - CANICHE/BICHON MIX - TURQUESA - S - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5589,7 +5935,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0297EFU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - GATITO MIX - FUCSIA - S - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5604,21 +5950,21 @@ module.exports = {
 				Codigo_Producto: 'IN6N0299ETU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - GATITO MIX - TURQUESA - S - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'IN6N0300ENE',
 				Descripcion: 'INDIVIDUAL CUERINA - GUAU - NEGRO - S - SIN RELLENO',
-				SumaDeCantidad: '9',
+				SumaDeCantidad: '7',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'IN6N0301ENE',
 				Descripcion: 'INDIVIDUAL CUERINA - MIAU - NEGRO - S - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5626,7 +5972,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0302EFU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - PERRITO MIX - FUCSIA - S - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5634,7 +5980,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0303EGR',
 				Descripcion:
 					'INDIVIDUAL CUERINA - PERRITO MIX - GRIS - S - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5642,7 +5988,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0304ETU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - PERRITOS MIX - TURQUESA - S - SIN RELLENO',
-				SumaDeCantidad: '12',
+				SumaDeCantidad: '11',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5650,7 +5996,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0305EFU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - SALCHICHA MIX - FUCSIA - S - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5666,7 +6012,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0307ETU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - SALCHICHA MIX - TURQUESA - S - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5674,7 +6020,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0308EFU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - SCHNAUZER MIX - FUCSIA - S - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5682,7 +6028,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0309EGR',
 				Descripcion:
 					'INDIVIDUAL CUERINA - SCHNAUZER MIX - GRIS - S - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5690,7 +6036,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0310ETU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - SCHNAUZER MIX - TURQUESA - S - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5754,7 +6100,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0318DGR',
 				Descripcion:
 					'INDIVIDUAL CUERINA - BULLDOG FRANCES MIX - GRIS - M - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5770,7 +6116,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0320DFU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - CANICHE/BICHON MIX - FUCSIA - M - SIN RELLENO',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5801,7 +6147,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'IN6N0324DGR',
 				Descripcion: 'INDIVIDUAL CUERINA - GATITO MIX - GRIS - M - SIN RELLENO',
-				SumaDeCantidad: '10',
+				SumaDeCantidad: '9',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5816,7 +6162,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'IN6N0326DNE',
 				Descripcion: 'INDIVIDUAL CUERINA - GUAU - NEGRO - M - SIN RELLENO',
-				SumaDeCantidad: '18',
+				SumaDeCantidad: '17',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5831,7 +6177,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0328DFU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - PERRITO MIX - FUCSIA - M - SIN RELLENO',
-				SumaDeCantidad: '7',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5839,7 +6185,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0329DGR',
 				Descripcion:
 					'INDIVIDUAL CUERINA - PERRITO MIX - GRIS - M - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5847,7 +6193,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0330DTU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - PERRITOS MIX - TURQUESA - M - SIN RELLENO',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5863,7 +6209,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0332DGR',
 				Descripcion:
 					'INDIVIDUAL CUERINA - SALCHICHA MIX - GRIS - M - SIN RELLENO',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5895,7 +6241,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0336DTU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - SCHNAUZER MIX - TURQUESA - M - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -5903,7 +6249,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0505EFU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - CARITA BULLDOG FRANCES - FUCSIA - S - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6262,21 +6608,59 @@ module.exports = {
 				Codigo_Producto: 'IN6N1020ENE',
 				Descripcion:
 					'INDIVIDUAL - TENGO HIJOS DE 4 PATAS - NEGRO - S - SIN RELLENO',
-				SumaDeCantidad: '20',
+				SumaDeCantidad: '35',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'IN6N1021EGR',
 				Descripcion: 'INDIVIDUAL - WOOF - GRIS - S - SIN RELLENO',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'IN6N1022ERS',
 				Descripcion: 'INDIVIDUAL - WOOF - ROSA - S - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'IN6N1516RJ',
+				Descripcion:
+					'INDIVIDUAL CUERINA NAVIDAD - MIX PERRITOS - ROJO - S - SIN RELLENO',
+				SumaDeCantidad: '13',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'IN6N1517RJ',
+				Descripcion:
+					'INDIVIDUAL CUERINA NAVIDAD - MIX GATITOS - ROJO - S - SIN RELLENO',
+				SumaDeCantidad: '11',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'IS6N1410UNE',
+				Descripcion: 'INDIVIDUAL SILICONA - LISO - NEGRO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '1',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'IS6N1411UCE',
+				Descripcion:
+					'INDIVIDUAL SILICONA - LISO - CELESTE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '3',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'IS6N1412URS',
+				Descripcion: 'INDIVIDUAL SILICONA - LISO - ROSA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6316,7 +6700,7 @@ module.exports = {
 				Codigo_Producto: 'JB6V0341UNN',
 				Descripcion:
 					'JUGUETE BLANDO C/CASCABEL - HAMBURGUESA - SIN COLOR - UNICO - VELLON',
-				SumaDeCantidad: '11',
+				SumaDeCantidad: '10',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6348,7 +6732,7 @@ module.exports = {
 				Codigo_Producto: 'JB6V0345UMA',
 				Descripcion:
 					'JUGUETE BLANDO C/CASCABEL - OVEJA - MARRON - UNICO - VELLON',
-				SumaDeCantidad: '7',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6364,7 +6748,7 @@ module.exports = {
 				Codigo_Producto: 'JB6V0347URJ',
 				Descripcion:
 					'JUGUETE BLANDO C/CASCABEL - PEPE NORTE - ROJO - UNICO - VELLON',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6372,7 +6756,7 @@ module.exports = {
 				Codigo_Producto: 'JB6V0348UNN',
 				Descripcion:
 					'JUGUETE BLANDO C/CASCABEL - PERRO ANTEOJOS - SIN COLOR - UNICO - VELLON',
-				SumaDeCantidad: '9',
+				SumaDeCantidad: '7',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6380,7 +6764,7 @@ module.exports = {
 				Codigo_Producto: 'JB6V0349UNN',
 				Descripcion:
 					'JUGUETE BLANDO C/CASCABEL - PERRO ROCKERO - SIN COLOR - UNICO - VELLON',
-				SumaDeCantidad: '11',
+				SumaDeCantidad: '9',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6388,7 +6772,7 @@ module.exports = {
 				Codigo_Producto: 'JB6V0350UNN',
 				Descripcion:
 					'JUGUETE BLANDO C/CASCABEL - PERRO SUPER - SIN COLOR - UNICO - VELLON',
-				SumaDeCantidad: '7',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6396,7 +6780,7 @@ module.exports = {
 				Codigo_Producto: 'JB6V0351UNN',
 				Descripcion:
 					'JUGUETE BLANDO C/CASCABEL - UNICORNIO - SIN COLOR - UNICO - VELLON',
-				SumaDeCantidad: '18',
+				SumaDeCantidad: '14',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6404,7 +6788,7 @@ module.exports = {
 				Codigo_Producto: 'JB6V1062UNN',
 				Descripcion:
 					'JUGUETE BLANDO C/CASCABEL - PERRO NEGRO - SIN COLOR - UNICO - VELLON',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6420,7 +6804,7 @@ module.exports = {
 				Codigo_Producto: 'JB6V1094UTU',
 				Descripcion:
 					'JUGUETE BLANDO C/CASCABEL - HUESO BEBE - TURQUESA - UNICO - VELLON',
-				SumaDeCantidad: '16',
+				SumaDeCantidad: '17',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6428,7 +6812,7 @@ module.exports = {
 				Codigo_Producto: 'JB6V1095UFU',
 				Descripcion:
 					'JUGUETE BLANDO C/CASCABEL - HUESO BOMBON - FUCSIA - UNICO - VELLON',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6436,7 +6820,7 @@ module.exports = {
 				Codigo_Producto: 'JB6V1096UTU',
 				Descripcion:
 					'JUGUETE BLANDO C/CASCABEL - HUESO BOMBON - TURQUESA - UNICO - VELLON',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6460,7 +6844,7 @@ module.exports = {
 				Codigo_Producto: 'JB6V1099UTU',
 				Descripcion:
 					'JUGUETE BLANDO C/CASCABEL - HUESO EL JEFE - TURQUESA - UNICO - VELLON',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6468,7 +6852,7 @@ module.exports = {
 				Codigo_Producto: 'JB6V1100UFU',
 				Descripcion:
 					'JUGUETE BLANDO C/CASCABEL - HUESO LA JEFA - FUCSIA - UNICO - VELLON',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6476,7 +6860,7 @@ module.exports = {
 				Codigo_Producto: 'JB6V1101UTU',
 				Descripcion:
 					'JUGUETE BLANDO C/CASCABEL - HUESO EL REY - TURQUESA - UNICO - VELLON',
-				SumaDeCantidad: '11',
+				SumaDeCantidad: '9',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6484,7 +6868,7 @@ module.exports = {
 				Codigo_Producto: 'JB6V1102UFU',
 				Descripcion:
 					'JUGUETE BLANDO C/CASCABEL - HUESO PRINCESA - FUCSIA - UNICO - VELLON',
-				SumaDeCantidad: '10',
+				SumaDeCantidad: '7',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6517,6 +6901,14 @@ module.exports = {
 				Descripcion:
 					'JUGUETE BLANDO C/CASCABEL - BULLDOG FRANCES - MARRON - UNICO - VELLON',
 				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'JB6V1497RJ',
+				Descripcion:
+					'JUGUETE BLANDO C/CASCABEL - HUESO NAVIDAD - ROJO - UNICO - VELLON',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6588,7 +6980,7 @@ module.exports = {
 				Codigo_Producto: 'KT6N1371UFU',
 				Descripcion:
 					'KIT DOG MOM - KIT DOG MOM - TB6N0866UFU - TO6N1045UFU - LL6N1222UFU - IN6N1020ENE - TA6N1368UNN - FUCSIA - UNICO - SIN R',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6596,7 +6988,7 @@ module.exports = {
 				Codigo_Producto: 'KT6N1372UTU',
 				Descripcion:
 					'KIT DOG MOM - KIT DOG MOM - TB6N0664UNE - TO6N1046UTU - LL6N1223UNE - IN6N1020ENE - TA6N1368UNN - TURQUESA - UNICO - SIN',
-				SumaDeCantidad: '7',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6617,10 +7009,98 @@ module.exports = {
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'KT6N1518UAZ',
+				Descripcion:
+					'KIT PLAZA - MOCHILA - PE6N0942DAZ - ST6N1376UCE - BA6N1403URJ - FR6N1488VE - BO6N1434VE - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '3',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'KT6N1519UFU',
+				Descripcion:
+					'KIT PLAZA - MOCHILA - PE6N0949DFU - ST6N1377UFU - BA6N1404UVE - FR6N1485AM - BO6N1434VE - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'KT6N1520UAZ',
+				Descripcion:
+					'KIT JUEGO - MOCHILA - PD6N1184DRJ - ST6N1178UMU - ST6N1378UAZ - JB6V1062UNN - MD6N1491CE - BO6N1435TU - AZUL - UNICO - S',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'KT6N1521UFU',
+				Descripcion:
+					'KIT JUEGO - MOCHILA - PD6N1185DVE - ST6N1178UMU - ST6N1379UFU - JB6V0351UNN - MD6N1495RS - BO6N1435TU - FUCSIA - UNICO -',
+				SumaDeCantidad: '4',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'KT6N1522URJ',
+				Descripcion:
+					'KIT NAVIDAD - BOLSA - JB6V1497RJ - ST6N1178UMU - MR6N1288RJ - PA6N1002RJ - BO6N1436RJ - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'KT6N1523UGR',
+				Descripcion:
+					'KIT VIAJE - PATITAS - CO1G1416GR - CA6N1381UNE- CB6N1409URJ - BO6N1431GR - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'KT6N1524UFU',
+				Descripcion:
+					'KIT VIAJE - PATITAS - CO1G1417FU - CA6N1381UNE - CB6N1408UAZ - BO6N1432FU - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'KT6N1525UTU',
+				Descripcion:
+					'KIT VIAJE - PATITAS - CO1G1418TU - CA6N1381UNE - CB6N1408UAZ - BO6N1433TU - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '1',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'KT6N1526UGR',
+				Descripcion:
+					'KIT PLAYA - PATITAS - TO6N1413GR - BO6N1428GR - LO6N1422GR - CT6N1425GR - MN6N1482GR - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'KT6N1527UFU',
+				Descripcion:
+					'KIT PLAYA - PATITAS - TO6N1414FU - BO6N1429FU - LO6N1423FU - CT6N1426FU - MN6N1483FU - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '1',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'KT6N1528UTU',
+				Descripcion:
+					'KIT PLAYA - PATITAS - TO6N1415TU - BO6N1428GR - LO6N1424TU - CT6N1427TU - MN6N1484TU - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'LL6N0897UAZ',
 				Descripcion:
 					'LLAVERO - TENGO HIJOS DE 4 PATAS - AZUL - UNICO - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6628,7 +7108,7 @@ module.exports = {
 				Codigo_Producto: 'LL6N0898UFU',
 				Descripcion:
 					'LLAVERO - TENGO HIJOS DE 4 PATAS - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6636,7 +7116,7 @@ module.exports = {
 				Codigo_Producto: 'LL6N0899UNE',
 				Descripcion:
 					'LLAVERO - TENGO HIJOS DE 4 PATAS - NEGRO - UNICO - SIN RELLENO',
-				SumaDeCantidad: '16',
+				SumaDeCantidad: '13',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6644,7 +7124,7 @@ module.exports = {
 				Codigo_Producto: 'LL6N0900UVE',
 				Descripcion:
 					'LLAVERO - TENGO HIJOS DE 4 PATAS - VERDE - UNICO - SIN RELLENO',
-				SumaDeCantidad: '7',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6652,7 +7132,7 @@ module.exports = {
 				Codigo_Producto: 'LL6N1201UFU',
 				Descripcion:
 					'LLAVERO - I LOVE BORDER COLLIE - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6660,14 +7140,14 @@ module.exports = {
 				Codigo_Producto: 'LL6N1202UNE',
 				Descripcion:
 					'LLAVERO - I LOVE BORDER COLLIE - NEGRO - UNICO - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'LL6N1203UFU',
 				Descripcion: 'LLAVERO - I LOVE CANICHE - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6681,28 +7161,28 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'LL6N1205UFU',
 				Descripcion: 'LLAVERO - I LOVE FRENCHIE - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'LL6N1206UNE',
 				Descripcion: 'LLAVERO - I LOVE FRENCHIE - NEGRO - UNICO - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'LL6N1207UFU',
 				Descripcion: 'LLAVERO - I LOVE CATS - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'LL6N1208UNE',
 				Descripcion: 'LLAVERO - I LOVE CATS - NEGRO - UNICO - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -6753,77 +7233,128 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'LL6N1215UCE',
 				Descripcion: 'LLAVERO - AMO A MI PERRO - CELESTE - UNICO - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'LL6N1216UFU',
 				Descripcion: 'LLAVERO - AMO A MI PERRO - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'LL6N1217UNE',
 				Descripcion: 'LLAVERO - AMO A MI PERRO - NEGRO - UNICO - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'LL6N1218UCE',
 				Descripcion: 'LLAVERO - AMO A MI GATO - CELESTE - UNICO - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'LL6N1219UFU',
 				Descripcion: 'LLAVERO - AMO A MI GATO - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'LL6N1220UNE',
 				Descripcion: 'LLAVERO - AMO A MI GATO - NEGRO - UNICO - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'LL6N1221UCE',
 				Descripcion: 'LLAVERO - DOG MOM - CELESTE - UNICO - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'LL6N1222UFU',
 				Descripcion: 'LLAVERO - DOG MOM - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'LL6N1223UNE',
 				Descripcion: 'LLAVERO - DOG MOM - NEGRO - UNICO - SIN RELLENO',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '10',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'LL6N1366UFU',
 				Descripcion: 'LLAVERO - CAT MOM - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '15',
+				SumaDeCantidad: '14',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'LL6N1367UNE',
 				Descripcion: 'LLAVERO - CAT MOM - NEGRO - UNICO - SIN RELLENO',
-				SumaDeCantidad: '15',
+				SumaDeCantidad: '13',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'LO6N1422GR',
+				Descripcion: 'LONA IMPERMEABLE - PATITAS - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '11',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'LO6N1423FU',
+				Descripcion:
+					'LONA IMPERMEABLE - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'LO6N1424TU',
+				Descripcion:
+					'LONA IMPERMEABLE - PATITAS - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '8',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'LP6N1384ECE',
+				Descripcion: 'LIMPIA PATAS - LISO - CELESTE - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'LP6N1385EVE',
+				Descripcion: 'LIMPIA PATAS - LISO - VERDE - S - SIN RELLENO',
+				SumaDeCantidad: '1',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'LP6N1386CCE',
+				Descripcion: 'LIMPIA PATAS - LISO - CELESTE - L - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'LP6N1387CVE',
+				Descripcion: 'LIMPIA PATAS - LISO - VERDE - L - SIN RELLENO',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -7216,7 +7747,7 @@ module.exports = {
 				Codigo_Producto: 'MA6N1090DNE',
 				Descripcion:
 					'MANTAS CORDERITO - PERRITOS DURMIENDO - NEGRO - M - SIN RELLENO',
-				SumaDeCantidad: '10',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -7224,7 +7755,7 @@ module.exports = {
 				Codigo_Producto: 'MA6N1091DFU',
 				Descripcion:
 					'MANTAS CORDERITO - PERRITOS DURMIENDO - FUCSIA - M - SIN RELLENO',
-				SumaDeCantidad: '17',
+				SumaDeCantidad: '14',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -7232,7 +7763,7 @@ module.exports = {
 				Codigo_Producto: 'MA6N1092DTU',
 				Descripcion:
 					'MANTAS CORDERITO - PERRITOS DURMIENDO - TURQUESA - M - SIN RELLENO',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -7256,7 +7787,7 @@ module.exports = {
 				Codigo_Producto: 'MA6N1137DTU',
 				Descripcion:
 					'MANTAS CORDERITO - BULLDOG FRANCES - TURQUESA - M - SIN RELLENO',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -7299,30 +7830,38 @@ module.exports = {
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MB6N1383UCE',
+				Descripcion:
+					'MANGUERA CEPILLO BAÑO - LISO - CELESTE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0374UBE',
 				Descripcion: 'MINI PETS - BULLDOG FRANCES - BEIGE - UNICO - VELLON',
-				SumaDeCantidad: '7',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0375UBN',
 				Descripcion: 'MINI PETS - BULLDOG FRANCES NENA - BYN - UNICO - VELLON',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0376UBN',
 				Descripcion: 'MINI PETS - BULLDOG FRANCES NENE - BYN - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0377UMA',
 				Descripcion: 'MINI PETS - BULLDOG INGLES - MARRON - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -7336,14 +7875,14 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0379UMA',
 				Descripcion: 'MINI PETS - BOXER - MARRON - UNICO - VELLON',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0380UBL',
 				Descripcion: 'MINI PETS - BULLTERRIER - BLANCO - UNICO - VELLON',
-				SumaDeCantidad: '7',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -7357,49 +7896,49 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0382UBL',
 				Descripcion: 'MINI PETS - CANICHE NENE - BLANCO - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0383UBE',
 				Descripcion: 'MINI PETS - CHIHUAHUA - BEIGE - UNICO - VELLON',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0384UNE',
 				Descripcion: 'MINI PETS - CHIHUAHUA - NEGRO - UNICO - VELLON',
-				SumaDeCantidad: '7',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0385UBN',
 				Descripcion: 'MINI PETS - DALMATA - BYN - UNICO - VELLON',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0386UGR',
 				Descripcion: 'MINI PETS - GATO - GRIS - UNICO - VELLON',
-				SumaDeCantidad: '9',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0387UNA',
 				Descripcion: 'MINI PETS - GATO - NARANJA - UNICO - VELLON',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0388UNE',
 				Descripcion: 'MINI PETS - GATO - NEGRO - UNICO - VELLON',
-				SumaDeCantidad: '16',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -7413,70 +7952,70 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0390UBL',
 				Descripcion: 'MINI PETS - JACK RUSELL - BLANCO - UNICO - VELLON',
-				SumaDeCantidad: '10',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0391UBE',
 				Descripcion: 'MINI PETS - LABRADORA - BEIGE - UNICO - VELLON',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0392UBE',
 				Descripcion: 'MINI PETS - LABRADOR - BEIGE - UNICO - VELLON',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0393UBE',
 				Descripcion: 'MINI PETS - MESTIZO - BEIGE - UNICO - VELLON',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0394UNE',
 				Descripcion: 'MINI PETS - NEGRA - NEGRO - UNICO - VELLON',
-				SumaDeCantidad: '9',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0395UNE',
 				Descripcion: 'MINI PETS - NEGRO - NEGRO - UNICO - VELLON',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0396UBE',
 				Descripcion: 'MINI PETS - OVEJERO - BEIGE - UNICO - VELLON',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0397UMA',
 				Descripcion: 'MINI PETS - PEPA - MARRON CLARO - UNICO - VELLON',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0398UMA',
 				Descripcion: 'MINI PETS - PEPE - MARRON CLARO - UNICO - VELLON',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0399UMA',
 				Descripcion: 'MINI PETS - PICHICHO - MARRON - UNICO - VELLON',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -7490,49 +8029,49 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0401UNE',
 				Descripcion: 'MINI PETS - PINSCHER - NEGRO - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0402UMA',
 				Descripcion: 'MINI PETS - PITBULL - MARRON - UNICO - VELLON',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0403UBE',
 				Descripcion: 'MINI PETS - PUG NENE - BEIGE - UNICO - VELLON',
-				SumaDeCantidad: '10',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0404UGR',
 				Descripcion: 'MINI PETS - SALCHICHA ARLEQUIN - GRIS - UNICO - VELLON',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0405UMA',
 				Descripcion: 'MINI PETS - SALCHICHA - MARRON - UNICO - VELLON',
-				SumaDeCantidad: '7',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0406UNE',
 				Descripcion: 'MINI PETS - SALCHICHA NENA - NEGRO - UNICO - VELLON',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0407UNE',
 				Descripcion: 'MINI PETS - SALCHICHA NENE - NEGRO - UNICO - VELLON',
-				SumaDeCantidad: '7',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -7546,21 +8085,21 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0409UBE',
 				Descripcion: 'MINI PETS - SHARPEI - BEIGE - UNICO - VELLON',
-				SumaDeCantidad: '15',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0410UMA',
 				Descripcion: 'MINI PETS - SHARPEI - MARRON - UNICO - VELLON',
-				SumaDeCantidad: '11',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V0411UNE',
 				Descripcion: 'MINI PETS - YORKI - NEGRO - UNICO - VELLON',
-				SumaDeCantidad: '15',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -7581,7 +8120,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MC6V1061UNE',
 				Descripcion: 'MINI PETS - BULLDOG FRANCES - NEGRO - UNICO - VELLON',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -7589,6 +8128,225 @@ module.exports = {
 				Codigo_Producto: 'MC6V1069UBE',
 				Descripcion: 'MINI PETS - PUG NENA - BEIGE - UNICO - VELLON',
 				SumaDeCantidad: '4',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MC6V1498NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - BEAGLE - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '3',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MC6V1499NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - BULLDOG FRANCES - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '9',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MC6V1500NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - BULLDOG INGLES - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '3',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MC6V1501NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - CANICHE - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '5',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MC6V1502NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - CHIHUAHUA - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '3',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MC6V1503NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - GALGO - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MC6V1504NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - GATITOS - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MC6V1505NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - GOLDEN - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MC6V1506NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - JACK RUSSELL - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MC6V1507NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - MIX PERRITOS - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '5',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MC6V1508NN',
+				Descripcion: 'MINI PETS NAVIDAD X3 - PUG - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MC6V1509NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - SALCHICHA - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '4',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MC6V1510NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - SCHNAUZER - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MC6V1511NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - SHARPEI - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '9',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MC6V1512NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - SHIH TZU - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '4',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MC6V1513NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - WESTY - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '3',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MC6V1514NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - WEIMARANER - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MC6V1515NN',
+				Descripcion: 'MINI PETS NAVIDAD - SURTIDO - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '54',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MD6N1489AZ',
+				Descripcion: 'MORDILLO - LISO - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MD6N1490AM',
+				Descripcion: 'MORDILLO - LISO - AMARILLO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '1',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MD6N1491CE',
+				Descripcion: 'MORDILLO - LISO - CELESTE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MD6N1492FU',
+				Descripcion: 'MORDILLO - LISO - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MD6N1493NE',
+				Descripcion: 'MORDILLO - LISO - NEGRO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MD6N1494RJ',
+				Descripcion: 'MORDILLO - LISO - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '1',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MD6N1495RS',
+				Descripcion: 'MORDILLO - LISO - ROSA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MD6N1496VE',
+				Descripcion: 'MORDILLO - LISO - VERDE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '1',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MN6N1482GR',
+				Descripcion: 'MONEDERO - PATITAS - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '14',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MN6N1483FU',
+				Descripcion: 'MONEDERO - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '19',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'MN6N1484TU',
+				Descripcion: 'MONEDERO - PATITAS - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '15',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -7747,7 +8505,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MO6V0618DNE',
 				Descripcion: 'MOISES MEDIANO - PERROS BEIGE - NEGRO - M - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -7810,7 +8568,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MO6V0627EFU',
 				Descripcion: 'MOISES CHICO - PERROS BEIGE - FUCSIA - S - VELLON',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -7824,7 +8582,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MO6V0629EVE',
 				Descripcion: 'MOISES CHICO - PERROS BEIGE - VERDE - S - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -7880,7 +8638,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'MR6N1288RJ',
 				Descripcion: 'MORDEDOR - CIRCULAR - ROJO - UNICO - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -7894,7 +8652,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PA6N1003RJ',
 				Descripcion: 'PAÑUELO - NAVIDAD MIX GATITOS - ROJO - U - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '26',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -7920,6 +8678,304 @@ module.exports = {
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1440FU',
+				Descripcion: 'PAÑUELO - BULLDOG FRANCES - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1441TU',
+				Descripcion:
+					'PAÑUELO - BULLDOG FRANCES - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1442FU',
+				Descripcion: 'PAÑUELO - MIX PERRITOS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1443TU',
+				Descripcion: 'PAÑUELO - MIX PERRITOS - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1444FU',
+				Descripcion: 'PAÑUELO - SALCHICHA - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1445TU',
+				Descripcion: 'PAÑUELO - SALCHICHA - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1446FU',
+				Descripcion: 'PAÑUELO - SCHNAUZER - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '5',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1447TU',
+				Descripcion: 'PAÑUELO - SCHNAUZER - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '9',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1448FU',
+				Descripcion: 'PAÑUELO - CANICHE - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1449TU',
+				Descripcion: 'PAÑUELO - CANICHE - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '1',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1450FU',
+				Descripcion: 'PAÑUELO - LABRADOR - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '6',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1451TU',
+				Descripcion: 'PAÑUELO - LABRADOR - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '8',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1452FU',
+				Descripcion: 'PAÑUELO - OVEJERO - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '5',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1453TU',
+				Descripcion: 'PAÑUELO - OVEJERO - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '3',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1454FU',
+				Descripcion: 'PAÑUELO - BULLDOG INGLES - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '5',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1455TU',
+				Descripcion:
+					'PAÑUELO - BULLDOG INGLES - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '9',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1456FU',
+				Descripcion: 'PAÑUELO - BORDER COLLIE - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '3',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1457TU',
+				Descripcion: 'PAÑUELO - BORDER COLLIE - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '3',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1458FU',
+				Descripcion: 'PAÑUELO - BEAGLE - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '3',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1459TU',
+				Descripcion: 'PAÑUELO - BEAGLE - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '6',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1460FU',
+				Descripcion: 'PAÑUELO - BOXER - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '7',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1461TU',
+				Descripcion: 'PAÑUELO - BOXER - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '10',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1462FU',
+				Descripcion: 'PAÑUELO - PUG - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '6',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1463TU',
+				Descripcion: 'PAÑUELO - PUG - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '8',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1464FU',
+				Descripcion: 'PAÑUELO - PITBULL - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '3',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1465TU',
+				Descripcion: 'PAÑUELO - PITBULL - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '8',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1466FU',
+				Descripcion: 'PAÑUELO - GOLDEN - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '5',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1467TU',
+				Descripcion: 'PAÑUELO - GOLDEN - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '4',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1468FU',
+				Descripcion:
+					'PAÑUELO - MIX PERROS BLANCOS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '8',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1469TU',
+				Descripcion:
+					'PAÑUELO - MIX PERROS BLANCOS - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '6',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1470FU',
+				Descripcion: 'PAÑUELO - SHARPEI - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '8',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1471TU',
+				Descripcion: 'PAÑUELO - SHARPEI - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '9',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1472FU',
+				Descripcion: 'PAÑUELO - JACK RUSSELL - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '8',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1473TU',
+				Descripcion: 'PAÑUELO - JACK RUSSELL - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '6',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1474FU',
+				Descripcion: 'PAÑUELO - GALGO - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '9',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1475TU',
+				Descripcion: 'PAÑUELO - GALGO - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '10',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1476FU',
+				Descripcion: 'PAÑUELO - CHIHUAHUA - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '6',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1477TU',
+				Descripcion: 'PAÑUELO - CHIHUAHUA - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '8',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1478FU',
+				Descripcion: 'PAÑUELO - YORKIE - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '8',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1479TU',
+				Descripcion: 'PAÑUELO - YORKIE - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '9',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1480FU',
+				Descripcion: 'PAÑUELO - COCKER - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '7',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PA6N1481TU',
+				Descripcion: 'PAÑUELO - COCKER - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '11',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PB6N0434UNN',
 				Descripcion:
 					'PORTA BOLSAS - BARRIL PERSONALIZADO - SIN COLOR - UNICO - SIN RELLENO',
@@ -7938,42 +8994,42 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PD6N1180ECE',
 				Descripcion: 'PELOTA LIMPIA DIENTES - LISA - CELESTE - S - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PD6N1181ERJ',
 				Descripcion: 'PELOTA LIMPIA DIENTES - LISA - ROJO - S - SIN RELLENO',
-				SumaDeCantidad: '7',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PD6N1182EVE',
 				Descripcion: 'PELOTA LIMPIA DIENTES - LISA - VERDE - S - SIN RELLENO',
-				SumaDeCantidad: '7',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PD6N1183DCE',
 				Descripcion: 'PELOTA LIMPIA DIENTES - LISA - CELESTE - M - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PD6N1184DRJ',
 				Descripcion: 'PELOTA LIMPIA DIENTES - LISA - ROJO - M - SIN RELLENO',
-				SumaDeCantidad: '9',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PD6N1185DVE',
 				Descripcion: 'PELOTA LIMPIA DIENTES - LISA - VERDE - M - SIN RELLENO',
-				SumaDeCantidad: '7',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -8036,7 +9092,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PE6N0939EFU',
 				Descripcion: 'PELOTA - LISO - FUCSIA - S - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -8050,14 +9106,14 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PE6N0941DRJ',
 				Descripcion: 'PELOTA - LISO - ROJO - M - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '11',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PE6N0942DAZ',
 				Descripcion: 'PELOTA - LISO - AZUL - M - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '7',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -8071,28 +9127,28 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PE6N0944DAM',
 				Descripcion: 'PELOTA - LISO - AMARILLO - M - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PE6N0945DNA',
 				Descripcion: 'PELOTA - LISO - NARANJA - M - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '8',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PE6N0946DVE',
 				Descripcion: 'PELOTA - LISO - VERDE - M - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PE6N0947DNE',
 				Descripcion: 'PELOTA - LISO - NEGRO - M - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -8106,14 +9162,14 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PE6N0949DFU',
 				Descripcion: 'PELOTA - LISO - FUCSIA - M - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PE6N0950DVI',
 				Descripcion: 'PELOTA - LISO - VIOLETA - M - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -8127,7 +9183,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PE6N0952CAZ',
 				Descripcion: 'PELOTA - LISO - AZUL - L - SIN RELLENO',
-				SumaDeCantidad: '7',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -8391,7 +9447,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PL6N0918DRS',
 				Descripcion: 'PLATO COMEDERO - LISO - ROSA - M - SIN RELLENO',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '7',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -8412,7 +9468,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PL6N0921CRJ',
 				Descripcion: 'PLATO COMEDERO - LISO - ROJO - L - SIN RELLENO',
-				SumaDeCantidad: '10',
+				SumaDeCantidad: '9',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -8468,7 +9524,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PL6N0929CFU',
 				Descripcion: 'PLATO COMEDERO - LISO - FUCSIA - L - SIN RELLENO',
-				SumaDeCantidad: '10',
+				SumaDeCantidad: '8',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -8507,7 +9563,7 @@ module.exports = {
 				Codigo_Producto: 'PL6N1301RS',
 				Descripcion:
 					'COMEDERO DOBLE PLASTICO - HUESO - ROSA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -8531,7 +9587,7 @@ module.exports = {
 				Codigo_Producto: 'PL6N1304FU',
 				Descripcion:
 					'COMEDERO DOBLE PLASTICO - OVAL - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -8563,7 +9619,7 @@ module.exports = {
 				Codigo_Producto: 'PL6N1308VI',
 				Descripcion:
 					'COMEDERO DOBLE PLASTICO - OVAL - VIOLETA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -8598,16 +9654,308 @@ module.exports = {
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000001',
+				Descripcion:
+					'CEPILLO CARDINA MADERA N3 PUNTAS PROTEGIDAS - LISO - SIN COLOR - M',
+				SumaDeCantidad: '11',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000002',
+				Descripcion:
+					'CEPILLO CARDINA GATO PUNTAS PROTEGIDAS - LISO - AZUL - UNICO',
+				SumaDeCantidad: '4',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000003',
+				Descripcion:
+					'CEPILLO CARDINA GATO PUNTAS PROTEGIDAS - LISO - FUCSIA - UNICO',
+				SumaDeCantidad: '4',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000004',
+				Descripcion:
+					'CEPILLO CARDINA GATO PUNTAS PROTEGIDAS - LISO - VERDE - UNICO',
+				SumaDeCantidad: '4',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000005',
+				Descripcion:
+					'CEPILLO CARDINA DE MANO PUNTAS PROTEGIDAS AJUSTABLE - LISO - ROJO - UNICO',
+				SumaDeCantidad: '3',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000006',
+				Descripcion:
+					'CEPILLO DE MANO AJUSTABLE CERDAS DE SILICONA - LISO - AZUL - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000007',
+				Descripcion:
+					'CEPILLO DE MANO AJUSTABLE CERDAS DE SILICONA - LISO - ROJO - UNICO',
+				SumaDeCantidad: '4',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000008',
+				Descripcion:
+					'CEPILLO DESLANADOR C/ BOTON EXPULSOR PERRO PELO LARGO - LISO - SIN COLOR - M',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000009',
+				Descripcion:
+					'CEPILLO DESLANADOR C/ BOTON EXPULSOR PERRO PELO CORTO - LISO - SIN COLOR - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000010',
+				Descripcion:
+					'PEINE ACERO INOXIDABLE 2 LADOS - LISO - SIN COLOR - UNICO',
+				SumaDeCantidad: '10',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000011',
+				Descripcion:
+					'CEPILLO PARA BAÑO CON CONTENEDOR PARA SHAMPOO - LISO - CELESTE - UNICO',
+				SumaDeCantidad: '3',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000012',
+				Descripcion:
+					'CEPILLO PARA BAÑO CON CONTENEDOR PARA SHAMPOO - LISO - ROSA - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000013',
+				Descripcion:
+					'CEPILLO PARA BAÑO CON CONTENEDOR PARA SHAMPOO - LISO - VERDE - UNICO',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000014',
+				Descripcion:
+					'CEPILLO QUITA PELUSA GIRATORIO - LISO - SIN COLOR - UNICO',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000015',
+				Descripcion: 'CHIFLE CERDO - LISO - SIN COLOR - UNICO',
+				SumaDeCantidad: '9',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000016',
+				Descripcion: 'CHIFLE PERIODICO - LISO - SIN COLOR - UNICO',
+				SumaDeCantidad: '10',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000017',
+				Descripcion: 'PALO LIMPIA DIENTES DE GOMA - LISO - CELESTE - M',
+				SumaDeCantidad: '3',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000018',
+				Descripcion: 'PALO LIMPIA DIENTES DE GOMA - LISO - VERDE - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000019',
+				Descripcion:
+					'PORTA BOLSAS CLASICO CON ROLLO DE REPUESTO - LISO - CELESTE - UNICO',
+				SumaDeCantidad: '5',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000020',
+				Descripcion:
+					'PORTA BOLSAS CLASICO CON ROLLO DE REPUESTO - LISO - GRIS - UNICO',
+				SumaDeCantidad: '4',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000021',
+				Descripcion:
+					'PORTA BOLSAS CLASICO CON ROLLO DE REPUESTO - LISO - VERDE - UNICO',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000022',
+				Descripcion: 'ROLLOS BOLSAS X3 - LISO - SIN COLOR - UNICO',
+				SumaDeCantidad: '11',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000023',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - AMARILLO - S',
+				SumaDeCantidad: '1',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000024',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - CELESTE - S',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000025',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - VERDE - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000026',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - ROJO - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000027',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - VIOLETA - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000028',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - AMARILLO - L',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000029',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - CELESTE - L',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000030',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - VERDE - L',
+				SumaDeCantidad: '1',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000031',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - ROJO - L',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000032',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - VIOLETA - L',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000033',
+				Descripcion: 'FUENTE DE AGUA FLOR - LISO - VERDE - S',
+				SumaDeCantidad: '1',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000034',
+				Descripcion: 'HUESO MASAJEADOR - LISO - ROJO - S',
+				SumaDeCantidad: '4',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000035',
+				Descripcion: 'CINTURON PARA AUTO - LISO - AZUL - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000036',
+				Descripcion: 'CINTURON PARA AUTO - LISO - ROJO - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000037',
+				Descripcion:
+					'PAÑUELO - NAVIDAD BANDANA - QUERIDO SANTA NENA - ROJO - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000038',
+				Descripcion:
+					'PAÑUELO - NAVIDAD BANDANA - QUERIDO SANTA NENE - ROJO - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PP0000039',
+				Descripcion: 'PAÑUELO - NAVIDAD BANDANA - HOLA 2022 - VERDE - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PR6N1329NN',
 				Descripcion: 'PRETAL - LANIN - SIN COLOR - S - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PR6N1330NN',
 				Descripcion: 'PRETAL - ZONDA - SIN COLOR - S - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -8621,7 +9969,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PR6N1332NN',
 				Descripcion: 'PRETAL - FONCK - SIN COLOR - S - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -8642,7 +9990,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PR6N1335NN',
 				Descripcion: 'PRETAL - ZONDA - SIN COLOR - M - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -8677,7 +10025,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PR6N1340NN',
 				Descripcion: 'PRETAL - ZONDA - SIN COLOR - L - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -8719,7 +10067,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'PS6N0963ECE',
 				Descripcion: 'PELOTA CON SOGA - LISO - CELESTE - S - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -8941,6 +10289,13 @@ module.exports = {
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'PS6N1375EMU',
+				Descripcion: 'PELOTA TELA SOGA - RAYADA - MULTICOLOR - S - SIN RELLENO',
+				SumaDeCantidad: '20',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'RC6N1085UAM',
 				Descripcion: 'RATON A CUERDA - LISO - AMARILLO - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
@@ -9020,14 +10375,14 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'RE6N0418CBL',
 				Descripcion: 'REMERA - DOG DAD - BLANCO - L - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'RE6N0419CNE',
 				Descripcion: 'REMERA - DOG DAD - NEGRO - L - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -9049,7 +10404,7 @@ module.exports = {
 				Codigo_Producto: 'RE6N0422UBL',
 				Descripcion:
 					'REMERA - I JUST WANT ALL THE DOGS - BLANCO - UNICO - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -9081,7 +10436,7 @@ module.exports = {
 				Codigo_Producto: 'RE6N0426UGR',
 				Descripcion:
 					'REMERA - TENGO HIJOS DE 4 PATAS - GRIS - UNICO - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -9089,7 +10444,7 @@ module.exports = {
 				Codigo_Producto: 'RE6N0427UNE',
 				Descripcion:
 					'REMERA - TENGO HIJOS DE 4 PATAS - NEGRO - UNICO - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -9122,6 +10477,14 @@ module.exports = {
 				Descripcion:
 					'REMERA - TENGO HIJOS DE 4 PATAS - NEGRO - M - SIN RELLENO',
 				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'RH6N1393UNN',
+				Descripcion:
+					'RATON HILO SISAL X3 - LISO - SIN COLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '8',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -9280,38 +10643,45 @@ module.exports = {
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'RV6N1394UNN',
+				Descripcion: 'RATON VAIVEN - LISO - SIN COLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '10',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'SD6N1179UMU',
 				Descripcion:
 					'SOGA DOS NUDOS - RAYADA - MULTICOLOR - UNICO - SIN RELLENO',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'SE6N1143UCE',
 				Descripcion: 'SEÑALADOR - PERRITO - CELESTE - UNICO - SIN RELLENO',
-				SumaDeCantidad: '34',
+				SumaDeCantidad: '20',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'SE6N1144URS',
 				Descripcion: 'SEÑALADOR - PERRITO - ROSA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '32',
+				SumaDeCantidad: '18',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'SE6N1145UCE',
 				Descripcion: 'SEÑALADOR - GATITO - CELESTE - UNICO - SIN RELLENO',
-				SumaDeCantidad: '7',
+				SumaDeCantidad: '23',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'SE6N1146URS',
 				Descripcion: 'SEÑALADOR - GATITO - ROSA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '9',
+				SumaDeCantidad: '20',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -9319,7 +10689,7 @@ module.exports = {
 				Codigo_Producto: 'SN6N1078UFU',
 				Descripcion:
 					'SOGA CUATRO NUDOS - RAYADA - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -9327,7 +10697,7 @@ module.exports = {
 				Codigo_Producto: 'SN6N1079UMU',
 				Descripcion:
 					'SOGA CUATRO NUDOS - RAYADA - MULTICOLOR - UNICO - SIN RELLENO',
-				SumaDeCantidad: '9',
+				SumaDeCantidad: '21',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -9375,7 +10745,45 @@ module.exports = {
 				Codigo_Producto: 'ST6N1178UMU',
 				Descripcion:
 					'SOGA TRES NUDOS - RAYADA - MULTICOLOR - UNICO - SIN RELLENO',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '26',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'ST6N1376UCE',
+				Descripcion: 'SOGA TRES NUDOS - RAYADA - CELESTE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '7',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'ST6N1377UFU',
+				Descripcion: 'SOGA TRES NUDOS - RAYADA - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '1',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'ST6N1378UAZ',
+				Descripcion:
+					'SOGA TRENZADA CON TIRADOR - LISO - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'ST6N1379UFU',
+				Descripcion:
+					'SOGA TRENZADA CON TIRADOR - LISO - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '1',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'ST6N1380UNA',
+				Descripcion:
+					'SOGA TRENZADA CON TIRADOR - LISO - NARANJA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -9391,7 +10799,7 @@ module.exports = {
 				Codigo_Producto: 'TA6N1369UNN',
 				Descripcion:
 					'TAZA - PATITAS HAY PALABRAS - SIN COLOR - UNICO - SIN RELLENO',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -9399,7 +10807,7 @@ module.exports = {
 				Codigo_Producto: 'TA6N1370UNN',
 				Descripcion:
 					'TAZA - PATITAS Y DE REPENTE ENCUENTRAS - SIN COLOR - UNICO - SIN RELLENO',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -9414,7 +10822,7 @@ module.exports = {
 				Codigo_Producto: 'TB6N0638UGR',
 				Descripcion:
 					'TAPA BOCA - BULLDOG FRANCES NEGRO - GRIS - UNICO - SIN RELLENO',
-				SumaDeCantidad: '7',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -9457,7 +10865,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TB6N0644UGR',
 				Descripcion: 'TAPA BOCA - CANICHE - GRIS - UNICO - SIN RELLENO',
-				SumaDeCantidad: '43',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -9541,7 +10949,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TB6N0656UGR',
 				Descripcion: 'TAPA BOCA - SALCHICHA - GRIS - UNICO - SIN RELLENO',
-				SumaDeCantidad: '25',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -9597,7 +11005,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TB6N0664UNE',
 				Descripcion: 'TAPA BOCA - PERRITOS MIX - NEGRO - UNICO - SIN RELLENO',
-				SumaDeCantidad: '13',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -9720,7 +11128,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TB6N0854UFU',
 				Descripcion: 'TAPA BOCA - PEPE - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -9769,7 +11177,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TB6N0861UFU',
 				Descripcion: 'TAPA BOCA - SCHNAUZER - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -9804,7 +11212,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TB6N0866UFU',
 				Descripcion: 'TAPA BOCA - PERRITOS MIX - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10045,28 +11453,28 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TB6N1147UFU',
 				Descripcion: 'TAPA BOCA - GATITOS MIX - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '12',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TB6N1148UGR',
 				Descripcion: 'TAPA BOCA - GATITOS MIX - GRIS - UNICO - SIN RELLENO',
-				SumaDeCantidad: '10',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TB6N1149UTU',
 				Descripcion: 'TAPA BOCA - GATITOS MIX - TURQUESA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '11',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TB6N1152URJ',
 				Descripcion: 'TAPA BOCA - PERRITOS MIX - ROJO - UNICO - SIN RELLENO',
-				SumaDeCantidad: '12',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10074,28 +11482,28 @@ module.exports = {
 				Codigo_Producto: 'TB6N1153UTU',
 				Descripcion:
 					'TAPA BOCA - PERRITOS MIX - TURQUESA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TB6N1154UFU',
 				Descripcion: 'TAPA BOCA - PATITA - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '7',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TB6N1155UNE',
 				Descripcion: 'TAPA BOCA - PATITA - NEGRO - UNICO - SIN RELLENO',
-				SumaDeCantidad: '13',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TB6N1156UTU',
 				Descripcion: 'TAPA BOCA - PATITA - TURQUESA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '11',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10140,14 +11548,14 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TO6N1023UFU',
 				Descripcion: 'TOALLA - BEAGLE - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TO6N1024UTU',
 				Descripcion: 'TOALLA - BEAGLE - TURQUESA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10161,14 +11569,14 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TO6N1026UTU',
 				Descripcion: 'TOALLA - BOXER - TURQUESA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TO6N1027UFU',
 				Descripcion: 'TOALLA - BULLDOG FRANCES - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10176,28 +11584,28 @@ module.exports = {
 				Codigo_Producto: 'TO6N1028UTU',
 				Descripcion:
 					'TOALLA - BULLDOG FRANCES - TURQUESA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TO6N1029UFU',
 				Descripcion: 'TOALLA - BULLDOG INGLES - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TO6N1030UTU',
 				Descripcion: 'TOALLA - BULLDOG INGLES - TURQUESA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TO6N1031UFU',
 				Descripcion: 'TOALLA - CANICHE - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10211,7 +11619,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TO6N1033UFU',
 				Descripcion: 'TOALLA - CHIHUAHUA - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10239,14 +11647,14 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TO6N1037UFU',
 				Descripcion: 'TOALLA - GATO GRIS - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TO6N1038UTU',
 				Descripcion: 'TOALLA - GATO GRIS - TURQUESA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10260,7 +11668,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TO6N1040UTU',
 				Descripcion: 'TOALLA - GOLDEN - TURQUESA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10282,7 +11690,7 @@ module.exports = {
 				Codigo_Producto: 'TO6N1043UFU',
 				Descripcion:
 					'TOALLA - MIX PERROS CHICOS - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '10',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10290,7 +11698,7 @@ module.exports = {
 				Codigo_Producto: 'TO6N1044UTU',
 				Descripcion:
 					'TOALLA - MIX PERROS CHICOS - TURQUESA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '7',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10298,7 +11706,7 @@ module.exports = {
 				Codigo_Producto: 'TO6N1045UFU',
 				Descripcion:
 					'TOALLA - MIX PERROS GRANDES - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '8',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10306,7 +11714,7 @@ module.exports = {
 				Codigo_Producto: 'TO6N1046UTU',
 				Descripcion:
 					'TOALLA - MIX PERROS GRANDES - TURQUESA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10327,14 +11735,14 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TO6N1049UFU',
 				Descripcion: 'TOALLA - PERRO NEGRO - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TO6N1050UTU',
 				Descripcion: 'TOALLA - PERRO NEGRO - TURQUESA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10355,7 +11763,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TO6N1053UFU',
 				Descripcion: 'TOALLA - SALCHICHA - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10369,7 +11777,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TO6N1055UFU',
 				Descripcion: 'TOALLA - SCHNAUZER - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10397,7 +11805,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'TO6N1059UFU',
 				Descripcion: 'TOALLA - YORKIE - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10405,6 +11813,27 @@ module.exports = {
 				Codigo_Producto: 'TO6N1060UTU',
 				Descripcion: 'TOALLA - YORKIE - TURQUESA - UNICO - SIN RELLENO',
 				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'TO6N1413GR',
+				Descripcion: 'TOALLA - PATITAS - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '11',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'TO6N1414FU',
+				Descripcion: 'TOALLA - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '12',
+			},
+			{
+				Id_Pto_Stock: '1',
+				DescripcionPtoStock: 'Showroom',
+				Codigo_Producto: 'TO6N1415TU',
+				Descripcion: 'TOALLA - PATITAS - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '9',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10442,7 +11871,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'VV000000005',
 				Descripcion: 'ALMOHADONES MUÑECOS PETS - YORKIE  - UNICO - VELLON',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10465,7 +11894,7 @@ module.exports = {
 				Codigo_Producto: 'VV000000008',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS -  GATO BLANCO Y NEGRO - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10561,7 +11990,7 @@ module.exports = {
 				Codigo_Producto: 'VV000000020',
 				Descripcion:
 					'ALMOHADONES DECO 40X40 CM - CANICHE NENE LOVER - BEIGE - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10577,7 +12006,7 @@ module.exports = {
 				Codigo_Producto: 'VV000000025',
 				Descripcion:
 					'COLCHON LAVABLE PERRO CHICO CHIUAHUA NEGRO - GRIS - S - COPOS',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10719,7 +12148,7 @@ module.exports = {
 				Codigo_Producto: 'VV000000060',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO EXTRA GRANDE- UNICO- SIN RELLENO- XL- PERRITO PELUDO BLANCO Y NEGRO - TURQUESA - 98X70 CM ',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10829,7 +12258,7 @@ module.exports = {
 				Codigo_Producto: 'VV000000076',
 				Descripcion:
 					'JUGUETE BLANDO  SIN CASCABEL - UNICO - VELLON - UNICO - TORRE EIFFEL  (20X51 CM) ',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10955,7 +12384,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'VV000000101',
 				Descripcion: 'MINI PETS - SHARPEI BEIGE PAÑUELO AZUL ',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -10990,14 +12419,14 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'VV000000106',
 				Descripcion: 'MINI PETS - UNICO - VELLON - CHOW CHOW',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'VV000000107',
 				Descripcion: 'MINI PETS - UNICO - VELLON - UNICO - PUG NENA',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -11603,7 +13032,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'VV000000195',
 				Descripcion: 'BOLSA PERRITOS Y HUESITOS FUCSIA L (68x9x49cm)',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -11624,7 +13053,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'VV000000198',
 				Descripcion: 'BOLSA CARITA SALCHICHA TURQUESA L (68x9x49cm)',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -11638,7 +13067,7 @@ module.exports = {
 				DescripcionPtoStock: 'Showroom',
 				Codigo_Producto: 'VV000000200',
 				Descripcion: 'BOLSA PERRITOS Y HUESITOS FUCSIA XL (88x9x68cm)',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '1',
@@ -11877,7 +13306,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0224UBN',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - BULLDOG FRANCES NENA - BYN - UNICO - VELLON',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -11885,7 +13314,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0225UBN',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - BULLDOG FRANCES NENE - BYN - UNICO - VELLON',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -11893,7 +13322,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0226UMA',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - BULLDOG INGLES - MARRON - UNICO - VELLON',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -11901,7 +13330,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0227UMA',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - BEAGLE - MARRON - UNICO - VELLON',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -11941,7 +13370,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0232UNE',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - CHIHUAHUA - NEGRO - UNICO - VELLON',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -11949,14 +13378,14 @@ module.exports = {
 				Codigo_Producto: 'AL6V0233UBL',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - GATO - BLANCO - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '2',
 				DescripcionPtoStock: 'Despósito',
 				Codigo_Producto: 'AL6V0234UGR',
 				Descripcion: 'ALMOHADONES MUÑECOS PETS - GATO - GRIS - UNICO - VELLON',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -11964,7 +13393,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0235UNA',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - GATO - NARANJA - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -11979,7 +13408,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0237UBE',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - GOLDEN - BEIGE - UNICO - VELLON',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -12003,7 +13432,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0240UBE',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - OVEJERO - BEIGE - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -12011,7 +13440,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0241UMA',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - PEPA - MARRON CLARO - UNICO - VELLON',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -12019,7 +13448,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0242UMA',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - PEPE - MARRON CLARO - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -12051,7 +13480,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0246UBE',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - PUG NENE - BEIGE - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -12059,7 +13488,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0247UGR',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - SALCHICHA ARLEQUIN - GRIS - UNICO - VELLON',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -12083,7 +13512,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0250UNE',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - SALCHICHA - NEGRO - UNICO - VELLON',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -12091,7 +13520,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0251UGR',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - SCHNAUZER - GRIS - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -12107,7 +13536,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0253UBE',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - SHIH TZU OREJAS GRIS - BEIGE - UNICO - VELLON',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -12448,7 +13877,7 @@ module.exports = {
 				DescripcionPtoStock: 'Despósito',
 				Codigo_Producto: 'BA6N0996RV',
 				Descripcion: 'BANDERIN - NAVIDAD CANICHE - RYV - U - SIN RELLENO',
-				SumaDeCantidad: '9',
+				SumaDeCantidad: '8',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -12484,6 +13913,27 @@ module.exports = {
 				Codigo_Producto: 'BA6N1001RV',
 				Descripcion: 'BANDERIN - NAVIDAD SHARPEI - RYV - U - SIN RELLENO',
 				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'BA6N1402UAZ',
+				Descripcion: 'BOTELLA DE AGUA - 500 ML - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'BA6N1403URJ',
+				Descripcion: 'BOTELLA DE AGUA - 500 ML - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'BA6N1404UVE',
+				Descripcion: 'BOTELLA DE AGUA - 500 ML - VERDE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -12806,6 +14256,93 @@ module.exports = {
 			{
 				Id_Pto_Stock: '2',
 				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'BO6N1428GR',
+				Descripcion: 'BOLSA CON CIERRE - PATITAS - GRIS - M - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'BO6N1429FU',
+				Descripcion: 'BOLSA CON CIERRE - PATITAS - FUCSIA - M - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'BO6N1430TU',
+				Descripcion: 'BOLSA CON CIERRE - PATITAS - TURQUESA - M - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'BO6N1431GR',
+				Descripcion: 'BOLSA - PATITAS - GRIS - L - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'BO6N1432FU',
+				Descripcion: 'BOLSA - PATITAS - FUCSIA - L - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'BO6N1433TU',
+				Descripcion: 'BOLSA - PATITAS - TURQUESA - L - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'BO6N1434VE',
+				Descripcion: 'BOLSA SOGA - PLAZA - VERDE - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'BO6N1435TU',
+				Descripcion: 'BOLSA SOGA - JUEGO - TURQUESA - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'BO6N1436RJ',
+				Descripcion: 'BOLSA SOGA - NAVIDAD - ROJO - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'BO6N1437GR',
+				Descripcion:
+					'BOLSA FUNDA PARA AUTO - GENERICO - GRIS - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'BO6N1438FU',
+				Descripcion:
+					'BOLSA FUNDA PARA AUTO - GENERICO - FUCSIA - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'BO6N1439TU',
+				Descripcion:
+					'BOLSA FUNDA PARA AUTO - GENERICO - TURQUESA - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
 				Codigo_Producto: 'CA6N1172UNN',
 				Descripcion:
 					'CINTURON PARA AUTO - MAR DEL PLATA - SIN COLOR - UNICO - SIN RELLENO',
@@ -12907,6 +14444,53 @@ module.exports = {
 			{
 				Id_Pto_Stock: '2',
 				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CA6N1381UNE',
+				Descripcion: 'CINTURON PARA AUTO - LISO - NEGRO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CB6N1408UAZ',
+				Descripcion:
+					'COMEDERO BEBEDERO PORTATIL - LISO - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CB6N1409URJ',
+				Descripcion:
+					'COMEDERO BEBEDERO PORTATIL - LISO - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CC6N1390UNN',
+				Descripcion:
+					'CHIFLE GALLETITA - DONA - SIN COLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CC6N1391UNN',
+				Descripcion:
+					'CHIFLE GALLETITA - OREO - SIN COLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CC6N1392UNN',
+				Descripcion:
+					'CHIFLE GALLETITA - MERENGADA - SIN COLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
 				Codigo_Producto: 'CD6N1192UCE',
 				Descripcion:
 					'COMEDERO DOBLE PLASTICO Y ACERO - LISO - CELESTE - UNICO - SIN RELLENO',
@@ -12926,6 +14510,60 @@ module.exports = {
 				Codigo_Producto: 'CD6N1194UVE',
 				Descripcion:
 					'COMEDERO DOBLE PLASTICO Y ACERO - LISO - VERDE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CE6N1398UCE',
+				Descripcion:
+					'CORREA RETRACTIL EXTENSIBLE - 5 MTS - CELESTE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CE6N1399URJ',
+				Descripcion:
+					'CORREA RETRACTIL EXTENSIBLE - 5 MTS - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CE6N1400URS',
+				Descripcion:
+					'CORREA RETRACTIL EXTENSIBLE - 5 MTS - ROSA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CE6N1401UVE',
+				Descripcion:
+					'CORREA RETRACTIL EXTENSIBLE - 5 MTS - VERDE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CG6N1395UAM',
+				Descripcion: 'CAÑITA PARA GATO - COLA - AMARILLO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CG6N1396UBE',
+				Descripcion: 'CAÑITA PARA GATO - COLA - BEIGE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CG6N1397UMU',
+				Descripcion:
+					'CAÑITA PARA GATO - COLA - MULTICOLOR - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -14333,7 +15971,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0001CFU',
 				Descripcion:
 					'COLCHONETA PERRO GRANDE - PERRITOS MIX - FUCSIA - L - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '7',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -14381,7 +16019,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0007DFU',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - PERRITOS MIX - FUCSIA - M - GUATA',
-				SumaDeCantidad: '9',
+				SumaDeCantidad: '15',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -14389,7 +16027,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0008DTU',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - PERRITOS MIX - TURQUESA - M - GUATA',
-				SumaDeCantidad: '9',
+				SumaDeCantidad: '19',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -14475,7 +16113,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0078UTU',
 				Descripcion:
 					'COLCHONETA AUTO / PASEO - BULLDOG FRANCES - TURQUESA - UNICO - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -14483,7 +16121,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0079UFU',
 				Descripcion:
 					'COLCHONETA AUTO / PASEO - PERRITOS MIX - FUCSIA - UNICO - GUATA',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -14499,7 +16137,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0081UTU',
 				Descripcion:
 					'COLCHONETA AUTO / PASEO - PERRITOS MIX - TURQUESA - UNICO - GUATA',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -14507,7 +16145,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0082UFU',
 				Descripcion:
 					'COLCHONETA AUTO / PASEO - SALCHICHA - FUCSIA - UNICO - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -14733,7 +16371,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0803CNE',
 				Descripcion:
 					'COLCHONETA PERRO GRANDE - PERRITOS MIX - NEGRO - L - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -14741,7 +16379,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0804DRJ',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - PERRITOS MIX - ROJO - M - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -14749,7 +16387,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0805DNE',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - PERRITOS MIX - NEGRO - M - GUATA',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '15',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -14757,7 +16395,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G1175UFU',
 				Descripcion:
 					'COLCHONETA AUTO / PASEO - CANICHE - FUCSIA - UNICO - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -14772,7 +16410,30 @@ module.exports = {
 				Codigo_Producto: 'CO1G1177UTU',
 				Descripcion:
 					'COLCHONETA AUTO / PASEO - CANICHE - TURQUESA - UNICO - GUATA',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '2',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CO1G1416GR',
+				Descripcion: 'COLCHONETA AUTO / PASEO - PATITAS - GRIS - UNICO - GUATA',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CO1G1417FU',
+				Descripcion:
+					'COLCHONETA AUTO / PASEO - PATITAS - FUCSIA - UNICO - GUATA',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CO1G1418TU',
+				Descripcion:
+					'COLCHONETA AUTO / PASEO - PATITAS - TURQUESA - UNICO - GUATA',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -15785,6 +17446,20 @@ module.exports = {
 			{
 				Id_Pto_Stock: '2',
 				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CP6N1388UAZ',
+				Descripcion: 'CEPILLO QUITA PELUSA - LISO - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CP6N1389URJ',
+				Descripcion: 'CEPILLO QUITA PELUSA - LISO - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
 				Codigo_Producto: 'CR6N1344NN',
 				Descripcion: 'CORREA - LANIN - SIN COLOR - S - SIN RELLENO',
 				SumaDeCantidad: '0',
@@ -15850,6 +17525,49 @@ module.exports = {
 				DescripcionPtoStock: 'Despósito',
 				Codigo_Producto: 'CR6N1353NN',
 				Descripcion: 'CORREA - HUA HUM - SIN COLOR - L - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CS6N1405UAM',
+				Descripcion:
+					'COMEDERO SILICONA - LISO - AMARILLO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CS6N1406UNE',
+				Descripcion: 'COMEDERO SILICONA - LISO - NEGRO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CS6N1407URJ',
+				Descripcion: 'COMEDERO SILICONA - LISO - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CT6N1425GR',
+				Descripcion: 'CARTUCHERA - PATITAS - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CT6N1426FU',
+				Descripcion: 'CARTUCHERA - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'CT6N1427TU',
+				Descripcion: 'CARTUCHERA - PATITAS - TURQUESA - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -16058,6 +17776,56 @@ module.exports = {
 				Codigo_Producto: 'FA6N0290UTU',
 				Descripcion:
 					'FUNDA PARA AUTO - SCHNAUZER MIX - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'FA6N1419GR',
+				Descripcion: 'FUNDA PARA AUTO - PATITAS - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'FA6N1420FU',
+				Descripcion: 'FUNDA PARA AUTO - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'FA6N1421TU',
+				Descripcion:
+					'FUNDA PARA AUTO - PATITAS - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'FR6N1485AM',
+				Descripcion: 'FRISBEE GOMA - LISO - AMARILLO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'FR6N1486FU',
+				Descripcion: 'FRISBEE GOMA - LISO - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'FR6N1487NA',
+				Descripcion: 'FRISBEE GOMA - LISO - NARANJA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'FR6N1488VE',
+				Descripcion: 'FRISBEE GOMA - LISO - VERDE - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -17215,6 +18983,13 @@ module.exports = {
 			{
 				Id_Pto_Stock: '2',
 				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'GP6N1382UAZ',
+				Descripcion: 'GUANTE SACA PELOS - LISO - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
 				Codigo_Producto: 'HF6N1289AM',
 				Descripcion: 'HUESO FLEX GRANDE - LISO - AMARILLO - L - SIN RELLENO',
 				SumaDeCantidad: '0',
@@ -18037,6 +19812,44 @@ module.exports = {
 			{
 				Id_Pto_Stock: '2',
 				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'IN6N1516RJ',
+				Descripcion:
+					'INDIVIDUAL CUERINA NAVIDAD - MIX PERRITOS - ROJO - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'IN6N1517RJ',
+				Descripcion:
+					'INDIVIDUAL CUERINA NAVIDAD - MIX GATITOS - ROJO - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'IS6N1410UNE',
+				Descripcion: 'INDIVIDUAL SILICONA - LISO - NEGRO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'IS6N1411UCE',
+				Descripcion:
+					'INDIVIDUAL SILICONA - LISO - CELESTE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'IS6N1412URS',
+				Descripcion: 'INDIVIDUAL SILICONA - LISO - ROSA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
 				Codigo_Producto: 'JB6V0337UNN',
 				Descripcion:
 					'JUGUETE BLANDO C/CASCABEL - CHANCHO - SIN COLOR - UNICO - VELLON',
@@ -18277,6 +20090,14 @@ module.exports = {
 			{
 				Id_Pto_Stock: '2',
 				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'JB6V1497RJ',
+				Descripcion:
+					'JUGUETE BLANDO C/CASCABEL - HUESO NAVIDAD - ROJO - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
 				Codigo_Producto: 'KT6N1127DNN',
 				Descripcion:
 					'KIT JUEGO - UNICORNIO PELOTA - JB6V0351UNN - PE6N0949DFU - SIN COLOR - M - SIN RELLENO',
@@ -18368,6 +20189,94 @@ module.exports = {
 				Codigo_Producto: 'KT6N1374UTU',
 				Descripcion:
 					'KIT CAT MOM - KIT CAT MOM - TB6N1148UGR - TO6N1038UTU - LL6N1367UNE - IN6N1020ENE - TA6N1368UNN - TURQUESA - UNICO - SIN',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'KT6N1518UAZ',
+				Descripcion:
+					'KIT PLAZA - MOCHILA - PE6N0942DAZ - ST6N1376UCE - BA6N1403URJ - FR6N1488VE - BO6N1434VE - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'KT6N1519UFU',
+				Descripcion:
+					'KIT PLAZA - MOCHILA - PE6N0949DFU - ST6N1377UFU - BA6N1404UVE - FR6N1485AM - BO6N1434VE - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'KT6N1520UAZ',
+				Descripcion:
+					'KIT JUEGO - MOCHILA - PD6N1184DRJ - ST6N1178UMU - ST6N1378UAZ - JB6V1062UNN - MD6N1491CE - BO6N1435TU - AZUL - UNICO - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'KT6N1521UFU',
+				Descripcion:
+					'KIT JUEGO - MOCHILA - PD6N1185DVE - ST6N1178UMU - ST6N1379UFU - JB6V0351UNN - MD6N1495RS - BO6N1435TU - FUCSIA - UNICO -',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'KT6N1522URJ',
+				Descripcion:
+					'KIT NAVIDAD - BOLSA - JB6V1497RJ - ST6N1178UMU - MR6N1288RJ - PA6N1002RJ - BO6N1436RJ - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'KT6N1523UGR',
+				Descripcion:
+					'KIT VIAJE - PATITAS - CO1G1416GR - CA6N1381UNE- CB6N1409URJ - BO6N1431GR - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'KT6N1524UFU',
+				Descripcion:
+					'KIT VIAJE - PATITAS - CO1G1417FU - CA6N1381UNE - CB6N1408UAZ - BO6N1432FU - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'KT6N1525UTU',
+				Descripcion:
+					'KIT VIAJE - PATITAS - CO1G1418TU - CA6N1381UNE - CB6N1408UAZ - BO6N1433TU - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'KT6N1526UGR',
+				Descripcion:
+					'KIT PLAYA - PATITAS - TO6N1413GR - BO6N1428GR - LO6N1422GR - CT6N1425GR - MN6N1482GR - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'KT6N1527UFU',
+				Descripcion:
+					'KIT PLAYA - PATITAS - TO6N1414FU - BO6N1429FU - LO6N1423FU - CT6N1426FU - MN6N1483FU - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'KT6N1528UTU',
+				Descripcion:
+					'KIT PLAYA - PATITAS - TO6N1415TU - BO6N1428GR - LO6N1424TU - CT6N1427TU - MN6N1484TU - TURQUESA - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -18579,6 +20488,57 @@ module.exports = {
 				DescripcionPtoStock: 'Despósito',
 				Codigo_Producto: 'LL6N1367UNE',
 				Descripcion: 'LLAVERO - CAT MOM - NEGRO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'LO6N1422GR',
+				Descripcion: 'LONA IMPERMEABLE - PATITAS - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'LO6N1423FU',
+				Descripcion:
+					'LONA IMPERMEABLE - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'LO6N1424TU',
+				Descripcion:
+					'LONA IMPERMEABLE - PATITAS - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'LP6N1384ECE',
+				Descripcion: 'LIMPIA PATAS - LISO - CELESTE - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'LP6N1385EVE',
+				Descripcion: 'LIMPIA PATAS - LISO - VERDE - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'LP6N1386CCE',
+				Descripcion: 'LIMPIA PATAS - LISO - CELESTE - L - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'LP6N1387CVE',
+				Descripcion: 'LIMPIA PATAS - LISO - VERDE - L - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -19055,6 +21015,14 @@ module.exports = {
 			{
 				Id_Pto_Stock: '2',
 				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MB6N1383UCE',
+				Descripcion:
+					'MANGUERA CEPILLO BAÑO - LISO - CELESTE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
 				Codigo_Producto: 'MC6V0374UBE',
 				Descripcion: 'MINI PETS - BULLDOG FRANCES - BEIGE - UNICO - VELLON',
 				SumaDeCantidad: '0',
@@ -19344,6 +21312,225 @@ module.exports = {
 				DescripcionPtoStock: 'Despósito',
 				Codigo_Producto: 'MC6V1069UBE',
 				Descripcion: 'MINI PETS - PUG NENA - BEIGE - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MC6V1498NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - BEAGLE - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MC6V1499NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - BULLDOG FRANCES - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MC6V1500NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - BULLDOG INGLES - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MC6V1501NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - CANICHE - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MC6V1502NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - CHIHUAHUA - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MC6V1503NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - GALGO - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MC6V1504NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - GATITOS - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MC6V1505NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - GOLDEN - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MC6V1506NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - JACK RUSSELL - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MC6V1507NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - MIX PERRITOS - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MC6V1508NN',
+				Descripcion: 'MINI PETS NAVIDAD X3 - PUG - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MC6V1509NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - SALCHICHA - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MC6V1510NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - SCHNAUZER - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MC6V1511NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - SHARPEI - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MC6V1512NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - SHIH TZU - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MC6V1513NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - WESTY - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MC6V1514NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - WEIMARANER - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MC6V1515NN',
+				Descripcion: 'MINI PETS NAVIDAD - SURTIDO - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MD6N1489AZ',
+				Descripcion: 'MORDILLO - LISO - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MD6N1490AM',
+				Descripcion: 'MORDILLO - LISO - AMARILLO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MD6N1491CE',
+				Descripcion: 'MORDILLO - LISO - CELESTE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MD6N1492FU',
+				Descripcion: 'MORDILLO - LISO - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MD6N1493NE',
+				Descripcion: 'MORDILLO - LISO - NEGRO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MD6N1494RJ',
+				Descripcion: 'MORDILLO - LISO - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MD6N1495RS',
+				Descripcion: 'MORDILLO - LISO - ROSA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MD6N1496VE',
+				Descripcion: 'MORDILLO - LISO - VERDE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MN6N1482GR',
+				Descripcion: 'MONEDERO - PATITAS - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MN6N1483FU',
+				Descripcion: 'MONEDERO - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'MN6N1484TU',
+				Descripcion: 'MONEDERO - PATITAS - TURQUESA - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -19671,6 +21858,304 @@ module.exports = {
 				DescripcionPtoStock: 'Despósito',
 				Codigo_Producto: 'PA6N1287RS',
 				Descripcion: 'PAÑUELO - CUADRILLE - ROSA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1440FU',
+				Descripcion: 'PAÑUELO - BULLDOG FRANCES - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1441TU',
+				Descripcion:
+					'PAÑUELO - BULLDOG FRANCES - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1442FU',
+				Descripcion: 'PAÑUELO - MIX PERRITOS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1443TU',
+				Descripcion: 'PAÑUELO - MIX PERRITOS - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1444FU',
+				Descripcion: 'PAÑUELO - SALCHICHA - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1445TU',
+				Descripcion: 'PAÑUELO - SALCHICHA - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1446FU',
+				Descripcion: 'PAÑUELO - SCHNAUZER - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1447TU',
+				Descripcion: 'PAÑUELO - SCHNAUZER - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1448FU',
+				Descripcion: 'PAÑUELO - CANICHE - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1449TU',
+				Descripcion: 'PAÑUELO - CANICHE - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1450FU',
+				Descripcion: 'PAÑUELO - LABRADOR - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1451TU',
+				Descripcion: 'PAÑUELO - LABRADOR - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1452FU',
+				Descripcion: 'PAÑUELO - OVEJERO - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1453TU',
+				Descripcion: 'PAÑUELO - OVEJERO - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1454FU',
+				Descripcion: 'PAÑUELO - BULLDOG INGLES - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1455TU',
+				Descripcion:
+					'PAÑUELO - BULLDOG INGLES - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1456FU',
+				Descripcion: 'PAÑUELO - BORDER COLLIE - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1457TU',
+				Descripcion: 'PAÑUELO - BORDER COLLIE - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1458FU',
+				Descripcion: 'PAÑUELO - BEAGLE - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1459TU',
+				Descripcion: 'PAÑUELO - BEAGLE - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1460FU',
+				Descripcion: 'PAÑUELO - BOXER - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1461TU',
+				Descripcion: 'PAÑUELO - BOXER - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1462FU',
+				Descripcion: 'PAÑUELO - PUG - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1463TU',
+				Descripcion: 'PAÑUELO - PUG - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1464FU',
+				Descripcion: 'PAÑUELO - PITBULL - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1465TU',
+				Descripcion: 'PAÑUELO - PITBULL - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1466FU',
+				Descripcion: 'PAÑUELO - GOLDEN - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1467TU',
+				Descripcion: 'PAÑUELO - GOLDEN - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1468FU',
+				Descripcion:
+					'PAÑUELO - MIX PERROS BLANCOS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1469TU',
+				Descripcion:
+					'PAÑUELO - MIX PERROS BLANCOS - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1470FU',
+				Descripcion: 'PAÑUELO - SHARPEI - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1471TU',
+				Descripcion: 'PAÑUELO - SHARPEI - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1472FU',
+				Descripcion: 'PAÑUELO - JACK RUSSELL - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1473TU',
+				Descripcion: 'PAÑUELO - JACK RUSSELL - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1474FU',
+				Descripcion: 'PAÑUELO - GALGO - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1475TU',
+				Descripcion: 'PAÑUELO - GALGO - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1476FU',
+				Descripcion: 'PAÑUELO - CHIHUAHUA - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1477TU',
+				Descripcion: 'PAÑUELO - CHIHUAHUA - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1478FU',
+				Descripcion: 'PAÑUELO - YORKIE - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1479TU',
+				Descripcion: 'PAÑUELO - YORKIE - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1480FU',
+				Descripcion: 'PAÑUELO - COCKER - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PA6N1481TU',
+				Descripcion: 'PAÑUELO - COCKER - TURQUESA - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -20354,6 +22839,298 @@ module.exports = {
 			{
 				Id_Pto_Stock: '2',
 				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000001',
+				Descripcion:
+					'CEPILLO CARDINA MADERA N3 PUNTAS PROTEGIDAS - LISO - SIN COLOR - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000002',
+				Descripcion:
+					'CEPILLO CARDINA GATO PUNTAS PROTEGIDAS - LISO - AZUL - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000003',
+				Descripcion:
+					'CEPILLO CARDINA GATO PUNTAS PROTEGIDAS - LISO - FUCSIA - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000004',
+				Descripcion:
+					'CEPILLO CARDINA GATO PUNTAS PROTEGIDAS - LISO - VERDE - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000005',
+				Descripcion:
+					'CEPILLO CARDINA DE MANO PUNTAS PROTEGIDAS AJUSTABLE - LISO - ROJO - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000006',
+				Descripcion:
+					'CEPILLO DE MANO AJUSTABLE CERDAS DE SILICONA - LISO - AZUL - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000007',
+				Descripcion:
+					'CEPILLO DE MANO AJUSTABLE CERDAS DE SILICONA - LISO - ROJO - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000008',
+				Descripcion:
+					'CEPILLO DESLANADOR C/ BOTON EXPULSOR PERRO PELO LARGO - LISO - SIN COLOR - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000009',
+				Descripcion:
+					'CEPILLO DESLANADOR C/ BOTON EXPULSOR PERRO PELO CORTO - LISO - SIN COLOR - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000010',
+				Descripcion:
+					'PEINE ACERO INOXIDABLE 2 LADOS - LISO - SIN COLOR - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000011',
+				Descripcion:
+					'CEPILLO PARA BAÑO CON CONTENEDOR PARA SHAMPOO - LISO - CELESTE - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000012',
+				Descripcion:
+					'CEPILLO PARA BAÑO CON CONTENEDOR PARA SHAMPOO - LISO - ROSA - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000013',
+				Descripcion:
+					'CEPILLO PARA BAÑO CON CONTENEDOR PARA SHAMPOO - LISO - VERDE - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000014',
+				Descripcion:
+					'CEPILLO QUITA PELUSA GIRATORIO - LISO - SIN COLOR - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000015',
+				Descripcion: 'CHIFLE CERDO - LISO - SIN COLOR - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000016',
+				Descripcion: 'CHIFLE PERIODICO - LISO - SIN COLOR - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000017',
+				Descripcion: 'PALO LIMPIA DIENTES DE GOMA - LISO - CELESTE - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000018',
+				Descripcion: 'PALO LIMPIA DIENTES DE GOMA - LISO - VERDE - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000019',
+				Descripcion:
+					'PORTA BOLSAS CLASICO CON ROLLO DE REPUESTO - LISO - CELESTE - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000020',
+				Descripcion:
+					'PORTA BOLSAS CLASICO CON ROLLO DE REPUESTO - LISO - GRIS - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000021',
+				Descripcion:
+					'PORTA BOLSAS CLASICO CON ROLLO DE REPUESTO - LISO - VERDE - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000022',
+				Descripcion: 'ROLLOS BOLSAS X3 - LISO - SIN COLOR - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000023',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - AMARILLO - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000024',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - CELESTE - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000025',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - VERDE - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000026',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - ROJO - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000027',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - VIOLETA - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000028',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - AMARILLO - L',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000029',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - CELESTE - L',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000030',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - VERDE - L',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000031',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - ROJO - L',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000032',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - VIOLETA - L',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000033',
+				Descripcion: 'FUENTE DE AGUA FLOR - LISO - VERDE - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000034',
+				Descripcion: 'HUESO MASAJEADOR - LISO - ROJO - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000035',
+				Descripcion: 'CINTURON PARA AUTO - LISO - AZUL - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000036',
+				Descripcion: 'CINTURON PARA AUTO - LISO - ROJO - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000037',
+				Descripcion:
+					'PAÑUELO - NAVIDAD BANDANA - QUERIDO SANTA NENA - ROJO - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000038',
+				Descripcion:
+					'PAÑUELO - NAVIDAD BANDANA - QUERIDO SANTA NENE - ROJO - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PP0000039',
+				Descripcion: 'PAÑUELO - NAVIDAD BANDANA - HOLA 2022 - VERDE - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
 				Codigo_Producto: 'PR6N1329NN',
 				Descripcion: 'PRETAL - LANIN - SIN COLOR - S - SIN RELLENO',
 				SumaDeCantidad: '0',
@@ -20697,6 +23474,13 @@ module.exports = {
 			{
 				Id_Pto_Stock: '2',
 				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'PS6N1375EMU',
+				Descripcion: 'PELOTA TELA SOGA - RAYADA - MULTICOLOR - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
 				Codigo_Producto: 'RC6N1085UAM',
 				Descripcion: 'RATON A CUERDA - LISO - AMARILLO - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
@@ -20882,6 +23666,14 @@ module.exports = {
 			{
 				Id_Pto_Stock: '2',
 				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'RH6N1393UNN',
+				Descripcion:
+					'RATON HILO SISAL X3 - LISO - SIN COLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
 				Codigo_Producto: 'RL4C0502CBL',
 				Descripcion: 'RELLENO - UNICO - BLANCO - L - COPOS',
 				SumaDeCantidad: '0',
@@ -20905,7 +23697,7 @@ module.exports = {
 				DescripcionPtoStock: 'Despósito',
 				Codigo_Producto: 'RL4G0489CBE',
 				Descripcion: 'RELLENO - UNICO - BEIGE - L - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '10',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -21036,6 +23828,13 @@ module.exports = {
 			{
 				Id_Pto_Stock: '2',
 				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'RV6N1394UNN',
+				Descripcion: 'RATON VAIVEN - LISO - SIN COLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
 				Codigo_Producto: 'SD6N1179UMU',
 				Descripcion:
 					'SOGA DOS NUDOS - RAYADA - MULTICOLOR - UNICO - SIN RELLENO',
@@ -21131,6 +23930,44 @@ module.exports = {
 				Codigo_Producto: 'ST6N1178UMU',
 				Descripcion:
 					'SOGA TRES NUDOS - RAYADA - MULTICOLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'ST6N1376UCE',
+				Descripcion: 'SOGA TRES NUDOS - RAYADA - CELESTE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'ST6N1377UFU',
+				Descripcion: 'SOGA TRES NUDOS - RAYADA - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'ST6N1378UAZ',
+				Descripcion:
+					'SOGA TRENZADA CON TIRADOR - LISO - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'ST6N1379UFU',
+				Descripcion:
+					'SOGA TRENZADA CON TIRADOR - LISO - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'ST6N1380UNA',
+				Descripcion:
+					'SOGA TRENZADA CON TIRADOR - LISO - NARANJA - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -22165,6 +25002,27 @@ module.exports = {
 			{
 				Id_Pto_Stock: '2',
 				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'TO6N1413GR',
+				Descripcion: 'TOALLA - PATITAS - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'TO6N1414FU',
+				Descripcion: 'TOALLA - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
+				Codigo_Producto: 'TO6N1415TU',
+				Descripcion: 'TOALLA - PATITAS - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '2',
+				DescripcionPtoStock: 'Despósito',
 				Codigo_Producto: 'VV000000001',
 				Descripcion: 'ALMOHADONES MUÑECOS PETS - DALMATA   - UNICO - VELLON',
 				SumaDeCantidad: '0',
@@ -22198,7 +25056,7 @@ module.exports = {
 				DescripcionPtoStock: 'Despósito',
 				Codigo_Producto: 'VV000000005',
 				Descripcion: 'ALMOHADONES MUÑECOS PETS - YORKIE  - UNICO - VELLON',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '2',
@@ -24244,6 +27102,27 @@ module.exports = {
 			{
 				Id_Pto_Stock: '3',
 				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'BA6N1402UAZ',
+				Descripcion: 'BOTELLA DE AGUA - 500 ML - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'BA6N1403URJ',
+				Descripcion: 'BOTELLA DE AGUA - 500 ML - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'BA6N1404UVE',
+				Descripcion: 'BOTELLA DE AGUA - 500 ML - VERDE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
 				Codigo_Producto: 'BM6V0746BFU',
 				Descripcion:
 					'BASE MOISES EXTRA GRANDE - PERROS BEIGE - FUCSIA - XL - VELLON',
@@ -24562,6 +27441,93 @@ module.exports = {
 			{
 				Id_Pto_Stock: '3',
 				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'BO6N1428GR',
+				Descripcion: 'BOLSA CON CIERRE - PATITAS - GRIS - M - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'BO6N1429FU',
+				Descripcion: 'BOLSA CON CIERRE - PATITAS - FUCSIA - M - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'BO6N1430TU',
+				Descripcion: 'BOLSA CON CIERRE - PATITAS - TURQUESA - M - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'BO6N1431GR',
+				Descripcion: 'BOLSA - PATITAS - GRIS - L - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'BO6N1432FU',
+				Descripcion: 'BOLSA - PATITAS - FUCSIA - L - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'BO6N1433TU',
+				Descripcion: 'BOLSA - PATITAS - TURQUESA - L - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'BO6N1434VE',
+				Descripcion: 'BOLSA SOGA - PLAZA - VERDE - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'BO6N1435TU',
+				Descripcion: 'BOLSA SOGA - JUEGO - TURQUESA - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'BO6N1436RJ',
+				Descripcion: 'BOLSA SOGA - NAVIDAD - ROJO - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'BO6N1437GR',
+				Descripcion:
+					'BOLSA FUNDA PARA AUTO - GENERICO - GRIS - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'BO6N1438FU',
+				Descripcion:
+					'BOLSA FUNDA PARA AUTO - GENERICO - FUCSIA - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'BO6N1439TU',
+				Descripcion:
+					'BOLSA FUNDA PARA AUTO - GENERICO - TURQUESA - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
 				Codigo_Producto: 'CA6N1172UNN',
 				Descripcion:
 					'CINTURON PARA AUTO - MAR DEL PLATA - SIN COLOR - UNICO - SIN RELLENO',
@@ -24663,6 +27629,53 @@ module.exports = {
 			{
 				Id_Pto_Stock: '3',
 				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CA6N1381UNE',
+				Descripcion: 'CINTURON PARA AUTO - LISO - NEGRO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CB6N1408UAZ',
+				Descripcion:
+					'COMEDERO BEBEDERO PORTATIL - LISO - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CB6N1409URJ',
+				Descripcion:
+					'COMEDERO BEBEDERO PORTATIL - LISO - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CC6N1390UNN',
+				Descripcion:
+					'CHIFLE GALLETITA - DONA - SIN COLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CC6N1391UNN',
+				Descripcion:
+					'CHIFLE GALLETITA - OREO - SIN COLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CC6N1392UNN',
+				Descripcion:
+					'CHIFLE GALLETITA - MERENGADA - SIN COLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
 				Codigo_Producto: 'CD6N1192UCE',
 				Descripcion:
 					'COMEDERO DOBLE PLASTICO Y ACERO - LISO - CELESTE - UNICO - SIN RELLENO',
@@ -24682,6 +27695,60 @@ module.exports = {
 				Codigo_Producto: 'CD6N1194UVE',
 				Descripcion:
 					'COMEDERO DOBLE PLASTICO Y ACERO - LISO - VERDE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CE6N1398UCE',
+				Descripcion:
+					'CORREA RETRACTIL EXTENSIBLE - 5 MTS - CELESTE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CE6N1399URJ',
+				Descripcion:
+					'CORREA RETRACTIL EXTENSIBLE - 5 MTS - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CE6N1400URS',
+				Descripcion:
+					'CORREA RETRACTIL EXTENSIBLE - 5 MTS - ROSA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CE6N1401UVE',
+				Descripcion:
+					'CORREA RETRACTIL EXTENSIBLE - 5 MTS - VERDE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CG6N1395UAM',
+				Descripcion: 'CAÑITA PARA GATO - COLA - AMARILLO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CG6N1396UBE',
+				Descripcion: 'CAÑITA PARA GATO - COLA - BEIGE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CG6N1397UMU',
+				Descripcion:
+					'CAÑITA PARA GATO - COLA - MULTICOLOR - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -26105,7 +29172,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0003DFU',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - CARITA BULLDOG FRANCES - FUCSIA - M - GUATA',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -26129,7 +29196,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0006DTU',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - CARITA CANICHE - TURQUESA - M - GUATA',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -26145,7 +29212,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0008DTU',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - PERRITOS MIX - TURQUESA - M - GUATA',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -26169,7 +29236,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0011DFU',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - CARITA SCHNAUZER - FUCSIA - M - GUATA',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -26215,7 +29282,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0076UFU',
 				Descripcion:
 					'COLCHONETA AUTO / PASEO - BULLDOG FRANCES - FUCSIA - UNICO - GUATA',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -26231,7 +29298,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0078UTU',
 				Descripcion:
 					'COLCHONETA AUTO / PASEO - BULLDOG FRANCES - TURQUESA - UNICO - GUATA',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -26255,7 +29322,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0081UTU',
 				Descripcion:
 					'COLCHONETA AUTO / PASEO - PERRITOS MIX - TURQUESA - UNICO - GUATA',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -26263,7 +29330,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0082UFU',
 				Descripcion:
 					'COLCHONETA AUTO / PASEO - SALCHICHA - FUCSIA - UNICO - GUATA',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -26279,7 +29346,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0084UTU',
 				Descripcion:
 					'COLCHONETA AUTO / PASEO - SALCHICHA - TURQUESA - UNICO - GUATA',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -26513,7 +29580,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G1175UFU',
 				Descripcion:
 					'COLCHONETA AUTO / PASEO - CANICHE - FUCSIA - UNICO - GUATA',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -26528,7 +29595,30 @@ module.exports = {
 				Codigo_Producto: 'CO1G1177UTU',
 				Descripcion:
 					'COLCHONETA AUTO / PASEO - CANICHE - TURQUESA - UNICO - GUATA',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '4',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CO1G1416GR',
+				Descripcion: 'COLCHONETA AUTO / PASEO - PATITAS - GRIS - UNICO - GUATA',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CO1G1417FU',
+				Descripcion:
+					'COLCHONETA AUTO / PASEO - PATITAS - FUCSIA - UNICO - GUATA',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CO1G1418TU',
+				Descripcion:
+					'COLCHONETA AUTO / PASEO - PATITAS - TURQUESA - UNICO - GUATA',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -26536,7 +29626,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0017AFU',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GIGANTE - PERRITOS Y HUESITOS - FUCSIA - XXL - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -26544,7 +29634,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0018ANE',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GIGANTE - PERRITOS Y HUESITOS - NEGRO - XXL - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -26552,7 +29642,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0019ARJ',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GIGANTE - PERRITOS Y HUESITOS - ROJO - XXL - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -27541,6 +30631,20 @@ module.exports = {
 			{
 				Id_Pto_Stock: '3',
 				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CP6N1388UAZ',
+				Descripcion: 'CEPILLO QUITA PELUSA - LISO - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CP6N1389URJ',
+				Descripcion: 'CEPILLO QUITA PELUSA - LISO - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
 				Codigo_Producto: 'CR6N1344NN',
 				Descripcion: 'CORREA - LANIN - SIN COLOR - S - SIN RELLENO',
 				SumaDeCantidad: '0',
@@ -27606,6 +30710,49 @@ module.exports = {
 				DescripcionPtoStock: 'Mercado Libre',
 				Codigo_Producto: 'CR6N1353NN',
 				Descripcion: 'CORREA - HUA HUM - SIN COLOR - L - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CS6N1405UAM',
+				Descripcion:
+					'COMEDERO SILICONA - LISO - AMARILLO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CS6N1406UNE',
+				Descripcion: 'COMEDERO SILICONA - LISO - NEGRO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CS6N1407URJ',
+				Descripcion: 'COMEDERO SILICONA - LISO - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CT6N1425GR',
+				Descripcion: 'CARTUCHERA - PATITAS - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CT6N1426FU',
+				Descripcion: 'CARTUCHERA - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'CT6N1427TU',
+				Descripcion: 'CARTUCHERA - PATITAS - TURQUESA - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -27814,6 +30961,56 @@ module.exports = {
 				Codigo_Producto: 'FA6N0290UTU',
 				Descripcion:
 					'FUNDA PARA AUTO - SCHNAUZER MIX - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'FA6N1419GR',
+				Descripcion: 'FUNDA PARA AUTO - PATITAS - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'FA6N1420FU',
+				Descripcion: 'FUNDA PARA AUTO - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'FA6N1421TU',
+				Descripcion:
+					'FUNDA PARA AUTO - PATITAS - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'FR6N1485AM',
+				Descripcion: 'FRISBEE GOMA - LISO - AMARILLO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'FR6N1486FU',
+				Descripcion: 'FRISBEE GOMA - LISO - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'FR6N1487NA',
+				Descripcion: 'FRISBEE GOMA - LISO - NARANJA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'FR6N1488VE',
+				Descripcion: 'FRISBEE GOMA - LISO - VERDE - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -28971,6 +32168,13 @@ module.exports = {
 			{
 				Id_Pto_Stock: '3',
 				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'GP6N1382UAZ',
+				Descripcion: 'GUANTE SACA PELOS - LISO - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
 				Codigo_Producto: 'HF6N1289AM',
 				Descripcion: 'HUESO FLEX GRANDE - LISO - AMARILLO - L - SIN RELLENO',
 				SumaDeCantidad: '0',
@@ -29108,7 +32312,7 @@ module.exports = {
 				DescripcionPtoStock: 'Mercado Libre',
 				Codigo_Producto: 'IN6N0298EGR',
 				Descripcion: 'INDIVIDUAL CUERINA - GATITO MIX - GRIS - S - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -29146,7 +32350,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0303EGR',
 				Descripcion:
 					'INDIVIDUAL CUERINA - PERRITO MIX - GRIS - S - SIN RELLENO',
-				SumaDeCantidad: '6',
+				SumaDeCantidad: '5',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -29290,7 +32494,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0321DGR',
 				Descripcion:
 					'INDIVIDUAL CUERINA - CANICHE/BICHON MIX - GRIS - M - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -29793,6 +32997,44 @@ module.exports = {
 			{
 				Id_Pto_Stock: '3',
 				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'IN6N1516RJ',
+				Descripcion:
+					'INDIVIDUAL CUERINA NAVIDAD - MIX PERRITOS - ROJO - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'IN6N1517RJ',
+				Descripcion:
+					'INDIVIDUAL CUERINA NAVIDAD - MIX GATITOS - ROJO - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'IS6N1410UNE',
+				Descripcion: 'INDIVIDUAL SILICONA - LISO - NEGRO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'IS6N1411UCE',
+				Descripcion:
+					'INDIVIDUAL SILICONA - LISO - CELESTE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'IS6N1412URS',
+				Descripcion: 'INDIVIDUAL SILICONA - LISO - ROSA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
 				Codigo_Producto: 'JB6V0337UNN',
 				Descripcion:
 					'JUGUETE BLANDO C/CASCABEL - CHANCHO - SIN COLOR - UNICO - VELLON',
@@ -30033,6 +33275,14 @@ module.exports = {
 			{
 				Id_Pto_Stock: '3',
 				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'JB6V1497RJ',
+				Descripcion:
+					'JUGUETE BLANDO C/CASCABEL - HUESO NAVIDAD - ROJO - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
 				Codigo_Producto: 'KT6N1127DNN',
 				Descripcion:
 					'KIT JUEGO - UNICORNIO PELOTA - JB6V0351UNN - PE6N0949DFU - SIN COLOR - M - SIN RELLENO',
@@ -30124,6 +33374,94 @@ module.exports = {
 				Codigo_Producto: 'KT6N1374UTU',
 				Descripcion:
 					'KIT CAT MOM - KIT CAT MOM - TB6N1148UGR - TO6N1038UTU - LL6N1367UNE - IN6N1020ENE - TA6N1368UNN - TURQUESA - UNICO - SIN',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'KT6N1518UAZ',
+				Descripcion:
+					'KIT PLAZA - MOCHILA - PE6N0942DAZ - ST6N1376UCE - BA6N1403URJ - FR6N1488VE - BO6N1434VE - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'KT6N1519UFU',
+				Descripcion:
+					'KIT PLAZA - MOCHILA - PE6N0949DFU - ST6N1377UFU - BA6N1404UVE - FR6N1485AM - BO6N1434VE - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'KT6N1520UAZ',
+				Descripcion:
+					'KIT JUEGO - MOCHILA - PD6N1184DRJ - ST6N1178UMU - ST6N1378UAZ - JB6V1062UNN - MD6N1491CE - BO6N1435TU - AZUL - UNICO - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'KT6N1521UFU',
+				Descripcion:
+					'KIT JUEGO - MOCHILA - PD6N1185DVE - ST6N1178UMU - ST6N1379UFU - JB6V0351UNN - MD6N1495RS - BO6N1435TU - FUCSIA - UNICO -',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'KT6N1522URJ',
+				Descripcion:
+					'KIT NAVIDAD - BOLSA - JB6V1497RJ - ST6N1178UMU - MR6N1288RJ - PA6N1002RJ - BO6N1436RJ - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'KT6N1523UGR',
+				Descripcion:
+					'KIT VIAJE - PATITAS - CO1G1416GR - CA6N1381UNE- CB6N1409URJ - BO6N1431GR - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'KT6N1524UFU',
+				Descripcion:
+					'KIT VIAJE - PATITAS - CO1G1417FU - CA6N1381UNE - CB6N1408UAZ - BO6N1432FU - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'KT6N1525UTU',
+				Descripcion:
+					'KIT VIAJE - PATITAS - CO1G1418TU - CA6N1381UNE - CB6N1408UAZ - BO6N1433TU - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'KT6N1526UGR',
+				Descripcion:
+					'KIT PLAYA - PATITAS - TO6N1413GR - BO6N1428GR - LO6N1422GR - CT6N1425GR - MN6N1482GR - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'KT6N1527UFU',
+				Descripcion:
+					'KIT PLAYA - PATITAS - TO6N1414FU - BO6N1429FU - LO6N1423FU - CT6N1426FU - MN6N1483FU - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'KT6N1528UTU',
+				Descripcion:
+					'KIT PLAYA - PATITAS - TO6N1415TU - BO6N1428GR - LO6N1424TU - CT6N1427TU - MN6N1484TU - TURQUESA - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -30335,6 +33673,57 @@ module.exports = {
 				DescripcionPtoStock: 'Mercado Libre',
 				Codigo_Producto: 'LL6N1367UNE',
 				Descripcion: 'LLAVERO - CAT MOM - NEGRO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'LO6N1422GR',
+				Descripcion: 'LONA IMPERMEABLE - PATITAS - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'LO6N1423FU',
+				Descripcion:
+					'LONA IMPERMEABLE - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'LO6N1424TU',
+				Descripcion:
+					'LONA IMPERMEABLE - PATITAS - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'LP6N1384ECE',
+				Descripcion: 'LIMPIA PATAS - LISO - CELESTE - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'LP6N1385EVE',
+				Descripcion: 'LIMPIA PATAS - LISO - VERDE - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'LP6N1386CCE',
+				Descripcion: 'LIMPIA PATAS - LISO - CELESTE - L - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'LP6N1387CVE',
+				Descripcion: 'LIMPIA PATAS - LISO - VERDE - L - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -30811,6 +34200,14 @@ module.exports = {
 			{
 				Id_Pto_Stock: '3',
 				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MB6N1383UCE',
+				Descripcion:
+					'MANGUERA CEPILLO BAÑO - LISO - CELESTE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
 				Codigo_Producto: 'MC6V0374UBE',
 				Descripcion: 'MINI PETS - BULLDOG FRANCES - BEIGE - UNICO - VELLON',
 				SumaDeCantidad: '0',
@@ -31100,6 +34497,225 @@ module.exports = {
 				DescripcionPtoStock: 'Mercado Libre',
 				Codigo_Producto: 'MC6V1069UBE',
 				Descripcion: 'MINI PETS - PUG NENA - BEIGE - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MC6V1498NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - BEAGLE - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MC6V1499NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - BULLDOG FRANCES - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MC6V1500NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - BULLDOG INGLES - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MC6V1501NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - CANICHE - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MC6V1502NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - CHIHUAHUA - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MC6V1503NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - GALGO - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MC6V1504NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - GATITOS - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MC6V1505NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - GOLDEN - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MC6V1506NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - JACK RUSSELL - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MC6V1507NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - MIX PERRITOS - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MC6V1508NN',
+				Descripcion: 'MINI PETS NAVIDAD X3 - PUG - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MC6V1509NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - SALCHICHA - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MC6V1510NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - SCHNAUZER - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MC6V1511NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - SHARPEI - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MC6V1512NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - SHIH TZU - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MC6V1513NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - WESTY - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MC6V1514NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - WEIMARANER - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MC6V1515NN',
+				Descripcion: 'MINI PETS NAVIDAD - SURTIDO - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MD6N1489AZ',
+				Descripcion: 'MORDILLO - LISO - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MD6N1490AM',
+				Descripcion: 'MORDILLO - LISO - AMARILLO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MD6N1491CE',
+				Descripcion: 'MORDILLO - LISO - CELESTE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MD6N1492FU',
+				Descripcion: 'MORDILLO - LISO - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MD6N1493NE',
+				Descripcion: 'MORDILLO - LISO - NEGRO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MD6N1494RJ',
+				Descripcion: 'MORDILLO - LISO - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MD6N1495RS',
+				Descripcion: 'MORDILLO - LISO - ROSA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MD6N1496VE',
+				Descripcion: 'MORDILLO - LISO - VERDE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MN6N1482GR',
+				Descripcion: 'MONEDERO - PATITAS - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MN6N1483FU',
+				Descripcion: 'MONEDERO - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'MN6N1484TU',
+				Descripcion: 'MONEDERO - PATITAS - TURQUESA - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -31427,6 +35043,304 @@ module.exports = {
 				DescripcionPtoStock: 'Mercado Libre',
 				Codigo_Producto: 'PA6N1287RS',
 				Descripcion: 'PAÑUELO - CUADRILLE - ROSA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1440FU',
+				Descripcion: 'PAÑUELO - BULLDOG FRANCES - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1441TU',
+				Descripcion:
+					'PAÑUELO - BULLDOG FRANCES - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1442FU',
+				Descripcion: 'PAÑUELO - MIX PERRITOS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1443TU',
+				Descripcion: 'PAÑUELO - MIX PERRITOS - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1444FU',
+				Descripcion: 'PAÑUELO - SALCHICHA - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1445TU',
+				Descripcion: 'PAÑUELO - SALCHICHA - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1446FU',
+				Descripcion: 'PAÑUELO - SCHNAUZER - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1447TU',
+				Descripcion: 'PAÑUELO - SCHNAUZER - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1448FU',
+				Descripcion: 'PAÑUELO - CANICHE - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1449TU',
+				Descripcion: 'PAÑUELO - CANICHE - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1450FU',
+				Descripcion: 'PAÑUELO - LABRADOR - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1451TU',
+				Descripcion: 'PAÑUELO - LABRADOR - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1452FU',
+				Descripcion: 'PAÑUELO - OVEJERO - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1453TU',
+				Descripcion: 'PAÑUELO - OVEJERO - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1454FU',
+				Descripcion: 'PAÑUELO - BULLDOG INGLES - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1455TU',
+				Descripcion:
+					'PAÑUELO - BULLDOG INGLES - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1456FU',
+				Descripcion: 'PAÑUELO - BORDER COLLIE - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1457TU',
+				Descripcion: 'PAÑUELO - BORDER COLLIE - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1458FU',
+				Descripcion: 'PAÑUELO - BEAGLE - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1459TU',
+				Descripcion: 'PAÑUELO - BEAGLE - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1460FU',
+				Descripcion: 'PAÑUELO - BOXER - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1461TU',
+				Descripcion: 'PAÑUELO - BOXER - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1462FU',
+				Descripcion: 'PAÑUELO - PUG - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1463TU',
+				Descripcion: 'PAÑUELO - PUG - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1464FU',
+				Descripcion: 'PAÑUELO - PITBULL - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1465TU',
+				Descripcion: 'PAÑUELO - PITBULL - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1466FU',
+				Descripcion: 'PAÑUELO - GOLDEN - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1467TU',
+				Descripcion: 'PAÑUELO - GOLDEN - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1468FU',
+				Descripcion:
+					'PAÑUELO - MIX PERROS BLANCOS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1469TU',
+				Descripcion:
+					'PAÑUELO - MIX PERROS BLANCOS - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1470FU',
+				Descripcion: 'PAÑUELO - SHARPEI - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1471TU',
+				Descripcion: 'PAÑUELO - SHARPEI - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1472FU',
+				Descripcion: 'PAÑUELO - JACK RUSSELL - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1473TU',
+				Descripcion: 'PAÑUELO - JACK RUSSELL - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1474FU',
+				Descripcion: 'PAÑUELO - GALGO - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1475TU',
+				Descripcion: 'PAÑUELO - GALGO - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1476FU',
+				Descripcion: 'PAÑUELO - CHIHUAHUA - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1477TU',
+				Descripcion: 'PAÑUELO - CHIHUAHUA - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1478FU',
+				Descripcion: 'PAÑUELO - YORKIE - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1479TU',
+				Descripcion: 'PAÑUELO - YORKIE - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1480FU',
+				Descripcion: 'PAÑUELO - COCKER - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PA6N1481TU',
+				Descripcion: 'PAÑUELO - COCKER - TURQUESA - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -32110,6 +36024,298 @@ module.exports = {
 			{
 				Id_Pto_Stock: '3',
 				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000001',
+				Descripcion:
+					'CEPILLO CARDINA MADERA N3 PUNTAS PROTEGIDAS - LISO - SIN COLOR - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000002',
+				Descripcion:
+					'CEPILLO CARDINA GATO PUNTAS PROTEGIDAS - LISO - AZUL - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000003',
+				Descripcion:
+					'CEPILLO CARDINA GATO PUNTAS PROTEGIDAS - LISO - FUCSIA - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000004',
+				Descripcion:
+					'CEPILLO CARDINA GATO PUNTAS PROTEGIDAS - LISO - VERDE - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000005',
+				Descripcion:
+					'CEPILLO CARDINA DE MANO PUNTAS PROTEGIDAS AJUSTABLE - LISO - ROJO - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000006',
+				Descripcion:
+					'CEPILLO DE MANO AJUSTABLE CERDAS DE SILICONA - LISO - AZUL - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000007',
+				Descripcion:
+					'CEPILLO DE MANO AJUSTABLE CERDAS DE SILICONA - LISO - ROJO - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000008',
+				Descripcion:
+					'CEPILLO DESLANADOR C/ BOTON EXPULSOR PERRO PELO LARGO - LISO - SIN COLOR - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000009',
+				Descripcion:
+					'CEPILLO DESLANADOR C/ BOTON EXPULSOR PERRO PELO CORTO - LISO - SIN COLOR - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000010',
+				Descripcion:
+					'PEINE ACERO INOXIDABLE 2 LADOS - LISO - SIN COLOR - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000011',
+				Descripcion:
+					'CEPILLO PARA BAÑO CON CONTENEDOR PARA SHAMPOO - LISO - CELESTE - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000012',
+				Descripcion:
+					'CEPILLO PARA BAÑO CON CONTENEDOR PARA SHAMPOO - LISO - ROSA - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000013',
+				Descripcion:
+					'CEPILLO PARA BAÑO CON CONTENEDOR PARA SHAMPOO - LISO - VERDE - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000014',
+				Descripcion:
+					'CEPILLO QUITA PELUSA GIRATORIO - LISO - SIN COLOR - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000015',
+				Descripcion: 'CHIFLE CERDO - LISO - SIN COLOR - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000016',
+				Descripcion: 'CHIFLE PERIODICO - LISO - SIN COLOR - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000017',
+				Descripcion: 'PALO LIMPIA DIENTES DE GOMA - LISO - CELESTE - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000018',
+				Descripcion: 'PALO LIMPIA DIENTES DE GOMA - LISO - VERDE - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000019',
+				Descripcion:
+					'PORTA BOLSAS CLASICO CON ROLLO DE REPUESTO - LISO - CELESTE - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000020',
+				Descripcion:
+					'PORTA BOLSAS CLASICO CON ROLLO DE REPUESTO - LISO - GRIS - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000021',
+				Descripcion:
+					'PORTA BOLSAS CLASICO CON ROLLO DE REPUESTO - LISO - VERDE - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000022',
+				Descripcion: 'ROLLOS BOLSAS X3 - LISO - SIN COLOR - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000023',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - AMARILLO - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000024',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - CELESTE - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000025',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - VERDE - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000026',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - ROJO - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000027',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - VIOLETA - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000028',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - AMARILLO - L',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000029',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - CELESTE - L',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000030',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - VERDE - L',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000031',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - ROJO - L',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000032',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - VIOLETA - L',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000033',
+				Descripcion: 'FUENTE DE AGUA FLOR - LISO - VERDE - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000034',
+				Descripcion: 'HUESO MASAJEADOR - LISO - ROJO - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000035',
+				Descripcion: 'CINTURON PARA AUTO - LISO - AZUL - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000036',
+				Descripcion: 'CINTURON PARA AUTO - LISO - ROJO - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000037',
+				Descripcion:
+					'PAÑUELO - NAVIDAD BANDANA - QUERIDO SANTA NENA - ROJO - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000038',
+				Descripcion:
+					'PAÑUELO - NAVIDAD BANDANA - QUERIDO SANTA NENE - ROJO - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PP0000039',
+				Descripcion: 'PAÑUELO - NAVIDAD BANDANA - HOLA 2022 - VERDE - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
 				Codigo_Producto: 'PR6N1329NN',
 				Descripcion: 'PRETAL - LANIN - SIN COLOR - S - SIN RELLENO',
 				SumaDeCantidad: '0',
@@ -32453,6 +36659,13 @@ module.exports = {
 			{
 				Id_Pto_Stock: '3',
 				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'PS6N1375EMU',
+				Descripcion: 'PELOTA TELA SOGA - RAYADA - MULTICOLOR - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
 				Codigo_Producto: 'RC6N1085UAM',
 				Descripcion: 'RATON A CUERDA - LISO - AMARILLO - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
@@ -32638,6 +36851,14 @@ module.exports = {
 			{
 				Id_Pto_Stock: '3',
 				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'RH6N1393UNN',
+				Descripcion:
+					'RATON HILO SISAL X3 - LISO - SIN COLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
 				Codigo_Producto: 'RL4C0502CBL',
 				Descripcion: 'RELLENO - UNICO - BLANCO - L - COPOS',
 				SumaDeCantidad: '0',
@@ -32792,6 +37013,13 @@ module.exports = {
 			{
 				Id_Pto_Stock: '3',
 				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'RV6N1394UNN',
+				Descripcion: 'RATON VAIVEN - LISO - SIN COLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
 				Codigo_Producto: 'SD6N1179UMU',
 				Descripcion:
 					'SOGA DOS NUDOS - RAYADA - MULTICOLOR - UNICO - SIN RELLENO',
@@ -32892,6 +37120,44 @@ module.exports = {
 			{
 				Id_Pto_Stock: '3',
 				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'ST6N1376UCE',
+				Descripcion: 'SOGA TRES NUDOS - RAYADA - CELESTE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'ST6N1377UFU',
+				Descripcion: 'SOGA TRES NUDOS - RAYADA - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'ST6N1378UAZ',
+				Descripcion:
+					'SOGA TRENZADA CON TIRADOR - LISO - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'ST6N1379UFU',
+				Descripcion:
+					'SOGA TRENZADA CON TIRADOR - LISO - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'ST6N1380UNA',
+				Descripcion:
+					'SOGA TRENZADA CON TIRADOR - LISO - NARANJA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
 				Codigo_Producto: 'TA6N1368UNN',
 				Descripcion:
 					'TAZA - PATITAS TENGO HIJOS DE CUATRO PATAS - SIN COLOR - UNICO - SIN RELLENO',
@@ -32926,7 +37192,7 @@ module.exports = {
 				Codigo_Producto: 'TB6N0638UGR',
 				Descripcion:
 					'TAPA BOCA - BULLDOG FRANCES NEGRO - GRIS - UNICO - SIN RELLENO',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -33053,7 +37319,7 @@ module.exports = {
 				DescripcionPtoStock: 'Mercado Libre',
 				Codigo_Producto: 'TB6N0656UGR',
 				Descripcion: 'TAPA BOCA - SALCHICHA - GRIS - UNICO - SIN RELLENO',
-				SumaDeCantidad: '8',
+				SumaDeCantidad: '6',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -33810,7 +38076,7 @@ module.exports = {
 				Codigo_Producto: 'TO6N1045UFU',
 				Descripcion:
 					'TOALLA - MIX PERROS GRANDES - FUCSIA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -33818,7 +38084,7 @@ module.exports = {
 				Codigo_Producto: 'TO6N1046UTU',
 				Descripcion:
 					'TOALLA - MIX PERROS GRANDES - TURQUESA - UNICO - SIN RELLENO',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '3',
@@ -33916,6 +38182,27 @@ module.exports = {
 				DescripcionPtoStock: 'Mercado Libre',
 				Codigo_Producto: 'TO6N1060UTU',
 				Descripcion: 'TOALLA - YORKIE - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'TO6N1413GR',
+				Descripcion: 'TOALLA - PATITAS - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'TO6N1414FU',
+				Descripcion: 'TOALLA - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '3',
+				DescripcionPtoStock: 'Mercado Libre',
+				Codigo_Producto: 'TO6N1415TU',
+				Descripcion: 'TOALLA - PATITAS - TURQUESA - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -35353,7 +39640,7 @@ module.exports = {
 				Codigo_Producto: 'AL6V0239UBE',
 				Descripcion:
 					'ALMOHADONES MUÑECOS PETS - LABRADORA - BEIGE - UNICO - VELLON',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -35846,6 +40133,27 @@ module.exports = {
 			{
 				Id_Pto_Stock: '6',
 				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'BA6N1402UAZ',
+				Descripcion: 'BOTELLA DE AGUA - 500 ML - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'BA6N1403URJ',
+				Descripcion: 'BOTELLA DE AGUA - 500 ML - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'BA6N1404UVE',
+				Descripcion: 'BOTELLA DE AGUA - 500 ML - VERDE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'BM6V0746BFU',
 				Descripcion:
 					'BASE MOISES EXTRA GRANDE - PERROS BEIGE - FUCSIA - XL - VELLON',
@@ -36164,6 +40472,93 @@ module.exports = {
 			{
 				Id_Pto_Stock: '6',
 				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'BO6N1428GR',
+				Descripcion: 'BOLSA CON CIERRE - PATITAS - GRIS - M - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'BO6N1429FU',
+				Descripcion: 'BOLSA CON CIERRE - PATITAS - FUCSIA - M - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'BO6N1430TU',
+				Descripcion: 'BOLSA CON CIERRE - PATITAS - TURQUESA - M - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'BO6N1431GR',
+				Descripcion: 'BOLSA - PATITAS - GRIS - L - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'BO6N1432FU',
+				Descripcion: 'BOLSA - PATITAS - FUCSIA - L - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'BO6N1433TU',
+				Descripcion: 'BOLSA - PATITAS - TURQUESA - L - SIN RELLENO',
+				SumaDeCantidad: '1',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'BO6N1434VE',
+				Descripcion: 'BOLSA SOGA - PLAZA - VERDE - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'BO6N1435TU',
+				Descripcion: 'BOLSA SOGA - JUEGO - TURQUESA - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'BO6N1436RJ',
+				Descripcion: 'BOLSA SOGA - NAVIDAD - ROJO - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'BO6N1437GR',
+				Descripcion:
+					'BOLSA FUNDA PARA AUTO - GENERICO - GRIS - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'BO6N1438FU',
+				Descripcion:
+					'BOLSA FUNDA PARA AUTO - GENERICO - FUCSIA - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'BO6N1439TU',
+				Descripcion:
+					'BOLSA FUNDA PARA AUTO - GENERICO - TURQUESA - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'CA6N1172UNN',
 				Descripcion:
 					'CINTURON PARA AUTO - MAR DEL PLATA - SIN COLOR - UNICO - SIN RELLENO',
@@ -36265,6 +40660,53 @@ module.exports = {
 			{
 				Id_Pto_Stock: '6',
 				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CA6N1381UNE',
+				Descripcion: 'CINTURON PARA AUTO - LISO - NEGRO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CB6N1408UAZ',
+				Descripcion:
+					'COMEDERO BEBEDERO PORTATIL - LISO - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CB6N1409URJ',
+				Descripcion:
+					'COMEDERO BEBEDERO PORTATIL - LISO - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CC6N1390UNN',
+				Descripcion:
+					'CHIFLE GALLETITA - DONA - SIN COLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CC6N1391UNN',
+				Descripcion:
+					'CHIFLE GALLETITA - OREO - SIN COLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CC6N1392UNN',
+				Descripcion:
+					'CHIFLE GALLETITA - MERENGADA - SIN COLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'CD6N1192UCE',
 				Descripcion:
 					'COMEDERO DOBLE PLASTICO Y ACERO - LISO - CELESTE - UNICO - SIN RELLENO',
@@ -36284,7 +40726,61 @@ module.exports = {
 				Codigo_Producto: 'CD6N1194UVE',
 				Descripcion:
 					'COMEDERO DOBLE PLASTICO Y ACERO - LISO - VERDE - UNICO - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CE6N1398UCE',
+				Descripcion:
+					'CORREA RETRACTIL EXTENSIBLE - 5 MTS - CELESTE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CE6N1399URJ',
+				Descripcion:
+					'CORREA RETRACTIL EXTENSIBLE - 5 MTS - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CE6N1400URS',
+				Descripcion:
+					'CORREA RETRACTIL EXTENSIBLE - 5 MTS - ROSA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CE6N1401UVE',
+				Descripcion:
+					'CORREA RETRACTIL EXTENSIBLE - 5 MTS - VERDE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CG6N1395UAM',
+				Descripcion: 'CAÑITA PARA GATO - COLA - AMARILLO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CG6N1396UBE',
+				Descripcion: 'CAÑITA PARA GATO - COLA - BEIGE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CG6N1397UMU',
+				Descripcion:
+					'CAÑITA PARA GATO - COLA - MULTICOLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -37763,7 +42259,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0010DTU',
 				Descripcion:
 					'COLCHONETA PERRO MEDIANO - CARITA SALCHICHA - TURQUESA - M - GUATA',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -38083,7 +42579,7 @@ module.exports = {
 				Codigo_Producto: 'CO1G0802CRJ',
 				Descripcion:
 					'COLCHONETA PERRO GRANDE - PERRITOS MIX - ROJO - L - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -38135,10 +42631,33 @@ module.exports = {
 			{
 				Id_Pto_Stock: '6',
 				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CO1G1416GR',
+				Descripcion: 'COLCHONETA AUTO / PASEO - PATITAS - GRIS - UNICO - GUATA',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CO1G1417FU',
+				Descripcion:
+					'COLCHONETA AUTO / PASEO - PATITAS - FUCSIA - UNICO - GUATA',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CO1G1418TU',
+				Descripcion:
+					'COLCHONETA AUTO / PASEO - PATITAS - TURQUESA - UNICO - GUATA',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'CO2G0017AFU',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GIGANTE - PERRITOS Y HUESITOS - FUCSIA - XXL - GUATA',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -38282,7 +42801,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0035CGR',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GRANDE - FRANJA CANICHE/BICHON - GRIS - L - GUATA',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -38290,7 +42809,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0036CTU',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GRANDE - FRANJA CANICHE/BICHON - TURQUESA - L - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -38618,7 +43137,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0716CFU',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GRANDE - PERROS BEIGE - FUCSIA - L - GUATA',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -38642,7 +43161,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0719CFU',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GRANDE - PERROS NEGROS - FUCSIA - L - GUATA',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -38874,7 +43393,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0807UFU',
 				Descripcion:
 					'COLCHONETA LAVABLE GATO - GATITOS MIX - FUCSIA - UNICO - GUATA',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -38906,7 +43425,7 @@ module.exports = {
 				Codigo_Producto: 'CO2G0830AFU',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GIGANTE - WOOF - FUCSIA - XXL - GUATA',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -39026,7 +43545,7 @@ module.exports = {
 				Codigo_Producto: 'CO3G0067CFU',
 				Descripcion:
 					'COLCHONETA ECONOMICA PERRO GRANDE - PATCHWORK - FUCSIA - L - GUATA',
-				SumaDeCantidad: '0',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -39050,7 +43569,7 @@ module.exports = {
 				Codigo_Producto: 'CO3G0070DFU',
 				Descripcion:
 					'COLCHONETA ECONOMICA PERRO MEDIANO - PATCHWORK - FUCSIA - M - GUATA',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -39143,6 +43662,20 @@ module.exports = {
 			{
 				Id_Pto_Stock: '6',
 				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CP6N1388UAZ',
+				Descripcion: 'CEPILLO QUITA PELUSA - LISO - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CP6N1389URJ',
+				Descripcion: 'CEPILLO QUITA PELUSA - LISO - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'CR6N1344NN',
 				Descripcion: 'CORREA - LANIN - SIN COLOR - S - SIN RELLENO',
 				SumaDeCantidad: '0',
@@ -39208,6 +43741,49 @@ module.exports = {
 				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'CR6N1353NN',
 				Descripcion: 'CORREA - HUA HUM - SIN COLOR - L - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CS6N1405UAM',
+				Descripcion:
+					'COMEDERO SILICONA - LISO - AMARILLO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CS6N1406UNE',
+				Descripcion: 'COMEDERO SILICONA - LISO - NEGRO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CS6N1407URJ',
+				Descripcion: 'COMEDERO SILICONA - LISO - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CT6N1425GR',
+				Descripcion: 'CARTUCHERA - PATITAS - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CT6N1426FU',
+				Descripcion: 'CARTUCHERA - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'CT6N1427TU',
+				Descripcion: 'CARTUCHERA - PATITAS - TURQUESA - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -39416,6 +43992,56 @@ module.exports = {
 				Codigo_Producto: 'FA6N0290UTU',
 				Descripcion:
 					'FUNDA PARA AUTO - SCHNAUZER MIX - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'FA6N1419GR',
+				Descripcion: 'FUNDA PARA AUTO - PATITAS - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'FA6N1420FU',
+				Descripcion: 'FUNDA PARA AUTO - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'FA6N1421TU',
+				Descripcion:
+					'FUNDA PARA AUTO - PATITAS - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'FR6N1485AM',
+				Descripcion: 'FRISBEE GOMA - LISO - AMARILLO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'FR6N1486FU',
+				Descripcion: 'FRISBEE GOMA - LISO - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'FR6N1487NA',
+				Descripcion: 'FRISBEE GOMA - LISO - NARANJA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'FR6N1488VE',
+				Descripcion: 'FRISBEE GOMA - LISO - VERDE - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -40573,6 +45199,13 @@ module.exports = {
 			{
 				Id_Pto_Stock: '6',
 				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'GP6N1382UAZ',
+				Descripcion: 'GUANTE SACA PELOS - LISO - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'HF6N1289AM',
 				Descripcion: 'HUESO FLEX GRANDE - LISO - AMARILLO - L - SIN RELLENO',
 				SumaDeCantidad: '0',
@@ -40655,7 +45288,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0291EFU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - BULLDOG FRANCES MIX - FUCSIA - S - SIN RELLENO',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -40671,7 +45304,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0293ETU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - BULLDOG FRANCES MIX - TURQUESA - S - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '2',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -40703,7 +45336,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0297EFU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - GATITO MIX - FUCSIA - S - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -40718,7 +45351,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0299ETU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - GATITO MIX - TURQUESA - S - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -40756,7 +45389,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0304ETU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - PERRITOS MIX - TURQUESA - S - SIN RELLENO',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -40812,7 +45445,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0311EFU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - PERSONALIZADO - FUCSIA - S - SIN RELLENO',
-				SumaDeCantidad: '10',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -40836,7 +45469,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0314DFU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - PERSONALIZADO - FUCSIA - M - SIN RELLENO',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '4',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -40884,7 +45517,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0320DFU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - CANICHE/BICHON MIX - FUCSIA - M - SIN RELLENO',
-				SumaDeCantidad: '4',
+				SumaDeCantidad: '3',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -40892,7 +45525,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0321DGR',
 				Descripcion:
 					'INDIVIDUAL CUERINA - CANICHE/BICHON MIX - GRIS - M - SIN RELLENO',
-				SumaDeCantidad: '5',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -40969,7 +45602,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0331DFU',
 				Descripcion:
 					'INDIVIDUAL CUERINA - SALCHICHA MIX - FUCSIA - M - SIN RELLENO',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -40977,7 +45610,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0332DGR',
 				Descripcion:
 					'INDIVIDUAL CUERINA - SALCHICHA MIX - GRIS - M - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -41137,7 +45770,7 @@ module.exports = {
 				Codigo_Producto: 'IN6N0520ECE',
 				Descripcion:
 					'INDIVIDUAL CUERINA - CARITA SHIT TZU - CELESTE - S - SIN RELLENO',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -41395,6 +46028,44 @@ module.exports = {
 			{
 				Id_Pto_Stock: '6',
 				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'IN6N1516RJ',
+				Descripcion:
+					'INDIVIDUAL CUERINA NAVIDAD - MIX PERRITOS - ROJO - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'IN6N1517RJ',
+				Descripcion:
+					'INDIVIDUAL CUERINA NAVIDAD - MIX GATITOS - ROJO - S - SIN RELLENO',
+				SumaDeCantidad: '1',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'IS6N1410UNE',
+				Descripcion: 'INDIVIDUAL SILICONA - LISO - NEGRO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'IS6N1411UCE',
+				Descripcion:
+					'INDIVIDUAL SILICONA - LISO - CELESTE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'IS6N1412URS',
+				Descripcion: 'INDIVIDUAL SILICONA - LISO - ROSA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'JB6V0337UNN',
 				Descripcion:
 					'JUGUETE BLANDO C/CASCABEL - CHANCHO - SIN COLOR - UNICO - VELLON',
@@ -41635,6 +46306,14 @@ module.exports = {
 			{
 				Id_Pto_Stock: '6',
 				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'JB6V1497RJ',
+				Descripcion:
+					'JUGUETE BLANDO C/CASCABEL - HUESO NAVIDAD - ROJO - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'KT6N1127DNN',
 				Descripcion:
 					'KIT JUEGO - UNICORNIO PELOTA - JB6V0351UNN - PE6N0949DFU - SIN COLOR - M - SIN RELLENO',
@@ -41726,6 +46405,94 @@ module.exports = {
 				Codigo_Producto: 'KT6N1374UTU',
 				Descripcion:
 					'KIT CAT MOM - KIT CAT MOM - TB6N1148UGR - TO6N1038UTU - LL6N1367UNE - IN6N1020ENE - TA6N1368UNN - TURQUESA - UNICO - SIN',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'KT6N1518UAZ',
+				Descripcion:
+					'KIT PLAZA - MOCHILA - PE6N0942DAZ - ST6N1376UCE - BA6N1403URJ - FR6N1488VE - BO6N1434VE - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'KT6N1519UFU',
+				Descripcion:
+					'KIT PLAZA - MOCHILA - PE6N0949DFU - ST6N1377UFU - BA6N1404UVE - FR6N1485AM - BO6N1434VE - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'KT6N1520UAZ',
+				Descripcion:
+					'KIT JUEGO - MOCHILA - PD6N1184DRJ - ST6N1178UMU - ST6N1378UAZ - JB6V1062UNN - MD6N1491CE - BO6N1435TU - AZUL - UNICO - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'KT6N1521UFU',
+				Descripcion:
+					'KIT JUEGO - MOCHILA - PD6N1185DVE - ST6N1178UMU - ST6N1379UFU - JB6V0351UNN - MD6N1495RS - BO6N1435TU - FUCSIA - UNICO -',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'KT6N1522URJ',
+				Descripcion:
+					'KIT NAVIDAD - BOLSA - JB6V1497RJ - ST6N1178UMU - MR6N1288RJ - PA6N1002RJ - BO6N1436RJ - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'KT6N1523UGR',
+				Descripcion:
+					'KIT VIAJE - PATITAS - CO1G1416GR - CA6N1381UNE- CB6N1409URJ - BO6N1431GR - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'KT6N1524UFU',
+				Descripcion:
+					'KIT VIAJE - PATITAS - CO1G1417FU - CA6N1381UNE - CB6N1408UAZ - BO6N1432FU - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'KT6N1525UTU',
+				Descripcion:
+					'KIT VIAJE - PATITAS - CO1G1418TU - CA6N1381UNE - CB6N1408UAZ - BO6N1433TU - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'KT6N1526UGR',
+				Descripcion:
+					'KIT PLAYA - PATITAS - TO6N1413GR - BO6N1428GR - LO6N1422GR - CT6N1425GR - MN6N1482GR - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'KT6N1527UFU',
+				Descripcion:
+					'KIT PLAYA - PATITAS - TO6N1414FU - BO6N1429FU - LO6N1423FU - CT6N1426FU - MN6N1483FU - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'KT6N1528UTU',
+				Descripcion:
+					'KIT PLAYA - PATITAS - TO6N1415TU - BO6N1428GR - LO6N1424TU - CT6N1427TU - MN6N1484TU - TURQUESA - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -41937,6 +46704,57 @@ module.exports = {
 				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'LL6N1367UNE',
 				Descripcion: 'LLAVERO - CAT MOM - NEGRO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'LO6N1422GR',
+				Descripcion: 'LONA IMPERMEABLE - PATITAS - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'LO6N1423FU',
+				Descripcion:
+					'LONA IMPERMEABLE - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'LO6N1424TU',
+				Descripcion:
+					'LONA IMPERMEABLE - PATITAS - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'LP6N1384ECE',
+				Descripcion: 'LIMPIA PATAS - LISO - CELESTE - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'LP6N1385EVE',
+				Descripcion: 'LIMPIA PATAS - LISO - VERDE - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'LP6N1386CCE',
+				Descripcion: 'LIMPIA PATAS - LISO - CELESTE - L - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'LP6N1387CVE',
+				Descripcion: 'LIMPIA PATAS - LISO - VERDE - L - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -42413,6 +47231,14 @@ module.exports = {
 			{
 				Id_Pto_Stock: '6',
 				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MB6N1383UCE',
+				Descripcion:
+					'MANGUERA CEPILLO BAÑO - LISO - CELESTE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'MC6V0374UBE',
 				Descripcion: 'MINI PETS - BULLDOG FRANCES - BEIGE - UNICO - VELLON',
 				SumaDeCantidad: '0',
@@ -42702,6 +47528,225 @@ module.exports = {
 				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'MC6V1069UBE',
 				Descripcion: 'MINI PETS - PUG NENA - BEIGE - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MC6V1498NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - BEAGLE - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MC6V1499NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - BULLDOG FRANCES - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MC6V1500NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - BULLDOG INGLES - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MC6V1501NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - CANICHE - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MC6V1502NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - CHIHUAHUA - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MC6V1503NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - GALGO - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MC6V1504NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - GATITOS - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MC6V1505NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - GOLDEN - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MC6V1506NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - JACK RUSSELL - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MC6V1507NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - MIX PERRITOS - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MC6V1508NN',
+				Descripcion: 'MINI PETS NAVIDAD X3 - PUG - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MC6V1509NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - SALCHICHA - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MC6V1510NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - SCHNAUZER - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MC6V1511NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - SHARPEI - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MC6V1512NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - SHIH TZU - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MC6V1513NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - WESTY - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MC6V1514NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - WEIMARANER - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MC6V1515NN',
+				Descripcion: 'MINI PETS NAVIDAD - SURTIDO - SIN COLOR - UNICO - VELLON',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MD6N1489AZ',
+				Descripcion: 'MORDILLO - LISO - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MD6N1490AM',
+				Descripcion: 'MORDILLO - LISO - AMARILLO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MD6N1491CE',
+				Descripcion: 'MORDILLO - LISO - CELESTE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MD6N1492FU',
+				Descripcion: 'MORDILLO - LISO - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MD6N1493NE',
+				Descripcion: 'MORDILLO - LISO - NEGRO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MD6N1494RJ',
+				Descripcion: 'MORDILLO - LISO - ROJO - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MD6N1495RS',
+				Descripcion: 'MORDILLO - LISO - ROSA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MD6N1496VE',
+				Descripcion: 'MORDILLO - LISO - VERDE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MN6N1482GR',
+				Descripcion: 'MONEDERO - PATITAS - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MN6N1483FU',
+				Descripcion: 'MONEDERO - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'MN6N1484TU',
+				Descripcion: 'MONEDERO - PATITAS - TURQUESA - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -43029,6 +48074,304 @@ module.exports = {
 				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'PA6N1287RS',
 				Descripcion: 'PAÑUELO - CUADRILLE - ROSA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1440FU',
+				Descripcion: 'PAÑUELO - BULLDOG FRANCES - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1441TU',
+				Descripcion:
+					'PAÑUELO - BULLDOG FRANCES - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1442FU',
+				Descripcion: 'PAÑUELO - MIX PERRITOS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1443TU',
+				Descripcion: 'PAÑUELO - MIX PERRITOS - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1444FU',
+				Descripcion: 'PAÑUELO - SALCHICHA - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1445TU',
+				Descripcion: 'PAÑUELO - SALCHICHA - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1446FU',
+				Descripcion: 'PAÑUELO - SCHNAUZER - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '1',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1447TU',
+				Descripcion: 'PAÑUELO - SCHNAUZER - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1448FU',
+				Descripcion: 'PAÑUELO - CANICHE - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1449TU',
+				Descripcion: 'PAÑUELO - CANICHE - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1450FU',
+				Descripcion: 'PAÑUELO - LABRADOR - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1451TU',
+				Descripcion: 'PAÑUELO - LABRADOR - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1452FU',
+				Descripcion: 'PAÑUELO - OVEJERO - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1453TU',
+				Descripcion: 'PAÑUELO - OVEJERO - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1454FU',
+				Descripcion: 'PAÑUELO - BULLDOG INGLES - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1455TU',
+				Descripcion:
+					'PAÑUELO - BULLDOG INGLES - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1456FU',
+				Descripcion: 'PAÑUELO - BORDER COLLIE - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1457TU',
+				Descripcion: 'PAÑUELO - BORDER COLLIE - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1458FU',
+				Descripcion: 'PAÑUELO - BEAGLE - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1459TU',
+				Descripcion: 'PAÑUELO - BEAGLE - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1460FU',
+				Descripcion: 'PAÑUELO - BOXER - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1461TU',
+				Descripcion: 'PAÑUELO - BOXER - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1462FU',
+				Descripcion: 'PAÑUELO - PUG - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1463TU',
+				Descripcion: 'PAÑUELO - PUG - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1464FU',
+				Descripcion: 'PAÑUELO - PITBULL - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1465TU',
+				Descripcion: 'PAÑUELO - PITBULL - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1466FU',
+				Descripcion: 'PAÑUELO - GOLDEN - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1467TU',
+				Descripcion: 'PAÑUELO - GOLDEN - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1468FU',
+				Descripcion:
+					'PAÑUELO - MIX PERROS BLANCOS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1469TU',
+				Descripcion:
+					'PAÑUELO - MIX PERROS BLANCOS - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1470FU',
+				Descripcion: 'PAÑUELO - SHARPEI - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1471TU',
+				Descripcion: 'PAÑUELO - SHARPEI - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1472FU',
+				Descripcion: 'PAÑUELO - JACK RUSSELL - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1473TU',
+				Descripcion: 'PAÑUELO - JACK RUSSELL - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1474FU',
+				Descripcion: 'PAÑUELO - GALGO - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1475TU',
+				Descripcion: 'PAÑUELO - GALGO - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1476FU',
+				Descripcion: 'PAÑUELO - CHIHUAHUA - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1477TU',
+				Descripcion: 'PAÑUELO - CHIHUAHUA - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1478FU',
+				Descripcion: 'PAÑUELO - YORKIE - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1479TU',
+				Descripcion: 'PAÑUELO - YORKIE - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1480FU',
+				Descripcion: 'PAÑUELO - COCKER - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PA6N1481TU',
+				Descripcion: 'PAÑUELO - COCKER - TURQUESA - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -43712,6 +49055,298 @@ module.exports = {
 			{
 				Id_Pto_Stock: '6',
 				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000001',
+				Descripcion:
+					'CEPILLO CARDINA MADERA N3 PUNTAS PROTEGIDAS - LISO - SIN COLOR - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000002',
+				Descripcion:
+					'CEPILLO CARDINA GATO PUNTAS PROTEGIDAS - LISO - AZUL - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000003',
+				Descripcion:
+					'CEPILLO CARDINA GATO PUNTAS PROTEGIDAS - LISO - FUCSIA - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000004',
+				Descripcion:
+					'CEPILLO CARDINA GATO PUNTAS PROTEGIDAS - LISO - VERDE - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000005',
+				Descripcion:
+					'CEPILLO CARDINA DE MANO PUNTAS PROTEGIDAS AJUSTABLE - LISO - ROJO - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000006',
+				Descripcion:
+					'CEPILLO DE MANO AJUSTABLE CERDAS DE SILICONA - LISO - AZUL - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000007',
+				Descripcion:
+					'CEPILLO DE MANO AJUSTABLE CERDAS DE SILICONA - LISO - ROJO - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000008',
+				Descripcion:
+					'CEPILLO DESLANADOR C/ BOTON EXPULSOR PERRO PELO LARGO - LISO - SIN COLOR - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000009',
+				Descripcion:
+					'CEPILLO DESLANADOR C/ BOTON EXPULSOR PERRO PELO CORTO - LISO - SIN COLOR - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000010',
+				Descripcion:
+					'PEINE ACERO INOXIDABLE 2 LADOS - LISO - SIN COLOR - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000011',
+				Descripcion:
+					'CEPILLO PARA BAÑO CON CONTENEDOR PARA SHAMPOO - LISO - CELESTE - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000012',
+				Descripcion:
+					'CEPILLO PARA BAÑO CON CONTENEDOR PARA SHAMPOO - LISO - ROSA - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000013',
+				Descripcion:
+					'CEPILLO PARA BAÑO CON CONTENEDOR PARA SHAMPOO - LISO - VERDE - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000014',
+				Descripcion:
+					'CEPILLO QUITA PELUSA GIRATORIO - LISO - SIN COLOR - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000015',
+				Descripcion: 'CHIFLE CERDO - LISO - SIN COLOR - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000016',
+				Descripcion: 'CHIFLE PERIODICO - LISO - SIN COLOR - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000017',
+				Descripcion: 'PALO LIMPIA DIENTES DE GOMA - LISO - CELESTE - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000018',
+				Descripcion: 'PALO LIMPIA DIENTES DE GOMA - LISO - VERDE - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000019',
+				Descripcion:
+					'PORTA BOLSAS CLASICO CON ROLLO DE REPUESTO - LISO - CELESTE - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000020',
+				Descripcion:
+					'PORTA BOLSAS CLASICO CON ROLLO DE REPUESTO - LISO - GRIS - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000021',
+				Descripcion:
+					'PORTA BOLSAS CLASICO CON ROLLO DE REPUESTO - LISO - VERDE - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000022',
+				Descripcion: 'ROLLOS BOLSAS X3 - LISO - SIN COLOR - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000023',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - AMARILLO - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000024',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - CELESTE - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000025',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - VERDE - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000026',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - ROJO - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000027',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - VIOLETA - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000028',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - AMARILLO - L',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000029',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - CELESTE - L',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000030',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - VERDE - L',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000031',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - ROJO - L',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000032',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - VIOLETA - L',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000033',
+				Descripcion: 'FUENTE DE AGUA FLOR - LISO - VERDE - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000034',
+				Descripcion: 'HUESO MASAJEADOR - LISO - ROJO - S',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000035',
+				Descripcion: 'CINTURON PARA AUTO - LISO - AZUL - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000036',
+				Descripcion: 'CINTURON PARA AUTO - LISO - ROJO - UNICO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000037',
+				Descripcion:
+					'PAÑUELO - NAVIDAD BANDANA - QUERIDO SANTA NENA - ROJO - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000038',
+				Descripcion:
+					'PAÑUELO - NAVIDAD BANDANA - QUERIDO SANTA NENE - ROJO - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PP0000039',
+				Descripcion: 'PAÑUELO - NAVIDAD BANDANA - HOLA 2022 - VERDE - M',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'PR6N1329NN',
 				Descripcion: 'PRETAL - LANIN - SIN COLOR - S - SIN RELLENO',
 				SumaDeCantidad: '0',
@@ -44055,6 +49690,13 @@ module.exports = {
 			{
 				Id_Pto_Stock: '6',
 				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'PS6N1375EMU',
+				Descripcion: 'PELOTA TELA SOGA - RAYADA - MULTICOLOR - S - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'RC6N1085UAM',
 				Descripcion: 'RATON A CUERDA - LISO - AMARILLO - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
@@ -44240,6 +49882,14 @@ module.exports = {
 			{
 				Id_Pto_Stock: '6',
 				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'RH6N1393UNN',
+				Descripcion:
+					'RATON HILO SISAL X3 - LISO - SIN COLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'RL4C0502CBL',
 				Descripcion: 'RELLENO - UNICO - BLANCO - L - COPOS',
 				SumaDeCantidad: '0',
@@ -44394,6 +50044,13 @@ module.exports = {
 			{
 				Id_Pto_Stock: '6',
 				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'RV6N1394UNN',
+				Descripcion: 'RATON VAIVEN - LISO - SIN COLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'SD6N1179UMU',
 				Descripcion:
 					'SOGA DOS NUDOS - RAYADA - MULTICOLOR - UNICO - SIN RELLENO',
@@ -44489,6 +50146,44 @@ module.exports = {
 				Codigo_Producto: 'ST6N1178UMU',
 				Descripcion:
 					'SOGA TRES NUDOS - RAYADA - MULTICOLOR - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'ST6N1376UCE',
+				Descripcion: 'SOGA TRES NUDOS - RAYADA - CELESTE - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'ST6N1377UFU',
+				Descripcion: 'SOGA TRES NUDOS - RAYADA - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'ST6N1378UAZ',
+				Descripcion:
+					'SOGA TRENZADA CON TIRADOR - LISO - AZUL - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'ST6N1379UFU',
+				Descripcion:
+					'SOGA TRENZADA CON TIRADOR - LISO - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'ST6N1380UNA',
+				Descripcion:
+					'SOGA TRENZADA CON TIRADOR - LISO - NARANJA - UNICO - SIN RELLENO',
 				SumaDeCantidad: '0',
 			},
 			{
@@ -45523,6 +51218,27 @@ module.exports = {
 			{
 				Id_Pto_Stock: '6',
 				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'TO6N1413GR',
+				Descripcion: 'TOALLA - PATITAS - GRIS - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'TO6N1414FU',
+				Descripcion: 'TOALLA - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
+				Codigo_Producto: 'TO6N1415TU',
+				Descripcion: 'TOALLA - PATITAS - TURQUESA - UNICO - SIN RELLENO',
+				SumaDeCantidad: '0',
+			},
+			{
+				Id_Pto_Stock: '6',
+				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'VV000000001',
 				Descripcion: 'ALMOHADONES MUÑECOS PETS - DALMATA   - UNICO - VELLON',
 				SumaDeCantidad: '0',
@@ -45738,7 +51454,7 @@ module.exports = {
 				Codigo_Producto: 'VV000000040',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO MEDIANO- SHARPEI NEGRO - FUCSIA ',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -45841,21 +51557,21 @@ module.exports = {
 				Codigo_Producto: 'VV000000062',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO EXTRA GRANDE- UNICO- SIN RELLENO- XL- PUG - FUCSIA - 98X70 CM ',
-				SumaDeCantidad: '3',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '6',
 				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'VV000000063',
 				Descripcion: 'DELANTAL CUERINA CON PLASTICO - MIX PERRITOS FUCSIA ',
-				SumaDeCantidad: '9',
+				SumaDeCantidad: '8',
 			},
 			{
 				Id_Pto_Stock: '6',
 				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'VV000000064',
 				Descripcion: 'DELANTAL CUERNA CON PASTICO - MIX PERRITOS GRIS ',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -45893,7 +51609,7 @@ module.exports = {
 				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'VV000000069',
 				Descripcion: 'INDIVIDUAL  CUERINA - PEPE - CELESTE - S',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -45928,7 +51644,7 @@ module.exports = {
 				DescripcionPtoStock: 'Outlet',
 				Codigo_Producto: 'VV000000074',
 				Descripcion: 'INDIVIDUAL S - BORDER COLLIE - FUCSIA ',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '1',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -46534,7 +52250,7 @@ module.exports = {
 				Codigo_Producto: 'VV000000169',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO MEDIANO - COCKER BLANCO Y NEGRO - GRIS - M ',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -46542,7 +52258,7 @@ module.exports = {
 				Codigo_Producto: 'VV000000170',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GRANDE - SHARPEI BEIGE - ROJO - L 66X91 CM ',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -46566,7 +52282,7 @@ module.exports = {
 				Codigo_Producto: 'VV000000173',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GRANDE - SHIH TZU  - TURQUESA - L - 67X97 CM ',
-				SumaDeCantidad: '1',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '6',
@@ -46590,7 +52306,7 @@ module.exports = {
 				Codigo_Producto: 'VV000000176',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GRANDE- PERRITO PELUDO BLANCO Y NEGRO - TURQUESA - L - 67X79 CM ',
-				SumaDeCantidad: '2',
+				SumaDeCantidad: '0',
 			},
 			{
 				Id_Pto_Stock: '6',

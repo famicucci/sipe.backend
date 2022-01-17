@@ -547,6 +547,21 @@ module.exports = {
 				ID_Empresa: '1',
 			},
 			{
+				Codigo: 'BA6N1402UAZ',
+				Descripcion: 'BOTELLA DE AGUA - 500 ML - AZUL - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'BA6N1403URJ',
+				Descripcion: 'BOTELLA DE AGUA - 500 ML - ROJO - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'BA6N1404UVE',
+				Descripcion: 'BOTELLA DE AGUA - 500 ML - VERDE - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
 				Codigo: 'BM6V0746BFU',
 				Descripcion:
 					'BASE MOISES EXTRA GRANDE - PERROS BEIGE - FUCSIA - XL - VELLON',
@@ -777,6 +792,69 @@ module.exports = {
 				ID_Empresa: '1',
 			},
 			{
+				Codigo: 'BO6N1428GR',
+				Descripcion: 'BOLSA CON CIERRE - PATITAS - GRIS - M - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'BO6N1429FU',
+				Descripcion: 'BOLSA CON CIERRE - PATITAS - FUCSIA - M - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'BO6N1430TU',
+				Descripcion: 'BOLSA CON CIERRE - PATITAS - TURQUESA - M - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'BO6N1431GR',
+				Descripcion: 'BOLSA - PATITAS - GRIS - L - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'BO6N1432FU',
+				Descripcion: 'BOLSA - PATITAS - FUCSIA - L - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'BO6N1433TU',
+				Descripcion: 'BOLSA - PATITAS - TURQUESA - L - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'BO6N1434VE',
+				Descripcion: 'BOLSA SOGA - PLAZA - VERDE - S - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'BO6N1435TU',
+				Descripcion: 'BOLSA SOGA - JUEGO - TURQUESA - S - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'BO6N1436RJ',
+				Descripcion: 'BOLSA SOGA - NAVIDAD - ROJO - S - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'BO6N1437GR',
+				Descripcion:
+					'BOLSA FUNDA PARA AUTO - GENERICO - GRIS - S - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'BO6N1438FU',
+				Descripcion:
+					'BOLSA FUNDA PARA AUTO - GENERICO - FUCSIA - S - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'BO6N1439TU',
+				Descripcion:
+					'BOLSA FUNDA PARA AUTO - GENERICO - TURQUESA - S - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
 				Codigo: 'CA6N1172UNN',
 				Descripcion:
 					'CINTURON PARA AUTO - MAR DEL PLATA - SIN COLOR - UNICO - SIN RELLENO',
@@ -852,6 +930,41 @@ module.exports = {
 				ID_Empresa: '1',
 			},
 			{
+				Codigo: 'CA6N1381UNE',
+				Descripcion: 'CINTURON PARA AUTO - LISO - NEGRO - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CB6N1408UAZ',
+				Descripcion:
+					'COMEDERO BEBEDERO PORTATIL - LISO - AZUL - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CB6N1409URJ',
+				Descripcion:
+					'COMEDERO BEBEDERO PORTATIL - LISO - ROJO - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CC6N1390UNN',
+				Descripcion:
+					'CHIFLE GALLETITA - DONA - SIN COLOR - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CC6N1391UNN',
+				Descripcion:
+					'CHIFLE GALLETITA - OREO - SIN COLOR - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CC6N1392UNN',
+				Descripcion:
+					'CHIFLE GALLETITA - MERENGADA - SIN COLOR - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
 				Codigo: 'CD6N1192UCE',
 				Descripcion:
 					'COMEDERO DOBLE PLASTICO Y ACERO - LISO - CELESTE - UNICO - SIN RELLENO',
@@ -867,6 +980,46 @@ module.exports = {
 				Codigo: 'CD6N1194UVE',
 				Descripcion:
 					'COMEDERO DOBLE PLASTICO Y ACERO - LISO - VERDE - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CE6N1398UCE',
+				Descripcion:
+					'CORREA RETRACTIL EXTENSIBLE - 5 MTS - CELESTE - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CE6N1399URJ',
+				Descripcion:
+					'CORREA RETRACTIL EXTENSIBLE - 5 MTS - ROJO - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CE6N1400URS',
+				Descripcion:
+					'CORREA RETRACTIL EXTENSIBLE - 5 MTS - ROSA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CE6N1401UVE',
+				Descripcion:
+					'CORREA RETRACTIL EXTENSIBLE - 5 MTS - VERDE - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CG6N1395UAM',
+				Descripcion: 'CAÑITA PARA GATO - COLA - AMARILLO - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CG6N1396UBE',
+				Descripcion: 'CAÑITA PARA GATO - COLA - BEIGE - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CG6N1397UMU',
+				Descripcion:
+					'CAÑITA PARA GATO - COLA - MULTICOLOR - UNICO - SIN RELLENO',
 				ID_Empresa: '1',
 			},
 			{
@@ -2244,6 +2397,23 @@ module.exports = {
 				ID_Empresa: '1',
 			},
 			{
+				Codigo: 'CO1G1416GR',
+				Descripcion: 'COLCHONETA AUTO / PASEO - PATITAS - GRIS - UNICO - GUATA',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CO1G1417FU',
+				Descripcion:
+					'COLCHONETA AUTO / PASEO - PATITAS - FUCSIA - UNICO - GUATA',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CO1G1418TU',
+				Descripcion:
+					'COLCHONETA AUTO / PASEO - PATITAS - TURQUESA - UNICO - GUATA',
+				ID_Empresa: '1',
+			},
+			{
 				Codigo: 'CO2G0017AFU',
 				Descripcion:
 					'COLCHONETA LAVABLE PERRO GIGANTE - PERRITOS Y HUESITOS - FUCSIA - XXL - GUATA',
@@ -3012,6 +3182,16 @@ module.exports = {
 				ID_Empresa: '1',
 			},
 			{
+				Codigo: 'CP6N1388UAZ',
+				Descripcion: 'CEPILLO QUITA PELUSA - LISO - AZUL - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CP6N1389URJ',
+				Descripcion: 'CEPILLO QUITA PELUSA - LISO - ROJO - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
 				Codigo: 'CR6N1344NN',
 				Descripcion: 'CORREA - LANIN - SIN COLOR - S - SIN RELLENO',
 				ID_Empresa: '1',
@@ -3059,6 +3239,37 @@ module.exports = {
 			{
 				Codigo: 'CR6N1353NN',
 				Descripcion: 'CORREA - HUA HUM - SIN COLOR - L - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CS6N1405UAM',
+				Descripcion:
+					'COMEDERO SILICONA - LISO - AMARILLO - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CS6N1406UNE',
+				Descripcion: 'COMEDERO SILICONA - LISO - NEGRO - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CS6N1407URJ',
+				Descripcion: 'COMEDERO SILICONA - LISO - ROJO - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CT6N1425GR',
+				Descripcion: 'CARTUCHERA - PATITAS - GRIS - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CT6N1426FU',
+				Descripcion: 'CARTUCHERA - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'CT6N1427TU',
+				Descripcion: 'CARTUCHERA - PATITAS - TURQUESA - UNICO - SIN RELLENO',
 				ID_Empresa: '1',
 			},
 			{
@@ -3215,6 +3426,42 @@ module.exports = {
 				Codigo: 'FA6N0290UTU',
 				Descripcion:
 					'FUNDA PARA AUTO - SCHNAUZER MIX - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'FA6N1419GR',
+				Descripcion: 'FUNDA PARA AUTO - PATITAS - GRIS - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'FA6N1420FU',
+				Descripcion: 'FUNDA PARA AUTO - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'FA6N1421TU',
+				Descripcion:
+					'FUNDA PARA AUTO - PATITAS - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'FR6N1485AM',
+				Descripcion: 'FRISBEE GOMA - LISO - AMARILLO - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'FR6N1486FU',
+				Descripcion: 'FRISBEE GOMA - LISO - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'FR6N1487NA',
+				Descripcion: 'FRISBEE GOMA - LISO - NARANJA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'FR6N1488VE',
+				Descripcion: 'FRISBEE GOMA - LISO - VERDE - UNICO - SIN RELLENO',
 				ID_Empresa: '1',
 			},
 			{
@@ -4078,6 +4325,11 @@ module.exports = {
 				ID_Empresa: '1',
 			},
 			{
+				Codigo: 'GP6N1382UAZ',
+				Descripcion: 'GUANTE SACA PELOS - LISO - AZUL - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
 				Codigo: 'HF6N1289AM',
 				Descripcion: 'HUESO FLEX GRANDE - LISO - AMARILLO - L - SIN RELLENO',
 				ID_Empresa: '1',
@@ -4690,6 +4942,34 @@ module.exports = {
 				ID_Empresa: '1',
 			},
 			{
+				Codigo: 'IN6N1516RJ',
+				Descripcion:
+					'INDIVIDUAL CUERINA NAVIDAD - MIX PERRITOS - ROJO - S - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'IN6N1517RJ',
+				Descripcion:
+					'INDIVIDUAL CUERINA NAVIDAD - MIX GATITOS - ROJO - S - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'IS6N1410UNE',
+				Descripcion: 'INDIVIDUAL SILICONA - LISO - NEGRO - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'IS6N1411UCE',
+				Descripcion:
+					'INDIVIDUAL SILICONA - LISO - CELESTE - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'IS6N1412URS',
+				Descripcion: 'INDIVIDUAL SILICONA - LISO - ROSA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
 				Codigo: 'JB6V0337UNN',
 				Descripcion:
 					'JUGUETE BLANDO C/CASCABEL - CHANCHO - SIN COLOR - UNICO - VELLON',
@@ -4870,6 +5150,12 @@ module.exports = {
 				ID_Empresa: '1',
 			},
 			{
+				Codigo: 'JB6V1497RJ',
+				Descripcion:
+					'JUGUETE BLANDO C/CASCABEL - HUESO NAVIDAD - ROJO - UNICO - VELLON',
+				ID_Empresa: '1',
+			},
+			{
 				Codigo: 'KT6N1127DNN',
 				Descripcion:
 					'KIT JUEGO - UNICORNIO PELOTA - JB6V0351UNN - PE6N0949DFU - SIN COLOR - M - SIN RELLENO',
@@ -4939,6 +5225,72 @@ module.exports = {
 				Codigo: 'KT6N1374UTU',
 				Descripcion:
 					'KIT CAT MOM - KIT CAT MOM - TB6N1148UGR - TO6N1038UTU - LL6N1367UNE - IN6N1020ENE - TA6N1368UNN - TURQUESA - UNICO - SIN',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'KT6N1518UAZ',
+				Descripcion:
+					'KIT PLAZA - MOCHILA - PE6N0942DAZ - ST6N1376UCE - BA6N1403URJ - FR6N1488VE - BO6N1434VE - AZUL - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'KT6N1519UFU',
+				Descripcion:
+					'KIT PLAZA - MOCHILA - PE6N0949DFU - ST6N1377UFU - BA6N1404UVE - FR6N1485AM - BO6N1434VE - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'KT6N1520UAZ',
+				Descripcion:
+					'KIT JUEGO - MOCHILA - PD6N1184DRJ - ST6N1178UMU - ST6N1378UAZ - JB6V1062UNN - MD6N1491CE - BO6N1435TU - AZUL - UNICO - S',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'KT6N1521UFU',
+				Descripcion:
+					'KIT JUEGO - MOCHILA - PD6N1185DVE - ST6N1178UMU - ST6N1379UFU - JB6V0351UNN - MD6N1495RS - BO6N1435TU - FUCSIA - UNICO -',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'KT6N1522URJ',
+				Descripcion:
+					'KIT NAVIDAD - BOLSA - JB6V1497RJ - ST6N1178UMU - MR6N1288RJ - PA6N1002RJ - BO6N1436RJ - ROJO - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'KT6N1523UGR',
+				Descripcion:
+					'KIT VIAJE - PATITAS - CO1G1416GR - CA6N1381UNE- CB6N1409URJ - BO6N1431GR - GRIS - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'KT6N1524UFU',
+				Descripcion:
+					'KIT VIAJE - PATITAS - CO1G1417FU - CA6N1381UNE - CB6N1408UAZ - BO6N1432FU - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'KT6N1525UTU',
+				Descripcion:
+					'KIT VIAJE - PATITAS - CO1G1418TU - CA6N1381UNE - CB6N1408UAZ - BO6N1433TU - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'KT6N1526UGR',
+				Descripcion:
+					'KIT PLAYA - PATITAS - TO6N1413GR - BO6N1428GR - LO6N1422GR - CT6N1425GR - MN6N1482GR - GRIS - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'KT6N1527UFU',
+				Descripcion:
+					'KIT PLAYA - PATITAS - TO6N1414FU - BO6N1429FU - LO6N1423FU - CT6N1426FU - MN6N1483FU - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'KT6N1528UTU',
+				Descripcion:
+					'KIT PLAYA - PATITAS - TO6N1415TU - BO6N1428GR - LO6N1424TU - CT6N1427TU - MN6N1484TU - TURQUESA - UNICO - SIN RELLENO',
 				ID_Empresa: '1',
 			},
 			{
@@ -5092,6 +5444,43 @@ module.exports = {
 			{
 				Codigo: 'LL6N1367UNE',
 				Descripcion: 'LLAVERO - CAT MOM - NEGRO - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'LO6N1422GR',
+				Descripcion: 'LONA IMPERMEABLE - PATITAS - GRIS - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'LO6N1423FU',
+				Descripcion:
+					'LONA IMPERMEABLE - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'LO6N1424TU',
+				Descripcion:
+					'LONA IMPERMEABLE - PATITAS - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'LP6N1384ECE',
+				Descripcion: 'LIMPIA PATAS - LISO - CELESTE - S - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'LP6N1385EVE',
+				Descripcion: 'LIMPIA PATAS - LISO - VERDE - S - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'LP6N1386CCE',
+				Descripcion: 'LIMPIA PATAS - LISO - CELESTE - L - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'LP6N1387CVE',
+				Descripcion: 'LIMPIA PATAS - LISO - VERDE - L - SIN RELLENO',
 				ID_Empresa: '1',
 			},
 			{
@@ -5446,6 +5835,12 @@ module.exports = {
 				ID_Empresa: '1',
 			},
 			{
+				Codigo: 'MB6N1383UCE',
+				Descripcion:
+					'MANGUERA CEPILLO BAÑO - LISO - CELESTE - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
 				Codigo: 'MC6V0374UBE',
 				Descripcion: 'MINI PETS - BULLDOG FRANCES - BEIGE - UNICO - VELLON',
 				ID_Empresa: '1',
@@ -5653,6 +6048,167 @@ module.exports = {
 			{
 				Codigo: 'MC6V1069UBE',
 				Descripcion: 'MINI PETS - PUG NENA - BEIGE - UNICO - VELLON',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MC6V1498NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - BEAGLE - SIN COLOR - UNICO - VELLON',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MC6V1499NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - BULLDOG FRANCES - SIN COLOR - UNICO - VELLON',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MC6V1500NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - BULLDOG INGLES - SIN COLOR - UNICO - VELLON',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MC6V1501NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - CANICHE - SIN COLOR - UNICO - VELLON',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MC6V1502NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - CHIHUAHUA - SIN COLOR - UNICO - VELLON',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MC6V1503NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - GALGO - SIN COLOR - UNICO - VELLON',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MC6V1504NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - GATITOS - SIN COLOR - UNICO - VELLON',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MC6V1505NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - GOLDEN - SIN COLOR - UNICO - VELLON',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MC6V1506NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - JACK RUSSELL - SIN COLOR - UNICO - VELLON',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MC6V1507NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - MIX PERRITOS - SIN COLOR - UNICO - VELLON',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MC6V1508NN',
+				Descripcion: 'MINI PETS NAVIDAD X3 - PUG - SIN COLOR - UNICO - VELLON',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MC6V1509NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - SALCHICHA - SIN COLOR - UNICO - VELLON',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MC6V1510NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - SCHNAUZER - SIN COLOR - UNICO - VELLON',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MC6V1511NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - SHARPEI - SIN COLOR - UNICO - VELLON',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MC6V1512NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - SHIH TZU - SIN COLOR - UNICO - VELLON',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MC6V1513NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - WESTY - SIN COLOR - UNICO - VELLON',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MC6V1514NN',
+				Descripcion:
+					'MINI PETS NAVIDAD X3 - WEIMARANER - SIN COLOR - UNICO - VELLON',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MC6V1515NN',
+				Descripcion: 'MINI PETS NAVIDAD - SURTIDO - SIN COLOR - UNICO - VELLON',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MD6N1489AZ',
+				Descripcion: 'MORDILLO - LISO - AZUL - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MD6N1490AM',
+				Descripcion: 'MORDILLO - LISO - AMARILLO - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MD6N1491CE',
+				Descripcion: 'MORDILLO - LISO - CELESTE - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MD6N1492FU',
+				Descripcion: 'MORDILLO - LISO - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MD6N1493NE',
+				Descripcion: 'MORDILLO - LISO - NEGRO - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MD6N1494RJ',
+				Descripcion: 'MORDILLO - LISO - ROJO - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MD6N1495RS',
+				Descripcion: 'MORDILLO - LISO - ROSA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MD6N1496VE',
+				Descripcion: 'MORDILLO - LISO - VERDE - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MN6N1482GR',
+				Descripcion: 'MONEDERO - PATITAS - GRIS - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MN6N1483FU',
+				Descripcion: 'MONEDERO - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'MN6N1484TU',
+				Descripcion: 'MONEDERO - PATITAS - TURQUESA - UNICO - SIN RELLENO',
 				ID_Empresa: '1',
 			},
 			{
@@ -5888,6 +6444,220 @@ module.exports = {
 			{
 				Codigo: 'PA6N1287RS',
 				Descripcion: 'PAÑUELO - CUADRILLE - ROSA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1440FU',
+				Descripcion: 'PAÑUELO - BULLDOG FRANCES - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1441TU',
+				Descripcion:
+					'PAÑUELO - BULLDOG FRANCES - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1442FU',
+				Descripcion: 'PAÑUELO - MIX PERRITOS - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1443TU',
+				Descripcion: 'PAÑUELO - MIX PERRITOS - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1444FU',
+				Descripcion: 'PAÑUELO - SALCHICHA - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1445TU',
+				Descripcion: 'PAÑUELO - SALCHICHA - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1446FU',
+				Descripcion: 'PAÑUELO - SCHNAUZER - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1447TU',
+				Descripcion: 'PAÑUELO - SCHNAUZER - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1448FU',
+				Descripcion: 'PAÑUELO - CANICHE - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1449TU',
+				Descripcion: 'PAÑUELO - CANICHE - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1450FU',
+				Descripcion: 'PAÑUELO - LABRADOR - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1451TU',
+				Descripcion: 'PAÑUELO - LABRADOR - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1452FU',
+				Descripcion: 'PAÑUELO - OVEJERO - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1453TU',
+				Descripcion: 'PAÑUELO - OVEJERO - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1454FU',
+				Descripcion: 'PAÑUELO - BULLDOG INGLES - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1455TU',
+				Descripcion:
+					'PAÑUELO - BULLDOG INGLES - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1456FU',
+				Descripcion: 'PAÑUELO - BORDER COLLIE - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1457TU',
+				Descripcion: 'PAÑUELO - BORDER COLLIE - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1458FU',
+				Descripcion: 'PAÑUELO - BEAGLE - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1459TU',
+				Descripcion: 'PAÑUELO - BEAGLE - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1460FU',
+				Descripcion: 'PAÑUELO - BOXER - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1461TU',
+				Descripcion: 'PAÑUELO - BOXER - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1462FU',
+				Descripcion: 'PAÑUELO - PUG - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1463TU',
+				Descripcion: 'PAÑUELO - PUG - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1464FU',
+				Descripcion: 'PAÑUELO - PITBULL - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1465TU',
+				Descripcion: 'PAÑUELO - PITBULL - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1466FU',
+				Descripcion: 'PAÑUELO - GOLDEN - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1467TU',
+				Descripcion: 'PAÑUELO - GOLDEN - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1468FU',
+				Descripcion:
+					'PAÑUELO - MIX PERROS BLANCOS - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1469TU',
+				Descripcion:
+					'PAÑUELO - MIX PERROS BLANCOS - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1470FU',
+				Descripcion: 'PAÑUELO - SHARPEI - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1471TU',
+				Descripcion: 'PAÑUELO - SHARPEI - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1472FU',
+				Descripcion: 'PAÑUELO - JACK RUSSELL - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1473TU',
+				Descripcion: 'PAÑUELO - JACK RUSSELL - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1474FU',
+				Descripcion: 'PAÑUELO - GALGO - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1475TU',
+				Descripcion: 'PAÑUELO - GALGO - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1476FU',
+				Descripcion: 'PAÑUELO - CHIHUAHUA - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1477TU',
+				Descripcion: 'PAÑUELO - CHIHUAHUA - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1478FU',
+				Descripcion: 'PAÑUELO - YORKIE - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1479TU',
+				Descripcion: 'PAÑUELO - YORKIE - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1480FU',
+				Descripcion: 'PAÑUELO - COCKER - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PA6N1481TU',
+				Descripcion: 'PAÑUELO - COCKER - TURQUESA - UNICO - SIN RELLENO',
 				ID_Empresa: '1',
 			},
 			{
@@ -6381,6 +7151,220 @@ module.exports = {
 				ID_Empresa: '1',
 			},
 			{
+				Codigo: 'PP0000001',
+				Descripcion:
+					'CEPILLO CARDINA MADERA N3 PUNTAS PROTEGIDAS - LISO - SIN COLOR - M',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000002',
+				Descripcion:
+					'CEPILLO CARDINA GATO PUNTAS PROTEGIDAS - LISO - AZUL - UNICO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000003',
+				Descripcion:
+					'CEPILLO CARDINA GATO PUNTAS PROTEGIDAS - LISO - FUCSIA - UNICO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000004',
+				Descripcion:
+					'CEPILLO CARDINA GATO PUNTAS PROTEGIDAS - LISO - VERDE - UNICO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000005',
+				Descripcion:
+					'CEPILLO CARDINA DE MANO PUNTAS PROTEGIDAS AJUSTABLE - LISO - ROJO - UNICO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000006',
+				Descripcion:
+					'CEPILLO DE MANO AJUSTABLE CERDAS DE SILICONA - LISO - AZUL - UNICO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000007',
+				Descripcion:
+					'CEPILLO DE MANO AJUSTABLE CERDAS DE SILICONA - LISO - ROJO - UNICO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000008',
+				Descripcion:
+					'CEPILLO DESLANADOR C/ BOTON EXPULSOR PERRO PELO LARGO - LISO - SIN COLOR - M',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000009',
+				Descripcion:
+					'CEPILLO DESLANADOR C/ BOTON EXPULSOR PERRO PELO CORTO - LISO - SIN COLOR - M',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000010',
+				Descripcion:
+					'PEINE ACERO INOXIDABLE 2 LADOS - LISO - SIN COLOR - UNICO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000011',
+				Descripcion:
+					'CEPILLO PARA BAÑO CON CONTENEDOR PARA SHAMPOO - LISO - CELESTE - UNICO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000012',
+				Descripcion:
+					'CEPILLO PARA BAÑO CON CONTENEDOR PARA SHAMPOO - LISO - ROSA - UNICO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000013',
+				Descripcion:
+					'CEPILLO PARA BAÑO CON CONTENEDOR PARA SHAMPOO - LISO - VERDE - UNICO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000014',
+				Descripcion:
+					'CEPILLO QUITA PELUSA GIRATORIO - LISO - SIN COLOR - UNICO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000015',
+				Descripcion: 'CHIFLE CERDO - LISO - SIN COLOR - UNICO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000016',
+				Descripcion: 'CHIFLE PERIODICO - LISO - SIN COLOR - UNICO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000017',
+				Descripcion: 'PALO LIMPIA DIENTES DE GOMA - LISO - CELESTE - M',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000018',
+				Descripcion: 'PALO LIMPIA DIENTES DE GOMA - LISO - VERDE - M',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000019',
+				Descripcion:
+					'PORTA BOLSAS CLASICO CON ROLLO DE REPUESTO - LISO - CELESTE - UNICO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000020',
+				Descripcion:
+					'PORTA BOLSAS CLASICO CON ROLLO DE REPUESTO - LISO - GRIS - UNICO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000021',
+				Descripcion:
+					'PORTA BOLSAS CLASICO CON ROLLO DE REPUESTO - LISO - VERDE - UNICO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000022',
+				Descripcion: 'ROLLOS BOLSAS X3 - LISO - SIN COLOR - UNICO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000023',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - AMARILLO - S',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000024',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - CELESTE - S',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000025',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - VERDE - S',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000026',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - ROJO - S',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000027',
+				Descripcion: 'PALA JUNTA EXCREMENTO CORTA - LISO - VIOLETA - S',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000028',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - AMARILLO - L',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000029',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - CELESTE - L',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000030',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - VERDE - L',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000031',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - ROJO - L',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000032',
+				Descripcion: 'PALA JUNTA EXCREMENTO LARGA - LISO - VIOLETA - L',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000033',
+				Descripcion: 'FUENTE DE AGUA FLOR - LISO - VERDE - S',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000034',
+				Descripcion: 'HUESO MASAJEADOR - LISO - ROJO - S',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000035',
+				Descripcion: 'CINTURON PARA AUTO - LISO - AZUL - UNICO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000036',
+				Descripcion: 'CINTURON PARA AUTO - LISO - ROJO - UNICO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000037',
+				Descripcion:
+					'PAÑUELO - NAVIDAD BANDANA - QUERIDO SANTA NENA - ROJO - M',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000038',
+				Descripcion:
+					'PAÑUELO - NAVIDAD BANDANA - QUERIDO SANTA NENE - ROJO - M',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'PP0000039',
+				Descripcion: 'PAÑUELO - NAVIDAD BANDANA - HOLA 2022 - VERDE - M',
+				ID_Empresa: '1',
+			},
+			{
 				Codigo: 'PR6N1329NN',
 				Descripcion: 'PRETAL - LANIN - SIN COLOR - S - SIN RELLENO',
 				ID_Empresa: '1',
@@ -6626,6 +7610,11 @@ module.exports = {
 				ID_Empresa: '1',
 			},
 			{
+				Codigo: 'PS6N1375EMU',
+				Descripcion: 'PELOTA TELA SOGA - RAYADA - MULTICOLOR - S - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
 				Codigo: 'RC6N1085UAM',
 				Descripcion: 'RATON A CUERDA - LISO - AMARILLO - UNICO - SIN RELLENO',
 				ID_Empresa: '1',
@@ -6761,6 +7750,12 @@ module.exports = {
 				ID_Empresa: '1',
 			},
 			{
+				Codigo: 'RH6N1393UNN',
+				Descripcion:
+					'RATON HILO SISAL X3 - LISO - SIN COLOR - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
 				Codigo: 'RL4C0502CBL',
 				Descripcion: 'RELLENO - UNICO - BLANCO - L - COPOS',
 				ID_Empresa: '1',
@@ -6871,6 +7866,11 @@ module.exports = {
 				ID_Empresa: '1',
 			},
 			{
+				Codigo: 'RV6N1394UNN',
+				Descripcion: 'RATON VAIVEN - LISO - SIN COLOR - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
 				Codigo: 'SD6N1179UMU',
 				Descripcion:
 					'SOGA DOS NUDOS - RAYADA - MULTICOLOR - UNICO - SIN RELLENO',
@@ -6942,6 +7942,34 @@ module.exports = {
 				Codigo: 'ST6N1178UMU',
 				Descripcion:
 					'SOGA TRES NUDOS - RAYADA - MULTICOLOR - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'ST6N1376UCE',
+				Descripcion: 'SOGA TRES NUDOS - RAYADA - CELESTE - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'ST6N1377UFU',
+				Descripcion: 'SOGA TRES NUDOS - RAYADA - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'ST6N1378UAZ',
+				Descripcion:
+					'SOGA TRENZADA CON TIRADOR - LISO - AZUL - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'ST6N1379UFU',
+				Descripcion:
+					'SOGA TRENZADA CON TIRADOR - LISO - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'ST6N1380UNA',
+				Descripcion:
+					'SOGA TRENZADA CON TIRADOR - LISO - NARANJA - UNICO - SIN RELLENO',
 				ID_Empresa: '1',
 			},
 			{
@@ -7683,6 +8711,21 @@ module.exports = {
 			{
 				Codigo: 'TO6N1060UTU',
 				Descripcion: 'TOALLA - YORKIE - TURQUESA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'TO6N1413GR',
+				Descripcion: 'TOALLA - PATITAS - GRIS - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'TO6N1414FU',
+				Descripcion: 'TOALLA - PATITAS - FUCSIA - UNICO - SIN RELLENO',
+				ID_Empresa: '1',
+			},
+			{
+				Codigo: 'TO6N1415TU',
+				Descripcion: 'TOALLA - PATITAS - TURQUESA - UNICO - SIN RELLENO',
 				ID_Empresa: '1',
 			},
 			{
