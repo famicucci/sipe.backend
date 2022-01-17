@@ -21284,20 +21284,38 @@ module.exports = {
 				Pedido_Ecommerce: null,
 			},
 		];
-		let ordenes = oldData.map((x) => ({
-			id: x.ID,
-			observaciones: x.Observaciones,
-			direccionEnvio: x.Direccion_Envio,
-			tarifaEnvio: x.Tarifa_Envio,
-			ordenEcommerce: null,
-			createdAt: x.Fecha,
-			updatedAt: x.Fecha,
-			ClienteId: x.ID_Cliente,
-			PtoVentaId: x.ID_Pto_Venta,
-			UsuarioId: x.ID_Usuario,
-			OrdenEstadoId: x.ID_Estado_Orden_Compra,
-			TipoEnvioId: x.ID_Tipo_Envio,
-		}));
+		let ordenes = oldData.map((x) => {
+			if (x.Pedido_Ecommerce === '')
+				return {
+					id: x.ID,
+					observaciones: x.Observaciones,
+					direccionEnvio: x.Direccion_Envio,
+					tarifaEnvio: x.Tarifa_Envio,
+					ordenEcommerce: null,
+					createdAt: x.Fecha,
+					updatedAt: x.Fecha,
+					ClienteId: x.ID_Cliente,
+					PtoVentaId: x.ID_Pto_Venta,
+					UsuarioId: x.ID_Usuario,
+					OrdenEstadoId: x.ID_Estado_Orden_Compra,
+					TipoEnvioId: x.ID_Tipo_Envio,
+				};
+			else
+				return {
+					id: x.ID,
+					observaciones: x.Observaciones,
+					direccionEnvio: x.Direccion_Envio,
+					tarifaEnvio: x.Tarifa_Envio,
+					ordenEcommerce: x.Pedido_Ecommerce,
+					createdAt: x.Fecha,
+					updatedAt: x.Fecha,
+					ClienteId: x.ID_Cliente,
+					PtoVentaId: x.ID_Pto_Venta,
+					UsuarioId: x.ID_Usuario,
+					OrdenEstadoId: x.ID_Estado_Orden_Compra,
+					TipoEnvioId: x.ID_Tipo_Envio,
+				};
+		});
 		await queryInterface.bulkInsert('orden', ordenes, {});
 	},
 
