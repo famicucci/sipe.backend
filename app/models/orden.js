@@ -46,7 +46,7 @@ module.exports = (sequelize, DataTypes) => {
 			observaciones: { type: DataTypes.STRING(120) },
 			direccionEnvio: { type: DataTypes.STRING(50) },
 			tarifaEnvio: { type: DataTypes.DECIMAL(10, 2), allowNull: false },
-			ordenEcommerce: { type: DataTypes.STRING(30), unique: true },
+			ordenEcommerce: { type: DataTypes.STRING(30) },
 		},
 		{
 			sequelize,
