@@ -1,12 +1,11 @@
 const { Precio, Producto, ListaPrecio } = require('../models/index');
 
 exports.crearPrecio = async (req, res) => {
+	// { ProductoCodigo: req.body.ProductoCodigo,
+	// ListaPrecioId: req.body.ListaPrecioId,
+	// pu: req.body.pu }
 	try {
-		const precio = await Precio.create({
-			ProductoCodigo: req.body.ProductoCodigo,
-			ListaPrecioId: req.body.ListaPrecioId,
-			pu: req.body.pu,
-		});
+		const precio = await Precio.bulkCreate(req.body);
 		res.json(precio);
 	} catch (error) {
 		res.json(error);
