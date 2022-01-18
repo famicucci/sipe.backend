@@ -13,25 +13,28 @@ exports.crearPrecio = async (req, res) => {
 };
 
 exports.modificarPrecio = async (req, res) => {
-	try {
-		const precio = await Precio.update(
-			{
-				pu: req.body.pu,
-			},
-			{
-				where: {
-					ProductoCodigo: req.body.ProductoCodigo,
-					ListaPrecioId: req.body.ListaPrecioId,
-				},
-			}
-		);
+	// [{
+	// 	pu: req.body.pu,
+	// 	ProductoCodigo: req.body.ProductoCodigo,
+	// 	ListaPrecioId: req.body.ListaPrecioId
+	// }]
 
-		// verifica si el update fue exitoso
-		if (precio[0]) {
-			res.json({ success: 'Precio Modificado' });
-		} else {
-			res.json({ error: 'No se produjo ningún cambio en la base de datos' });
+	try {
+		for (const element of req.body) {
+			await Precio.update(
+				{
+					pu: element.pu,
+				},
+				{
+					where: {
+						ProductoCodigo: element.ProductoCodigo,
+						ListaPrecioId: element.ListaPrecioId,
+					},
+				}
+			);
 		}
+
+		res.json({ success: 'Precios Modificados' });
 	} catch (error) {
 		res.json({ error: 'Ocurrió un error' });
 	}
