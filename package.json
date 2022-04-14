@@ -9,9 +9,7 @@
 	"main": "index.js",
 	"scripts": {
 		"start": "node app/server.js",
-		"dev": "nodemon app/server.js",
-		"sequelize:migrate": "sequelize db:migrate --env production",
-		"sequelize:seed": "sequelize db:seed:all --env production"
+		"dev": "nodemon app/server.js"
 	},
 	"keywords": [],
 	"author": "",
