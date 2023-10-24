@@ -132,12 +132,12 @@ exports.traerStockTotal = async (req, res) => {
 };
 
 // traer stock del producto
-exports.traerStockProducto = async (req, res) => {
+exports.getProductStock = async (req, res) => {
   try {
     // consulta a tabla stocks
     const stocks = await Stock.findAll({
       attributes: ["id", "cantidad", "ProductoCodigo", "PtoStockId"],
-      where: { ProductoCodigo: req.params.codigo },
+      where: { ProductoCodigo: req.params.productId },
       include: [
         {
           model: Producto,
