@@ -44,7 +44,8 @@ exports.getStock = async (req, res) => {
 };
 
 // modificar
-exports.modificarStock = async (req, res) => {
+exports.updateStock = async (req, res) => {
+  console.log(req.body);
   try {
     // trae el producto actual
     const producto = await Stock.findOne({
@@ -104,6 +105,7 @@ exports.modificarStock = async (req, res) => {
       res.json({ msg: "Hubo un error" });
     }
   } catch (error) {
+    console.log(error);
     res.json({ msg: "Hubo un error" });
   }
 };
