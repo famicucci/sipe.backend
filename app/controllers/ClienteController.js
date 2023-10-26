@@ -39,6 +39,40 @@ exports.getClients = async (req, res) => {
   }
 };
 
+exports.getClient = async (req, res) => {
+  try {
+    const clientes = await Cliente.findOne({
+      attributes: [
+        "id",
+        "nombre",
+        "apellido",
+        "observaciones",
+        "instagram",
+        "facebook",
+        "celular",
+        "email",
+        "mascota",
+        "tipo",
+        "dni",
+        "razonSocial",
+        "condIva",
+        "createdAt",
+        "updatedAt",
+      ],
+      include: {
+        model: Direccion,
+        as: "direcciones",
+        attributes: { exclude: ["ClienteId"] },
+      },
+      where: { id: req.params.id },
+    });
+
+    res.json(clientes);
+  } catch (error) {
+    res.json(error);
+  }
+};
+
 exports.crearCliente = async (req, res) => {
   try {
     const cliente = await Cliente.create({
