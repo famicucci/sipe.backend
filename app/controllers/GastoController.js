@@ -58,10 +58,27 @@ exports.modificarGasto = async (req, res) => {
 };
 
 exports.getBills = async (req, res) => {
-  const startDate = moment(req.query.from).subtract({
+  const getDate = (date) => {
+    const year = date.getFullYear();
+    const month = date.getMonth() + 1;
+    const day = date.getDate();
+
+    const formattedDay = day < 10 ? `0${day}` : day;
+
+    return `${year}-${month}-${formattedDay}`;
+  };
+
+  const today = new Date();
+  const previousMonth = new Date(today);
+  previousMonth.setMonth(today.getMonth() - 1);
+
+  const from = req.query.from || getDate(previousMonth);
+  const to = req.query.to || getDate(today);
+
+  const startDate = moment(from).subtract({
     hours: 3,
   });
-  const endDate = moment(req.query.to).add({
+  const endDate = moment(to).add({
     hours: 21,
   });
 
