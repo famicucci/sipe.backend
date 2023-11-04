@@ -3,6 +3,7 @@ const router = express.Router();
 const GastoController = require("../../controllers/GastoController");
 
 router.get("/", GastoController.getBills);
+router.get("/:id", GastoController.getBill);
 router.get("/categorias", GastoController.traerCategorias);
 router.get("/subcategorias", GastoController.traerSubcategorias);
 router.post("/", GastoController.crearGasto);

@@ -140,6 +140,39 @@ exports.getBills = async (req, res) => {
   }
 };
 
+exports.getBill = async (req, res) => {
+  try {
+    const bill = await Gasto.findOne({
+      attributes: {
+        exclude: [
+          "UsuarioId",
+          "EmpresaId",
+          "GastoCategoriaId",
+          "GastoSubcategoriaId",
+          "updatedAt",
+        ],
+      },
+      where: { id: req.params.id },
+      include: [
+        {
+          model: GastoSubcategoria,
+          as: "GastoSubcategoria",
+          attributes: ["id", "descripcion"],
+        },
+        {
+          model: GastoCategoria,
+          as: "GastoCategoria",
+          attributes: ["id", "descripcion"],
+        },
+      ],
+      raw: true,
+    });
+    res.json(bill);
+  } catch (error) {
+    res.json(error);
+  }
+};
+
 exports.traerGastos = async (req, res) => {
   const dates = JSON.parse(req.params.Dates);
 
