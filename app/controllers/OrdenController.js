@@ -330,64 +330,24 @@ exports.traerOrdenesFinalizadas = async (req, res) => {
 
 exports.traerOrden = async (req, res) => {
   try {
-    const ordenes = await Orden.findOne({
-      attributes: { exclude: ["ClienteId", "UsuarioId"] },
+    const orden = await Orden.findOne({
+      attributes: [
+        "id",
+        "observaciones",
+        "ordenEcommerce",
+        "createdAt",
+        "direccionEnvio",
+        "tarifaEnvio",
+      ],
+
       include: [
-        {
-          model: Factura,
-          attributes: {
-            exclude: ["OrdenId", "UsuarioId", "tipo", "estado", "ClienteId"],
-          },
-          include: [
-            {
-              model: Cliente,
-              attributes: { exclude: ["EmpresaId", "createdAt", "updatedAt"] },
-            },
-            {
-              model: FacturaDetalle,
-              as: "detalleFactura",
-              attributes: { exclude: ["FacturaId"] },
-              include: [
-                {
-                  model: Producto,
-                  attributes: ["descripcion"],
-                },
-              ],
-            },
-            {
-              model: Pago,
-              attributes: {
-                exclude: ["FacturaId", "UsuarioId", "MetodoPagoId"],
-              },
-              include: { model: MetodoPago, attributes: ["id", "descripcion"] },
-            },
-          ],
-        },
-        {
-          model: Cliente,
-          attributes: { exclude: ["EmpresaId", "createdAt", "updatedAt"] },
-        },
-        {
-          model: Usuario,
-          attributes: ["usuario"],
-        },
-        {
-          model: OrdenDetalle,
-          as: "detalleOrden",
-          attributes: {
-            exclude: ["OrdenId", "PtoStockId"],
-          },
-          include: [
-            { model: PtoStock, attributes: ["id", "descripcion"] },
-            {
-              model: Producto,
-              attributes: ["descripcion"],
-            },
-          ],
-        },
         {
           model: TipoEnvio,
           attributes: ["id", "descripcion"],
+        },
+        {
+          model: Cliente,
+          attributes: ["nombre", "apellido"],
         },
         {
           model: PtoVenta,
@@ -395,13 +355,25 @@ exports.traerOrden = async (req, res) => {
           attributes: ["id", "descripcion"],
         },
         {
-          model: OrdenEstado,
-          attributes: ["id", "descripcion"],
+          model: Factura,
+          attributes: ["id"],
+        },
+        {
+          model: OrdenDetalle,
+          as: "detalleOrden",
+          attributes: ["ProductoCodigo", "cantidad"],
+          include: [
+            {
+              model: Producto,
+              attributes: ["descripcion"],
+            },
+            { model: PtoStock, attributes: ["id", "descripcion"] },
+          ],
         },
       ],
       where: { id: req.params.Id },
     });
-    res.status(200).json(ordenes);
+    res.status(200).json(orden);
   } catch (error) {
     res.status(400).send(error);
   }
