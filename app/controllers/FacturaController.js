@@ -5,6 +5,7 @@ const {
   Usuario,
   Cliente,
   Orden,
+  OrdenDetalle,
   OrdenEstado,
   Pago,
 } = require("../models/index");
@@ -45,25 +46,48 @@ exports.getInvoice = async (req, res) => {
   }
 };
 
-exports.crearFactura = async (req, res) => {
-  // rollback
-  const t = await sequelize.transaction();
-
+exports.createInvoice = async (req, res) => {
   try {
+    const order = await Orden.findOne({
+      where: { id: req.body.orderId },
+      include: [
+        {
+          model: OrdenDetalle,
+          as: "detalleOrden",
+        },
+      ],
+    });
+    const calcSubtotal = (detalleOrden) => {
+      let subtotal = 0;
+      detalleOrden.forEach((x) => {
+        subtotal += x.cantidad * x.pu;
+      });
+      return subtotal;
+    };
+
+    const t = await sequelize.transaction();
+
     const factura = await Factura.create(
       {
         observaciones: req.body.observaciones,
-        estadoPago: req.body.estadoPago,
-        importe: req.body.importe,
-        descuento: req.body.descuento,
-        tarifaEnvio: req.body.tarifaEnvio,
-        importeFinal: req.body.importeFinal,
-        tipo: req.body.tipo,
-        estado: req.body.estado,
-        ClienteId: req.body.ClienteId,
-        OrdenId: req.body.OrdenId,
+        estadoPago: "Pendiente",
+        importe: calcSubtotal(order.detalleOrden),
+        descuento: req.body.discount,
+        tarifaEnvio: order.tarifaEnvio,
+        importeFinal:
+          calcSubtotal(order.detalleOrden) +
+          Number(order.tarifaEnvio) -
+          Number(req.body.discount),
+        tipo: "fac",
+        estado: "v",
+        ClienteId: order.ClienteId,
+        OrdenId: order.id,
         UsuarioId: req.usuarioId,
-        detalleFactura: req.body.detalleFactura,
+        detalleFactura: order.detalleOrden.map((x) => ({
+          ProductoCodigo: x.ProductoCodigo,
+          cantidad: x.cantidad,
+          pu: x.pu,
+        })),
       },
       {
         include: "detalleFactura",
