@@ -361,7 +361,7 @@ exports.traerOrden = async (req, res) => {
         {
           model: OrdenDetalle,
           as: "detalleOrden",
-          attributes: ["ProductoCodigo", "cantidad"],
+          attributes: ["ProductoCodigo", "cantidad", "pu"],
           include: [
             {
               model: Producto,
