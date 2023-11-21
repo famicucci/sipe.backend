@@ -92,7 +92,7 @@ exports.cancelPayment = async (req, res) => {
         {
           importe: -payment.importe,
           FacturaId: payment.FacturaId,
-          MetodoPagoId: req.body.MetodoPagoId,
+          MetodoPagoId: payment.MetodoPagoId,
           UsuarioId: req.usuarioId,
           estado: "v",
           tipo: "nc",
