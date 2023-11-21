@@ -28,7 +28,7 @@ exports.traerOrdenes = async (req, res) => {
 
   try {
     const ordenes = await Orden.findAll({
-      attributes: ["id", "createdAt"],
+      attributes: ["id", "createdAt", "observaciones"],
       order: [["createdAt", "DESC"]],
       include: [
         {
