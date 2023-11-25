@@ -71,6 +71,89 @@ exports.traerOrdenes = async (req, res) => {
   }
 };
 
+exports.createOrder = async (req, res) => {
+  let productWithoutStock;
+  const items = [...req.body.detalleOrden];
+
+  try {
+    const stocks = await Stock.findAll({
+      where: {
+        [Op.or]: items.map((x) => ({
+          ProductoCodigo: x.ProductoCodigo,
+          PtoStockId: x.PtoStockId,
+        })),
+      },
+    });
+
+    const finalStocks = stocks.map((stockItem, index) => {
+      if (stockItem.cantidad - items[index].cantidad < 0) {
+        productWithoutStock = items[index].ProductoCodigo;
+      }
+
+      return {
+        id: stockItem.id,
+        cantidad: stockItem.cantidad - items[index].cantidad,
+      };
+    });
+
+    if (productWithoutStock) {
+      return res
+        .status(400)
+        .send(`El producto ${productWithoutStock} no tiene stock suficiente`);
+    }
+
+    const t = await sequelize.transaction();
+    await Stock.bulkCreate(finalStocks, {
+      updateOnDuplicate: ["cantidad"],
+      transaction: t,
+    });
+
+    const orden = await Orden.create(
+      {
+        observaciones: req.body.observaciones,
+        direccionEnvio: req.body.direccionEnvio,
+        tarifaEnvio: req.body.tarifaEnvio,
+        ordenEcommerce: !req.body.ordenEcommerce
+          ? null
+          : req.body.ordenEcommerce,
+        ClienteId: req.body.ClienteId,
+        PtoVentaId: req.body.PtoVentaId,
+        UsuarioId: req.usuarioId,
+        OrdenEstadoId: req.body.OrdenEstadoId,
+        TipoEnvioId: req.body.TipoEnvioId,
+        detalleOrden: req.body.detalleOrden.map((x) => ({
+          ...x,
+          origen: x.PtoStockId ? "Disponible" : "Produccion",
+        })),
+      },
+      {
+        include: "detalleOrden",
+        transaction: t,
+      }
+    );
+
+    await MovimientoStock.bulkCreate(
+      req.body.detalleOrden
+        .filter((x) => x.PtoStockId)
+        .map(({ pu, ...res }) => ({
+          ...res,
+          motivo: "venta",
+          UsuarioId: req.usuarioId,
+        })),
+      {
+        transaction: t,
+      }
+    );
+
+    await t.commit();
+    res.status(200).send(orden);
+  } catch (error) {
+    console.log(error);
+    await t.rollback();
+    res.status(400).send(error);
+  }
+};
+
 exports.crearOrden = async (req, res) => {
   // traer todos los stocks de productos
   const stocks = await Stock.findAll({
