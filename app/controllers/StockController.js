@@ -11,7 +11,25 @@ const { Op } = require("sequelize");
 exports.getStock = async (req, res) => {
   const searchQuery = req.query.search;
   const page = req.query.page;
-  const pageSize = 50; // Tamaño de la página
+  const pageSize = 50;
+  const pointOfStock = req.query.stockPoint;
+
+  const searchByQuery = {
+    [Op.or]: [
+      { ProductoCodigo: { [Op.like]: `%${searchQuery}%` } },
+      { "$Producto.descripcion$": { [Op.like]: `%${searchQuery}%` } },
+      { cantidad: { [Op.like]: `%${searchQuery}%` } },
+    ],
+  };
+
+  const searchInStock = pointOfStock
+    ? {
+        ...searchByQuery,
+        PtoStockId: pointOfStock,
+      }
+    : {
+        ...searchByQuery,
+      };
 
   try {
     // consulta a tabla stocks
@@ -20,13 +38,7 @@ exports.getStock = async (req, res) => {
         "ProductoCodigo",
         [sequelize.fn("sum", sequelize.col("cantidad")), "cantidad"],
       ],
-      where: {
-        [Op.or]: [
-          { ProductoCodigo: { [Op.like]: `%${searchQuery}%` } },
-          { "$Producto.descripcion$": { [Op.like]: `%${searchQuery}%` } },
-          { cantidad: { [Op.like]: `%${searchQuery}%` } },
-        ],
-      },
+      where: searchInStock,
       group: ["ProductoCodigo"],
       include: {
         model: Producto,
@@ -40,6 +52,29 @@ exports.getStock = async (req, res) => {
     res.json(stocks);
   } catch (error) {
     res.json(error);
+  }
+};
+
+// traer stock por punto de stock
+exports.traerStockPtoStock = async (req, res) => {
+  try {
+    // consulta a tabla stocks
+    const stocks = await Stock.findAll({
+      attributes: ["id", "cantidad", "ProductoCodigo", "PtoStockId"],
+      include: [
+        {
+          model: Producto,
+          attributes: ["descripcion"],
+          where: { EmpresaId: req.usuarioEmpresaId },
+        },
+        { model: PtoStock, attributes: ["descripcion"] },
+      ],
+
+      raw: true,
+    });
+    res.json(stocks);
+  } catch (error) {
+    res.status(500).send({ msg: "Hubo un error" });
   }
 };
 
@@ -152,29 +187,6 @@ exports.getProductStock = async (req, res) => {
       raw: true,
     });
     res.status(200).json(stocks);
-  } catch (error) {
-    res.status(500).send({ msg: "Hubo un error" });
-  }
-};
-
-// traer stock por punto de stock
-exports.traerStockPtoStock = async (req, res) => {
-  try {
-    // consulta a tabla stocks
-    const stocks = await Stock.findAll({
-      attributes: ["id", "cantidad", "ProductoCodigo", "PtoStockId"],
-      include: [
-        {
-          model: Producto,
-          attributes: ["descripcion"],
-          where: { EmpresaId: req.usuarioEmpresaId },
-        },
-        { model: PtoStock, attributes: ["descripcion"] },
-      ],
-
-      raw: true,
-    });
-    res.json(stocks);
   } catch (error) {
     res.status(500).send({ msg: "Hubo un error" });
   }
