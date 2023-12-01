@@ -22,6 +22,12 @@ exports.getProductsWithStockAndPrice = async (req, res) => {
           model: Stock,
           as: "stockProducto",
           attributes: ["cantidad", "PtoStockId"],
+          include: [
+            {
+              model: PtoStock,
+              attributes: ["descripcion"],
+            },
+          ],
           where:
             req.params.stockPointId === "outOfStock"
               ? { cantidad: 0 }
