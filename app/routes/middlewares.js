@@ -12,7 +12,7 @@ const checkToken = (req, res, next) => {
   try {
     payload = jwt.decode(userToken, "frase secreta");
   } catch (error) {
-    return res.json({ error: "El token es incorrecto" });
+    return res.status(400).json({ error: "El token es incorrecto" });
   }
 
   if (payload.expiredAt < moment().unix()) {
