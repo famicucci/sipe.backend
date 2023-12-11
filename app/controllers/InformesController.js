@@ -12,10 +12,10 @@ const moment = require('moment');
 exports.traerIngresosBrutos = async (req, res) => {
 	// desde debe tomar el dia ingresado a las 00:00:00
 	// hasta debe tomar el dia ingresado a las 24:00:00
-	const startDate = moment(req.body.startDate).subtract({
+	const startDate = moment(req.query.startDate).subtract({
 		hours: 3,
 	});
-	const endDate = moment(req.body.endDate).add({
+	const endDate = moment(req.query.endDate).add({
 		hours: 21,
 	});
 	try {
