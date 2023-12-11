@@ -41,6 +41,38 @@ exports.getIncomesByMonths = async (req, res) => {
 	}
 };
 
+exports.getExpensesByMonths = async (req, res) => {
+	const startDate = moment(req.query.startDate)
+	const endDate = moment(req.query.endDate).add({
+		hours: 24,
+	});
+
+	try {
+		const expenses = await Gasto.findAll({
+			attributes: [
+				[sequelize.fn('sum', sequelize.col('importe')), 'totalExpenses'],
+				[sequelize.literal("DATE_FORMAT(createdAt, '%m-%Y')"), 'monthYear']
+
+			],
+			where: {
+				createdAt: {
+					[Op.between]: [startDate, endDate],
+				},
+			},
+			group: [
+				sequelize.literal("DATE_FORMAT(createdAt, '%m-%Y')")
+			  ],
+			order: [
+				sequelize.literal("DATE_FORMAT(createdAt, '%m-%Y')")
+			  ]
+		});
+
+		res.status(200).json(expenses);
+	} catch (error) {
+		res.status(400).json(expenses);
+	}
+};
+
 exports.traerIngresosBrutos = async (req, res) => {
 	// desde debe tomar el dia ingresado a las 00:00:00
 	// hasta debe tomar el dia ingresado a las 24:00:00
