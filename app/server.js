@@ -10,7 +10,7 @@ var cookies = require("cookie-parser");
 app.use(cookies());
 app.use(
   cors({
-    origin: process.env.ORIGIN_URL,
+    origin: [process.env.ORIGIN_URL, "http://localhost:3000"],
     credentials: true,
   })
 );
