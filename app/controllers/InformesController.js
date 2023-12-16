@@ -5,6 +5,7 @@ const {
   FacturaDetalle,
   Producto,
   GastoCategoria,
+  GastoSubcategoria,
 } = require("../models/index");
 const { sequelize } = require("../models/index");
 const { Op, literal } = require("sequelize");
@@ -73,13 +74,16 @@ exports.getExpensesByMonths = async (req, res) => {
         },
       },
       group: group,
-      include: byCategory === "true" ? [
-        {
-          model: GastoCategoria,
-          as: "GastoCategoria",
-          attributes: ["descripcion"],
-        },
-      ] : [],
+      include:
+        byCategory === "true"
+          ? [
+              {
+                model: GastoCategoria,
+                as: "GastoCategoria",
+                attributes: ["descripcion"],
+              },
+            ]
+          : [],
       order: [sequelize.literal("DATE_FORMAT(createdAt, '%m-%Y')")],
       raw: true,
     });
@@ -87,6 +91,41 @@ exports.getExpensesByMonths = async (req, res) => {
     res.status(200).json(expenses);
   } catch (error) {
     res.status(400).json(error);
+  }
+};
+
+exports.getExpensesByCategory = async (req, res) => {
+  const startDate = moment(req.query.startDate);
+  const endDate = moment(req.query.endDate).add({
+    hours: 24,
+  });
+
+  try {
+    const gastos = await Gasto.findAll({
+      attributes: [
+        "GastoSubcategoriaId",
+        [sequelize.fn("sum", sequelize.col("importe")), "importe"],
+      ],
+      include: [
+        {
+          model: GastoSubcategoria,
+          as: "GastoSubcategoria",
+          attributes: ["descripcion"],
+        },
+      ],
+      group: ["GastoSubcategoriaId"],
+      where: {
+        createdAt: {
+          [Op.between]: [startDate, endDate],
+        },
+        GastoCategoriaId: req.params.categoryId,
+      },
+      raw: true,
+    });
+
+    res.status(200).json(gastos);
+  } catch (error) {
+    res.json(error);
   }
 };
 
@@ -120,10 +159,10 @@ exports.traerIngresosBrutos = async (req, res) => {
 };
 
 exports.traerGastos = async (req, res) => {
-  const startDate = moment(req.body.startDate).subtract({
+  const startDate = moment(req.query.startDate).subtract({
     hours: 3,
   });
-  const endDate = moment(req.body.endDate).add({
+  const endDate = moment(req.query.endDate).add({
     hours: 21,
   });
 
@@ -133,15 +172,15 @@ exports.traerGastos = async (req, res) => {
     },
   };
 
-  if (req.body.IdCategoria) {
+  if (req.query.IdCategoria) {
     whereClausula = {
       ...whereClausula,
-      GastoCategoriaId: req.body.IdCategoria,
+      GastoCategoriaId: req.query.IdCategoria,
     };
-    if (req.body.IdSubcategoria) {
+    if (req.query.IdSubcategoria) {
       whereClausula = {
         ...whereClausula,
-        GastoSubcategoriaId: req.body.IdSubcategoria,
+        GastoSubcategoriaId: req.query.IdSubcategoria,
       };
     }
   }
