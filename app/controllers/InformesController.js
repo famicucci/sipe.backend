@@ -158,49 +158,6 @@ exports.traerIngresosBrutos = async (req, res) => {
   }
 };
 
-exports.traerGastos = async (req, res) => {
-  const startDate = moment(req.query.startDate).subtract({
-    hours: 3,
-  });
-  const endDate = moment(req.query.endDate).add({
-    hours: 21,
-  });
-
-  let whereClausula = {
-    createdAt: {
-      [Op.between]: [startDate, endDate],
-    },
-  };
-
-  if (req.query.IdCategoria) {
-    whereClausula = {
-      ...whereClausula,
-      GastoCategoriaId: req.query.IdCategoria,
-    };
-    if (req.query.IdSubcategoria) {
-      whereClausula = {
-        ...whereClausula,
-        GastoSubcategoriaId: req.query.IdSubcategoria,
-      };
-    }
-  }
-
-  try {
-    const gastos = await Gasto.findAll({
-      attributes: [[sequelize.fn("sum", sequelize.col("importe")), "importe"]],
-      where: whereClausula,
-    });
-
-    if (gastos[0].importe) {
-      res.status(200).json(gastos[0].importe);
-    } else {
-      res.status(200).json("0");
-    }
-  } catch (error) {
-    res.json(error);
-  }
-};
-
 // traer los productos con mayor facturación y la cantidad que se vendieron
 exports.traerProductosVendidos = async (req, res) => {
   const startDate = moment(req.body.startDate).subtract({
