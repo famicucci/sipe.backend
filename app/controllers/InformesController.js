@@ -159,20 +159,13 @@ exports.traerIngresosBrutos = async (req, res) => {
 };
 
 // traer los productos con mayor facturación y la cantidad que se vendieron
-exports.traerProductosVendidos = async (req, res) => {
-  const startDate = moment(req.body.startDate).subtract({
-    hours: 3,
+exports.highRevenueProducts = async (req, res) => {
+  const startDate = moment(req.query.startDate);
+  const endDate = moment(req.query.endDate).add({
+    hours: 24,
   });
-  const endDate = moment(req.body.endDate).add({
-    hours: 21,
-  });
-
-  let whereClausula = {
-    createdAt: {
-      [Op.between]: [startDate, endDate],
-    },
-    estado: "v",
-  };
+  const page = req.query.page || 1;
+  const pageSize = 20;
 
   try {
     const productos = await FacturaDetalle.findAll({
@@ -181,16 +174,23 @@ exports.traerProductosVendidos = async (req, res) => {
         [sequelize.fn("sum", sequelize.col("cantidad")), "cantidad"],
         [sequelize.literal("SUM(cantidad * pu)"), "totalFacturado"],
       ],
-
+      order: [[sequelize.literal("totalFacturado"), "DESC"]],
       include: [
         { model: Producto, attributes: ["descripcion"] },
         {
           model: Factura,
-          attributes: ["createdAt"],
-          where: whereClausula,
+          attributes: [],
+          where: {
+            createdAt: {
+              [Op.between]: [startDate, endDate],
+            },
+            estado: "v",
+          },
         },
       ],
       group: ["ProductoCodigo"],
+      limit: pageSize,
+      offset: (page - 1) * pageSize,
       raw: true,
     });
 
