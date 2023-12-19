@@ -48,7 +48,12 @@ router.use("/direcciones", middlewares.checkToken, apiDireccionesRouter);
 router.use("/facturas", middlewares.checkToken, apiFacturasRouter);
 router.use("/ordenes", middlewares.checkToken, apiOrdenesRouter);
 router.use("/detalles-orden", middlewares.checkToken, apiDetallesOrdenRouter);
-router.use("/informes", middlewares.checkToken, apiInformesRouter);
+router.use(
+  "/informes",
+  middlewares.checkToken,
+  middlewares.checkUserTypeAdmin,
+  apiInformesRouter
+);
 router.use("/tiendanube", middlewares.checkToken, apiTiendaNube);
 
 module.exports = router;

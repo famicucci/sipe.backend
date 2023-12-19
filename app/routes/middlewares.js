@@ -28,6 +28,15 @@ const checkToken = (req, res, next) => {
   payload = next();
 };
 
+const checkUserTypeAdmin = (req, res, next) => {
+  if (!req.usuarioRol) {
+    return res.status(401).json({ error: "No tiene permisos para continuar" });
+  }
+
+  next();
+};
+
 module.exports = {
   checkToken: checkToken,
+  checkUserTypeAdmin: checkUserTypeAdmin,
 };
