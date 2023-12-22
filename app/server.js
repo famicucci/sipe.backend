@@ -8,16 +8,7 @@ var cookies = require("cookie-parser");
 
 // habilitar cors
 app.use(cookies());
-app.use(
-  cors({
-    origin: [
-      process.env.ORIGIN_URL,
-      "http://localhost:3000",
-      "http://localhost:19006",
-    ],
-    credentials: true,
-  })
-);
+app.use(cors());
 
 app.use(express.json({ extended: true }));
 app.use(express.urlencoded({ extended: false }));

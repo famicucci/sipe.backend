@@ -44,7 +44,6 @@ exports.loginUsuario = async (req, res) => {
           secure: false,
         });
 
-        res.setHeader("Set-Cookie", serialized);
         res.json({ success: token, userType: usuario.rol ? "admin" : "user" });
       } else {
         res.status(400).send({ msj: "Error en usuario y/o contraseña" });
