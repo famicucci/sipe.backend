@@ -570,10 +570,11 @@ exports.modificarOrden = async (req, res) => {
         }
       );
 
-      return res.status(200).send("La orden ha sido modificada!");
+      return res.status(200).send({ msg: "La orden ha sido modificada!" });
     }
   } catch (error) {
-    return res.status(400).send("Hubo un error");
+    res.statusMessage = "Hubo un error";
+    return res.status(400).end();
   }
 
   // update stocks
@@ -601,9 +602,8 @@ exports.modificarOrden = async (req, res) => {
   });
 
   if (productWithoutStock) {
-    return res
-      .status(400)
-      .send(`El producto ${productWithoutStock} no tiene stock suficiente`);
+    res.statusMessage = `El producto ${productWithoutStock} no tiene stock suficiente`;
+    return res.status(400).end();
   }
 
   const t = await sequelize.transaction();
@@ -655,15 +655,13 @@ exports.modificarOrden = async (req, res) => {
     );
 
     await t.commit();
-    res
-      .status(200)
-      .send("La orden ha sido modificada junto con su detalle de orden!");
+    res.status(200).send({
+      msg: "La orden ha sido modificada junto con su detalle de orden!",
+    });
   } catch (error) {
     await t.rollback();
-    res.status(400).send({
-      msg: "Hubo un error",
-      severity: "error",
-    });
+    res.statusMessage = "Hubo un error";
+    res.status(400).end();
   }
 };
 
