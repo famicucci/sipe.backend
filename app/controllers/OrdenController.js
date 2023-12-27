@@ -541,43 +541,80 @@ exports.traerOrdenesCliente = async (req, res) => {
 };
 
 exports.modificarOrden = async (req, res) => {
-  // si viene tarifaEnvio debo verificar que la orden no tenga una factura vigente
-  if (req.body.tarifaEnvio) {
-    // consultar la tarifa de envio actual
-    try {
-      const orden = await Orden.findOne({ where: { id: req.params.Id } });
+  try {
+    // check if the invoice is valid
+    const factura = await Orden.findOne({
+      attributes: [],
+      include: {
+        model: Factura,
+        attributes: ["id", "estado"],
+        where: { estado: "v" },
+      },
+      where: { id: req.params.Id },
+    });
 
-      if (parseFloat(req.body.tarifaEnvio) !== parseFloat(orden.tarifaEnvio)) {
-        const factura = await Orden.findOne({
-          attributes: [],
-          include: {
-            model: Factura,
-            attributes: ["id", "estado"],
-            where: { estado: "v" },
+    if (factura && factura.Factura.estado === "v") {
+      await Orden.update(
+        {
+          observaciones: req.body.observaciones,
+          direccionEnvio: req.body.direccionEnvio,
+          TipoEnvioId: req.body.TipoEnvioId,
+          PtoVentaId: req.body.PtoVentaId,
+          OrdenEstadoId: req.body.OrdenEstadoId,
+          ordenEcommerce: req.body.ordenEcommerce,
+        },
+        {
+          where: {
+            id: req.params.Id,
           },
-          where: { id: req.params.Id },
-        });
-
-        if (factura) {
-          const estado = factura.Facturas[0].estado;
-          if (estado === "v") {
-            res.status(400).send({
-              msg: "No se puede cambiar el costo de envio. La orden tiene una factura vigente",
-              severity: "error",
-            });
-            return;
-          }
         }
-      }
-    } catch (error) {
-      res.status(400).send({
-        msg: "Hubo un error",
-        severity: "error",
-      });
+      );
+
+      return res.status(200).send("La orden ha sido modificada!");
     }
+  } catch (error) {
+    return res.status(400).send("Hubo un error");
   }
 
+  // update stocks
+  let productWithoutStock;
+  const items = [...req.body.detalleOrden];
+
+  const stocks = await Stock.findAll({
+    where: {
+      [Op.or]: items.map((x) => ({
+        ProductoCodigo: x.ProductoCodigo,
+        PtoStockId: x.PtoStockId,
+      })),
+    },
+  });
+
+  const finalStocks = stocks.map((stockItem, index) => {
+    if (stockItem.cantidad - items[index].cantidad < 0) {
+      productWithoutStock = items[index].ProductoCodigo;
+    }
+
+    return {
+      id: stockItem.id,
+      cantidad: stockItem.cantidad - items[index].cantidad,
+    };
+  });
+
+  if (productWithoutStock) {
+    return res
+      .status(400)
+      .send(`El producto ${productWithoutStock} no tiene stock suficiente`);
+  }
+
+  const t = await sequelize.transaction();
+
   try {
+    await Stock.bulkCreate(finalStocks, {
+      updateOnDuplicate: ["cantidad"],
+      transaction: t,
+    });
+
+    // update order
     await Orden.update(
       {
         observaciones: req.body.observaciones,
@@ -592,13 +629,37 @@ exports.modificarOrden = async (req, res) => {
         where: {
           id: req.params.Id,
         },
+        transaction: t,
       }
     );
 
+    // delete order detail
+    await OrdenDetalle.destroy({
+      where: {
+        OrdenId: req.params.Id,
+      },
+      transaction: t,
+    });
+
+    // create order detail
+    await OrdenDetalle.bulkCreate(
+      req.body.detalleOrden.map((item) => ({
+        ...item,
+        OrdenId: req.params.Id,
+        orige: item.PtoStockId ? "Disponible" : "Produccion",
+      })),
+      {
+        updateOnDuplicate: ["cantidad", "pu", "origen", "PtoStockId"],
+        transaction: t,
+      }
+    );
+
+    await t.commit();
     res
       .status(200)
-      .send({ msg: "La orden ha sido modificada!", severity: "success" });
+      .send("La orden ha sido modificada junto con su detalle de orden!");
   } catch (error) {
+    await t.rollback();
     res.status(400).send({
       msg: "Hubo un error",
       severity: "error",
