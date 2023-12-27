@@ -430,7 +430,7 @@ exports.traerOrden = async (req, res) => {
         },
         {
           model: Cliente,
-          attributes: ["nombre", "apellido"],
+          attributes: ["id", "nombre", "apellido"],
         },
         {
           model: PtoVenta,
