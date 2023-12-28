@@ -578,33 +578,85 @@ exports.modificarOrden = async (req, res) => {
   }
 
   // update stocks
-  let productWithoutStock;
-  const items = [...req.body.detalleOrden];
+  const orderOld = await OrdenDetalle.findAll({
+    where: {
+      OrdenId: req.params.Id,
+    },
+  });
+  const orderCurrent = req.body.detalleOrden;
 
   const stocks = await Stock.findAll({
     where: {
-      [Op.or]: items.map((x) => ({
-        ProductoCodigo: x.ProductoCodigo,
-        PtoStockId: x.PtoStockId,
-      })),
+      [Op.or]: [
+        ...orderCurrent.map((x) => ({
+          ProductoCodigo: x.ProductoCodigo,
+          PtoStockId: x.PtoStockId,
+        })),
+        ...orderOld.map((x) => ({
+          ProductoCodigo: x.ProductoCodigo,
+          PtoStockId: x.PtoStockId,
+        })),
+      ],
     },
   });
 
-  const finalStocks = stocks.map((stockItem, index) => {
-    if (stockItem.cantidad - items[index].cantidad < 0) {
-      productWithoutStock = items[index].ProductoCodigo;
-    }
+  const sumasPorCodigoYStock = {};
 
-    return {
-      id: stockItem.id,
-      cantidad: stockItem.cantidad - items[index].cantidad,
-    };
-  });
+  const createKeys = (array) => {
+    array.forEach((obj) => {
+      const { id, ProductoCodigo, PtoStockId } = obj;
+      const clave = `${ProductoCodigo}_${PtoStockId}`;
+
+      if (!sumasPorCodigoYStock[clave]) {
+        sumasPorCodigoYStock[clave] = {
+          id,
+          ProductoCodigo,
+          PtoStockId,
+          cantidad: 0,
+        };
+      }
+    });
+  };
+
+  const sumQuantities = (array) => {
+    array.forEach((objeto) => {
+      const { ProductoCodigo, cantidad, PtoStockId } = objeto;
+      const clave = `${ProductoCodigo}_${PtoStockId}`;
+
+      sumasPorCodigoYStock[clave].cantidad += cantidad;
+    });
+  };
+
+  createKeys(stocks);
+  sumQuantities(stocks);
+  sumQuantities(orderOld);
+  sumQuantities(
+    orderCurrent.map((x) => ({
+      ...x,
+      cantidad: x.cantidad * -1,
+    }))
+  );
+
+  // not allow negative stocks
+  let productWithoutStock;
+  for (const clave in sumasPorCodigoYStock) {
+    if (Object.hasOwnProperty.call(sumasPorCodigoYStock, clave)) {
+      const element = sumasPorCodigoYStock[clave];
+      if (element.cantidad < 0) {
+        productWithoutStock = element.ProductoCodigo;
+      }
+    }
+  }
 
   if (productWithoutStock) {
     res.statusMessage = `El producto ${productWithoutStock} no tiene stock suficiente`;
     return res.status(400).end();
   }
+
+  const finalStocks = Object.values(sumasPorCodigoYStock).map((x) => ({
+    id: x.id,
+    cantidad: x.cantidad,
+  }));
 
   const t = await sequelize.transaction();
 
