@@ -730,11 +730,9 @@ exports.eliminarOrden = async (req, res) => {
     });
 
     if (invoice) {
-      res.status(400).send({
-        msg: "La orden no puede ser eliminada porque tiene una factura vigente",
-        severity: "error",
-      });
-      return;
+      res.statusMessage =
+        "La orden no puede ser eliminada porque tiene una factura vigente";
+      return res.status(400).end();
     } else {
       // rollback
       const t = await sequelize.transaction();
