@@ -83,10 +83,11 @@ exports.cancelPayment = async (req, res) => {
     // select payment to be canceled
     const payment = await Pago.findByPk(req.params.Id);
 
-    if (payment.estado === "c")
-      res
-        .status(400)
-        .json({ msg: "Payment was already canceled", severity: "error" });
+    if (payment.estado === "c") {
+      res;
+      res.statusMessage = "Payment was already canceled";
+      return res.status(400).end();
+    }
 
     if (payment) {
       const negativePayment = await Pago.create(
