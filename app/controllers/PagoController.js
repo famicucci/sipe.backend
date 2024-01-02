@@ -71,7 +71,8 @@ exports.crearPago = async (req, res) => {
 
     res.json(pagos);
   } catch (error) {
-    res.status(400).json({ msg: "There was an error", severity: "error" });
+    res.statusMessage = error.message;
+    return res.status(400).end();
   }
 };
 
