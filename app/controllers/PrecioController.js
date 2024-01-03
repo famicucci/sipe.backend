@@ -44,7 +44,7 @@ exports.modificarPrecio = async (req, res) => {
 exports.traerPrecios = async (req, res) => {
   const searchQuery = req.query.search;
   const page = req.query.page; // Número de página (2 para los segundos 10 resultados)
-  const pageSize = 50; // Tamaño de la página
+  const pageSize = 20; // Tamaño de la página
   const list = req.query.list;
 
   try {
