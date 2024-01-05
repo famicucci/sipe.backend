@@ -4,7 +4,7 @@ const { Op } = require("sequelize");
 exports.getClients = async (req, res) => {
   const searchQuery = req.query.search;
   const page = req.query.page;
-  const pageSize = 50;
+  const pageSize = 20;
 
   try {
     const clientes = await Cliente.findAll({
@@ -135,7 +135,7 @@ exports.traerClientes = async (req, res) => {
   const searchQuery = req.query.search;
   console.log(searchQuery);
   const page = req.query.page;
-  const pageSize = 50; // Tamaño de la página
+  const pageSize = 20; // Tamaño de la página
 
   //   nombre, apellido, email, razon social, nombre local, cond IVA, tipo
 

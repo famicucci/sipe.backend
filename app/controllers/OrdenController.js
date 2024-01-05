@@ -24,7 +24,7 @@ const moment = require("moment");
 exports.traerOrdenes = async (req, res) => {
   const searchQuery = req.query.search;
   const page = req.query.page; // Número de página (2 para los segundos 10 resultados)
-  const pageSize = 50; // Tamaño de la página
+  const pageSize = 20; // Tamaño de la página
 
   try {
     const ordenes = await Orden.findAll({
@@ -41,7 +41,7 @@ exports.traerOrdenes = async (req, res) => {
         },
         {
           model: OrdenEstado,
-          attributes: ["id", "descripcion"],
+          attributes: ["id", "descripcion", "color"],
         },
         {
           model: TipoEnvio,
@@ -430,7 +430,7 @@ exports.traerOrden = async (req, res) => {
         },
         {
           model: Cliente,
-          attributes: ["nombre", "apellido"],
+          attributes: ["id", "nombre", "apellido"],
         },
         {
           model: PtoVenta,
@@ -541,43 +541,147 @@ exports.traerOrdenesCliente = async (req, res) => {
 };
 
 exports.modificarOrden = async (req, res) => {
-  // si viene tarifaEnvio debo verificar que la orden no tenga una factura vigente
-  if (req.body.tarifaEnvio) {
-    // consultar la tarifa de envio actual
-    try {
-      const orden = await Orden.findOne({ where: { id: req.params.Id } });
+  try {
+    // check if the invoice is valid
+    const factura = await Orden.findOne({
+      attributes: [],
+      include: {
+        model: Factura,
+        attributes: ["id", "estado"],
+        where: { estado: "v" },
+      },
+      where: { id: req.params.Id },
+    });
 
-      if (parseFloat(req.body.tarifaEnvio) !== parseFloat(orden.tarifaEnvio)) {
-        const factura = await Orden.findOne({
-          attributes: [],
-          include: {
-            model: Factura,
-            attributes: ["id", "estado"],
-            where: { estado: "v" },
+    if (factura && factura.Factura.estado === "v") {
+      await Orden.update(
+        {
+          observaciones: req.body.observaciones,
+          direccionEnvio: req.body.direccionEnvio,
+          TipoEnvioId: req.body.TipoEnvioId,
+          PtoVentaId: req.body.PtoVentaId,
+          OrdenEstadoId: req.body.OrdenEstadoId,
+          ordenEcommerce: req.body.ordenEcommerce,
+        },
+        {
+          where: {
+            id: req.params.Id,
           },
-          where: { id: req.params.Id },
-        });
-
-        if (factura) {
-          const estado = factura.Facturas[0].estado;
-          if (estado === "v") {
-            res.status(400).send({
-              msg: "No se puede cambiar el costo de envio. La orden tiene una factura vigente",
-              severity: "error",
-            });
-            return;
-          }
         }
-      }
-    } catch (error) {
-      res.status(400).send({
-        msg: "Hubo un error",
-        severity: "error",
+      );
+
+      return res.status(200).send({ msg: "La orden ha sido modificada!" });
+    }
+  } catch (error) {
+    res.statusMessage = "Hubo un error";
+    return res.status(400).end();
+  }
+
+  // update all properties if the currentOrder doesn't have  an orderDetail
+  if (!req.body.detalleOrden) {
+    try {
+      await Orden.update(req.body, {
+        where: {
+          id: req.params.Id,
+        },
       });
+      return res.status(200).send({ msg: "La orden ha sido modificada!" });
+    } catch (error) {
+      res.statusMessage = "Hubo un error";
+      return res.status(400).end({ msg: error });
     }
   }
 
+  // update stocks
+  const orderOld = await OrdenDetalle.findAll({
+    where: {
+      OrdenId: req.params.Id,
+    },
+  });
+  const orderCurrent = req.body.detalleOrden;
+
+  const stocks = await Stock.findAll({
+    where: {
+      [Op.or]: [
+        ...orderCurrent.map((x) => ({
+          ProductoCodigo: x.ProductoCodigo,
+          PtoStockId: x.PtoStockId,
+        })),
+        ...orderOld.map((x) => ({
+          ProductoCodigo: x.ProductoCodigo,
+          PtoStockId: x.PtoStockId,
+        })),
+      ],
+    },
+  });
+
+  const sumasPorCodigoYStock = {};
+
+  const createKeys = (array) => {
+    array.forEach((obj) => {
+      const { id, ProductoCodigo, PtoStockId } = obj;
+      const clave = `${ProductoCodigo}_${PtoStockId}`;
+
+      if (!sumasPorCodigoYStock[clave]) {
+        sumasPorCodigoYStock[clave] = {
+          id,
+          ProductoCodigo,
+          PtoStockId,
+          cantidad: 0,
+        };
+      }
+    });
+  };
+
+  const sumQuantities = (array) => {
+    array.forEach((objeto) => {
+      const { ProductoCodigo, cantidad, PtoStockId } = objeto;
+      const clave = `${ProductoCodigo}_${PtoStockId}`;
+
+      sumasPorCodigoYStock[clave].cantidad += cantidad;
+    });
+  };
+
+  createKeys(stocks);
+  sumQuantities(stocks);
+  sumQuantities(orderOld);
+  sumQuantities(
+    orderCurrent.map((x) => ({
+      ...x,
+      cantidad: x.cantidad * -1,
+    }))
+  );
+
+  // not allow negative stocks
+  let productWithoutStock;
+  for (const clave in sumasPorCodigoYStock) {
+    if (Object.hasOwnProperty.call(sumasPorCodigoYStock, clave)) {
+      const element = sumasPorCodigoYStock[clave];
+      if (element.cantidad < 0) {
+        productWithoutStock = element.ProductoCodigo;
+      }
+    }
+  }
+
+  if (productWithoutStock) {
+    res.statusMessage = `El producto ${productWithoutStock} no tiene stock suficiente`;
+    return res.status(400).end();
+  }
+
+  const finalStocks = Object.values(sumasPorCodigoYStock).map((x) => ({
+    id: x.id,
+    cantidad: x.cantidad,
+  }));
+
+  const t = await sequelize.transaction();
+
   try {
+    await Stock.bulkCreate(finalStocks, {
+      updateOnDuplicate: ["cantidad"],
+      transaction: t,
+    });
+
+    // update order
     await Orden.update(
       {
         observaciones: req.body.observaciones,
@@ -592,17 +696,39 @@ exports.modificarOrden = async (req, res) => {
         where: {
           id: req.params.Id,
         },
+        transaction: t,
       }
     );
 
-    res
-      .status(200)
-      .send({ msg: "La orden ha sido modificada!", severity: "success" });
-  } catch (error) {
-    res.status(400).send({
-      msg: "Hubo un error",
-      severity: "error",
+    // delete order detail
+    await OrdenDetalle.destroy({
+      where: {
+        OrdenId: req.params.Id,
+      },
+      transaction: t,
     });
+
+    // create order detail
+    await OrdenDetalle.bulkCreate(
+      req.body.detalleOrden.map((item) => ({
+        ...item,
+        OrdenId: req.params.Id,
+        orige: item.PtoStockId ? "Disponible" : "Produccion",
+      })),
+      {
+        updateOnDuplicate: ["cantidad", "pu", "origen", "PtoStockId"],
+        transaction: t,
+      }
+    );
+
+    await t.commit();
+    res.status(200).send({
+      msg: "La orden ha sido modificada junto con su detalle de orden!",
+    });
+  } catch (error) {
+    await t.rollback();
+    res.statusMessage = "Hubo un error";
+    res.status(400).end();
   }
 };
 
@@ -619,11 +745,9 @@ exports.eliminarOrden = async (req, res) => {
     });
 
     if (invoice) {
-      res.status(400).send({
-        msg: "La orden no puede ser eliminada porque tiene una factura vigente",
-        severity: "error",
-      });
-      return;
+      res.statusMessage =
+        "La orden no puede ser eliminada porque tiene una factura vigente";
+      return res.status(400).end();
     } else {
       // rollback
       const t = await sequelize.transaction();

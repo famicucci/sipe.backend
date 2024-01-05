@@ -11,7 +11,7 @@ const { Op } = require("sequelize");
 exports.getStock = async (req, res) => {
   const searchQuery = req.query.search;
   const page = req.query.page;
-  const pageSize = 50;
+  const pageSize = 20;
   const pointOfStock = req.query.stockPoint;
 
   const searchByQuery = {

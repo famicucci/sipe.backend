@@ -145,11 +145,9 @@ exports.cancelInvoice = async (req, res) => {
     }
 
     if (paymentsTotalAmount !== 0) {
-      res.status(400).json({
-        msg: "This invoice has a created payment, please remove it",
-        severity: "error",
-      });
-      return;
+      res.statusMessage =
+        "This invoice has a created payment, please remove it";
+      return res.status(400).end();
     }
 
     // update invoice with => estadoPago: cancelado, tipo: nc, estado: c, OrdenId: null

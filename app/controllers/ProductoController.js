@@ -12,7 +12,7 @@ const { Op } = require("sequelize");
 exports.getProductsWithStockAndPrice = async (req, res) => {
   const searchQuery = req.query.search;
   const page = req.query.page;
-  const pageSize = 50;
+  const pageSize = 20;
 
   try {
     const productos = await Producto.findAll({
