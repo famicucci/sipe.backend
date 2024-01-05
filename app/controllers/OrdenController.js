@@ -41,7 +41,7 @@ exports.traerOrdenes = async (req, res) => {
         },
         {
           model: OrdenEstado,
-          attributes: ["id", "descripcion"],
+          attributes: ["id", "descripcion", "color"],
         },
         {
           model: TipoEnvio,
@@ -575,6 +575,21 @@ exports.modificarOrden = async (req, res) => {
   } catch (error) {
     res.statusMessage = "Hubo un error";
     return res.status(400).end();
+  }
+
+  // update all properties if the currentOrder doesn't have  an orderDetail
+  if (!req.body.detalleOrden) {
+    try {
+      await Orden.update(req.body, {
+        where: {
+          id: req.params.Id,
+        },
+      });
+      return res.status(200).send({ msg: "La orden ha sido modificada!" });
+    } catch (error) {
+      res.statusMessage = "Hubo un error";
+      return res.status(400).end({ msg: error });
+    }
   }
 
   // update stocks
