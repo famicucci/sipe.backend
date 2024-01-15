@@ -47,6 +47,7 @@ exports.getInvoice = async (req, res) => {
 };
 
 exports.createInvoice = async (req, res) => {
+  const t = await sequelize.transaction();
   try {
     const order = await Orden.findOne({
       where: { id: req.body.orderId },
@@ -64,8 +65,6 @@ exports.createInvoice = async (req, res) => {
       });
       return subtotal;
     };
-
-    const t = await sequelize.transaction();
 
     const factura = await Factura.create(
       {
