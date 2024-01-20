@@ -46,13 +46,16 @@ exports.loginUsuario = async (req, res) => {
 
         res.json({ success: token, userType: usuario.rol ? "admin" : "user" });
       } else {
-        res.status(400).send({ msj: "Error en usuario y/o contraseña" });
+        res.statusMessage = "Error en usuario y/o contraseña";
+        return res.status(400).end();
       }
     } else {
-      res.status(400).send({ msj: "Error en usuario y/o contraseña" });
+      res.statusMessage = "Error en usuario y/o contraseña";
+      return res.status(400).end();
     }
   } catch (error) {
-    res.json(error);
+    res.statusMessage = "Hubo un error";
+    return res.status(400).end();
   }
 };
 
