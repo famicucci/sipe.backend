@@ -97,9 +97,8 @@ exports.createOrder = async (req, res) => {
     });
 
     if (productWithoutStock) {
-      return res
-        .status(400)
-        .send(`El producto ${productWithoutStock} no tiene stock suficiente`);
+      res.statusMessage = `El producto ${productWithoutStock} no tiene stock suficiente`;
+      return res.status(400).end();
     }
 
     const t = await sequelize.transaction();
