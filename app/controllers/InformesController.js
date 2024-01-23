@@ -6,6 +6,8 @@ const {
   Producto,
   GastoCategoria,
   GastoSubcategoria,
+  Stock,
+  Precio,
 } = require("../models/index");
 const { sequelize } = require("../models/index");
 const { Op, literal } = require("sequelize");
@@ -197,5 +199,44 @@ exports.highRevenueProducts = async (req, res) => {
     res.status(200).json(productos);
   } catch (error) {
     res.json(error);
+  }
+};
+
+exports.getStockValuation = async (req, res) => {
+  const { priceListId } = req.params;
+
+  try {
+    const productos = await Stock.findAll({
+      attributes: [
+        "ProductoCodigo",
+        [sequelize.fn("sum", sequelize.col("cantidad")), "cantidad"],
+      ],
+      where: { cantidad: { [Op.gt]: 0 } },
+      group: ["ProductoCodigo"],
+      include: {
+        model: Producto,
+        attributes: ["codigo"],
+        where: { EmpresaId: req.usuarioEmpresaId },
+        include: {
+          model: Precio,
+          attributes: ["pu"],
+          where: { ListaPrecioId: priceListId },
+        },
+      },
+      raw: true,
+    });
+
+    const sumProductsAndQuantities = productos.reduce(
+      (acc, producto) =>
+        acc + producto.cantidad * producto["Producto.Precios.pu"],
+      0
+    );
+
+    res.status(200).json({
+      stockValue: sumProductsAndQuantities,
+    });
+  } catch (error) {
+    res.statusMessage = "There was an error trying to get the stock valuation";
+    return res.status(400).end();
   }
 };
