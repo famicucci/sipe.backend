@@ -66,6 +66,16 @@ exports.createInvoice = async (req, res) => {
       return subtotal;
     };
 
+    const totalAmount =
+      calcSubtotal(order.detalleOrden) +
+      Number(order.tarifaEnvio) -
+      Number(req.body.discount);
+
+    if (totalAmount <= 0) {
+      res.statusMessage = "The total amount must be greater than 0";
+      return res.status(400).end();
+    }
+
     const factura = await Factura.create(
       {
         observaciones: req.body.observaciones,
@@ -73,10 +83,7 @@ exports.createInvoice = async (req, res) => {
         importe: calcSubtotal(order.detalleOrden),
         descuento: req.body.discount,
         tarifaEnvio: order.tarifaEnvio,
-        importeFinal:
-          calcSubtotal(order.detalleOrden) +
-          Number(order.tarifaEnvio) -
-          Number(req.body.discount),
+        importeFinal: totalAmount,
         tipo: "fac",
         estado: "v",
         ClienteId: order.ClienteId,
