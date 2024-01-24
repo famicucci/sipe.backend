@@ -1,4 +1,4 @@
-const { Precio, Producto, ListaPrecio } = require("../models/index");
+const { Precio, Producto } = require("../models/index");
 const { Op } = require("sequelize");
 
 exports.crearPrecio = async (req, res) => {
@@ -92,19 +92,5 @@ exports.eliminarPrecio = async (req, res) => {
     }
   } catch (error) {
     res.json({ error: "Ocurrió un error" });
-  }
-};
-
-// traer listas de precio
-exports.traerListasPrecio = async (req, res) => {
-  console.log(req.body);
-  try {
-    const precios = await ListaPrecio.findAll({
-      where: { EmpresaId: req.usuarioEmpresaId },
-    });
-
-    res.status(200).json(precios);
-  } catch (error) {
-    res.status(400).send(error);
   }
 };
