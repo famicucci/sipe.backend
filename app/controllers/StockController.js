@@ -80,7 +80,6 @@ exports.traerStockPtoStock = async (req, res) => {
 
 // modificar
 exports.updateStock = async (req, res) => {
-  console.log(req.body);
   try {
     // trae el producto actual
     const producto = await Stock.findOne({
@@ -137,11 +136,10 @@ exports.updateStock = async (req, res) => {
           .send({ msg: "No se produjo ningún cambio en la base de datos" });
       }
     } else {
-      res.json({ msg: "Hubo un error" });
+      res.status(400).json({ msg: "Hubo un error" });
     }
   } catch (error) {
-    console.log(error);
-    res.json({ msg: "Hubo un error" });
+    res.status(400).json({ msg: "Hubo un error" });
   }
 };
 
