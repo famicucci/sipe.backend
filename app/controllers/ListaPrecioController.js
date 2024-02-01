@@ -14,10 +14,12 @@ exports.getPriceLists = async (req, res) => {
 };
 
 exports.createPriceList = async (req, res) => {
+  const statusList = { 1: "Vigente", 2: "No vigente" };
+
   try {
     const precios = await ListaPrecio.create({
       descripcion: req.body.descripcion,
-      estado: req.body.estado,
+      estado: statusList[req.body.estado],
       EmpresaId: req.usuarioEmpresaId,
     });
 
