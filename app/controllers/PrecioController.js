@@ -2,9 +2,15 @@ const { Precio, Producto } = require("../models/index");
 const { Op } = require("sequelize");
 
 exports.crearPrecio = async (req, res) => {
-  // { ProductoCodigo: req.body.ProductoCodigo,
+  // [{ ProductoCodigo: req.body.ProductoCodigo,
   // ListaPrecioId: req.body.ListaPrecioId,
-  // pu: req.body.pu }
+  // pu: req.body.pu }]
+
+  if (req.body.length > 100) {
+    res.statusMessage = "a lot of rows, maximun 100 allowed";
+    return res.status(400).end();
+  }
+
   try {
     const precio = await Precio.bulkCreate(req.body);
     res.json(precio);
