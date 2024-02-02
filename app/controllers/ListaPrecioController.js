@@ -13,6 +13,20 @@ exports.getPriceLists = async (req, res) => {
   }
 };
 
+exports.getPriceList = async (req, res) => {
+  try {
+    const list = await ListaPrecio.findOne({
+      attributes: ["id", "descripcion", "estado", "createdAt"],
+      where: { id: req.params.id, EmpresaId: req.usuarioEmpresaId },
+    });
+
+    res.status(200).json(list);
+  } catch (error) {
+    res.statusMessage = "there was an error getting the price list";
+    return res.status(400).end();
+  }
+};
+
 exports.createPriceList = async (req, res) => {
   const statusList = { 1: "Vigente", 2: "No vigente" };
 
