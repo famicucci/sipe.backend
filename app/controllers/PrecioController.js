@@ -11,11 +11,43 @@ exports.crearPrecio = async (req, res) => {
     return res.status(400).end();
   }
 
+  // check if there is a reapeated ProductoCodigo
+  const repeated = req.body.some(
+    (element, index, self) =>
+      index !==
+      self.findIndex((t) => t.ProductoCodigo === element.ProductoCodigo)
+  );
+
+  if (repeated) {
+    res.statusMessage =
+      "there is reated codes in the request, check and try again";
+    return res.status(400).end();
+  }
+
+  const precios = await Precio.findAll({
+    where: {
+      ListaPrecioId: req.params.listPriceId,
+    },
+    limit: 1,
+  });
+
+  if (precios.length > 0) {
+    res.statusMessage = "Prices already created for this list";
+    return res.status(400).end();
+  }
+
   try {
-    const precio = await Precio.bulkCreate(req.body);
-    res.json(precio);
+    await Precio.bulkCreate(
+      req.body.map((precio) => ({
+        ...precio,
+        ListaPrecioId: req.params.listPriceId,
+      }))
+    );
+
+    res.status(200).json("Prices created");
   } catch (error) {
-    res.json(error);
+    res.statusMessage = "there was an error, check the data and try again";
+    return res.status(400).end();
   }
 };
 
