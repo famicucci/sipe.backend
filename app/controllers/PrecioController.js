@@ -24,18 +24,6 @@ exports.crearPrecio = async (req, res) => {
     return res.status(400).end();
   }
 
-  const precios = await Precio.findAll({
-    where: {
-      ListaPrecioId: req.params.listPriceId,
-    },
-    limit: 1,
-  });
-
-  if (precios.length > 0) {
-    res.statusMessage = "Prices already created for this list";
-    return res.status(400).end();
-  }
-
   try {
     await Precio.bulkCreate(
       req.body.map((precio) => ({
