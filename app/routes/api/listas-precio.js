@@ -5,6 +5,7 @@ const ListaPrecioController = require("../../controllers/ListaPrecioController")
 router.get("/", ListaPrecioController.getPriceLists);
 router.get("/:id", ListaPrecioController.getPriceList);
 router.post("/", ListaPrecioController.createPriceList);
+router.put("/:id", ListaPrecioController.updateStatusPriceList);
 router.delete("/:id", ListaPrecioController.deletePriceList);
 
 module.exports = router;

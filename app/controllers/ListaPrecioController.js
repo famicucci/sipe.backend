@@ -43,6 +43,26 @@ exports.createPriceList = async (req, res) => {
   }
 };
 
+exports.updateStatusPriceList = async (req, res) => {
+  const statusList = { 1: "Vigente", 2: "No vigente" };
+
+  try {
+    await ListaPrecio.update(
+      {
+        estado: statusList[req.body.estadoId],
+      },
+      {
+        where: { id: req.params.id },
+      }
+    );
+
+    res.status(200).json("price list updated");
+  } catch (error) {
+    res.statusMessage = "there was an error";
+    return res.status(400).end();
+  }
+};
+
 exports.deletePriceList = async (req, res) => {
   try {
     await ListaPrecio.destroy({
