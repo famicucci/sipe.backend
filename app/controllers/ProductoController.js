@@ -74,7 +74,7 @@ exports.traerProductos = async (req, res) => {
 };
 
 exports.crearProducto = async (req, res) => {
-  // consultar en bd los puntos de stock de la empresa
+  // points of stock of the company
   const ptosStock = await PtoStock.findAll(
     {
       attributes: ["id"],
@@ -99,28 +99,28 @@ exports.crearProducto = async (req, res) => {
     stockIniciales.push(stockInicial);
   });
 
-  // rollback
-  const t = await sequelize.transaction();
+  const productsToCreate = req.body.map((product) => ({
+    codigo: product.codigo,
+    descripcion: product.descripcion,
+    EmpresaId: req.usuarioEmpresaId,
+  }));
+
+  const stocksToCreate = stockIniciales.map((stock) => {
+    return productsToCreate.map((product) => ({
+      ...stock,
+      ProductoCodigo: product.codigo,
+    }));
+  });
 
   try {
-    const producto = await Producto.create(
-      {
-        codigo: req.body.codigo,
-        descripcion: req.body.descripcion,
-        EmpresaId: req.usuarioEmpresaId,
-        stockProducto: stockIniciales,
-      },
-      {
-        include: "stockProducto",
-        transaction: t,
-      }
-    );
-    await t.commit();
-    res.json(producto);
+    await Producto.bulkCreate(productsToCreate);
+    await Stock.bulkCreate(stocksToCreate.flat());
+
+    res.status(200).json("Prices created");
   } catch (error) {
-    await t.rollback();
-    res.json(error);
-    // res.json({ error: 'Un error ha ocurrido' });
+    res.statusMessage =
+      error.message || "there was an error, check the data and try again";
+    return res.status(400).end();
   }
 };
 
