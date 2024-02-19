@@ -62,10 +62,22 @@ exports.getProductsWithStockAndPrice = async (req, res) => {
 };
 
 exports.traerProductos = async (req, res) => {
+  const searchQuery = req.query.search;
+  const page = req.query.page;
+  const pageSize = 20;
+
   try {
     const productos = await Producto.findAll({
       attributes: ["codigo", "descripcion"],
-      where: { EmpresaId: req.usuarioEmpresaId },
+      where: {
+        [Op.or]: [
+          { codigo: { [Op.like]: `%${searchQuery}%` } },
+          { descripcion: { [Op.like]: `%${searchQuery}%` } },
+        ],
+        EmpresaId: req.usuarioEmpresaId,
+      },
+      limit: pageSize,
+      offset: (page - 1) * pageSize,
     });
     res.json(productos);
   } catch (error) {
