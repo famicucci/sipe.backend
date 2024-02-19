@@ -86,6 +86,11 @@ exports.traerProductos = async (req, res) => {
 };
 
 exports.crearProducto = async (req, res) => {
+  if (req.body.length > 100) {
+    res.statusMessage = "a lot of rows, maximun 50 allowed";
+    return res.status(400).end();
+  }
+
   // points of stock of the company
   const ptosStock = await PtoStock.findAll(
     {
