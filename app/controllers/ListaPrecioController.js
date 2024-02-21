@@ -2,14 +2,21 @@ const { ListaPrecio } = require("../models/index");
 
 exports.getPriceLists = async (req, res) => {
   try {
-    const precios = await ListaPrecio.findAll({
+    const priceLists = await ListaPrecio.findAll({
       attributes: ["id", "descripcion", "estado", "createdAt"],
       where: { EmpresaId: req.usuarioEmpresaId },
     });
 
-    res.status(200).json(precios);
+    const orderedLists = priceLists.sort((a, b) => {
+      if (a.descripcion > b.descripcion) return 1;
+      if (a.descripcion < b.descripcion) return -1;
+      return 0;
+    });
+
+    res.status(200).json(orderedLists);
   } catch (error) {
-    res.status(400).send(error);
+    res.statusMessage = error.message;
+    return res.status(400).end();
   }
 };
 
