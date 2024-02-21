@@ -1,4 +1,4 @@
-const { Precio, Producto } = require("../models/index");
+const { Precio, Producto, ListaPrecio } = require("../models/index");
 const { Op } = require("sequelize");
 
 exports.crearPrecio = async (req, res) => {
@@ -71,7 +71,25 @@ exports.traerPrecios = async (req, res) => {
   const searchQuery = req.query.search;
   const page = req.query.page; // Número de página (2 para los segundos 10 resultados)
   const pageSize = 20; // Tamaño de la página
-  const list = req.query.list;
+  let list = req.query.list;
+
+  if (!list) {
+    try {
+      const priceLists = await ListaPrecio.findAll({
+        attributes: ["id", "descripcion"],
+        where: { EmpresaId: req.usuarioEmpresaId },
+      });
+      const orderedLists = priceLists.sort((a, b) => {
+        if (a.descripcion > b.descripcion) return 1;
+        if (a.descripcion < b.descripcion) return -1;
+        return 0;
+      });
+      list = orderedLists[0].id;
+    } catch (error) {
+      res.statusMessage = "no hay lista de precio";
+      return res.status(400).end();
+    }
+  }
 
   try {
     const precios = await Precio.findAll({
