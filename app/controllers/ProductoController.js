@@ -22,7 +22,7 @@ exports.getProductsWithStockAndPrice = async (req, res) => {
     try {
       const priceLists = await ListaPrecio.findAll({
         attributes: ["id", "descripcion"],
-        where: { EmpresaId: req.usuarioEmpresaId },
+        where: { EmpresaId: req.usuarioEmpresaId, estado: "Vigente" },
       });
       const orderedLists = priceLists.sort((a, b) => {
         if (a.descripcion > b.descripcion) return 1;
