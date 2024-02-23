@@ -6,7 +6,7 @@ router.get("/", ProductoController.traerProductos);
 router.post("/", ProductoController.crearProducto);
 router.delete("/:ProductoCodigo", ProductoController.eliminarProducto);
 router.get(
-  "/:stockPointId/:priceList",
+  "/:stockPointId/:priceList?",
   ProductoController.getProductsWithStockAndPrice
 );
 router.put("/:ProductoCodigo", ProductoController.modificarProducto);

@@ -6,6 +6,7 @@ const {
   Precio,
   Orden,
   OrdenDetalle,
+  ListaPrecio,
 } = require("../models/index");
 const { sequelize } = require("../models/index");
 const { QueryTypes } = require("sequelize");
@@ -15,6 +16,25 @@ exports.getProductsWithStockAndPrice = async (req, res) => {
   const searchQuery = req.query.search;
   const page = req.query.page;
   const pageSize = 20;
+  let list = req.query.priceList;
+
+  if (!list) {
+    try {
+      const priceLists = await ListaPrecio.findAll({
+        attributes: ["id", "descripcion"],
+        where: { EmpresaId: req.usuarioEmpresaId },
+      });
+      const orderedLists = priceLists.sort((a, b) => {
+        if (a.descripcion > b.descripcion) return 1;
+        if (a.descripcion < b.descripcion) return -1;
+        return 0;
+      });
+      list = orderedLists[0].id;
+    } catch (error) {
+      res.statusMessage = "no hay lista de precio";
+      return res.status(400).end();
+    }
+  }
 
   try {
     const productos = await Producto.findAll({
@@ -41,7 +61,7 @@ exports.getProductsWithStockAndPrice = async (req, res) => {
         {
           model: Precio,
           attributes: ["pu", "ListaPrecioId"],
-          where: { ListaPrecioId: req.params.priceList },
+          where: { ListaPrecioId: list },
         },
       ],
       where: {
@@ -57,7 +77,8 @@ exports.getProductsWithStockAndPrice = async (req, res) => {
     });
     res.json(productos);
   } catch (error) {
-    res.json(error);
+    res.statusMessage = error.message;
+    return res.status(400).end();
   }
 };
 
