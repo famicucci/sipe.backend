@@ -25,6 +25,7 @@ exports.traerOrdenes = async (req, res) => {
   const searchQuery = req.query.search;
   const page = req.query.page; // Número de página (2 para los segundos 10 resultados)
   const pageSize = 20; // Tamaño de la página
+  const status = req.query.status;
 
   try {
     const ordenes = await Orden.findAll({
@@ -56,10 +57,14 @@ exports.traerOrdenes = async (req, res) => {
           { "$Factura.estadoPago$": { [Op.like]: `%${searchQuery}%` } },
           { "$Cliente.nombre$": { [Op.like]: `%${searchQuery}%` } },
           { "$Cliente.apellido$": { [Op.like]: `%${searchQuery}%` } },
-          { "$OrdenEstado.descripcion$": { [Op.like]: `%${searchQuery}%` } },
+          {
+            "$OrdenEstado.descripcion$": { [Op.like]: `%${searchQuery}%` },
+          },
           { "$TipoEnvio.descripcion$": { [Op.like]: `%${searchQuery}%` } },
         ],
-        OrdenEstadoId: { [Op.not]: 11 },
+        "$OrdenEstado.descripcion$": status
+          ? { [Op.eq]: `${status}` }
+          : { [Op.not]: `Finalizado` },
       },
       limit: pageSize,
       offset: (page - 1) * pageSize,
