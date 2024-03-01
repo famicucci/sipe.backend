@@ -1,4 +1,4 @@
-const { Usuario } = require("../models/index");
+const { Usuario, Empresa } = require("../models/index");
 const bcryptjs = require("bcryptjs");
 const { validationResult } = require("express-validator");
 const moment = require("moment");
@@ -121,6 +121,21 @@ exports.traerUsuarios = async (req, res) => {
     res.json(usuario);
   } catch (error) {
     res.json(error);
+  }
+};
+
+exports.getUser = async (req, res) => {
+  try {
+    const usuario = await Usuario.findOne({
+      attributes: ["id", "nombre"],
+      where: { id: req.usuarioId },
+      include: { model: Empresa },
+      raw: true,
+    });
+    res.status(200).json(usuario);
+  } catch (error) {
+    res.statusMessage = error;
+    return res.status(400).end();
   }
 };
 
