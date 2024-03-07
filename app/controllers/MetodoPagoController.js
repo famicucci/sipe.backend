@@ -24,3 +24,15 @@ exports.createPaymentMethod = async (req, res) => {
     return res.status(400).end();
   }
 };
+
+exports.deletePaymentMethod = async (req, res) => {
+  try {
+    await MetodoPago.destroy({
+      where: { id: req.params.id },
+    });
+    res.status(200).json("payment method deleted");
+  } catch (error) {
+    res.statusMessage = `Hubo un error`;
+    return res.status(400).end();
+  }
+};
