@@ -25,3 +25,15 @@ exports.createStatusOrder = async (req, res) => {
     return res.status(400).end();
   }
 };
+
+exports.deleteStatusOrder = async (req, res) => {
+  try {
+    await OrdenEstado.destroy({
+      where: { id: req.params.id },
+    });
+    res.status(200).json("status order deleted");
+  } catch (error) {
+    res.statusMessage = `Hubo un error`;
+    return res.status(400).end();
+  }
+};
