@@ -27,3 +27,15 @@ exports.createPointOfSale = async (req, res) => {
     return res.status(400).end();
   }
 };
+
+exports.deletePointOfSale = async (req, res) => {
+  try {
+    await PtoVenta.destroy({
+      where: { id: req.params.id },
+    });
+    res.status(200).json("point of sale deleted");
+  } catch (error) {
+    res.statusMessage = `Hubo un error`;
+    return res.status(400).end();
+  }
+};
