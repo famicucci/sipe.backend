@@ -35,6 +35,19 @@ router.post(
   middlewares.checkToken,
   [
     check(
+      "nombre",
+      "El nombre completo debe tener máximo 50 caracteres"
+    ).isLength({
+      max: 50,
+    }),
+    check(
+      "usuario",
+      "El nombre de usuario debe tener entre 8 y 15 caracteres"
+    ).isLength({
+      min: 8,
+      max: 15,
+    }),
+    check(
       "password",
       "La contraseña debe tener entre 8 y 12 caracteres"
     ).isLength({
