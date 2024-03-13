@@ -139,6 +139,28 @@ exports.getUser = async (req, res) => {
   }
 };
 
+exports.createUser = async (req, res) => {
+  const errors = validationResult(req);
+  if (!errors.isEmpty()) {
+    return res.status(422).json({ errores: errors.array() });
+  }
+
+  try {
+    req.body.password = bcryptjs.hashSync(req.body.password, 10);
+    await Usuario.create({
+      nombre: req.body.nombre,
+      password: req.body.password,
+      usuario: req.body.usuario,
+      rol: req.body.rol,
+      EmpresaId: req.body.EmpresaId,
+    });
+    res.status(200).json("user created");
+  } catch (error) {
+    res.statusMessage = "Hubo un error";
+    return res.status(400).end();
+  }
+};
+
 // trae usuario autenticado
 exports.usuarioAutenticado = async (req, res) => {
   try {

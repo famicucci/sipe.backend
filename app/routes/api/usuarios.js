@@ -30,6 +30,20 @@ router.delete(
 
 router.get("/", middlewares.checkToken, UsuarioController.traerUsuarios);
 router.get("/me", middlewares.checkToken, UsuarioController.getUser);
+router.post(
+  "/",
+  middlewares.checkToken,
+  [
+    check(
+      "password",
+      "La contraseña debe tener entre 8 y 12 caracteres"
+    ).isLength({
+      min: 8,
+      max: 12,
+    }),
+  ],
+  UsuarioController.createUser
+);
 router.get(
   "/usuario-autenticado",
   middlewares.checkToken,
