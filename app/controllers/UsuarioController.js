@@ -156,7 +156,7 @@ exports.createUser = async (req, res) => {
       password: req.body.password,
       usuario: req.body.usuario,
       rol: req.body.rol,
-      EmpresaId: req.body.EmpresaId,
+      EmpresaId: req.usuarioEmpresaId,
     });
     res.status(200).json("user created");
   } catch (error) {
