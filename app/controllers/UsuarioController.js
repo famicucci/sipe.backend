@@ -105,12 +105,14 @@ exports.eliminarUsuario = async (req, res) => {
     });
 
     if (usuario) {
-      res.json({ success: "Usuario eliminado" });
+      res.status(200).json("user deleted");
     } else {
-      res.json({ error: "No se produjo ningún cambio en la base de datos" });
+      res.statusMessage = "No hubo cambios en la base de datos";
+      return res.status(400).end();
     }
   } catch (error) {
-    res.json(error);
+    res.statusMessage = "Hubo un error";
+    return res.status(400).end();
   }
 };
 
