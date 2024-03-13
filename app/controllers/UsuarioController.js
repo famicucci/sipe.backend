@@ -119,7 +119,9 @@ exports.eliminarUsuario = async (req, res) => {
 // traer todos los Usuarios
 exports.traerUsuarios = async (req, res) => {
   try {
-    const usuario = await Usuario.findAll();
+    const usuario = await Usuario.findAll({
+      attributes: ["id", "nombre", "usuario", "rol", "createdAt", "updatedAt"],
+    });
     res.json(usuario);
   } catch (error) {
     res.json(error);
