@@ -66,14 +66,10 @@ exports.modificarUsuario = async (req, res) => {
       req.body.password = bcryptjs.hashSync(req.body.password, 10);
     }
 
-    if (req.body.rol !== undefined) {
-      if (!req.usuarioRol) {
-        res.json({
-          error:
-            "Este usuario no tiene los permisos necesarios para realizar esta acción",
-        });
-        return;
-      }
+    if (!req.usuarioRol) {
+      res.statusMessage =
+        "Este usuario no tiene los permisos necesarios para realizar esta acción";
+      return res.status(400).end();
     }
 
     const usuario = await Usuario.update(
@@ -88,12 +84,14 @@ exports.modificarUsuario = async (req, res) => {
 
     // verifica si el update fue exitoso
     if (usuario[0]) {
-      res.json({ success: "El usuario ha sido modificado" });
+      res.status(200).json("El usuario ha sido modificado");
     } else {
-      res.json({ error: "No se produjo ningún cambio" });
+      res.statusMessage = "No se produjo ningún cambio";
+      return res.status(400).end();
     }
   } catch (error) {
-    res.json(error);
+    res.statusMessage = "Hubo un error";
+    return res.status(400).end();
   }
 };
 
