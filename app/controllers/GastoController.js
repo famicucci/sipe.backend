@@ -116,7 +116,9 @@ exports.getBills = async (req, res) => {
             },
           },
         ],
-        UsuarioId: !req.usuarioRol ? req.usuarioId : { [Op.ne]: null },
+        UsuarioId: req.usuarioRol
+          ? { [Op.or]: { [Op.ne]: null, [Op.is]: null } }
+          : req.usuarioId,
       },
       order: [["createdAt", "DESC"]],
       include: [

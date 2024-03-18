@@ -4,9 +4,9 @@ module.exports = (sequelize, DataTypes) => {
   class Gasto extends Model {
     static associate(models) {
       Gasto.belongsTo(models.Usuario, {
-        foreignKey: { allowNull: false },
-        onDelete: "NO ACTION",
-        onUpdate: "NO ACTION",
+        foreignKey: { allowNull: true },
+        onDelete: "SET NULL",
+        onUpdate: "SET NULL",
       });
       Gasto.belongsTo(models.Empresa, {
         foreignKey: { allowNull: false },

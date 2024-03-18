@@ -10,8 +10,8 @@ module.exports = {
         table: "usuario",
         field: "id",
       },
-      onDelete: "NO ACTION",
-      onUpdate: "NO ACTION",
+      onDelete: "SET NULL",
+      onUpdate: "SET NULL",
     });
   },
 
