@@ -2,6 +2,11 @@
 module.exports = {
   up: async (queryInterface, Sequelize) => {
     await queryInterface.removeConstraint("orden", "orden_ibfk_3");
+    // await queryInterface.changeColumn("orden", "UsuarioId", {
+    //   type: Sequelize.INTEGER,
+    //   allowNull: true,
+    //   references: { model: "usuario", key: "id" },
+    // });
     await queryInterface.addConstraint("orden", {
       type: "foreign key",
       name: "orden_ibfk_3",
@@ -10,8 +15,8 @@ module.exports = {
         table: "usuario",
         field: "id",
       },
-      onDelete: "NO ACTION",
-      onUpdate: "NO ACTION",
+      onDelete: "SET NULL",
+      onUpdate: "SET NULL",
     });
   },
 
