@@ -15,8 +15,8 @@ module.exports = (sequelize, DataTypes) => {
       });
       Usuario.hasMany(models.Orden, {
         foreignKey: { allowNull: false },
-        onDelete: "RESTRICT",
-        onUpdate: "RESTRICT",
+        onDelete: "NO ACTION",
+        onUpdate: "NO ACTION",
       });
       Usuario.hasMany(models.Gasto, {
         foreignKey: { allowNull: false },
