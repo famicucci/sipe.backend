@@ -119,6 +119,9 @@ exports.traerUsuarios = async (req, res) => {
   try {
     const usuario = await Usuario.findAll({
       attributes: ["id", "nombre", "usuario", "rol", "createdAt", "updatedAt"],
+      where: {
+        EmpresaId: req.usuarioEmpresaId,
+      },
     });
     res.json(usuario);
   } catch (error) {
