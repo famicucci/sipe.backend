@@ -19,6 +19,11 @@ module.exports = (sequelize, DataTypes) => {
         onDelete: "SET NULL",
         onUpdate: "SET NULL",
       });
+      Orden.belongsTo(models.Empresa, {
+        foreignKey: { allowNull: false },
+        onDelete: "RESTRICT",
+        onUpdate: "RESTRICT",
+      });
       Orden.belongsTo(models.OrdenEstado, {
         foreignKey: { allowNull: false },
         onDelete: "RESTRICT",
