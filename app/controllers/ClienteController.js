@@ -28,6 +28,7 @@ exports.getClients = async (req, res) => {
           { condIva: { [Op.like]: `%${searchQuery}%` } },
           { observaciones: { [Op.like]: `%${searchQuery}%` } },
         ],
+        EmpresaId: req.usuarioEmpresaId,
       },
       limit: pageSize,
       offset: (page - 1) * pageSize,
