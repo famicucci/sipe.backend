@@ -19,16 +19,28 @@ exports.getIncomesByMonths = async (req, res) => {
     hours: 24,
   });
 
+  // yo creo que debo hacer el análisis de ingresos en base a las facturas y no a los pagos
+  // y agregar la empresa a la tabla factura
+  // de esta manera, este informe abarca toda la empresa y la entidad factura se mantiene independiente del usuario al que pertenezca
+  // factura y gasto son las dos entidades que deben pertenecer a la empresa y que no se deben ver afectadas por la eliminación de otra entidad que no sea la de empresa
+  // de esta manera puedo eliminar todas las demás entidades pero así y todo mantener vigente las estadísticas de la empresa
+
+  // las ordenes no finalizadas no se deben poder borrar nunca
+
+  // OJO, CREO QUE LUEGO DE ESTO DEBO REPENSAR LA COLUMNA EMPRESAID DE
+
   try {
-    const ingresosBrutos = await Pago.findAll({
+    // DEBE SER LO FACTURADO!!!
+    const ingresosBrutos = await Factura.findAll({
       attributes: [
-        [sequelize.fn("sum", sequelize.col("importe")), "totalIncome"],
+        [sequelize.fn("sum", sequelize.col("importeFinal")), "totalIncome"],
         [sequelize.literal("DATE_FORMAT(createdAt, '%m-%Y')"), "monthYear"],
       ],
       where: {
         createdAt: {
           [Op.between]: [startDate, endDate],
         },
+        // EmpresaId: req.usuarioEmpresaId,
       },
       group: [sequelize.literal("DATE_FORMAT(createdAt, '%m-%Y')")],
       order: [sequelize.literal("DATE_FORMAT(createdAt, '%m-%Y')")],
@@ -148,6 +160,7 @@ exports.traerIngresosBrutos = async (req, res) => {
           [Op.between]: [startDate, endDate],
         },
       },
+      EmpresaId: req.usuarioEmpresaId,
     });
 
     if (ingresosBrutos[0].importe) {
