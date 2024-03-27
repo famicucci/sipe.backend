@@ -4,6 +4,7 @@ exports.getBillCategories = async (req, res) => {
   try {
     const categories = await GastoCategoria.findAll({
       attributes: ["id", "descripcion"],
+      where: { EmpresaId: req.usuarioEmpresaId },
     });
 
     res.json(categories);
