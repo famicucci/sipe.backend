@@ -24,14 +24,19 @@ exports.getProductsWithStockAndPrice = async (req, res) => {
         attributes: ["id", "descripcion"],
         where: { EmpresaId: req.usuarioEmpresaId, estado: "Vigente" },
       });
-      const orderedLists = priceLists.sort((a, b) => {
-        if (a.descripcion > b.descripcion) return 1;
-        if (a.descripcion < b.descripcion) return -1;
-        return 0;
-      });
-      list = orderedLists[0].id;
+
+      if (priceLists.length > 0) {
+        const orderedLists = priceLists.sort((a, b) => {
+          if (a.descripcion > b.descripcion) return 1;
+          if (a.descripcion < b.descripcion) return -1;
+          return 0;
+        });
+        list = orderedLists[0].id;
+      } else {
+        return res.status(200).json(priceLists);
+      }
     } catch (error) {
-      res.statusMessage = "no hay lista de precio";
+      res.statusMessage = "Hubo un error";
       return res.status(400).end();
     }
   }
