@@ -132,6 +132,7 @@ exports.getExpensesByCategory = async (req, res) => {
           [Op.between]: [startDate, endDate],
         },
         GastoCategoriaId: req.params.categoryId,
+        EmpresaId: req.usuarioEmpresaId,
       },
       raw: true,
     });
