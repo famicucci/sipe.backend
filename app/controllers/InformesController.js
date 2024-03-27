@@ -191,7 +191,13 @@ exports.highRevenueProducts = async (req, res) => {
       ],
       order: [[sequelize.literal("totalFacturado"), "DESC"]],
       include: [
-        { model: Producto, attributes: ["descripcion"] },
+        {
+          model: Producto,
+          attributes: ["descripcion"],
+          where: {
+            EmpresaId: req.usuarioEmpresaId,
+          },
+        },
         {
           model: Factura,
           attributes: [],
