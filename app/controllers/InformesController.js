@@ -84,6 +84,7 @@ exports.getExpensesByMonths = async (req, res) => {
         createdAt: {
           [Op.between]: [startDate, endDate],
         },
+        EmpresaId: req.usuarioEmpresaId,
       },
       group: group,
       include:
