@@ -14,6 +14,7 @@ const apiVentasRouter = require("./api/ventas");
 const apiPagosRouter = require("./api/pagos");
 const apiGastosRouter = require("./api/gastos");
 const apiCategoriasGastoRouter = require("./api/categorias-gasto");
+const apiSubcategoriasGastoRouter = require("./api/subcategorias-gasto");
 const apiTiposenvioRouter = require("./api/tiposenvio");
 const apiMetodosPagoRouter = require("./api/metodospago");
 const apiEstadosOrdenRouter = require("./api/estadosorden");
@@ -43,6 +44,11 @@ router.use(
   "/categorias-gasto",
   middlewares.checkToken,
   apiCategoriasGastoRouter
+);
+router.use(
+  "/subcategorias-gasto",
+  middlewares.checkToken,
+  apiSubcategoriasGastoRouter
 );
 router.use("/tipos-envio", middlewares.checkToken, apiTiposenvioRouter);
 router.use("/metodos-pago", middlewares.checkToken, apiMetodosPagoRouter);
