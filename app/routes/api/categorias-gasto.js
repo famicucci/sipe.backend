@@ -7,5 +7,6 @@ router.get(
   "/:category_id/subcategories",
   BillCategoriesController.getBillSubcategories
 );
+router.post("/", BillCategoriesController.createBillCategory);
 
 module.exports = router;
