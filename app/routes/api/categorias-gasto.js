@@ -8,5 +8,6 @@ router.get(
   BillCategoriesController.getBillSubcategories
 );
 router.post("/", BillCategoriesController.createBillCategory);
+router.delete("/:id", BillCategoriesController.deleteBillCategory);
 
 module.exports = router;

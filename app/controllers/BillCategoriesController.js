@@ -41,3 +41,16 @@ exports.createBillCategory = async (req, res) => {
     return res.status(400).end();
   }
 };
+
+exports.deleteBillCategory = async (req, res) => {
+  try {
+    await GastoCategoria.destroy({
+      where: { id: req.params.id },
+    });
+
+    res.status(200).json("category deleted");
+  } catch (error) {
+    res.statusMessage = error.message;
+    return res.status(400).end();
+  }
+};
