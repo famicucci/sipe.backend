@@ -4,5 +4,6 @@ const BillSubcategoriesController = require("../../controllers/BillSubcategories
 
 router.get("/:categoryId", BillSubcategoriesController.getBillSubcategories);
 router.post("/", BillSubcategoriesController.createBillSubcategory);
+router.delete("/:id", BillSubcategoriesController.deleteBillSubcategory);
 
 module.exports = router;
