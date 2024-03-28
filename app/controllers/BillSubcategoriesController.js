@@ -13,3 +13,18 @@ exports.getBillSubcategories = async (req, res) => {
     return res.status(400).end();
   }
 };
+
+exports.createBillSubcategory = async (req, res) => {
+  try {
+    await GastoSubcategoria.create({
+      descripcion: req.body.descripcion,
+      GastoCategoriaId: req.body.categoryId,
+      EmpresaId: req.usuarioEmpresaId,
+    });
+
+    res.status(200).json("subcategory created");
+  } catch (error) {
+    res.statusMessage = error.message;
+    return res.status(400).end();
+  }
+};
