@@ -133,6 +133,10 @@ exports.getBills = async (req, res) => {
           as: "GastoCategoria",
           attributes: ["id", "descripcion"],
         },
+        {
+          model: Usuario,
+          attributes: ["id", "usuario"],
+        },
       ],
       limit: pageSize,
       offset: (page - 1) * pageSize,
