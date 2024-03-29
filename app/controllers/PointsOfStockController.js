@@ -4,11 +4,19 @@ const { PtoStock } = require("../models/index");
 exports.getPointsOfStock = async (req, res) => {
   try {
     // consulta a tabla stocks
-    const stocks = await PtoStock.findAll({
+    const pointsOfStocks = await PtoStock.findAll({
       attributes: ["id", "descripcion"],
       where: { EmpresaId: req.usuarioEmpresaId },
     });
-    res.status(200).json(stocks);
+    // osrdenar los puntos stock acá
+
+    const orderedPointsOfStock = pointsOfStocks.sort((a, b) => {
+      if (a.descripcion > b.descripcion) return 1;
+      if (a.descripcion < b.descripcion) return -1;
+      return 0;
+    });
+
+    res.status(200).json(orderedPointsOfStock);
   } catch (error) {
     res.json(error);
   }
