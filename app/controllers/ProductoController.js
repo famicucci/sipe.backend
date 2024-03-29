@@ -17,6 +17,7 @@ exports.getProductsWithStockAndPrice = async (req, res) => {
   const page = req.query.page;
   const pageSize = 20;
   let list = req.query.priceList;
+  let stockpoint = req.params.stockPointId;
 
   if (!list) {
     try {
@@ -41,6 +42,29 @@ exports.getProductsWithStockAndPrice = async (req, res) => {
     }
   }
 
+  if (stockpoint === "undefined") {
+    try {
+      const pointsOfStocks = await PtoStock.findAll({
+        attributes: ["id", "descripcion"],
+        where: { EmpresaId: req.usuarioEmpresaId },
+      });
+
+      if (pointsOfStocks.length > 0) {
+        const orderedStockPoints = pointsOfStocks.sort((a, b) => {
+          if (a.descripcion > b.descripcion) return 1;
+          if (a.descripcion < b.descripcion) return -1;
+          return 0;
+        });
+        stockpoint = orderedStockPoints[0].id;
+      } else {
+        return res.status(200).json(pointsOfStocks);
+      }
+    } catch (error) {
+      res.statusMessage = "Hubo un error";
+      return res.status(400).end();
+    }
+  }
+
   try {
     const productos = await Producto.findAll({
       attributes: ["codigo", "descripcion"],
@@ -56,10 +80,10 @@ exports.getProductsWithStockAndPrice = async (req, res) => {
             },
           ],
           where:
-            req.params.stockPointId === "outOfStock"
+            stockpoint === "outOfStock"
               ? { cantidad: 0 }
               : {
-                  PtoStockId: req.params.stockPointId,
+                  PtoStockId: stockpoint,
                   cantidad: { [Op.gt]: 0 },
                 },
         },
