@@ -48,6 +48,10 @@ exports.traerOrdenes = async (req, res) => {
           model: TipoEnvio,
           attributes: ["descripcion"],
         },
+        {
+          model: Usuario,
+          attributes: ["id", "EmpresaId", "nombre"],
+        },
       ],
       where: {
         [Op.or]: [
