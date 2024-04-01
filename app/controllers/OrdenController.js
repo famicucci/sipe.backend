@@ -29,7 +29,7 @@ exports.traerOrdenes = async (req, res) => {
 
   try {
     const ordenes = await Orden.findAll({
-      attributes: ["id", "createdAt", "observaciones", "EmpresaId"],
+      attributes: ["id", "createdAt", "observaciones"],
       order: [["createdAt", "DESC"]],
       include: [
         {
@@ -69,7 +69,6 @@ exports.traerOrdenes = async (req, res) => {
         "$OrdenEstado.descripcion$": status
           ? { [Op.eq]: `${status}` }
           : { [Op.not]: `Finalizado` },
-        EmpresaId: req.usuarioEmpresaId,
       },
       limit: pageSize,
       offset: (page - 1) * pageSize,
