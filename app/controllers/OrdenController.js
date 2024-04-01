@@ -81,6 +81,7 @@ exports.createOrder = async (req, res) => {
   let productWithoutStock;
   const items = [...req.body.detalleOrden];
 
+  const t = await sequelize.transaction();
   try {
     const stocks = await Stock.findAll({
       where: {
@@ -88,6 +89,11 @@ exports.createOrder = async (req, res) => {
           ProductoCodigo: x.ProductoCodigo,
           PtoStockId: x.PtoStockId,
         })),
+      },
+      include: {
+        model: Producto,
+        // attributes: [],
+        where: { EmpresaId: req.usuarioEmpresaId },
       },
     });
 
@@ -107,11 +113,18 @@ exports.createOrder = async (req, res) => {
       return res.status(400).end();
     }
 
-    const t = await sequelize.transaction();
     await Stock.bulkCreate(finalStocks, {
       updateOnDuplicate: ["cantidad"],
       transaction: t,
     });
+
+    const statusOrder = await OrdenEstado.findAll({
+      attributes: { exclude: ["EmpresaId"] },
+      where: { EmpresaId: req.usuarioEmpresaId },
+    });
+    const selectedStatusOrder = statusOrder.filter(
+      (item) => item.descripcion === "Preparar pedido"
+    );
 
     const orden = await Orden.create(
       {
@@ -124,12 +137,13 @@ exports.createOrder = async (req, res) => {
         ClienteId: req.body.ClienteId,
         PtoVentaId: req.body.PtoVentaId,
         UsuarioId: req.usuarioId,
-        OrdenEstadoId: req.body.OrdenEstadoId,
+        OrdenEstadoId: selectedStatusOrder && selectedStatusOrder[0].id,
         TipoEnvioId: req.body.TipoEnvioId,
         detalleOrden: req.body.detalleOrden.map((x) => ({
           ...x,
           origen: x.PtoStockId ? "Disponible" : "Produccion",
         })),
+        EmpresaId: req.usuarioEmpresaId,
       },
       {
         include: "detalleOrden",
@@ -153,9 +167,9 @@ exports.createOrder = async (req, res) => {
     await t.commit();
     res.status(200).send(orden);
   } catch (error) {
-    console.log(error);
     await t.rollback();
-    res.status(400).send(error);
+    res.statusMessage = error.message;
+    return res.status(400).end();
   }
 };
 
