@@ -51,6 +51,9 @@ exports.traerOrdenes = async (req, res) => {
         {
           model: Usuario,
           attributes: ["id", "EmpresaId", "nombre"],
+          where: {
+            EmpresaId: req.usuarioEmpresaId,
+          },
         },
       ],
       where: {
