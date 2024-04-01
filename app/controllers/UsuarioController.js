@@ -1,9 +1,10 @@
-const { Usuario, Empresa } = require("../models/index");
+const { Usuario, Empresa, Gasto, Orden } = require("../models/index");
 const bcryptjs = require("bcryptjs");
 const { validationResult } = require("express-validator");
 const moment = require("moment");
 const jwt = require("jwt-simple");
 const { serialize } = require("cookie");
+const { sequelize } = require("../models/index");
 
 exports.registroUsuario = async (req, res) => {
   const errors = validationResult(req);
@@ -97,19 +98,39 @@ exports.modificarUsuario = async (req, res) => {
 
 // eliminar
 exports.eliminarUsuario = async (req, res) => {
+  // update all expenses to current userId (must be an admin)
+  const t = await sequelize.transaction();
   try {
-    const usuario = await Usuario.destroy({
+    await Gasto.update(
+      {
+        UsuarioId: req.usuarioId,
+      },
+      {
+        where: { UsuarioId: req.params.Id },
+        transaction: t,
+      }
+    );
+
+    await Orden.update(
+      {
+        UsuarioId: req.usuarioId,
+      },
+      {
+        where: { UsuarioId: req.params.Id },
+        transaction: t,
+      }
+    );
+
+    await Usuario.destroy({
       where: { id: req.params.Id },
+      transaction: t,
     });
 
-    if (usuario) {
-      res.status(200).json("user deleted");
-    } else {
-      res.statusMessage = "No hubo cambios en la base de datos";
-      return res.status(400).end();
-    }
+    await t.commit();
+    return res.status(200).json("user deleted");
   } catch (error) {
-    res.statusMessage = "Hubo un error";
+    await t.rollback();
+    res.statusMessage = error.message;
     return res.status(400).end();
   }
 };
