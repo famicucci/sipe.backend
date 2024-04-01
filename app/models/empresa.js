@@ -64,11 +64,6 @@ module.exports = (sequelize, DataTypes) => {
         onDelete: "RESTRICT",
         onUpdate: "RESTRICT",
       });
-      Empresa.hasMany(models.Orden, {
-        foreignKey: { allowNull: false },
-        onDelete: "RESTRICT",
-        onUpdate: "RESTRICT",
-      });
     }
   }
   Empresa.init(
