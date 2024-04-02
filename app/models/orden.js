@@ -16,8 +16,8 @@ module.exports = (sequelize, DataTypes) => {
       });
       Orden.belongsTo(models.Usuario, {
         foreignKey: { allowNull: true },
-        onDelete: "SET NULL",
-        onUpdate: "SET NULL",
+        onDelete: "RESTRICT",
+        onUpdate: "RESTRICT",
       });
       Orden.belongsTo(models.OrdenEstado, {
         foreignKey: { allowNull: false },
