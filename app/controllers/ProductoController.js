@@ -218,6 +218,19 @@ exports.modificarProducto = async (req, res) => {
 // eliminar
 exports.eliminarProducto = async (req, res) => {
   try {
+    // check if product has available stock
+    const productStock = await Stock.findAll({
+      attributes: ["cantidad", "ProductoCodigo", "PtoStockId"],
+      where: { ProductoCodigo: req.params.ProductoCodigo },
+    });
+
+    for (const item of productStock) {
+      if (item.cantidad > 0) {
+        res.statusMessage = "this product has available stock";
+        return res.status(400).end();
+      }
+    }
+
     // check if product exist in a not finalized order
     const ordersDetailsWithProduct = await Orden.findOne({
       attributes: ["id"],
