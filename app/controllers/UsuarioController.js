@@ -98,6 +98,12 @@ exports.modificarUsuario = async (req, res) => {
 
 // eliminar
 exports.eliminarUsuario = async (req, res) => {
+  // check if its a self deleting
+  if (Number(req.params.Id) === req.usuarioId) {
+    res.statusMessage = "can´t delete yourself";
+    return res.status(400).end();
+  }
+
   // update all expenses to current userId (must be an admin)
   const t = await sequelize.transaction();
   try {
