@@ -13,6 +13,15 @@ exports.traerEstadosOrden = async (req, res) => {
 };
 
 exports.createStatusOrder = async (req, res) => {
+  if (
+    req.body.descripcion === "Preparar pedido" ||
+    req.body.descripcion === "Finalizado"
+  ) {
+    res.statusMessage =
+      "can´t create a status with the same name as a default status";
+    return res.status(400).end();
+  }
+
   try {
     const status = await OrdenEstado.create({
       descripcion: req.body.descripcion,
