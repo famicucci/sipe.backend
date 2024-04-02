@@ -7,6 +7,7 @@ const {
   Orden,
   OrdenDetalle,
   ListaPrecio,
+  OrdenEstado,
 } = require("../models/index");
 const { sequelize } = require("../models/index");
 const { QueryTypes } = require("sequelize");
@@ -217,6 +218,7 @@ exports.modificarProducto = async (req, res) => {
 // eliminar
 exports.eliminarProducto = async (req, res) => {
   try {
+    // check if product exist in a not finalized order
     const ordersDetailsWithProduct = await Orden.findOne({
       attributes: ["id"],
       include: [
@@ -226,8 +228,12 @@ exports.eliminarProducto = async (req, res) => {
           attributes: ["id"],
           where: { ProductoCodigo: req.params.ProductoCodigo },
         },
+        {
+          model: OrdenEstado,
+          attributes: [],
+          where: { descripcion: { [Op.ne]: "Finalizado" } },
+        },
       ],
-      where: { OrdenEstadoId: { [Op.ne]: 11 } },
     });
 
     if (ordersDetailsWithProduct) {
