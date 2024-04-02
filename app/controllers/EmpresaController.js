@@ -1,4 +1,4 @@
-const { Empresa, Usuario } = require("../models/index");
+const { Empresa, Usuario, OrdenEstado } = require("../models/index");
 const bcryptjs = require("bcryptjs");
 const { sequelize } = require("../models/index");
 
@@ -38,6 +38,23 @@ exports.crearEmpresa = async (req, res) => {
         rol: true,
         EmpresaId: company.id,
       },
+      { transaction: t }
+    );
+
+    // create status order
+    await OrdenEstado.bulkCreate(
+      [
+        {
+          descripcion: "Preparar pedido",
+          color: "#59FF00",
+          EmpresaId: company.id,
+        },
+        {
+          descripcion: "Finalizado",
+          color: "#61BA3F",
+          EmpresaId: company.id,
+        },
+      ],
       { transaction: t }
     );
 
