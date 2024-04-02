@@ -1,4 +1,5 @@
-const { PtoStock } = require("../models/index");
+const { PtoStock, Stock } = require("../models/index");
+const { Op } = require("sequelize");
 
 // traer los puntos de stock
 exports.getPointsOfStock = async (req, res) => {
@@ -36,7 +37,20 @@ exports.createPointOfStock = async (req, res) => {
 };
 
 exports.deleteStockOfPoint = async (req, res) => {
+  // check if there is a product with available stock
   try {
+    const thereIsStock = await Stock.findOne({
+      where: {
+        PtoStockId: req.params.id,
+        cantidad: { [Op.gt]: 0 },
+      },
+    });
+
+    if (thereIsStock) {
+      res.statusMessage = `this stock point has available stock`;
+      return res.status(400).end();
+    }
+
     await PtoStock.destroy({
       where: { id: req.params.id },
     });
