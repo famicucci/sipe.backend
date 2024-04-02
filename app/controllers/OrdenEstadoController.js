@@ -27,6 +27,19 @@ exports.createStatusOrder = async (req, res) => {
 };
 
 exports.deleteStatusOrder = async (req, res) => {
+  // avoid deleting essentials status order
+  const currentStatus = await OrdenEstado.findByPk(req.params.id);
+
+  if (!currentStatus) return res.json("status order don´t exists");
+
+  if (
+    currentStatus.descripcion === "Preparar pedido" ||
+    currentStatus.descripcion === "Finalizado"
+  ) {
+    res.statusMessage = "can´t be deleted";
+    return res.status(400).end();
+  }
+
   try {
     await OrdenEstado.destroy({
       where: { id: req.params.id },
