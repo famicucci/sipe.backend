@@ -1,4 +1,4 @@
-const { PtoStock, Stock } = require("../models/index");
+const { PtoStock, Stock, Producto } = require("../models/index");
 const { Op } = require("sequelize");
 
 // traer los puntos de stock
@@ -25,11 +25,27 @@ exports.getPointsOfStock = async (req, res) => {
 
 exports.createPointOfStock = async (req, res) => {
   try {
-    const status = await PtoStock.create({
+    // create stock point
+    const newStockPoint = await PtoStock.create({
       descripcion: req.body.descripcion,
       EmpresaId: req.usuarioEmpresaId,
     });
-    res.status(200).json(status);
+
+    // get all products
+    const products = await Producto.findAll({
+      where: { EmpresaId: req.usuarioEmpresaId },
+    });
+
+    // create stocks of products
+    const stocksToCreate = products.map((item) => ({
+      ProductoCodigo: item.codigo,
+      cantidad: 0,
+      PtoStockId: newStockPoint.id,
+    }));
+
+    await Stock.bulkCreate(stocksToCreate);
+
+    res.status(200).json(newStockPoint);
   } catch (error) {
     res.statusMessage = `Hubo un error`;
     return res.status(400).end();
