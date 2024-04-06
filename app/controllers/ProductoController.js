@@ -115,7 +115,13 @@ exports.getProductsWithStockAndPrice = async (req, res) => {
 exports.traerProductos = async (req, res) => {
   const searchQuery = req.query.search;
   const page = req.query.page;
-  const pageSize = 20;
+
+  if (req.query.pageSize > 100) {
+    res.statusMessage = "a lot of rows, maximun 100 allowed";
+    return res.status(400).end();
+  }
+
+  const pageSize = req.query.pageSize | 20;
 
   try {
     const productos = await Producto.findAll({
