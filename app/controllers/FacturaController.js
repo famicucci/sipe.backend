@@ -46,6 +46,37 @@ exports.getInvoice = async (req, res) => {
   }
 };
 
+exports.getInvoices = async (req, res) => {
+  const startDate = moment(req.query.startDate).subtract({
+    hours: 3,
+  });
+  const endDate = moment(req.query.endDate).add({
+    hours: 21,
+  });
+
+  try {
+    const facturas = await Factura.findAll({
+      attributes: { exclude: ["ClienteId", "UsuarioId"] },
+      include: [
+        {
+          model: Cliente,
+          attributes: ["id", "nombre", "apellido"],
+        },
+        { model: Usuario, attributes: ["id", "usuario"] },
+      ],
+      where: {
+        createdAt: {
+          [Op.between]: [startDate, endDate],
+        },
+      },
+      raw: true,
+    });
+    res.status(200).json(facturas);
+  } catch (error) {
+    res.json(error);
+  }
+};
+
 exports.createInvoice = async (req, res) => {
   const t = await sequelize.transaction();
   try {
