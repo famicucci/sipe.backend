@@ -54,6 +54,14 @@ exports.getInvoices = async (req, res) => {
     hours: 21,
   });
 
+  if (req.query.pageSize > 100) {
+    res.statusMessage = "a lot of rows, maximun 100 allowed";
+    return res.status(400).end();
+  }
+
+  const page = req.query.page;
+  const pageSize = req.query.pageSize | 20;
+
   try {
     const facturas = await Factura.findAll({
       attributes: { exclude: ["ClienteId", "UsuarioId"] },
@@ -69,6 +77,8 @@ exports.getInvoices = async (req, res) => {
           [Op.between]: [startDate, endDate],
         },
       },
+      limit: pageSize,
+      offset: (page - 1) * pageSize,
       raw: true,
     });
     res.status(200).json(facturas);
