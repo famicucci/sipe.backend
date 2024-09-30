@@ -23,7 +23,18 @@ exports.getIncomesByMonths = async (req, res) => {
   try {
     const ingresosBrutos = await Factura.findAll({
       attributes: [
-        [sequelize.fn("sum", sequelize.col("importeFinal")), "totalIncome"],
+        [
+          sequelize.fn(
+            "sum",
+            sequelize.literal(`
+              CASE
+                WHEN Factura.tipo = 'nc' THEN -Factura.importeFinal
+                ELSE Factura.importeFinal
+              END
+            `)
+          ),
+          "totalIncome",
+        ],
         [
           sequelize.literal("DATE_FORMAT(Factura.createdAt, '%m-%Y')"),
           "monthYear",
