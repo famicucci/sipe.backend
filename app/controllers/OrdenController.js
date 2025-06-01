@@ -84,11 +84,11 @@ exports.traerOrdenes = async (req, res) => {
 };
 
 exports.createOrder = async (req, res) => {
-  let productWithoutStock;
-  const items = [...req.body.detalleOrden];
+  const items = req.body.detalleOrden;
 
   const t = await sequelize.transaction();
   try {
+    // 1. Traer todos los stocks necesarios en una sola consulta
     const stocks = await Stock.findAll({
       where: {
         [Op.or]: items.map((x) => ({
@@ -98,27 +98,48 @@ exports.createOrder = async (req, res) => {
       },
       include: {
         model: Producto,
-        // attributes: [],
         where: { EmpresaId: req.usuarioEmpresaId },
       },
     });
 
-    const finalStocks = stocks.map((stockItem, index) => {
-      if (stockItem.cantidad - items[index].cantidad < 0) {
-        productWithoutStock = items[index].ProductoCodigo;
-      }
-
-      return {
-        id: stockItem.id,
-        cantidad: stockItem.cantidad - items[index].cantidad,
-      };
+    // 2. Crear un mapa para acceso rápido
+    const stockMap = {};
+    stocks.forEach((stock) => {
+      stockMap[`${stock.ProductoCodigo}_${stock.PtoStockId}`] = stock;
     });
 
+    let productWithoutStock = null;
+    const finalStocks = [];
+
+    // 3. Verificar stock y calcular los finales
+    for (const item of items) {
+      const key = `${item.ProductoCodigo}_${item.PtoStockId}`;
+      const stock = stockMap[key];
+
+      if (!stock) {
+        productWithoutStock = item.ProductoCodigo;
+        break;
+      }
+
+      const newCantidad = stock.cantidad - item.cantidad;
+      if (newCantidad < 0) {
+        productWithoutStock = item.ProductoCodigo;
+        break;
+      }
+
+      finalStocks.push({
+        id: stock.id,
+        cantidad: newCantidad,
+      });
+    }
+
+    // 4. Si hay algún producto sin stock, devolver error
     if (productWithoutStock) {
       res.statusMessage = `El producto ${productWithoutStock} no tiene stock suficiente`;
       return res.status(400).end();
     }
 
+    // 5. Actualizar los stocks en la base de datos
     await Stock.bulkCreate(finalStocks, {
       updateOnDuplicate: ["cantidad"],
       transaction: t,
