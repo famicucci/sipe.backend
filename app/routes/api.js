@@ -5,6 +5,7 @@ const middlewares = require("./middlewares");
 const apiUsuariosRouter = require("./api/usuarios");
 const apiEmpresasRouter = require("./api/empresas");
 const apiProductosRouter = require("./api/productos");
+const apiSalesInventoryRouter = require("./api/sales-inventory");
 const apiStockproductosRouter = require("./api/stock");
 const apiPointsOfStockRouter = require("./api/ptos-stock");
 const apiPointsOfSaleRouter = require("./api/ptos-venta");
@@ -32,6 +33,7 @@ router.get("/", (req, res) => {
 router.use("/usuarios", apiUsuariosRouter);
 router.use("/empresas", middlewares.checkToken, apiEmpresasRouter);
 router.use("/productos", middlewares.checkToken, apiProductosRouter);
+router.use("/sales-inventory", middlewares.checkToken, apiSalesInventoryRouter);
 router.use("/stock", middlewares.checkToken, apiStockproductosRouter);
 router.use("/ptos-stock", middlewares.checkToken, apiPointsOfStockRouter);
 router.use("/ptos-venta", middlewares.checkToken, apiPointsOfSaleRouter);
