@@ -23,13 +23,10 @@ exports.getSalesInventoryService = async ({
               attributes: ["descripcion"],
             },
           ],
-          where:
-            stockpoint === "outOfStock"
-              ? { cantidad: 0 }
-              : {
-                  PtoStockId: stockpoint,
-                  cantidad: { [Op.gt]: 0 },
-                },
+          where: {
+            PtoStockId: stockpoint,
+            cantidad: { [Op.gt]: 0 },
+          },
         },
         {
           model: Precio,
