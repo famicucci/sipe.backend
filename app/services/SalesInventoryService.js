@@ -4,8 +4,8 @@ const { Op } = require("sequelize");
 exports.getSalesInventoryService = async ({
   page,
   userCompanyId,
-  stockpoint,
-  priceList,
+  stockPointId,
+  priceListId,
   searchQuery = "",
   pageSize,
   mandatoryProductCodes = [],
@@ -25,7 +25,7 @@ exports.getSalesInventoryService = async ({
             },
           ],
           where: {
-            PtoStockId: stockpoint,
+            PtoStockId: stockPointId,
             [Op.or]: [
               { cantidad: { [Op.gt]: 0 } },
               { ProductoCodigo: { [Op.in]: mandatoryProductCodes } },
@@ -35,7 +35,7 @@ exports.getSalesInventoryService = async ({
         {
           model: Precio,
           attributes: ["pu", "ListaPrecioId"],
-          where: { ListaPrecioId: priceList },
+          where: { ListaPrecioId: priceListId },
         },
       ],
       where: {
