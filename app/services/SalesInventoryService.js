@@ -8,6 +8,7 @@ exports.getSalesInventoryService = async ({
   priceList,
   searchQuery = "",
   pageSize,
+  mandatoryProductCodes = [],
 }) => {
   try {
     const productos = await Producto.findAll({
@@ -25,7 +26,10 @@ exports.getSalesInventoryService = async ({
           ],
           where: {
             PtoStockId: stockpoint,
-            cantidad: { [Op.gt]: 0 },
+            [Op.or]: [
+              { cantidad: { [Op.gt]: 0 } },
+              { ProductoCodigo: { [Op.in]: mandatoryProductCodes } },
+            ],
           },
         },
         {

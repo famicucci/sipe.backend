@@ -5,6 +5,8 @@ exports.getSalesInventory = async (req, res) => {
   const stockpoint = req.params.stockPointId;
   const userCompanyId = req.usuarioEmpresaId;
   const pageSize = 20;
+  const mandatoryProductCodes = req.body.mandatoryProductCodes || []; // Example: ["AL6V0210UNN"]
+  // ["AL6V0210UNN"]
 
   try {
     const result = await SalesInventoryService.getSalesInventoryService({
@@ -14,6 +16,7 @@ exports.getSalesInventory = async (req, res) => {
       priceList,
       searchQuery,
       pageSize,
+      mandatoryProductCodes,
     });
     res.json(result);
   } catch (error) {
