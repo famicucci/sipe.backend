@@ -7,6 +7,12 @@ exports.getSalesInventory = async (req, res) => {
   const userCompanyId = req.usuarioEmpresaId;
   const pageSize = 20;
 
+  if (!priceListId || !stockPointId) {
+    return res
+      .status(400)
+      .json({ message: "priceListId and stockPointId are required." });
+  }
+
   try {
     const result = await SalesInventoryService.getSalesInventoryService({
       page,
