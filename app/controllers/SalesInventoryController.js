@@ -1,11 +1,12 @@
 const SalesInventoryService = require("../services/SalesInventoryService");
 
 exports.getSalesInventory = async (req, res) => {
-  const { searchQuery, page, priceListId } = req.query;
+  const { search, page, priceListId } = req.query;
   const { stockPointId } = req.params;
   const { mandatoryProductCodes = [] } = req.body;
   const userCompanyId = req.usuarioEmpresaId;
   const pageSize = 20;
+  console.log("req.query", req.query);
 
   if (!priceListId || !stockPointId) {
     return res
@@ -19,7 +20,7 @@ exports.getSalesInventory = async (req, res) => {
       userCompanyId,
       stockPointId,
       priceListId,
-      searchQuery,
+      search,
       pageSize,
       mandatoryProductCodes,
     });

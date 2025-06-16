@@ -6,7 +6,7 @@ exports.getSalesInventoryService = async ({
   userCompanyId,
   stockPointId,
   priceListId,
-  searchQuery = "",
+  search = "",
   pageSize,
   mandatoryProductCodes = [],
 }) => {
@@ -40,8 +40,8 @@ exports.getSalesInventoryService = async ({
       ],
       where: {
         [Op.or]: [
-          { codigo: { [Op.like]: `%${searchQuery}%` } },
-          { descripcion: { [Op.like]: `%${searchQuery}%` } },
+          { codigo: { [Op.like]: `%${search}%` } },
+          { descripcion: { [Op.like]: `%${search}%` } },
         ],
         EmpresaId: userCompanyId,
       },
