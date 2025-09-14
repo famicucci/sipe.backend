@@ -1,0 +1,37 @@
+# Azure Pipelines CI/CD para sipe.backend (Node.js/Express Docker)
+trigger:
+  branches:
+    include:
+      - config-docker
+
+pool:
+  vmImage: "ubuntu-latest"
+
+variables:
+  ACR_NAME: "sipeacr" # Usa el mismo ACR que el frontend
+  IMAGE_NAME: "sipe-backend"
+
+steps:
+  - task: DockerInstaller@0
+    displayName: "Instalar Docker"
+
+  - script: |
+      docker build -t $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId) .
+    displayName: "Construir imagen Docker"
+    workingDirectory: $(Build.SourcesDirectory)
+
+  - task: Docker@2
+    displayName: "Login a Azure Container Registry"
+    inputs:
+      command: login
+      containerRegistry: "sipe-frontend" # Usa el nombre de tu Service Connection
+
+  - script: |
+      docker push $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId)
+    displayName: "Push imagen a ACR"
+# (Opcional) Despliegue automático a Azure Web App for Containers
+# - task: AzureWebAppContainer@1
+#   inputs:
+#     azureSubscription: 'TU_AZURE_SERVICE_CONNECTION'
+#     appName: 'TU_WEBAPP_NAME'
+#     containers: '$(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId)'
