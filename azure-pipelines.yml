@@ -9,14 +9,27 @@ pool:
 
 variables:
   ACR_NAME: "sipeacr" # Usa el mismo ACR que el frontend
-  IMAGE_NAME: "sipe-backend"
+  IMAGE_NAME: "sipe-backend-development-with-pipeline"
 
 steps:
   - task: DockerInstaller@0
     displayName: "Instalar Docker"
 
+  - task: Docker@2
+    displayName: "Login to Docker Hub"
+    inputs:
+      command: login
+      containerRegistry: "new-sipe-dockerhub"
+
   - script: |
-      docker build -t $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId) .
+      docker build \
+        --build-arg DB_DATABASE=$(DB_DATABASE) \
+        --build-arg DB_DIALECT=$(DB_DIALECT) \
+        --build-arg DB_HOST=$(DB_HOST) \
+        --build-arg DB_PASSWORD=$(DB_PASSWORD) \
+        --build-arg DB_USERNAME=$(DB_USERNAME) \
+        --build-arg ORIGIN_URL=$(ORIGIN_URL) \
+        -t $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId) .
     displayName: "Construir imagen Docker"
     workingDirectory: $(Build.SourcesDirectory)
 
@@ -29,9 +42,10 @@ steps:
   - script: |
       docker push $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId)
     displayName: "Push imagen a ACR"
-# (Opcional) Despliegue automático a Azure Web App for Containers
-# - task: AzureWebAppContainer@1
-#   inputs:
-#     azureSubscription: 'TU_AZURE_SERVICE_CONNECTION'
-#     appName: 'TU_WEBAPP_NAME'
-#     containers: '$(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId)'
+
+  # Despliegue automático a Azure Web App for Containers
+  - task: AzureWebAppContainer@1
+    inputs:
+      azureSubscription: "new-sipe-rm" # Reemplaza por el nombre de tu conexión de servicio
+      appName: "sipe-backend-development-with-pipeline" # Reemplaza por el nombre de tu Web App
+      containers: "$(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId)"
