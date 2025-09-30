@@ -55,6 +55,7 @@ exports.loginUsuario = async (req, res) => {
       return res.status(400).end();
     }
   } catch (error) {
+    console.error("Login error:", error);
     res.statusMessage = "Hubo un error";
     return res.status(400).end();
   }
