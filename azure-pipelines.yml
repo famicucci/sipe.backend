@@ -39,12 +39,24 @@ steps:
       echo "DB_DATABASE=$DB_DATABASE"
       echo "DB_DIALECT=$DB_DIALECT"
     displayName: "Verificar variables de entorno"
+    env:
+      DB_USERNAME: $(DB_USERNAME)
+      DB_PASSWORD: $(DB_PASSWORD)
+      DB_DATABASE: $(DB_DATABASE)
+      DB_HOST: $(DB_HOST)
+      DB_DIALECT: $(DB_DIALECT)
 
   - script: |
       cd $(Build.SourcesDirectory)
       npm install
       npx sequelize-cli db:migrate
     displayName: "Ejecutar migraciones Sequelize"
+    env:
+      DB_USERNAME: $(DB_USERNAME)
+      DB_PASSWORD: $(DB_PASSWORD)
+      DB_DATABASE: $(DB_DATABASE)
+      DB_HOST: $(DB_HOST)
+      DB_DIALECT: $(DB_DIALECT)
 
   - task: Docker@2
     displayName: "Login a Azure Container Registry"
