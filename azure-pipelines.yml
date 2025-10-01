@@ -33,6 +33,12 @@ steps:
     displayName: "Construir imagen Docker"
     workingDirectory: $(Build.SourcesDirectory)
 
+  - script: |
+      cd $(Build.SourcesDirectory)
+      npm install
+      npx sequelize-cli db:migrate
+    displayName: "Ejecutar migraciones Sequelize"
+
   - task: Docker@2
     displayName: "Login a Azure Container Registry"
     inputs:
