@@ -34,6 +34,13 @@ steps:
     workingDirectory: $(Build.SourcesDirectory)
 
   - script: |
+      echo "DB_USERNAME=$DB_USERNAME"
+      echo "DB_HOST=$DB_HOST"
+      echo "DB_DATABASE=$DB_DATABASE"
+      echo "DB_DIALECT=$DB_DIALECT"
+    displayName: "Verificar variables de entorno"
+
+  - script: |
       cd $(Build.SourcesDirectory)
       npm install
       npx sequelize-cli db:migrate
