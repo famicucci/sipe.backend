@@ -14,7 +14,7 @@ RUN npm ci --omit=dev
 COPY . .
 
 # Exponer el puerto (ajusta si usas otro)
-EXPOSE 3001
+EXPOSE 4000
 
 # Comando para iniciar el backend
 CMD ["npm", "start"]
