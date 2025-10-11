@@ -1,0 +1,123 @@
+# Azure Pipelines Multi-Stage para sipe.backend (Docker + Azure Web App)
+trigger:
+  branches:
+    include:
+      - config-docker
+      # - main
+      # - develop
+      # - feature/*
+
+variables:
+  ACR_NAME: "sipeacr"
+  IMAGE_NAME: "sipe-backend"
+  DOCKERFILE_PATH: "sipe.backend/Dockerfile"
+  DOCKER_CONTEXT: "sipe.backend"
+
+stages:
+  - stage: Build
+    displayName: "Build Docker Image"
+    jobs:
+      - job: Build
+        pool:
+          vmImage: "ubuntu-latest"
+        steps:
+          - task: DockerInstaller@0
+            displayName: "Instalar Docker"
+          - task: Docker@2
+            displayName: "Login to Azure Container Registry"
+            inputs:
+              command: login
+              containerRegistry: "sipe-backend-acr" # Cambia por el nombre de tu Service Connection
+          - script: |
+              docker build -f $(DOCKERFILE_PATH) -t $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId) $(DOCKER_CONTEXT)
+            displayName: "Construir imagen Docker"
+          - script: |
+              docker push $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId)
+            displayName: "Push imagen a ACR"
+
+  - stage: Test
+    displayName: "Deploy to Testing"
+    dependsOn: Build
+    variables:
+      WEBAPP_NAME: "sipe-backend-development-with-pipeline" # Usa el mismo nombre que en el pipeline simple
+      ENVIRONMENT: "testing"
+      ACR_NAME: "sipeacr"
+      IMAGE_NAME: "sipe-backend-development-with-pipeline"
+      DB_DATABASE: "$(DB_DATABASE)"
+      DB_DIALECT: "$(DB_DIALECT)"
+      DB_HOST: "$(DB_HOST)"
+      DB_PASSWORD: "$(DB_PASSWORD)"
+      DB_USERNAME: "$(DB_USERNAME)"
+      ORIGIN_URL: "$(ORIGIN_URL)"
+    jobs:
+      - job: TestDeploy
+        pool:
+          vmImage: "ubuntu-latest"
+        steps:
+          - task: DockerInstaller@0
+            displayName: "Instalar Docker"
+          - task: Docker@2
+            displayName: "Login to Docker Hub"
+            inputs:
+              command: login
+              containerRegistry: "new-sipe-dockerhub"
+          - script: |
+              docker build \
+                --build-arg DB_DATABASE=$(DB_DATABASE) \
+                --build-arg DB_DIALECT=$(DB_DIALECT) \
+                --build-arg DB_HOST=$(DB_HOST) \
+                --build-arg DB_PASSWORD="$(DB_PASSWORD)" \
+                --build-arg DB_USERNAME=$(DB_USERNAME) \
+                --build-arg ORIGIN_URL=$(ORIGIN_URL) \
+                -t $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId) .
+            displayName: "Construir imagen Docker"
+            workingDirectory: $(Build.SourcesDirectory)
+          - script: |
+              cd $(Build.SourcesDirectory)
+              npm install
+              npx sequelize-cli db:migrate
+            displayName: "Ejecutar migraciones Sequelize"
+            env:
+              DB_USERNAME: $(DB_USERNAME)
+              DB_PASSWORD: $(DB_PASSWORD)
+              DB_DATABASE: $(DB_DATABASE)
+              DB_HOST: $(DB_HOST)
+              DB_DIALECT: $(DB_DIALECT)
+          - task: Docker@2
+            displayName: "Login a Azure Container Registry"
+            inputs:
+              command: login
+              containerRegistry: "sipe-frontend" # Usa el nombre de tu Service Connection
+          - script: |
+              docker push $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId)
+            displayName: "Push imagen a ACR"
+          - task: AzureWebAppContainer@1
+            displayName: "Deploy to Azure Web App (Testing)"
+            inputs:
+              azureSubscription: "new-sipe-rm" # Reemplaza por el nombre de tu conexión de servicio
+              appName: "$(WEBAPP_NAME)"
+              containers: "$(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId)"
+
+#  - stage: Production
+#    displayName: "Deploy to Production"
+#    dependsOn: Test
+#    variables:
+#      WEBAPP_NAME: "sipe-backend-prod" # Cambia por el nombre de tu Web App de producción
+#      ENVIRONMENT: "production"
+#      BACKEND_ENV_VAR: "valor_produccion" # Ejemplo de variable de entorno
+#    jobs:
+#      - deployment: DeployProd
+#        environment: production
+#        pool:
+#          vmImage: "ubuntu-latest"
+#        strategy:
+#          runOnce:
+#            deploy:
+#              steps:
+#                - task: AzureWebAppContainer@1
+#                  displayName: "Deploy to Azure Web App (Production)"
+#                  inputs:
+#                    azureSubscription: "sipe-backend-rm" # Cambia por tu Service Connection
+#                    appName: "$(WEBAPP_NAME)"
+#                    containers: "$(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId)"
+#                    # Puedes agregar variables de entorno aquí si tu Web App las soporta
