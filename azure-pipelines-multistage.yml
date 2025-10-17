@@ -31,9 +31,11 @@ stages:
           - script: |
               docker build -f $(DOCKERFILE_PATH) -t $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId) $(DOCKER_CONTEXT)
             displayName: "Construir imagen Docker"
+            workingDirectory: $(Build.SourcesDirectory)
           - script: |
               docker push $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId)
             displayName: "Push imagen a ACR"
+            workingDirectory: $(Build.SourcesDirectory)
 
   - stage: Test
     displayName: "Deploy to Testing"
