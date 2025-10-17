@@ -27,7 +27,7 @@ stages:
             displayName: "Login to Azure Container Registry"
             inputs:
               command: login
-              containerRegistry: "sipe-backend-acr" # Cambia por el nombre de tu Service Connection
+              containerRegistry: "sipe-frontend" # Usar la service connection existente
           - script: |
               docker build -f $(DOCKERFILE_PATH) -t $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId) $(DOCKER_CONTEXT)
             displayName: "Construir imagen Docker"
