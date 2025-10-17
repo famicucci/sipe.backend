@@ -10,8 +10,8 @@ trigger:
 variables:
   ACR_NAME: "sipeacr"
   IMAGE_NAME: "sipe-backend"
-  DOCKERFILE_PATH: "sipe.backend/Dockerfile"
-  DOCKER_CONTEXT: "sipe.backend"
+  DOCKERFILE_PATH: "$(Build.SourcesDirectory)/sipe.backend/Dockerfile"
+  DOCKER_CONTEXT: "$(Build.SourcesDirectory)/sipe.backend"
 
 stages:
   - stage: Build
@@ -29,9 +29,8 @@ stages:
               command: login
               containerRegistry: "sipe-frontend" # Usar la service connection existente
           - script: |
-              docker build -f $(DOCKERFILE_PATH) -t $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId) $(DOCKER_CONTEXT)
+              docker build -f "$(DOCKERFILE_PATH)" -t $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId) "$(DOCKER_CONTEXT)"
             displayName: "Construir imagen Docker"
-            workingDirectory: $(Build.SourcesDirectory)
           - script: |
               docker push $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId)
             displayName: "Push imagen a ACR"
@@ -99,7 +98,6 @@ stages:
               azureSubscription: "new-sipe-rm" # Reemplaza por el nombre de tu conexión de servicio
               appName: "$(WEBAPP_NAME)"
               containers: "$(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId)"
-
 #  - stage: Production
 #    displayName: "Deploy to Production"
 #    dependsOn: Test
