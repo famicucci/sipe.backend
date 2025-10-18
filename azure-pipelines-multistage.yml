@@ -31,7 +31,6 @@ stages:
               containerRegistry: "sipe-frontend" # Usar la service connection existente
           - script: |
               docker build \
-                -f sipe.backend/Dockerfile \
                 -t $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId) .
             displayName: "Construir imagen Docker"
             workingDirectory: $(Build.SourcesDirectory)
