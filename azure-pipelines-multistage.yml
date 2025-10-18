@@ -47,12 +47,12 @@ stages:
       ENVIRONMENT: "testing"
       ACR_NAME: "sipeacr"
       IMAGE_NAME: "sipe-backend-development-with-pipeline"
-      DB_DATABASE: "$(DB_DATABASE)"
-      DB_DIALECT: "$(DB_DIALECT)"
-      DB_HOST: "$(DB_HOST)"
-      DB_PASSWORD: "$(DB_PASSWORD)"
-      DB_USERNAME: "$(DB_USERNAME)"
-      ORIGIN_URL: "$(ORIGIN_URL)"
+      DB_DATABASE: $(DB_DATABASE)
+      DB_DIALECT: $(DB_DIALECT)
+      DB_HOST: $(DB_HOST)
+      DB_PASSWORD: $(DB_PASSWORD)
+      DB_USERNAME: $(DB_USERNAME)
+      ORIGIN_URL: $(ORIGIN_URL)
     jobs:
       - job: TestDeploy
         pool:
