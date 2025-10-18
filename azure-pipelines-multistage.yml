@@ -30,9 +30,11 @@ stages:
               command: login
               containerRegistry: "sipe-frontend" # Usar la service connection existente
           - script: |
-              docker build -f "$(DOCKERFILE_PATH)" \
+              docker build \
+                -f sipe.backend/Dockerfile \
                 -t $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId) .
             displayName: "Construir imagen Docker"
+            workingDirectory: $(Build.SourcesDirectory)
           - script: |
               docker push $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId)
             displayName: "Push imagen a ACR"
