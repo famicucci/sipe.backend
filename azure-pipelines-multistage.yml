@@ -21,6 +21,7 @@ stages:
         pool:
           vmImage: "ubuntu-latest"
         steps:
+          - checkout: self
           - task: DockerInstaller@0
             displayName: "Instalar Docker"
           - task: Docker@2
@@ -55,6 +56,7 @@ stages:
         pool:
           vmImage: "ubuntu-latest"
         steps:
+          - checkout: self
           - task: DockerInstaller@0
             displayName: "Instalar Docker"
           - task: Docker@2
