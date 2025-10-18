@@ -10,8 +10,6 @@ trigger:
 variables:
   ACR_NAME: "sipeacr"
   IMAGE_NAME: "sipe-backend"
-  DOCKERFILE_PATH: "$(Build.SourcesDirectory)/sipe.backend/Dockerfile"
-  DOCKER_CONTEXT: "$(Build.SourcesDirectory)/sipe.backend"
 
 stages:
   - stage: Build
@@ -47,12 +45,6 @@ stages:
       ENVIRONMENT: "testing"
       ACR_NAME: "sipeacr"
       IMAGE_NAME: "sipe-backend-development-with-pipeline"
-      DB_DATABASE: $(DB_DATABASE)
-      DB_DIALECT: $(DB_DIALECT)
-      DB_HOST: $(DB_HOST)
-      DB_PASSWORD: $(DB_PASSWORD)
-      DB_USERNAME: $(DB_USERNAME)
-      ORIGIN_URL: $(ORIGIN_URL)
     jobs:
       - job: TestDeploy
         pool:
@@ -71,7 +63,7 @@ stages:
                 --build-arg DB_DATABASE=$(DB_DATABASE) \
                 --build-arg DB_DIALECT=$(DB_DIALECT) \
                 --build-arg DB_HOST=$(DB_HOST) \
-                --build-arg DB_PASSWORD="$(DB_PASSWORD)" \
+                --build-arg DB_PASSWORD=$(DB_PASSWORD) \
                 --build-arg DB_USERNAME=$(DB_USERNAME) \
                 --build-arg ORIGIN_URL=$(ORIGIN_URL) \
                 -t $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId) .
