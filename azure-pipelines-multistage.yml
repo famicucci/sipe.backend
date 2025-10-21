@@ -99,11 +99,32 @@ stages:
     dependsOn: Test
     # condition eliminada para pruebas, el stage Production se ejecutará siempre después de Test
     variables:
-      WEBAPP_NAME: "sipe-backend-production-with-pipeline" # Asegurado que es la Web App de producción
+      WEBAPP_NAME: "sipe-backend-production-with-pipeline" # Nombre correcto de la Web App de producción
       ENVIRONMENT: "production"
       ACR_NAME: "sipeacr"
       IMAGE_NAME: "sipe-backend-production-with-pipeline"
     jobs:
+      - job: BuildAndPushProd
+        displayName: "Build and Push Production Image"
+        pool:
+          vmImage: "ubuntu-latest"
+        steps:
+          - checkout: self
+          - task: DockerInstaller@0
+            displayName: "Instalar Docker"
+          - task: Docker@2
+            displayName: "Login a Azure Container Registry"
+            inputs:
+              command: login
+              containerRegistry: "sipe-frontend" # Usa el nombre de tu Service Connection
+          - script: |
+              docker build -t $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId) .
+            displayName: "Construir imagen Docker (Producción)"
+            workingDirectory: $(Build.SourcesDirectory)
+          - script: |
+              docker push $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId)
+            displayName: "Push imagen a ACR (Producción)"
+            workingDirectory: $(Build.SourcesDirectory)
       - deployment: DeployProd
         environment: production
         pool:
