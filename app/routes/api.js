@@ -28,7 +28,7 @@ const apiInformesRouter = require("./api/informes");
 const apiTiendaNube = require("./api/tiendanube");
 
 router.get("/", (req, res) => {
-  res.json("Bienvenido a la API de Sip-e");
+  res.json("Bienvenido a la API de Sip-e. Prueba pipeline multistage!");
 });
 router.use("/usuarios", apiUsuariosRouter);
 router.use("/empresas", middlewares.checkToken, apiEmpresasRouter);

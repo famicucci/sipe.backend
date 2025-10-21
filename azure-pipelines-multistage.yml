@@ -3,7 +3,6 @@ trigger:
   branches:
     include:
       - config-docker
-      - production
       # - main
       # - develop
       # - feature/*
@@ -100,7 +99,7 @@ stages:
     dependsOn: Test
     # condition eliminada para pruebas, el stage Production se ejecutará siempre después de Test
     variables:
-      WEBAPP_NAME: "sipe-backend-production-with-pipeline"
+      WEBAPP_NAME: "sipe-backend-production-with-pipeline" # Asegurado que es la Web App de producción
       ENVIRONMENT: "production"
       ACR_NAME: "sipeacr"
       IMAGE_NAME: "sipe-backend-production-with-pipeline"
