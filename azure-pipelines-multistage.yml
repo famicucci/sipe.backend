@@ -26,7 +26,7 @@ stages:
             displayName: "Login to Azure Container Registry"
             inputs:
               command: login
-              containerRegistry: "sipe-frontend" # Usar la service connection existente
+              containerRegistry: "sipe-frontend"
           - script: |
               docker build \
                 --build-arg DB_DATABASE=$(DB_DATABASE) \
@@ -47,7 +47,7 @@ stages:
     displayName: "Deploy to Testing"
     dependsOn: Build
     variables:
-      WEBAPP_NAME: "sipe-backend-development-with-pipeline" # Usa el mismo nombre que en el pipeline simple
+      WEBAPP_NAME: "sipe-backend-development-with-pipeline"
       ENVIRONMENT: "testing"
     jobs:
       - job: TestDeploy
@@ -69,24 +69,23 @@ stages:
           - task: AzureWebAppContainer@1
             displayName: "Deploy to Azure Web App (Testing)"
             inputs:
-              azureSubscription: "new-sipe-rm" # Reemplaza por el nombre de tu conexión de servicio
+              azureSubscription: "new-sipe-rm"
               appName: "$(WEBAPP_NAME)"
               containers: "$(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId)"
   - stage: Production
     displayName: "Deploy to Production"
     dependsOn: Test
-    # condition eliminada para pruebas, el stage Production se ejecutará siempre después de Test
     variables:
-      WEBAPP_NAME: "sipe-backend-production-with-pipeline" # Nombre correcto de la Web App de producción
+      WEBAPP_NAME: "sipe-backend-production-with-pipeline"
       ENVIRONMENT: "production"
     jobs:
-      - job: BuildAndPushProd
-        displayName: "Build and Push Production Image"
+      - job: PushProd
+        displayName: "Push Production Image"
         pool:
           vmImage: "ubuntu-latest"
         steps:
           - checkout: self
-      - deployment: DeployProd
+      - deployment: ProdDeploy
         environment: production
         pool:
           vmImage: "ubuntu-latest"
@@ -97,7 +96,6 @@ stages:
                 - task: AzureWebAppContainer@1
                   displayName: "Deploy to Azure Web App (Production)"
                   inputs:
-                    azureSubscription: "new-sipe-rm" # Cambia por tu Service Connection
+                    azureSubscription: "new-sipe-rm"
                     appName: "$(WEBAPP_NAME)"
                     containers: "$(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId)"
-                    # Puedes agregar variables de entorno aquí si tu Web App las soporta
