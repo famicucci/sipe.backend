@@ -47,7 +47,7 @@ stages:
     displayName: "Deploy to Testing"
     dependsOn: Build
     variables:
-    - group: TestingSecrets
+      - group: TestingSecrets
       WEBAPP_NAME: "sipe-backend-development-with-pipeline"
       ENVIRONMENT: "testing"
     jobs:
@@ -77,7 +77,7 @@ stages:
     displayName: "Deploy to Production"
     dependsOn: Test
     variables:
-    - group: ProductionSecrets
+      - group: ProductionSecrets
       WEBAPP_NAME: "sipe-backend-production-with-pipeline"
       ENVIRONMENT: "production"
     jobs:
