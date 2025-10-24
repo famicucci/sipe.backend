@@ -55,8 +55,6 @@ stages:
           vmImage: "ubuntu-latest"
         steps:
           - checkout: self
-          - task: DockerInstaller@0
-            displayName: "Instalar Docker"
           - script: |
               cd $(Build.SourcesDirectory)
               npm install
@@ -68,11 +66,6 @@ stages:
               DB_DATABASE: $(DB_DATABASE)
               DB_HOST: $(DB_HOST)
               DB_DIALECT: $(DB_DIALECT)
-          - task: Docker@2
-            displayName: "Login a Azure Container Registry"
-            inputs:
-              command: login
-              containerRegistry: "sipe-frontend" # Usa el nombre de tu Service Connection
           - task: AzureWebAppContainer@1
             displayName: "Deploy to Azure Web App (Testing)"
             inputs:
@@ -93,13 +86,6 @@ stages:
           vmImage: "ubuntu-latest"
         steps:
           - checkout: self
-          - task: DockerInstaller@0
-            displayName: "Instalar Docker"
-          - task: Docker@2
-            displayName: "Login a Azure Container Registry"
-            inputs:
-              command: login
-              containerRegistry: "sipe-frontend" # Usa el nombre de tu Service Connection
       - deployment: DeployProd
         environment: production
         pool:
