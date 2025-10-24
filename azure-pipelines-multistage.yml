@@ -81,7 +81,7 @@ stages:
       WEBAPP_NAME: "sipe-backend-production-with-pipeline"
       ENVIRONMENT: "production"
     jobs:
-      - job: ProdDeploy
+      - job: PushProd
         displayName: "Push Production Image"
         pool:
           vmImage: "ubuntu-latest"
