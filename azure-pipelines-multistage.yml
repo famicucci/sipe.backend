@@ -49,8 +49,6 @@ stages:
     variables:
       WEBAPP_NAME: "sipe-backend-development-with-pipeline" # Usa el mismo nombre que en el pipeline simple
       ENVIRONMENT: "testing"
-      ACR_NAME: "sipeacr"
-      IMAGE_NAME: "sipe-backend-development-with-pipeline"
     jobs:
       - job: TestDeploy
         pool:
@@ -88,8 +86,6 @@ stages:
     variables:
       WEBAPP_NAME: "sipe-backend-production-with-pipeline" # Nombre correcto de la Web App de producción
       ENVIRONMENT: "production"
-      ACR_NAME: "sipeacr"
-      IMAGE_NAME: "sipe-backend-production-with-pipeline"
     jobs:
       - job: BuildAndPushProd
         displayName: "Build and Push Production Image"
