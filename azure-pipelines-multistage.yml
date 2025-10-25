@@ -59,7 +59,13 @@ stages:
           - script: |
               cd $(Build.SourcesDirectory)
               npm install
+              echo "DB_DATABASE: $DB_DATABASE"
+              echo "DB_HOST: $DB_HOST"
+              echo "DB_USERNAME: $DB_USERNAME"
+              echo "DB_DIALECT: $DB_DIALECT"
+              echo "Iniciando migración..."
               npx sequelize-cli db:migrate
+              echo "Fin de migración."
             displayName: "Ejecutar migraciones Sequelize"
             env:
               DB_USERNAME: $(DB_USERNAME)
