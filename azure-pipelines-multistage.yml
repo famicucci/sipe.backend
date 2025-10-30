@@ -1,0 +1,124 @@
+# Azure Pipelines Multi-Stage para sipe.backend (Docker + Azure Web App)
+trigger:
+  branches:
+    include:
+      # - config-docker
+      - main
+      # - develop
+      # - feature/*
+
+variables:
+  ACR_NAME: "sipeacr"
+  IMAGE_NAME: "sipe-backend"
+
+stages:
+  - stage: Build
+    displayName: "Build Docker Image"
+    jobs:
+      - job: Build
+        pool:
+          vmImage: "ubuntu-latest"
+        steps:
+          - checkout: self
+          - task: DockerInstaller@0
+            displayName: "Instalar Docker"
+          - task: Docker@2
+            displayName: "Login to Azure Container Registry"
+            inputs:
+              command: login
+              containerRegistry: "sipe-frontend"
+          - script: |
+              docker build \
+                --build-arg DB_DATABASE=$(DB_DATABASE) \
+                --build-arg DB_DIALECT=$(DB_DIALECT) \
+                --build-arg DB_HOST=$(DB_HOST) \
+                --build-arg DB_PASSWORD="$(DB_PASSWORD)" \
+                --build-arg DB_USERNAME=$(DB_USERNAME) \
+                --build-arg ORIGIN_URL=$(ORIGIN_URL) \
+                -t $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId) .
+            displayName: "Construir imagen Docker"
+            workingDirectory: $(Build.SourcesDirectory)
+          - script: |
+              docker push $(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId)
+            displayName: "Push imagen a ACR"
+            workingDirectory: $(Build.SourcesDirectory)
+
+  - stage: Test
+    displayName: "Deploy to Testing"
+    dependsOn: Build
+    variables:
+    - group: TestingSecrets
+    - name: WEBAPP_NAME
+      value: "sipe-backend-development-with-pipeline"
+    - name: ENVIRONMENT
+      value: "testing"
+    jobs:
+      - job: TestDeploy
+        pool:
+          vmImage: "ubuntu-latest"
+        steps:
+          - checkout: self
+          - script: |
+              cd $(Build.SourcesDirectory)
+              npm install
+              echo "DB_DATABASE: $DB_DATABASE"
+              echo "DB_HOST: $DB_HOST"
+              echo "DB_USERNAME: $DB_USERNAME"
+              echo "DB_DIALECT: $DB_DIALECT"
+              echo "Iniciando migración..."
+              npx sequelize-cli db:migrate
+              echo "Fin de migración."
+            displayName: "Ejecutar migraciones Sequelize"
+            env:
+              DB_USERNAME: $(DB_USERNAME)
+              DB_PASSWORD: $(DB_PASSWORD)
+              DB_DATABASE: $(DB_DATABASE)
+              DB_HOST: $(DB_HOST)
+              DB_DIALECT: $(DB_DIALECT)
+          - task: AzureWebAppContainer@1
+            displayName: "Deploy to Azure Web App (Testing)"
+            inputs:
+              azureSubscription: "new-sipe-rm"
+              appName: "$(WEBAPP_NAME)"
+              containers: "$(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId)"
+  - stage: Production
+    displayName: "Deploy to Production"
+    dependsOn: Test
+    variables:
+    - group: ProductionSecrets
+    - name: WEBAPP_NAME
+      value: "sipe-backend-production-with-pipeline"
+    - name: ENVIRONMENT
+      value: "production"
+    jobs:
+      - job: PushProd
+        displayName: "Push Production Image"
+        pool:
+          vmImage: "ubuntu-latest"
+        steps:
+          - checkout: self
+          - script: |
+              cd $(Build.SourcesDirectory)
+              npm install
+              npx sequelize-cli db:migrate
+            displayName: "Ejecutar migraciones Sequelize"
+            env:
+              DB_USERNAME: $(DB_USERNAME)
+              DB_PASSWORD: $(DB_PASSWORD)
+              DB_DATABASE: $(DB_DATABASE)
+              DB_HOST: $(DB_HOST)
+              DB_DIALECT: $(DB_DIALECT)
+      - deployment: ProdDeploy
+        environment: production
+        pool:
+          vmImage: "ubuntu-latest"
+        strategy:
+          runOnce:
+            deploy:
+              steps:
+                - task: AzureWebAppContainer@1
+                  displayName: "Deploy to Azure Web App (Production)"
+                  inputs:
+                    azureSubscription: "new-sipe-rm"
+                    appName: "$(WEBAPP_NAME)"
+                    containers: "$(ACR_NAME).azurecr.io/$(IMAGE_NAME):$(Build.BuildId)"
