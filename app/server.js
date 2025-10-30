@@ -20,7 +20,8 @@ const PORT = process.env.PORT || 4000;
 app.use("/api", apiRouter);
 
 // arrancar el servidor
-app.listen(PORT, () => {
+
+app.listen(PORT, "0.0.0.0", () => {
   console.log(`La aplicación ha arrancado en el puerto: ${PORT}`);
 
   // sequelize.sync({ force: false }).then(() => {
