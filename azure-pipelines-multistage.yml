@@ -2,8 +2,8 @@
 trigger:
   branches:
     include:
-      - config-docker
-      # - main
+      # - config-docker
+      - main
       # - develop
       # - feature/*
 
