@@ -45,6 +45,22 @@ exports.getClients = async (req, res) => {
               [Op.like]: `%${searchQueryNoSpaces}%`,
             }
           ),
+          Sequelize.where(
+            Sequelize.fn(
+              "REPLACE",
+              Sequelize.fn(
+                "concat",
+                Sequelize.col("apellido"),
+                " ",
+                Sequelize.col("nombre")
+              ),
+              " ",
+              ""
+            ),
+            {
+              [Op.like]: `%${searchQueryNoSpaces}%`,
+            }
+          ),
         ],
         EmpresaId: req.usuarioEmpresaId,
       },
