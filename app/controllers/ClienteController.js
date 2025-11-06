@@ -1,8 +1,10 @@
 const { Cliente, Direccion } = require("../models/index");
 const { Op } = require("sequelize");
+const Sequelize = require("sequelize");
 
 exports.getClients = async (req, res) => {
-  const searchQuery = req.query.search;
+  let searchQuery = req.query.search;
+  const searchQueryNoSpaces = searchQuery ? searchQuery.replace(/\s+/g, "") : "";
   const page = req.query.page;
   const pageSize = 20;
 
@@ -27,6 +29,22 @@ exports.getClients = async (req, res) => {
           { razonSocial: { [Op.like]: `%${searchQuery}%` } },
           { condIva: { [Op.like]: `%${searchQuery}%` } },
           { observaciones: { [Op.like]: `%${searchQuery}%` } },
+          Sequelize.where(
+            Sequelize.fn(
+              "REPLACE",
+              Sequelize.fn(
+                "concat",
+                Sequelize.col("nombre"),
+                " ",
+                Sequelize.col("apellido")
+              ),
+              " ",
+              ""
+            ),
+            {
+              [Op.like]: `%${searchQueryNoSpaces}%`,
+            }
+          ),
         ],
         EmpresaId: req.usuarioEmpresaId,
       },
