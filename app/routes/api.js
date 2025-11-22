@@ -4,6 +4,7 @@ const router = express.Router();
 const middlewares = require("./middlewares");
 const apiUsuariosRouter = require("./api/usuarios");
 const apiEmpresasRouter = require("./api/empresas");
+const apiConfigurationsRouter = require("./api/configurations");
 const apiProductosRouter = require("./api/productos");
 const apiSalesInventoryRouter = require("./api/sales-inventory");
 const apiStockproductosRouter = require("./api/stock");
@@ -32,6 +33,7 @@ router.get("/", (req, res) => {
 });
 router.use("/usuarios", apiUsuariosRouter);
 router.use("/empresas", middlewares.checkToken, apiEmpresasRouter);
+router.use("/configurations", middlewares.checkToken, apiConfigurationsRouter);
 router.use("/productos", middlewares.checkToken, apiProductosRouter);
 router.use("/sales-inventory", middlewares.checkToken, apiSalesInventoryRouter);
 router.use("/stock", middlewares.checkToken, apiStockproductosRouter);

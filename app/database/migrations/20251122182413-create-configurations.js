@@ -23,6 +23,16 @@ module.exports = {
         type: Sequelize.STRING,
         allowNull: true,
       },
+      EmpresaId: {
+        type: Sequelize.INTEGER,
+        allowNull: true,
+        references: {
+          model: "empresa",
+          key: "id",
+        },
+        onUpdate: "CASCADE",
+        onDelete: "CASCADE",
+      },
       createdAt: {
         allowNull: false,
         type: Sequelize.DATE,
