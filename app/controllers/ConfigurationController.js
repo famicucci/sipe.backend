@@ -47,6 +47,7 @@ exports.updateConfiguration = async (req, res) => {
     }
 
     res.status(200).json({
+      data: await Configuration.findByPk(id),
       message: "Configuration updated successfully",
     });
   } catch (error) {
