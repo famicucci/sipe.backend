@@ -3,7 +3,7 @@ const { Configuration } = require("../models/index");
 exports.getConfigurationsByCompany = async (req, res) => {
   try {
     const configurations = await Configuration.findAll({
-      where: { EmpresaId: req.params.companyId },
+      where: { EmpresaId: req.usuarioEmpresaId },
     });
     res.status(200).json(configurations);
   } catch (error) {
